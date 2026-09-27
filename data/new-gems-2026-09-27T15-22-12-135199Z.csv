@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-27T14:26:53.846Z,solid-redis,1.0.2,131,Nicolas Vandenbogaerde,MIT,"Immutable, shareable Redis, Sentinel and Cluster configuration with isolated runtime state, pools, and sockets per Ractor. Supports pipelines, blocking commands, and Pub/Sub."
+2026-09-27T14:44:16.537Z,stationery,0.4.0,80,Mikael Henriksson,MIT,"Stationery renders PDF documents from Phlex-style Ruby components. Describe the page with rows, columns, boxes, tables, text and images; a box-layout engine measures, places and paginates them, and a small PDF writer embeds subsetted TrueType fonts and JPEG/PNG images. It has no runtime dependencie…"
+2026-09-27T14:47:29.443Z,cronwatch,0.4.0,81,Jon C. Phillips,MIT,"Wrap a job, run a check, get told when it is missed, failed, stuck, slow or over budget. The Ruby port of @cronwatch/sdk: same rules, same alerts, same stored rows."
