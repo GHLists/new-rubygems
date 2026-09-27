@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-27T12:24:14.675Z,ruby_llm-code_mode,0.1.1,97,Juneira,MIT,"A RubyLLM tool that runs model-generated Ruby code inside a secure WebAssembly sandbox (SecurityBox), with explicit read-only and read-write folder mounts so agents can work on host project folders safely."
+2026-09-27T12:46:54.431Z,xades,0.1.0,62,Chris Hasinski,MIT,"Sign and verify XML documents with XAdES-BES / BASELINE-B advanced electronic signatures (ETSI EN 319 132), the profile used for eIDAS-adjacent flows such as Poland's KSeF e-invoicing authentication. Pure MRI: Nokogiri for XML/C14N, OpenSSL for RSA/ECDSA."
+2026-09-27T12:49:35.727Z,runtime_analysis,0.0.1,59,Mark Burns,MIT,"Captures real Ruby execution -- callers, callees and types -- to analyse how code runs."
+2026-09-27T13:06:08.768Z,recipe_scrapers,0.2.0,31,David Khotelov,MIT,"Reads the title, ingredients, steps, times, yields and nutrition of a recipe from its page. Uses the schema.org JSON-LD or microdata the site publishes, falls back to OpenGraph, and takes a short per-site declaration where a site publishes no structured data. Fetches through a Faraday connection gu…"

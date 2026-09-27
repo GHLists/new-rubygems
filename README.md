@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 12:20 UTC
+## Latest list — 2026-09-27 13:20 UTC
 
-New gems created between 2026-09-27 11:20 UTC and 2026-09-27 12:20 UTC.
+New gems created between 2026-09-27 12:20 UTC and 2026-09-27 13:20 UTC.
 
-[Full CSV](data/new-gems-2026-09-27T12-20-07-469658Z.csv)
+[Full CSV](data/new-gems-2026-09-27T13-20-44-160898Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-27 11:52:37 | [ndav-magick-image](https://rubygems.org/gems/ndav-magick-image) | 0.0.1 | Kitaiti Makoto | MIT | N-Dimensional Array View for RMagick |
+| 2026-09-27 12:24:14 | [ruby_llm-code_mode](https://rubygems.org/gems/ruby_llm-code_mode) | 0.1.1 | Juneira | MIT | A RubyLLM tool that runs model-generated Ruby code inside a secure WebAssembly… |
+| 2026-09-27 12:46:54 | [xades](https://rubygems.org/gems/xades) | 0.1.0 | Chris Hasinski | MIT | Sign and verify XML documents with XAdES-BES / BASELINE-B advanced electronic s… |
+| 2026-09-27 12:49:35 | [runtime_analysis](https://rubygems.org/gems/runtime_analysis) | 0.0.1 | Mark Burns | MIT | Captures real Ruby execution -- callers, callees and types -- to analyse how co… |
+| 2026-09-27 13:06:08 | [recipe_scrapers](https://rubygems.org/gems/recipe_scrapers) | 0.2.0 | David Khotelov | MIT | Reads the title, ingredients, steps, times, yields and nutrition of a recipe fr… |
 
 ## Data source
 
