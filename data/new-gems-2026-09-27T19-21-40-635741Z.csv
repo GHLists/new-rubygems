@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-27T18:27:26.794Z,stationery,0.5.0,266,Mikael Henriksson,MIT,"Stationery renders PDF documents from Phlex-style Ruby components. Describe the page with rows, columns, boxes, tables, text and images; a box-layout engine measures, places and paginates them, and a small PDF writer embeds subsetted TrueType fonts and JPEG/PNG images. It has no runtime dependencie…"

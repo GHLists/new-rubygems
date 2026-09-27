@@ -9,22 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 18:20 UTC
+## Latest list — 2026-09-27 19:21 UTC
 
-New gems created between 2026-09-27 17:20 UTC and 2026-09-27 18:20 UTC.
+New gems created between 2026-09-27 18:20 UTC and 2026-09-27 19:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-27T18-20-32-491906Z.csv)
+[Full CSV](data/new-gems-2026-09-27T19-21-40-635741Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
-| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
-| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
-| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
-| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
-| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
-| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
-| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-27 18:27:26 | [stationery](https://rubygems.org/gems/stationery) | 0.5.0 | Mikael Henriksson | MIT | Stationery renders PDF documents from Phlex-style Ruby components. Describe the… |
 
 ## Data source
 
