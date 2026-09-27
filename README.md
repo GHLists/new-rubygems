@@ -9,17 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 17:20 UTC
+## Latest list — 2026-09-27 18:20 UTC
 
-New gems created between 2026-09-27 16:19 UTC and 2026-09-27 17:20 UTC.
+New gems created between 2026-09-27 17:20 UTC and 2026-09-27 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-09-27T17-20-32-47896Z.csv)
+[Full CSV](data/new-gems-2026-09-27T18-20-32-491906Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-27 16:51:04 | [solid-redis](https://rubygems.org/gems/solid-redis) | 1.0.3 | Nicolas Vandenbogaerde | MIT | Immutable, shareable Redis, Sentinel and Cluster configuration with isolated ru… |
-| 2026-09-27 17:02:48 | [duva-mail](https://rubygems.org/gems/duva-mail) | 0.0.1 | 9573-4562 Québec inc. | MIT | Official client library for Duva, a transactional email API hosted in Canada. T… |
-| 2026-09-27 17:05:58 | [xades](https://rubygems.org/gems/xades) | 0.2.0 | Chris Hasinski | MIT | Sign and verify XML documents with XAdES-BES / BASELINE-B advanced electronic s… |
+| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-27 18:05:25 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
 
 ## Data source
 
