@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-27T16:51:04.589Z,solid-redis,1.0.3,119,Nicolas Vandenbogaerde,MIT,"Immutable, shareable Redis, Sentinel and Cluster configuration with isolated runtime state, pools, and sockets per Ractor. Supports pipelines, blocking commands, and Pub/Sub."
+2026-09-27T17:02:48.625Z,duva-mail,0.0.1,33,9573-4562 Québec inc.,MIT,"Official client library for Duva, a transactional email API hosted in Canada. This name is reserved: the library is not released yet."
+2026-09-27T17:05:58.247Z,xades,0.2.0,33,Chris Hasinski,MIT,"Sign and verify XML documents with XAdES-BES / BASELINE-B advanced electronic signatures (ETSI EN 319 132), the profile used for eIDAS-adjacent flows such as Poland's KSeF e-invoicing authentication. Pure MRI: Nokogiri for XML/C14N, OpenSSL for RSA/ECDSA."
