@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-27T06:46:36.237Z,cybertrain,0.1.1,75,Saeki Mototsune,MIT,"cybertrain is a Rails-shaped web framework written for Spinel, which compiles an application into a native binary. This gem installs the `cybertrain` command (`cybertrain new`, `cybertrain generate scaffold`); building and running an application needs Spinel's `spin` on PATH."
+2026-09-27T07:10:47.717Z,webfunction,1.0.0,4,Robin Clart,MIT,"A lightweight Web Function client for Ruby. Web Function is a radical rethinking of API design: no verbs, no nested URLs, no bloat. Just function calls over HTTP. This gem lets you invoke endpoints defined in a package, with full support for argument validations, error triples, and bearer auth."
