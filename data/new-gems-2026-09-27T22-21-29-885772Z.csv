@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-27T21:30:31.546Z,solid-redis,1.0.4,331,Nicolas Vandenbogaerde,MIT,"Immutable, shareable Redis, Sentinel and Cluster configuration with isolated runtime state, pools, and sockets per Ractor. Supports pipelines, blocking commands, and Pub/Sub."

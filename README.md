@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 21:20 UTC
+## Latest list — 2026-09-27 22:21 UTC
 
-New gems created between 2026-09-27 20:21 UTC and 2026-09-27 21:20 UTC.
+New gems created between 2026-09-27 21:20 UTC and 2026-09-27 22:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-27T21-20-23-761453Z.csv)
+[Full CSV](data/new-gems-2026-09-27T22-21-29-885772Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-27 21:02:35 | [duva-mail](https://rubygems.org/gems/duva-mail) | 0.1.0 | 9573-4562 Québec inc. | MIT | Official client library for Duva, a transactional email API hosted in Canada: s… |
-| 2026-09-27 21:11:27 | [resmarkable](https://rubygems.org/gems/resmarkable) | 0.1.0 | Christopher Phoenix | GPL-3.0-or-later | An unofficial CLI tool to retrieve and view manifests and single order booking… |
+| 2026-09-27 21:30:31 | [solid-redis](https://rubygems.org/gems/solid-redis) | 1.0.4 | Nicolas Vandenbogaerde | MIT | Immutable, shareable Redis, Sentinel and Cluster configuration with isolated ru… |
 
 ## Data source
 
