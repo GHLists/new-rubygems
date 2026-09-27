@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-27T14:05:16.079Z,stationery,0.3.0,52,Mikael Henriksson,MIT,"Stationery renders PDF documents from Phlex-style Ruby components. Describe the page with rows, columns, boxes, tables, text and images; a box-layout engine measures, places and paginates them, and a small PDF writer embeds subsetted TrueType fonts and JPEG/PNG images. It has no runtime dependencie…"
+2026-09-27T14:15:58.613Z,solid-redis,1.0.0,0,Nicolas Vandenbogaerde,MIT,"Immutable, shareable Redis, Sentinel and Cluster configuration with isolated runtime state, pools, and sockets per Ractor. Supports pipelines, blocking commands, and Pub/Sub."
