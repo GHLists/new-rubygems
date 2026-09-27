@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 22:21 UTC
+## Latest list — 2026-09-27 23:19 UTC
 
-New gems created between 2026-09-27 21:20 UTC and 2026-09-27 22:21 UTC.
+New gems created between 2026-09-27 22:21 UTC and 2026-09-27 23:19 UTC.
 
-[Full CSV](data/new-gems-2026-09-27T22-21-29-885772Z.csv)
+[Full CSV](data/new-gems-2026-09-27T23-19-22-428318Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-27 21:30:31 | [solid-redis](https://rubygems.org/gems/solid-redis) | 1.0.4 | Nicolas Vandenbogaerde | MIT | Immutable, shareable Redis, Sentinel and Cluster configuration with isolated ru… |
+| 2026-09-27 22:52:43 | [ndav-magick-image](https://rubygems.org/gems/ndav-magick-image) | 0.0.2 | Kitaiti Makoto | MIT | N-Dimensional Array View for RMagick |
 
 ## Data source
 
