@@ -9,7 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-_No list has been generated yet._
+## Latest list — 2026-09-27 06:01 UTC
+
+New gems created between 2026-09-27 05:01 UTC and 2026-09-27 06:01 UTC.
+
+[Full CSV](data/new-gems-2026-09-27T06-01-48-837029Z.csv)
+
+| Created (UTC) | Gem | Version | Author | Licenses | Description |
+| :------------ | :-- | :------ | :----- | :------- | :---------- |
+| 2026-09-27 05:18:06 | [rails-crypto-payment](https://rubygems.org/gems/rails-crypto-payment) | 0.1.0 | Azmi | MIT | Framework-independent USDT amount reservation and deposit retrieval for Rails p… |
 
 ## Data source
 
