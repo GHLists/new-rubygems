@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-27T08:14:26.257Z,net-connector,0.4.2,3,net-connector contributors,MIT,通过 SSH 或 Telnet 登录网络设备，采集配置、执行命令脚本、处理交互提示，并提供脱敏日志与基于 Netdisco 清单的批量备份。
