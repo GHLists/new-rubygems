@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-27T10:34:27.254Z,solid-redis,0.2.1,83,Nicolas Vandenbogaerde,MIT,"Use immutable Redis configuration with isolated Sentinel state, pools, and sockets per Ractor."
+2026-09-27T10:49:30.114Z,google-apis-compute_preview,0.1.0,58,Google LLC,Apache-2.0,"This is the simple REST client for Compute Engine API Preview. Simple REST clients are Ruby client libraries that provide access to Google services via their HTTP REST API endpoints. These libraries are generated and updated automatically based on the discovery documents published by the service, a…"
