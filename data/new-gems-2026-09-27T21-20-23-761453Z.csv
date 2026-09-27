@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-27T21:02:35.603Z,duva-mail,0.1.0,70,9573-4562 Québec inc.,MIT,"Official client library for Duva, a transactional email API hosted in Canada: sending, delivery events, suppressions, webhooks and statistics."
+2026-09-27T21:11:27.187Z,resmarkable,0.1.0,11,Christopher Phoenix,GPL-3.0-or-later,An unofficial CLI tool to retrieve and view manifests and single order booking information from the Resmark Systems reservation system API
