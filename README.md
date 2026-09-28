@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 17:21 UTC
+## Latest list — 2026-09-28 18:21 UTC
 
-New gems created between 2026-09-28 16:19 UTC and 2026-09-28 17:21 UTC.
+New gems created between 2026-09-28 17:21 UTC and 2026-09-28 18:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T17-21-57-753343Z.csv)
+[Full CSV](data/new-gems-2026-09-28T18-21-55-199258Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 16:48:32 | [paper_trail-bulk_writes](https://rubygems.org/gems/paper_trail-bulk_writes) | 0.1.0 | Sam Robinson | MIT | Bulk ActiveRecord writes skip callbacks, so PaperTrail records nothing. This ge… |
-| 2026-09-28 16:48:58 | [belt-messaging](https://rubygems.org/gems/belt-messaging) | 0.1.1 | Stowzilla | MIT | Belt plugin providing SMS and email messaging. SMS via AWS PinpointSMSVoiceV2,… |
+| 2026-09-28 17:39:26 | [incident_io_api](https://rubygems.org/gems/incident_io_api) | 1.2.0 | incident.io | MIT | Generated from incident.io's published OpenAPI schema: a method for every API e… |
+| 2026-09-28 18:15:57 | [rubytui](https://rubygems.org/gems/rubytui) | 1.2.3 | CoCL | MIT | A pure Ruby, zero-dependency terminal user interface library featuring immediat… |
 
 ## Data source
 

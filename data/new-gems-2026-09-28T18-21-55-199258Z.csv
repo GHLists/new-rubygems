@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T17:39:26.421Z,incident_io_api,1.2.0,86,incident.io,MIT,"Generated from incident.io's published OpenAPI schema: a method for every API endpoint, and a class for every request and response."
+2026-09-28T18:15:57.918Z,rubytui,1.2.3,3,CoCL,MIT,"A pure Ruby, zero-dependency terminal user interface library featuring immediate-mode rendering with double buffering, constraint-based layouts, a duck-typed widget system, cross-platform input handling, and Kitty graphics protocol support for inline images."
