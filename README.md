@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 20:21 UTC
+## Latest list — 2026-09-28 21:20 UTC
 
-New gems created between 2026-09-28 19:19 UTC and 2026-09-28 20:21 UTC.
+New gems created between 2026-09-28 20:21 UTC and 2026-09-28 21:20 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T20-21-17-22743Z.csv)
+[Full CSV](data/new-gems-2026-09-28T21-20-17-388397Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 19:25:28 | [ask-ag-ui](https://rubygems.org/gems/ask-ag-ui) | 0.1.0 | Kaka Ruto | MIT | The AG-UI (Agent-User Interaction) protocol server for the ask-rb ecosystem — S… |
-| 2026-09-28 19:39:37 | [simple_english](https://rubygems.org/gems/simple_english) | 0.1.0 | TonyCTHsu | MIT | Pattern rules run on LanguageTool, counting rules in Ruby. Lints Markdown and c… |
-| 2026-09-28 19:50:34 | [ruby_pptx](https://rubygems.org/gems/ruby_pptx) | 0.2.0 | Andi | MIT | A Ruby port of python-pptx: a full OOXML PresentationML object model with a Rub… |
+| 2026-09-28 21:12:12 | [sdet_flow](https://rubygems.org/gems/sdet_flow) | 0.2.0 | Sumanth Gumedelli | Apache-2.0 | Ruby automation utilities for API testing, retries, redaction, web adapter fall… |
+| 2026-09-28 21:15:58 | [cronwatch](https://rubygems.org/gems/cronwatch) | 0.6.1 | Jon C. Phillips | MIT | Wrap a job, run a check, get told when it is missed, failed, stuck, slow or ove… |
 
 ## Data source
 

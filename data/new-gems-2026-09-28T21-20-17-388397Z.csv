@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T21:12:12.745Z,sdet_flow,0.2.0,4,Sumanth Gumedelli,Apache-2.0,"Ruby automation utilities for API testing, retries, redaction, web adapter fallbacks, and integration with GenAI-powered quality engineering tools."
+2026-09-28T21:15:58.473Z,cronwatch,0.6.1,0,Jon C. Phillips,MIT,"Wrap a job, run a check, get told when it is missed, failed, stuck, slow or over budget. The Ruby port of @cronwatch/sdk: same rules, same alerts, same stored rows."
