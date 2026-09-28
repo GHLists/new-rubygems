@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T10:36:06.792Z,ace-herdr,0.1.0,64,Michal Czyz,MIT,"Push delivery and agent bootstrap for the Herdr runtime: deliver(ref, answer) -> herdr agent prompt <pane>, bootstrap missing agents, and dispatch agents with deterministic defaults. Implements the ace-hitl provider delivery contract."

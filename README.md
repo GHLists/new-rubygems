@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 10:24 UTC
+## Latest list — 2026-09-28 11:21 UTC
 
-New gems created between 2026-09-28 09:22 UTC and 2026-09-28 10:24 UTC.
+New gems created between 2026-09-28 10:24 UTC and 2026-09-28 11:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T10-24-23-091143Z.csv)
+[Full CSV](data/new-gems-2026-09-28T11-21-41-811758Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 10:04:25 | [laiya](https://rubygems.org/gems/laiya) | 0.0.3 | Samuel Williams | MIT | An OpenAI-compatible HTTP API and provider proxy |
+| 2026-09-28 10:36:06 | [ace-herdr](https://rubygems.org/gems/ace-herdr) | 0.1.0 | Michal Czyz | MIT | Push delivery and agent bootstrap for the Herdr runtime: deliver(ref, answer) -… |
 
 ## Data source
 
