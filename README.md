@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 13:21 UTC
+## Latest list — 2026-09-28 14:25 UTC
 
-New gems created between 2026-09-28 12:22 UTC and 2026-09-28 13:21 UTC.
+New gems created between 2026-09-28 13:21 UTC and 2026-09-28 14:25 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T13-21-24-56107Z.csv)
+[Full CSV](data/new-gems-2026-09-28T14-25-11-527768Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 12:34:32 | [slackblocks](https://rubygems.org/gems/slackblocks) | 2.5.0 | Nicholas Lambourne | MIT | Build Slack Block Kit payloads with Ruby values validated against the shared sl… |
+| 2026-09-28 13:27:21 | [incident_io_api](https://rubygems.org/gems/incident_io_api) | 1.0.0 | incident.io | MIT | Generated from incident.io's published OpenAPI schema: a method for every API e… |
+| 2026-09-28 14:03:48 | [cronwatch](https://rubygems.org/gems/cronwatch) | 0.6.0 | Jon C. Phillips | MIT | Wrap a job, run a check, get told when it is missed, failed, stuck, slow or ove… |
+| 2026-09-28 14:15:13 | [belt-messaging](https://rubygems.org/gems/belt-messaging) | 0.1.0 | Stowzilla | MIT | Belt plugin providing SMS and email messaging. SMS via AWS PinpointSMSVoiceV2,… |
+| 2026-09-28 14:22:04 | [captive-cli](https://rubygems.org/gems/captive-cli) | 1.0.0 | Captive Studio | MIT | Logs, console, one-off, bases de données et état des apps déployées sur la plat… |
 
 ## Data source
 

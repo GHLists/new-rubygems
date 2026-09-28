@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T13:27:21.145Z,incident_io_api,1.0.0,90,incident.io,MIT,"Generated from incident.io's published OpenAPI schema: a method for every API endpoint, and a class for every request and response."
+2026-09-28T14:03:48.764Z,cronwatch,0.6.0,46,Jon C. Phillips,MIT,"Wrap a job, run a check, get told when it is missed, failed, stuck, slow or over budget. The Ruby port of @cronwatch/sdk: same rules, same alerts, same stored rows."
+2026-09-28T14:15:13.682Z,belt-messaging,0.1.0,10,Stowzilla,MIT,"Belt plugin providing SMS and email messaging. SMS via AWS PinpointSMSVoiceV2, email via AWS SESv2. Includes phone verification, opt-in/opt-out handling, and Terraform infrastructure."
+2026-09-28T14:22:04.225Z,captive-cli,1.0.0,0,Captive Studio,MIT,"Logs, console, one-off, bases de données et état des apps déployées sur la plateforme Captive."
