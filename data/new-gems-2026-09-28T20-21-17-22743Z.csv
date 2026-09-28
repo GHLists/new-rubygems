@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T19:25:28.929Z,ask-ag-ui,0.1.0,82,Kaka Ruto,MIT,The AG-UI (Agent-User Interaction) protocol server for the ask-rb ecosystem — SSE event streaming and the runtime surface that assistant-ui and CopilotKit frontends expect.
+2026-09-28T19:39:37.583Z,simple_english,0.1.0,66,TonyCTHsu,MIT,"Pattern rules run on LanguageTool, counting rules in Ruby. Lints Markdown and code comments."
+2026-09-28T19:50:34.404Z,ruby_pptx,0.2.0,95,Andi,MIT,A Ruby port of python-pptx: a full OOXML PresentationML object model with a Ruby-idiomatic public API.
