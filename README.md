@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 22:19 UTC
+## Latest list — 2026-09-28 23:19 UTC
 
-New gems created between 2026-09-28 21:20 UTC and 2026-09-28 22:19 UTC.
+New gems created between 2026-09-28 22:19 UTC and 2026-09-28 23:19 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T22-19-48-60422Z.csv)
+[Full CSV](data/new-gems-2026-09-28T23-19-13-071096Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 21:22:37 | [ask-ag-ui](https://rubygems.org/gems/ask-ag-ui) | 0.1.1 | Kaka Ruto | MIT | The AG-UI (Agent-User Interaction) protocol server for the ask-rb ecosystem — S… |
-| 2026-09-28 21:34:14 | [keystone_ui-looks](https://rubygems.org/gems/keystone_ui-looks) | 0.1.0 | Tyler Schneider | MIT | CSS files that restyle every keystone_ui component through keystone_ui-styles'… |
-| 2026-09-28 21:55:42 | [greeter-core](https://rubygems.org/gems/greeter-core) | 0.1.0 | Adam Bonsu | MIT | Framework-agnostic domain logic (GuestName, Greeting, GreetingService) and driv… |
+| 2026-09-28 23:06:02 | [greeter-core](https://rubygems.org/gems/greeter-core) | 0.1.2 | Adam Bonsu | MIT | Framework-agnostic domain logic (GuestName, Greeting, GreetingService) and driv… |
+| 2026-09-28 23:14:42 | [simple_english](https://rubygems.org/gems/simple_english) | 0.2.0 | TonyCTHsu | MIT | Pattern rules run on LanguageTool, counting rules in Ruby. Lints Markdown and c… |
 
 ## Data source
 

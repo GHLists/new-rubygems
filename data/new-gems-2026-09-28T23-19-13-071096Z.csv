@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T23:06:02.074Z,greeter-core,0.1.2,54,Adam Bonsu,MIT,"Framework-agnostic domain logic (GuestName, Greeting, GreetingService) and driving/driven ports for Greeter, with in-memory test doubles under Greeter::Core::Testing."
+2026-09-28T23:14:42.611Z,simple_english,0.2.0,0,TonyCTHsu,MIT,"Pattern rules run on LanguageTool, counting rules in Ruby. Lints Markdown and code comments."
