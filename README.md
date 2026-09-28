@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 04:19 UTC
+## Latest list — 2026-09-28 05:22 UTC
 
-New gems created between 2026-09-28 03:20 UTC and 2026-09-28 04:19 UTC.
+New gems created between 2026-09-28 04:19 UTC and 2026-09-28 05:22 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T04-19-32-346516Z.csv)
+[Full CSV](data/new-gems-2026-09-28T05-22-37-56526Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 03:45:32 | [cronwatch](https://rubygems.org/gems/cronwatch) | 0.5.1 | Jon C. Phillips | MIT | Wrap a job, run a check, get told when it is missed, failed, stuck, slow or ove… |
-| 2026-09-28 04:00:47 | [withruntime](https://rubygems.org/gems/withruntime) | 0.1.0 | Runtime | Apache-2.0 | Linux sandboxes for agents, and every other Runtime Cloud product: streaming co… |
-| 2026-09-28 04:16:44 | [serge](https://rubygems.org/gems/serge) | 0.1.0 | Tom Brown | MIT | Accommodates both http signature formats in use on the fediverse for inbox deli… |
+| 2026-09-28 04:28:11 | [laiya](https://rubygems.org/gems/laiya) | 0.0.2 | Samuel Williams | MIT | An OpenAI-compatible HTTP API and provider proxy |
+| 2026-09-28 05:15:07 | [payzu-pix](https://rubygems.org/gems/payzu-pix) | 2.0.0 | PayZu | MIT | SDK oficial Ruby da API PayZu Pix: depósitos, saques, transferências internas,… |
+| 2026-09-28 05:21:59 | [wn-recon-6](https://rubygems.org/gems/wn-recon-6) | 0.0.2 | wnd718d3593 |  | recon probe gem |
 
 ## Data source
 

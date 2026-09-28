@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T04:28:11.237Z,laiya,0.0.2,90,Samuel Williams,MIT,An OpenAI-compatible HTTP API and provider proxy
+2026-09-28T05:15:07.741Z,payzu-pix,2.0.0,1,PayZu,MIT,"SDK oficial Ruby da API PayZu Pix: depósitos, saques, transferências internas, infrações, relatórios e callbacks."
+2026-09-28T05:21:59.949Z,wn-recon-6,0.0.2,0,wnd718d3593,,recon probe gem
