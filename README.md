@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 06:21 UTC
+## Latest list — 2026-09-28 07:21 UTC
 
-New gems created between 2026-09-28 05:22 UTC and 2026-09-28 06:21 UTC.
+New gems created between 2026-09-28 06:21 UTC and 2026-09-28 07:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T06-21-44-262455Z.csv)
+[Full CSV](data/new-gems-2026-09-28T07-21-49-369508Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 05:25:14 | [wn-recon-6](https://rubygems.org/gems/wn-recon-6) | 0.0.3 | wnd718d3593 |  | recon probe gem |
+| 2026-09-28 06:24:30 | [smacro](https://rubygems.org/gems/smacro) | 0.1.0 | femto |  | Expand Ruby source macros before compiling the result with Spinel. |
 
 ## Data source
 
