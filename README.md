@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 08:21 UTC
+## Latest list — 2026-09-28 10:24 UTC
 
-New gems created between 2026-09-28 07:21 UTC and 2026-09-28 08:21 UTC.
+New gems created between 2026-09-28 09:22 UTC and 2026-09-28 10:24 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T08-21-16-775578Z.csv)
+[Full CSV](data/new-gems-2026-09-28T10-24-23-091143Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 08:01:12 | [adscrawl](https://rubygems.org/gems/adscrawl) | 0.1.0 | AdsCrawl | MIT | Render pages in real browsers, extract structured data, capture screenshots, op… |
+| 2026-09-28 10:04:25 | [laiya](https://rubygems.org/gems/laiya) | 0.0.3 | Samuel Williams | MIT | An OpenAI-compatible HTTP API and provider proxy |
 
 ## Data source
 
