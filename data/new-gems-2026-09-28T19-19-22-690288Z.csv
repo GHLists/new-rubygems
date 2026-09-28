@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T18:40:31.325Z,roda-phlex-render,1.0.1,78,Dmitriy Ryzhenko,MIT,A Roda plugin for rendering Phlex::HTML block results.
