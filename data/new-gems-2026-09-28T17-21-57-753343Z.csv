@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T16:48:32.251Z,paper_trail-bulk_writes,0.1.0,53,Sam Robinson,MIT,"Bulk ActiveRecord writes skip callbacks, so PaperTrail records nothing. This gem adds audited_update_all, audited_delete_all and audited_insert_all, which run the bulk write and insert one version row per record in the same transaction, honouring the model's only:, ignore:, skip:, meta: and version…"
+2026-09-28T16:48:58.357Z,belt-messaging,0.1.1,83,Stowzilla,MIT,"Belt plugin providing SMS and email messaging. SMS via AWS PinpointSMSVoiceV2, email via AWS SESv2. Includes phone verification, opt-in/opt-out handling, and Terraform infrastructure."
