@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T03:14:43.578Z,sendping,1.0.0,0,SendPing,MIT,"Send transactional and marketing email from your own verified domain: emails, domains, contacts, segments, campaigns, templates, automations, webhooks, events and more. Zero runtime dependencies (Net::HTTP only)."

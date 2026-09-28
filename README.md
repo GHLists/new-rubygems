@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 01:20 UTC
+## Latest list — 2026-09-28 03:20 UTC
 
-New gems created between 2026-09-28 00:20 UTC and 2026-09-28 01:20 UTC.
+New gems created between 2026-09-28 02:20 UTC and 2026-09-28 03:20 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T01-20-12-21241Z.csv)
+[Full CSV](data/new-gems-2026-09-28T03-20-08-610253Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 00:56:09 | [cronwatch](https://rubygems.org/gems/cronwatch) | 0.5.0 | Jon C. Phillips | MIT | Wrap a job, run a check, get told when it is missed, failed, stuck, slow or ove… |
+| 2026-09-28 03:14:43 | [sendping](https://rubygems.org/gems/sendping) | 1.0.0 | SendPing | MIT | Send transactional and marketing email from your own verified domain: emails, d… |
 
 ## Data source
 
