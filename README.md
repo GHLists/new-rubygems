@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 21:20 UTC
+## Latest list — 2026-09-28 22:19 UTC
 
-New gems created between 2026-09-28 20:21 UTC and 2026-09-28 21:20 UTC.
+New gems created between 2026-09-28 21:20 UTC and 2026-09-28 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T21-20-17-388397Z.csv)
+[Full CSV](data/new-gems-2026-09-28T22-19-48-60422Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 21:12:12 | [sdet_flow](https://rubygems.org/gems/sdet_flow) | 0.2.0 | Sumanth Gumedelli | Apache-2.0 | Ruby automation utilities for API testing, retries, redaction, web adapter fall… |
-| 2026-09-28 21:15:58 | [cronwatch](https://rubygems.org/gems/cronwatch) | 0.6.1 | Jon C. Phillips | MIT | Wrap a job, run a check, get told when it is missed, failed, stuck, slow or ove… |
+| 2026-09-28 21:22:37 | [ask-ag-ui](https://rubygems.org/gems/ask-ag-ui) | 0.1.1 | Kaka Ruto | MIT | The AG-UI (Agent-User Interaction) protocol server for the ask-rb ecosystem — S… |
+| 2026-09-28 21:34:14 | [keystone_ui-looks](https://rubygems.org/gems/keystone_ui-looks) | 0.1.0 | Tyler Schneider | MIT | CSS files that restyle every keystone_ui component through keystone_ui-styles'… |
+| 2026-09-28 21:55:42 | [greeter-core](https://rubygems.org/gems/greeter-core) | 0.1.0 | Adam Bonsu | MIT | Framework-agnostic domain logic (GuestName, Greeting, GreetingService) and driv… |
 
 ## Data source
 
