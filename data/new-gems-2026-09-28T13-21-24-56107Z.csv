@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T12:34:32.569Z,slackblocks,2.5.0,64,Nicholas Lambourne,MIT,Build Slack Block Kit payloads with Ruby values validated against the shared slackblocks specification.

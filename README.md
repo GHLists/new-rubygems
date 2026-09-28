@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 12:22 UTC
+## Latest list — 2026-09-28 13:21 UTC
 
-New gems created between 2026-09-28 11:21 UTC and 2026-09-28 12:22 UTC.
+New gems created between 2026-09-28 12:22 UTC and 2026-09-28 13:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T12-22-06-487151Z.csv)
+[Full CSV](data/new-gems-2026-09-28T13-21-24-56107Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 11:30:07 | [ruby_llm-code_mode](https://rubygems.org/gems/ruby_llm-code_mode) | 0.1.2 | Juneira | MIT | A RubyLLM tool that runs model-generated Ruby code inside a secure WebAssembly… |
-| 2026-09-28 12:14:00 | [jekyll-obsidian-site](https://rubygems.org/gems/jekyll-obsidian-site) | 0.2.0 | wowfun | MIT | A Markdown compiler, two site themes, and a CLI with prebuilt frontend assets. |
+| 2026-09-28 12:34:32 | [slackblocks](https://rubygems.org/gems/slackblocks) | 2.5.0 | Nicholas Lambourne | MIT | Build Slack Block Kit payloads with Ruby values validated against the shared sl… |
 
 ## Data source
 
