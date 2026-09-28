@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T00:56:09.706Z,cronwatch,0.5.0,89,Jon C. Phillips,MIT,"Wrap a job, run a check, get told when it is missed, failed, stuck, slow or over budget. The Ruby port of @cronwatch/sdk: same rules, same alerts, same stored rows."
