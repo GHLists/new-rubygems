@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T11:30:07.668Z,ruby_llm-code_mode,0.1.2,99,Juneira,MIT,"A RubyLLM tool that runs model-generated Ruby code inside a secure WebAssembly sandbox (SecurityBox), with explicit read-only and read-write folder mounts so agents can work on host project folders safely."
+2026-09-28T12:14:00.101Z,jekyll-obsidian-site,0.2.0,6,wowfun,MIT,"A Markdown compiler, two site themes, and a CLI with prebuilt frontend assets."
