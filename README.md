@@ -9,18 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 14:25 UTC
+## Latest list — 2026-09-28 16:19 UTC
 
-New gems created between 2026-09-28 13:21 UTC and 2026-09-28 14:25 UTC.
+New gems created between 2026-09-28 15:21 UTC and 2026-09-28 16:19 UTC.
 
-[Full CSV](data/new-gems-2026-09-28T14-25-11-527768Z.csv)
+[Full CSV](data/new-gems-2026-09-28T16-19-57-819712Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-28 13:27:21 | [incident_io_api](https://rubygems.org/gems/incident_io_api) | 1.0.0 | incident.io | MIT | Generated from incident.io's published OpenAPI schema: a method for every API e… |
-| 2026-09-28 14:03:48 | [cronwatch](https://rubygems.org/gems/cronwatch) | 0.6.0 | Jon C. Phillips | MIT | Wrap a job, run a check, get told when it is missed, failed, stuck, slow or ove… |
-| 2026-09-28 14:15:13 | [belt-messaging](https://rubygems.org/gems/belt-messaging) | 0.1.0 | Stowzilla | MIT | Belt plugin providing SMS and email messaging. SMS via AWS PinpointSMSVoiceV2,… |
-| 2026-09-28 14:22:04 | [captive-cli](https://rubygems.org/gems/captive-cli) | 1.0.0 | Captive Studio | MIT | Logs, console, one-off, bases de données et état des apps déployées sur la plat… |
+| 2026-09-28 15:29:20 | [breadkit-rspec](https://rubygems.org/gems/breadkit-rspec) | 0.1.0 | Yudai Takada | MIT | Test resolved Breadkit circuit connections and switch states with RSpec expecta… |
+| 2026-09-28 15:41:17 | [incident_io_api](https://rubygems.org/gems/incident_io_api) | 1.1.0 | incident.io | MIT | Generated from incident.io's published OpenAPI schema: a method for every API e… |
+| 2026-09-28 15:47:52 | [ambassadors](https://rubygems.org/gems/ambassadors) | 0.1.0 | Gavin Morrice | MIT | Ambassadors are frozen, read-only wrappers around domain entities, providing a… |
+| 2026-09-28 15:57:46 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2.1 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-28 15:57:46 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2.1 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-28 15:57:46 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2.1 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-28 15:57:46 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2.1 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-28 15:57:46 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2.1 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-28 15:57:46 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2.1 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-28 15:57:46 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2.1 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
+| 2026-09-28 15:57:46 | [pagefind](https://rubygems.org/gems/pagefind) | 1.5.2.1 | 방성범 (Bang Seongbeom) | MIT | A self-contained `pagefind` executable, wrapped up in a ruby gem. That's it. No… |
 
 ## Data source
 
