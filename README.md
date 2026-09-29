@@ -9,16 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 06:20 UTC
+## Latest list — 2026-09-29 07:21 UTC
 
-New gems created between 2026-09-29 05:21 UTC and 2026-09-29 06:20 UTC.
+New gems created between 2026-09-29 06:20 UTC and 2026-09-29 07:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-29T06-20-04-716607Z.csv)
+[Full CSV](data/new-gems-2026-09-29T07-21-00-220992Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-29 05:32:12 | [Lerobot-Dataset-Ruby](https://rubygems.org/gems/Lerobot-Dataset-Ruby) | 0.1.0 | Harutodesu | MIT | A Ruby gem for reading and recording robotic dataset in LeRobot v3.0 format usi… |
-| 2026-09-29 05:33:15 | [blipit](https://rubygems.org/gems/blipit) | 0.1.0 | Louward Labs | MIT | Blipit error monitoring for Ruby: Rails, Sinatra, Sidekiq and scripts. Know you… |
+| 2026-09-29 06:47:53 | [sumi-ruby](https://rubygems.org/gems/sumi-ruby) | 0.2.0 | Junya Ishihara | MIT | Ships the prebuilt sumi executable for each platform, so that `bundle install`… |
+| 2026-09-29 06:47:53 | [sumi-ruby](https://rubygems.org/gems/sumi-ruby) | 0.2.0 | Junya Ishihara | MIT | Ships the prebuilt sumi executable for each platform, so that `bundle install`… |
+| 2026-09-29 06:47:53 | [sumi-ruby](https://rubygems.org/gems/sumi-ruby) | 0.2.0 | Junya Ishihara | MIT | Ships the prebuilt sumi executable for each platform, so that `bundle install`… |
+| 2026-09-29 06:47:53 | [sumi-ruby](https://rubygems.org/gems/sumi-ruby) | 0.2.0 | Junya Ishihara | MIT | Ships the prebuilt sumi executable for each platform, so that `bundle install`… |
+| 2026-09-29 06:47:53 | [sumi-ruby](https://rubygems.org/gems/sumi-ruby) | 0.2.0 | Junya Ishihara | MIT | Ships the prebuilt sumi executable for each platform, so that `bundle install`… |
+| 2026-09-29 06:47:53 | [sumi-ruby](https://rubygems.org/gems/sumi-ruby) | 0.2.0 | Junya Ishihara | MIT | Ships the prebuilt sumi executable for each platform, so that `bundle install`… |
+| 2026-09-29 06:47:53 | [sumi-ruby](https://rubygems.org/gems/sumi-ruby) | 0.2.0 | Junya Ishihara | MIT | Ships the prebuilt sumi executable for each platform, so that `bundle install`… |
+| 2026-09-29 06:47:53 | [sumi-ruby](https://rubygems.org/gems/sumi-ruby) | 0.2.0 | Junya Ishihara | MIT | Ships the prebuilt sumi executable for each platform, so that `bundle install`… |
 
 ## Data source
 
