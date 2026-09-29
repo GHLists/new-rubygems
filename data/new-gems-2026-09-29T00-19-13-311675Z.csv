@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-28T23:36:49.913Z,ruby_llm-llm_judge,0.1.0,74,JP Camara,MIT,"Answers probability, choice, and score questions with any RubyLLM chat model, using parallel per-answer ratings or one-call typed distributions. Plugs into RubyLLM 2.1's Judge API and also runs on RubyLLM 1.13 through 1.16."
+2026-09-28T23:40:12.917Z,ndav-magick-image,0.0.3,141,Kitaiti Makoto,MIT,N-Dimensional Array View for RMagick
+2026-09-28T23:56:31.963Z,lilt,0.1.0,40,Phil Crissman,MIT,"Lilt provides a table-driven lexer, a Pratt (top-down operator precedence) parser engine extended with juxtaposition and multiple expression tables, position tracking, and an s-expression reader and printer. Grammars are plain data; ASTs are whatever your handlers build."
