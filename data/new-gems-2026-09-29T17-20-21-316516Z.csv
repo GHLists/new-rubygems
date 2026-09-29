@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T16:42:48.952Z,rails_event_viewer,0.1.0,67,Keshav Biswa,MIT,"RailsEventViewer provides a web interface to browse, search, and analyze structured events emitted via Rails.event. Features include event listing, filtering, search, and analytics dashboards."

@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 16:19 UTC
+## Latest list — 2026-09-29 17:20 UTC
 
-New gems created between 2026-09-29 15:23 UTC and 2026-09-29 16:19 UTC.
+New gems created between 2026-09-29 16:19 UTC and 2026-09-29 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-09-29T16-19-36-516815Z.csv)
+[Full CSV](data/new-gems-2026-09-29T17-20-21-316516Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-29 15:31:15 | [adressevaelger](https://rubygems.org/gems/adressevaelger) | 0.1.0 | Rasmus Bergholdt | MIT | HTTP client for the Danish Adressevælger autocomplete/search and Adressevask ad… |
-| 2026-09-29 16:09:18 | [procfs_rb](https://rubygems.org/gems/procfs_rb) | 0.1.1 | Thomas Tych | MIT | ProcFS interface. |
+| 2026-09-29 16:42:48 | [rails_event_viewer](https://rubygems.org/gems/rails_event_viewer) | 0.1.0 | Keshav Biswa | MIT | RailsEventViewer provides a web interface to browse, search, and analyze struct… |
 
 ## Data source
 
