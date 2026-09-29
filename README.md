@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 21:21 UTC
+## Latest list — 2026-09-29 22:22 UTC
 
-New gems created between 2026-09-29 20:20 UTC and 2026-09-29 21:21 UTC.
+New gems created between 2026-09-29 21:21 UTC and 2026-09-29 22:22 UTC.
 
-[Full CSV](data/new-gems-2026-09-29T21-21-11-951876Z.csv)
+[Full CSV](data/new-gems-2026-09-29T22-22-07-120904Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-29 20:37:14 | [grpc_service_mesh](https://rubygems.org/gems/grpc_service_mesh) | 0.16.0 | Bryant Morrill, Paymentbox | MIT | Ruby library for the gRPC Service Mesh API |
+| 2026-09-29 21:45:48 | [mavlink](https://rubygems.org/gems/mavlink) | 0.1.0 | Thomas Smith | MIT | A compact, high-performance implementation of the MAVLink protocol written in R… |
+| 2026-09-29 21:52:30 | [sealedrose](https://rubygems.org/gems/sealedrose) | 1.0.0 | Derek Gallardo | MIT | Sealed Rose client library for analyzing video and images for synthetic media,… |
 
 ## Data source
 
