@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T08:49:03.961Z,dl-core,0.1.0,39,Shane Becker,MIT,"Polite rate-limited HTTP client with retries and timeouts, sidecar metadata writers, title slugs, and a shared CLI for the <site>-dl family of gems that build offline archives."
+2026-09-29T08:59:48.721Z,smtping-email-verifier,1.0.0,22,SMTPing,MIT,"Verify one email address or a list of 100,000, flag spamtraps, complainers, spambots and disposable addresses. Automatic retries on 429 and 5xx, bulk polling built in, no runtime dependencies."
+2026-09-29T09:04:11.769Z,jstor-dl,0.1.1,21,Shane Becker,MIT,"Command line tool and Ruby library for archiving JSTOR Early Journal Content articles as PDFs and OCR plaintext with sidecar metadata. Fetches only from the Internet Archive's copy, never from jstor.org."
+2026-09-29T09:08:21.774Z,Lerobot-Dataset-Ruby,0.2.0,4,Harutodesu,MIT,A Ruby gem for reading and recording robotic dataset in LeRobot v3.0 format using OpenCV and Parquet.

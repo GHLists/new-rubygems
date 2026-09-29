@@ -9,28 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 08:26 UTC
+## Latest list — 2026-09-29 09:20 UTC
 
-New gems created between 2026-09-29 07:21 UTC and 2026-09-29 08:26 UTC.
+New gems created between 2026-09-29 08:26 UTC and 2026-09-29 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-09-29T08-26-25-622732Z.csv)
+[Full CSV](data/new-gems-2026-09-29T09-20-28-557004Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-29 07:51:35 | [gemstack-core](https://rubygems.org/gems/gemstack-core) | 0.1.0 | Shoaib Malik | MIT | The dependency-free foundation every GemStack module builds on. |
-| 2026-09-29 07:51:46 | [gemstack-cache](https://rubygems.org/gems/gemstack-cache) | 0.1.0 | Shoaib Malik | MIT | GemStack cache: GemStack.cache.fetch with memory, null and Redis stores |
-| 2026-09-29 07:51:54 | [gemstack-schema](https://rubygems.org/gems/gemstack-schema) | 0.1.0 | Shoaib Malik | MIT | GemStack schema: shared types, request schemas and serializers |
-| 2026-09-29 07:52:05 | [gemstack-http](https://rubygems.org/gems/gemstack-http) | 0.1.0 | Shoaib Malik | MIT | The API layer of GemStack, built on Rack 3. |
-| 2026-09-29 07:52:15 | [gemstack-db](https://rubygems.org/gems/gemstack-db) | 0.1.0 | Shoaib Malik | MIT | GemStack database: Sequel models, migrations and PostgreSQL defaults |
-| 2026-09-29 07:52:23 | [gemstack-jobs](https://rubygems.org/gems/gemstack-jobs) | 0.1.0 | Shoaib Malik | MIT | GemStack background jobs: a PostgreSQL queue by default, swappable adapters |
-| 2026-09-29 07:52:35 | [gemstack-realtime](https://rubygems.org/gems/gemstack-realtime) | 0.1.0 | Shoaib Malik | MIT | GemStack realtime: GemStack.broadcast to browsers over Server-Sent Events |
-| 2026-09-29 07:52:42 | [gemstack-mail](https://rubygems.org/gems/gemstack-mail) | 0.1.0 | Shoaib Malik | MIT | GemStack mail: mailers, templates, SMTP/log/test delivery, deliver_later via jo… |
-| 2026-09-29 07:52:50 | [gemstack-storage](https://rubygems.org/gems/gemstack-storage) | 0.1.0 | Shoaib Malik | MIT | GemStack storage: disk and S3 services, signed URLs, direct uploads |
-| 2026-09-29 07:52:57 | [gemstack-auth](https://rubygems.org/gems/gemstack-auth) | 0.1.0 | Shoaib Malik | MIT | GemStack auth: Argon2id passwords, cookie sessions, API tokens, policies |
-| 2026-09-29 07:53:07 | [gemstack-contract](https://rubygems.org/gems/gemstack-contract) | 0.1.0 | Shoaib Malik | MIT | GemStack contract: TypeScript types, API clients and OpenAPI from the backend |
-| 2026-09-29 07:53:15 | [gemstack-dev](https://rubygems.org/gems/gemstack-dev) | 0.1.0 | Shoaib Malik | MIT | GemStack development server: single-origin gateway and process supervisor |
-| 2026-09-29 07:53:22 | [gemstack-cli](https://rubygems.org/gems/gemstack-cli) | 0.1.0 | Shoaib Malik | MIT | GemStack command-line interface and generators |
-| 2026-09-29 07:53:29 | [gemstack](https://rubygems.org/gems/gemstack) | 0.1.0 | Shoaib Malik | MIT | GemStack: a fast, modular Ruby API framework for Next.js applications |
+| 2026-09-29 08:49:03 | [dl-core](https://rubygems.org/gems/dl-core) | 0.1.0 | Shane Becker | MIT | Polite rate-limited HTTP client with retries and timeouts, sidecar metadata wri… |
+| 2026-09-29 08:59:48 | [smtping-email-verifier](https://rubygems.org/gems/smtping-email-verifier) | 1.0.0 | SMTPing | MIT | Verify one email address or a list of 100,000, flag spamtraps, complainers, spa… |
+| 2026-09-29 09:04:11 | [jstor-dl](https://rubygems.org/gems/jstor-dl) | 0.1.1 | Shane Becker | MIT | Command line tool and Ruby library for archiving JSTOR Early Journal Content ar… |
+| 2026-09-29 09:08:21 | [Lerobot-Dataset-Ruby](https://rubygems.org/gems/Lerobot-Dataset-Ruby) | 0.2.0 | Harutodesu | MIT | A Ruby gem for reading and recording robotic dataset in LeRobot v3.0 format usi… |
 
 ## Data source
 
