@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 20:20 UTC
+## Latest list — 2026-09-29 21:21 UTC
 
-New gems created between 2026-09-29 19:19 UTC and 2026-09-29 20:20 UTC.
+New gems created between 2026-09-29 20:20 UTC and 2026-09-29 21:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-29T20-20-44-33052Z.csv)
+[Full CSV](data/new-gems-2026-09-29T21-21-11-951876Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-29 20:00:36 | [opentelemetry-config](https://rubygems.org/gems/opentelemetry-config) | 0.1.0 | OpenTelemetry Authors | Apache-2.0 | Declarative Config implementation for OpenTelemetry |
+| 2026-09-29 20:37:14 | [grpc_service_mesh](https://rubygems.org/gems/grpc_service_mesh) | 0.16.0 | Bryant Morrill, Paymentbox | MIT | Ruby library for the gRPC Service Mesh API |
 
 ## Data source
 
