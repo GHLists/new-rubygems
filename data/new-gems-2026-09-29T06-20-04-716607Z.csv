@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T05:32:12.123Z,Lerobot-Dataset-Ruby,0.1.0,74,Harutodesu,MIT,A Ruby gem for reading and recording robotic dataset in LeRobot v3.0 format using OpenCV and Parquet.
+2026-09-29T05:33:15.039Z,blipit,0.1.0,85,Louward Labs,MIT,"Blipit error monitoring for Ruby: Rails, Sinatra, Sidekiq and scripts. Know your app broke before your users tell you."
