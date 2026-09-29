@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T02:35:12.323Z,keystone_ui-looks,0.2.0,93,Tyler Schneider,MIT,"CSS files that restyle every keystone_ui component through keystone_ui-styles' --ks- variables, registered with keystone_ui on install."
+2026-09-29T03:10:58.131Z,ruby_llm-llm_judge,0.1.2,18,JP Camara,MIT,"Answers probability, choice, and score questions with any RubyLLM chat model, using parallel per-answer ratings or one-call typed distributions. Plugs into RubyLLM 2.1's Judge API and also runs on RubyLLM 1.13 through 1.16."
