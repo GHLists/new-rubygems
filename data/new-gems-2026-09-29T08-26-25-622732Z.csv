@@ -1,0 +1,15 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T07:51:35.167Z,gemstack-core,0.1.0,103,Shoaib Malik,MIT,The dependency-free foundation every GemStack module builds on.
+2026-09-29T07:51:46.018Z,gemstack-cache,0.1.0,56,Shoaib Malik,MIT,"GemStack cache: GemStack.cache.fetch with memory, null and Redis stores"
+2026-09-29T07:51:54.138Z,gemstack-schema,0.1.0,78,Shoaib Malik,MIT,"GemStack schema: shared types, request schemas and serializers"
+2026-09-29T07:52:05.675Z,gemstack-http,0.1.0,72,Shoaib Malik,MIT,"The API layer of GemStack, built on Rack 3."
+2026-09-29T07:52:15.941Z,gemstack-db,0.1.0,62,Shoaib Malik,MIT,"GemStack database: Sequel models, migrations and PostgreSQL defaults"
+2026-09-29T07:52:23.866Z,gemstack-jobs,0.1.0,58,Shoaib Malik,MIT,"GemStack background jobs: a PostgreSQL queue by default, swappable adapters"
+2026-09-29T07:52:35.223Z,gemstack-realtime,0.1.0,55,Shoaib Malik,MIT,GemStack realtime: GemStack.broadcast to browsers over Server-Sent Events
+2026-09-29T07:52:42.83Z,gemstack-mail,0.1.0,60,Shoaib Malik,MIT,"GemStack mail: mailers, templates, SMTP/log/test delivery, deliver_later via jobs"
+2026-09-29T07:52:50.323Z,gemstack-storage,0.1.0,56,Shoaib Malik,MIT,"GemStack storage: disk and S3 services, signed URLs, direct uploads"
+2026-09-29T07:52:57.789Z,gemstack-auth,0.1.0,57,Shoaib Malik,MIT,"GemStack auth: Argon2id passwords, cookie sessions, API tokens, policies"
+2026-09-29T07:53:07.325Z,gemstack-contract,0.1.0,57,Shoaib Malik,MIT,"GemStack contract: TypeScript types, API clients and OpenAPI from the backend"
+2026-09-29T07:53:15.051Z,gemstack-dev,0.1.0,67,Shoaib Malik,MIT,GemStack development server: single-origin gateway and process supervisor
+2026-09-29T07:53:22.854Z,gemstack-cli,0.1.0,56,Shoaib Malik,MIT,GemStack command-line interface and generators
+2026-09-29T07:53:29.834Z,gemstack,0.1.0,54,Shoaib Malik,MIT,"GemStack: a fast, modular Ruby API framework for Next.js applications"
