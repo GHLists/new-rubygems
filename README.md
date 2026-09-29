@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 15:23 UTC
+## Latest list — 2026-09-29 16:19 UTC
 
-New gems created between 2026-09-29 14:22 UTC and 2026-09-29 15:23 UTC.
+New gems created between 2026-09-29 15:23 UTC and 2026-09-29 16:19 UTC.
 
-[Full CSV](data/new-gems-2026-09-29T15-23-49-610579Z.csv)
+[Full CSV](data/new-gems-2026-09-29T16-19-36-516815Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-29 14:43:03 | [ararahq](https://rubygems.org/gems/ararahq) | 1.0.0 | AraraHQ | MIT | Ruby client for the AraraHQ API: messages, templates, contacts, conversations,… |
+| 2026-09-29 15:31:15 | [adressevaelger](https://rubygems.org/gems/adressevaelger) | 0.1.0 | Rasmus Bergholdt | MIT | HTTP client for the Danish Adressevælger autocomplete/search and Adressevask ad… |
+| 2026-09-29 16:09:18 | [procfs_rb](https://rubygems.org/gems/procfs_rb) | 0.1.1 | Thomas Tych | MIT | ProcFS interface. |
 
 ## Data source
 
