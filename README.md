@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 01:19 UTC
+## Latest list — 2026-09-29 02:21 UTC
 
-New gems created between 2026-09-29 00:19 UTC and 2026-09-29 01:19 UTC.
+New gems created between 2026-09-29 01:19 UTC and 2026-09-29 02:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-29T01-19-25-193575Z.csv)
+[Full CSV](data/new-gems-2026-09-29T02-21-59-533121Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-29 00:23:20 | [rgpio](https://rubygems.org/gems/rgpio) | 0.1.0 | ITO Yosei | MIT | Control a Raspberry Pi's hardware from Ruby. GPIO goes through libgpiod v2 — th… |
-| 2026-09-29 00:28:27 | [senddart](https://rubygems.org/gems/senddart) | 1.0.0 | SendDart | MIT | Send transactional and marketing email from your own verified domain: emails, d… |
+| 2026-09-29 01:40:22 | [rubocop-callbacksystems](https://rubygems.org/gems/rubocop-callbacksystems) | 0.1.0 | Callback Systems, Bruno Prieto | MIT | RuboCop cops and shared configuration for the Callback Systems Ruby style in Ra… |
 
 ## Data source
 

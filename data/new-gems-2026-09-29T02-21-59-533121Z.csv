@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T01:40:22.331Z,rubocop-callbacksystems,0.1.0,66,"Callback Systems, Bruno Prieto",MIT,RuboCop cops and shared configuration for the Callback Systems Ruby style in Rails applications and Ruby gems.
