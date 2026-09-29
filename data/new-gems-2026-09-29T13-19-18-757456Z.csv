@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T12:55:28.094Z,rails_agent_console,0.1.0,43,Ivan Blažević,MIT,"rails_agent_console adds `ai`, `ai!`, `ask` and `explain` to the Rails console you already use. It describes your real schema (models, columns, associations) to an LLM, gets back one ActiveRecord query, checks it call by call against a read-only allowlist, fixes the model's common mistakes in code,…"
+2026-09-29T13:17:29.156Z,dopairb,0.1.0,0,Koichi Sasada,MIT,"dopairb extends IRB with game-like terminal effects: sparks while typing, a wind-up and impact on every evaluation, big banners for combos and comebacks, and readable plain text left behind for copy & paste."
