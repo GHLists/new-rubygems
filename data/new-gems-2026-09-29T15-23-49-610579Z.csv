@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T14:43:03.289Z,ararahq,1.0.0,68,AraraHQ,MIT,"Ruby client for the AraraHQ API: messages, templates, contacts, conversations, campaigns, wallet, numbers, smart links and opt-outs. Zero runtime dependencies."
