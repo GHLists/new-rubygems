@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T22:57:37.505Z,slurm_hostlist,0.1.0,30,Travis Ravert,MIT,"Pure Ruby, dependency-free expansion and compression of Slurm hostlist expressions like ""n[01-16],login[1-2]"". A port of Slurm's hostlist.c, differentially tested against Slurm to give the same results as `scontrol show hostnames`, `show hostlist` and `show hostlistsorted`."
+2026-09-29T23:05:09.79Z,service_mesh_nats,0.6.0,35,"Bryant Morrill, Paymentbox",MIT,Ruby implementation of the Service Mesh API Specification over NATS
+2026-09-29T23:16:22.305Z,airtable_client,0.1.0,0,David Silva,MIT,"Ruby client for the Airtable Web API with zero runtime dependencies: persistent Net::HTTP connections, client-side rate limiting, automatic retries with exponential backoff, error classification, batch operations with auto-chunking, and upsert support."
