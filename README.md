@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 18:21 UTC
+## Latest list — 2026-09-29 19:19 UTC
 
-New gems created between 2026-09-29 17:20 UTC and 2026-09-29 18:21 UTC.
+New gems created between 2026-09-29 18:21 UTC and 2026-09-29 19:19 UTC.
 
-[Full CSV](data/new-gems-2026-09-29T18-21-15-718836Z.csv)
+[Full CSV](data/new-gems-2026-09-29T19-19-28-951851Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-29 17:33:17 | [service_mesh_nats](https://rubygems.org/gems/service_mesh_nats) | 0.5.1 | Bryant Morrill, Paymentbox | MIT | Ruby implementation of the Service Mesh API Specification over NATS |
-| 2026-09-29 18:06:55 | [solid-resp-ractor](https://rubygems.org/gems/solid-resp-ractor) | 0.1.1 | Nicolas Vandenbogaerde | MIT | Dependency-free RESP command encoding and stream decoding with injectable sourc… |
+| 2026-09-29 18:22:39 | [cool-mint](https://rubygems.org/gems/cool-mint) | 0.0.1 | X | MIT | This rubygem does not have a description or summary. |
+| 2026-09-29 18:24:10 | [solid-resp-ractor](https://rubygems.org/gems/solid-resp-ractor) | 0.1.2 | Nicolas Vandenbogaerde | MIT | Dependency-free RESP command encoding and stream decoding with injectable sourc… |
+| 2026-09-29 19:10:37 | [schepherd](https://rubygems.org/gems/schepherd) | 0.1.0 | ovineko | MIT | Schepherd resolves a JSON Schema from a pinned OCI catalog, verifies it by dige… |
+| 2026-09-29 19:13:43 | [consensusiq](https://rubygems.org/gems/consensusiq) | 0.0.1 | Holden Hinkle | Apache-2.0 | This name is reserved for the ConsensusIQ SDK, which has not been released yet.… |
 
 ## Data source
 

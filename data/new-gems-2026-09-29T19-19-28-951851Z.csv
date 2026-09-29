@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T18:22:39.696Z,cool-mint,0.0.1,80,X,MIT,This rubygem does not have a description or summary.
+2026-09-29T18:24:10.103Z,solid-resp-ractor,0.1.2,97,Nicolas Vandenbogaerde,MIT,"Dependency-free RESP command encoding and stream decoding with injectable sources, selectors, clocks, error mappers, and RESP3 type handlers."
+2026-09-29T19:10:37.619Z,schepherd,0.1.0,7,ovineko,MIT,"Schepherd resolves a JSON Schema from a pinned OCI catalog, verifies it by digest and hands the local file to the validator you already use. The gem ships the native schepherd binary for Linux, macOS and Windows on x64 and arm64."
+2026-09-29T19:13:43.214Z,consensusiq,0.0.1,0,Holden Hinkle,Apache-2.0,"This name is reserved for the ConsensusIQ SDK, which has not been released yet. Nothing is implemented in this release. Do not depend on it."
