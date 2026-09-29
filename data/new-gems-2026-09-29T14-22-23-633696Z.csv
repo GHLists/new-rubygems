@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T13:32:31.282Z,mailgazelle,1.0.1,88,Srdjan Marjanovic,MIT,"Send transactional email with the Mail Gazelle API from Ruby, and from Rails via ActionMailer."
+2026-09-29T13:55:33.359Z,pactman-nonprofit-check-plus,1.0.0,43,Pactman,MIT,"Verify US nonprofits by EIN against IRS BMF, Publication 78, Automatic Revocation and OFAC data. No runtime dependencies."
+2026-09-29T13:57:31.17Z,thousandmails,1.0.0,33,Hariraghav.S,Nonstandard,"Transactional email, attachments, statistics, delivery logs and a live event stream, behind one client object."
+2026-09-29T13:58:58.377Z,procfs_rb,0.1.0,36,Thomas Tych,MIT,ProcFS interface.
+2026-09-29T14:07:46.441Z,minitest-impact,0.1.0,14,Bruno Costanzo,MIT,"Records which lines each Minitest test file executes, then, given a git diff, selects the test files that ran the changed methods, plus the ones Rails conventions point to for views, copy, routes and migrations. With a TypeSafe key, Jev re-ranks the selection and covers what the map cannot see. Mad…"

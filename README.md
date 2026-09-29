@@ -9,16 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 13:19 UTC
+## Latest list — 2026-09-29 14:22 UTC
 
-New gems created between 2026-09-29 12:22 UTC and 2026-09-29 13:19 UTC.
+New gems created between 2026-09-29 13:19 UTC and 2026-09-29 14:22 UTC.
 
-[Full CSV](data/new-gems-2026-09-29T13-19-18-757456Z.csv)
+[Full CSV](data/new-gems-2026-09-29T14-22-23-633696Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-29 12:55:28 | [rails_agent_console](https://rubygems.org/gems/rails_agent_console) | 0.1.0 | Ivan Blažević | MIT | rails_agent_console adds `ai`, `ai!`, `ask` and `explain` to the Rails console… |
-| 2026-09-29 13:17:29 | [dopairb](https://rubygems.org/gems/dopairb) | 0.1.0 | Koichi Sasada | MIT | dopairb extends IRB with game-like terminal effects: sparks while typing, a win… |
+| 2026-09-29 13:32:31 | [mailgazelle](https://rubygems.org/gems/mailgazelle) | 1.0.1 | Srdjan Marjanovic | MIT | Send transactional email with the Mail Gazelle API from Ruby, and from Rails vi… |
+| 2026-09-29 13:55:33 | [pactman-nonprofit-check-plus](https://rubygems.org/gems/pactman-nonprofit-check-plus) | 1.0.0 | Pactman | MIT | Verify US nonprofits by EIN against IRS BMF, Publication 78, Automatic Revocati… |
+| 2026-09-29 13:57:31 | [thousandmails](https://rubygems.org/gems/thousandmails) | 1.0.0 | Hariraghav.S | Nonstandard | Transactional email, attachments, statistics, delivery logs and a live event st… |
+| 2026-09-29 13:58:58 | [procfs_rb](https://rubygems.org/gems/procfs_rb) | 0.1.0 | Thomas Tych | MIT | ProcFS interface. |
+| 2026-09-29 14:07:46 | [minitest-impact](https://rubygems.org/gems/minitest-impact) | 0.1.0 | Bruno Costanzo | MIT | Records which lines each Minitest test file executes, then, given a git diff, s… |
 
 ## Data source
 
