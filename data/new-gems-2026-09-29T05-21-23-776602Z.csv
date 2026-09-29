@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T04:41:57.146Z,cin7_core_api,0.2.0,1,PostCo,MIT,"A small, explicit Ruby client for CIN7 Core API v2 reads and writes, without automatic retries."
+2026-09-29T04:50:39.854Z,lingara,0.0.0,0,Christopher Goddard,MIT,Use this api client to interact with the Lingara language platform.

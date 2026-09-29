@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 04:19 UTC
+## Latest list — 2026-09-29 05:21 UTC
 
-New gems created between 2026-09-29 03:21 UTC and 2026-09-29 04:19 UTC.
+New gems created between 2026-09-29 04:19 UTC and 2026-09-29 05:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-29T04-19-13-113417Z.csv)
+[Full CSV](data/new-gems-2026-09-29T05-21-23-776602Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-29 04:05:39 | [ruby_llm-llm_judge](https://rubygems.org/gems/ruby_llm-llm_judge) | 0.1.3 | JP Camara | MIT | Answers probability, choice, and score questions with any RubyLLM chat model, u… |
+| 2026-09-29 04:41:57 | [cin7_core_api](https://rubygems.org/gems/cin7_core_api) | 0.2.0 | PostCo | MIT | A small, explicit Ruby client for CIN7 Core API v2 reads and writes, without au… |
+| 2026-09-29 04:50:39 | [lingara](https://rubygems.org/gems/lingara) | 0.0.0 | Christopher Goddard | MIT | Use this api client to interact with the Lingara language platform. |
 
 ## Data source
 
