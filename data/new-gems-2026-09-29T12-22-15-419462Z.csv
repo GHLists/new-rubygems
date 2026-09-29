@@ -1,0 +1,19 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-29T12:07:16.183Z,ace-runtime,0.1.0,14,Michal Czyz,MIT,"One duck-typed intent API for terminal runtimes: adapter registry with fail-closed resolution, side-effect-free detection, shared name sanitization, typed errors, central send-matrix validation, the ace-runtime send callback CLI, and the shared adapter contract-test suite."
+2026-09-29T12:07:16.361Z,ace-lab,0.1.0,24,Michal Czyz,MIT,"Read-only topology registry and capability router. Resolves stable project, agent, and service IDs from ADR-022 configuration without invoking Lab, reading credentials, tracking work, or guessing transient pane/session identifiers."
+2026-09-29T12:14:09.292Z,gemstack-core,0.2.5,21,"Adware Technologies, Shoaib Malik",MIT,The dependency-free foundation every GemStack module builds on.
+2026-09-29T12:14:12.056Z,gemstack-cache,0.2.5,8,"Adware Technologies, Shoaib Malik",MIT,"GemStack cache: GemStack.cache.fetch with memory, null and Redis stores"
+2026-09-29T12:14:13.669Z,gemstack-schema,0.2.5,15,"Adware Technologies, Shoaib Malik",MIT,"GemStack schema: shared types, request schemas and serializers"
+2026-09-29T12:14:15.243Z,gemstack-http,0.2.5,10,"Adware Technologies, Shoaib Malik",MIT,"The API layer of GemStack, built on Rack 3."
+2026-09-29T12:14:16.952Z,gemstack-db,0.2.5,8,"Adware Technologies, Shoaib Malik",MIT,"GemStack database: Sequel models and migrations for SQLite, PostgreSQL and MySQL"
+2026-09-29T12:14:18.56Z,gemstack-jobs,0.2.5,7,"Adware Technologies, Shoaib Malik",MIT,"GemStack background jobs: a queue in the app's database by default, swappable adapters"
+2026-09-29T12:14:20.867Z,gemstack-realtime,0.2.5,8,"Adware Technologies, Shoaib Malik",MIT,GemStack realtime: GemStack.broadcast to browsers over Server-Sent Events
+2026-09-29T12:14:22.392Z,gemstack-mail,0.2.5,9,"Adware Technologies, Shoaib Malik",MIT,"GemStack mail: mailers, templates, SMTP/log/test delivery, deliver_later via jobs"
+2026-09-29T12:14:24.922Z,gemstack-storage,0.2.5,7,"Adware Technologies, Shoaib Malik",MIT,"GemStack storage: disk and S3 services, signed URLs, direct uploads"
+2026-09-29T12:14:26.748Z,gemstack-auth,0.2.5,11,"Adware Technologies, Shoaib Malik",MIT,"GemStack auth: Argon2id passwords, cookie sessions, API tokens, policies"
+2026-09-29T12:14:28.281Z,gemstack-contract,0.2.5,11,"Adware Technologies, Shoaib Malik",MIT,"GemStack contract: TypeScript types, API clients and OpenAPI from the backend"
+2026-09-29T12:14:29.862Z,gemstack-dev,0.2.5,8,"Adware Technologies, Shoaib Malik",MIT,GemStack development server: single-origin gateway and process supervisor
+2026-09-29T12:14:31.768Z,gemstack-cli,0.2.5,10,"Adware Technologies, Shoaib Malik",MIT,GemStack command-line interface and generators
+2026-09-29T12:14:33.367Z,gemstack,0.2.5,11,"Adware Technologies, Shoaib Malik",MIT,"GemStack: a fast, modular Ruby API framework for Next.js applications"
+2026-09-29T12:17:08.123Z,sandbox-adapter,0.1.2,4,nvoi,MIT,"Sandbox provider contract, command transport over SSH or HTTP, and box setup steps."
+2026-09-29T12:17:10.992Z,sandbox-provider,0.1.3,12,nvoi,MIT,"Sandbox providers for sandbox-adapter: Daytona, E2B, boat.dev and Hetzner."
