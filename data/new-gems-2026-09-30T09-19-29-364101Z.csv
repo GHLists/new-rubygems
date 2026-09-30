@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-30T09:07:30.139Z,gemstack-cli,0.3.1,18,"Adware Technologies, Shoaib Malik",MIT,"Owns the gemstack executable. The CLI itself — generators, dev server, db and jobs commands — is part of the gemstack gem, which installs this one."
+2026-09-30T09:07:33.981Z,gemstack,0.3.1,15,"Adware Technologies, Shoaib Malik",MIT,"Ruby API + Next.js with one origin: routing, controllers, models (SQLite, PostgreSQL, MySQL), background jobs, mail, file storage, a TypeScript contract, generators and a development server. Authentication and realtime are the gemstack-auth and gemstack-realtime gems."
+2026-09-30T09:07:37.899Z,gemstack-auth,0.3.1,6,"Adware Technologies, Shoaib Malik",MIT,"GemStack auth: Argon2id passwords, cookie sessions, API tokens, policies"
+2026-09-30T09:07:40.5Z,gemstack-realtime,0.3.1,9,"Adware Technologies, Shoaib Malik",MIT,GemStack realtime: GemStack.broadcast to browsers over Server-Sent Events
+2026-09-30T09:17:37.237Z,solid-resp-ractor,0.1.3,0,Nicolas Vandenbogaerde,MIT,"Dependency-free RESP command encoding and stream decoding with injectable sources, selectors, clocks, error mappers, and RESP3 type handlers."
