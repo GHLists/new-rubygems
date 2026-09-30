@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-30T17:37:27.484Z,plan_driven,0.2.0,69,Ivan Blažević,MIT,"plan_driven runs a Rails team's delivery process from the command line. A terminal interview turns an idea into an implementation plan grounded in your real schema; the plan is checked by guards written in Ruby, rendered to PDF and approved. Approved plans become tickets, each ticket is handed to a…"
+2026-09-30T18:02:19.071Z,acp-sdk,0.2.0,37,Jake Bottrall,MIT,A Ruby SDK for the Agent Client Protocol.
+2026-09-30T18:07:43.28Z,yabeda-hotcell,0.0.1,16,Mike Dalessio,MIT,Yabeda metrics for HotCell. Reserves the name; the real gem will be published shortly.
