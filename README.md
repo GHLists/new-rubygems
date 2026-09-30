@@ -9,21 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 21:18 UTC
+## Latest list — 2026-09-30 22:19 UTC
 
-New gems created between 2026-09-30 20:18 UTC and 2026-09-30 21:18 UTC.
+New gems created between 2026-09-30 21:18 UTC and 2026-09-30 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-09-30T21-18-54-235194Z.csv)
+[Full CSV](data/new-gems-2026-09-30T22-19-50-362215Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-30 20:19:48 | [bigdecimal-pure](https://rubygems.org/gems/bigdecimal-pure) | 0.2.0 | Andi | MIT | `require 'bigdecimal'` loads the native bigdecimal when it is installed and oth… |
-| 2026-09-30 20:36:51 | [passenger-datadog-stats](https://rubygems.org/gems/passenger-datadog-stats) | 2.0.0 | IronCloud | MIT | A tool for sending Passenger stats to Datadog. A continuation of the abandoned… |
-| 2026-09-30 20:38:20 | [ruby_llm-providers-infomaniak](https://rubygems.org/gems/ruby_llm-providers-infomaniak) | 0.2.0 | Andi Idogawa | MIT | Use the models hosted by Infomaniak AI Tools in Switzerland (Kimi, Qwen, Apertu… |
-| 2026-09-30 20:44:33 | [workspaces](https://rubygems.org/gems/workspaces) | 0.1.2 | Workspaces contributors | MIT | Managed Git worktrees and browser previews for development |
-| 2026-09-30 20:52:41 | [herringbone](https://rubygems.org/gems/herringbone) | 0.2.0 | Julik Tarkhanov | MIT | Reads and writes Apache Parquet files in Ruby, without Thrift or native extensi… |
-| 2026-09-30 20:57:06 | [stablemates-workhorse](https://rubygems.org/gems/stablemates-workhorse) | 0.0.0 | Stablemates | Apache-2.0 | Name reservation for the Workhorse Ruby SDK; real releases start at 0.6.0 |
-| 2026-09-30 21:15:49 | [minitest-impact](https://rubygems.org/gems/minitest-impact) | 0.2.0 | Bruno Costanzo | MIT | Records which lines each Minitest test file executes, then, given a git diff, s… |
+| 2026-09-30 21:22:58 | [solid-jobs](https://rubygems.org/gems/solid-jobs) | 0.1.2 | Nicolas Vandenbogaerde | MIT | Ractor-local job clients and workers with Sidekiq-compatible Redis payloads, qu… |
+| 2026-09-30 21:36:27 | [linear_client](https://rubygems.org/gems/linear_client) | 0.1.0 | Lenio Ferretto | MIT | Cliente minimalista, sem dependencias externas, para criar issues, comentar e c… |
 
 ## Data source
 
