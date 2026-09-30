@@ -1,0 +1,12 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-30T10:35:54.426Z,fast_xlsx,0.1.0,26,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T10:35:54.426Z,fast_xlsx,0.1.0,26,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T10:35:54.426Z,fast_xlsx,0.1.0,26,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T10:35:54.426Z,fast_xlsx,0.1.0,26,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T10:35:54.426Z,fast_xlsx,0.1.0,26,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T10:35:54.426Z,fast_xlsx,0.1.0,26,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T10:35:54.426Z,fast_xlsx,0.1.0,26,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T10:35:54.426Z,fast_xlsx,0.1.0,26,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T10:35:54.426Z,fast_xlsx,0.1.0,26,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T10:50:25.534Z,gemstack-cli,0.3.3,50,"Adware Technologies, Shoaib Malik",MIT,"Owns the gemstack and gsk executable launchers. The CLI itself — generators, dev server, db and jobs commands — is part of the gemstack gem, which installs this one."
+2026-09-30T10:50:26.864Z,gemstack,0.3.3,44,"Adware Technologies, Shoaib Malik",MIT,"Ruby API + Next.js with one origin: routing, controllers, models (SQLite, PostgreSQL, MySQL), background jobs, mail, file storage, a TypeScript contract, generators and a development server. Authentication and realtime are the gemstack-auth and gemstack-realtime gems."
