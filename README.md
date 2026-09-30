@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 07:18 UTC
+## Latest list — 2026-09-30 08:18 UTC
 
-New gems created between 2026-09-30 06:20 UTC and 2026-09-30 07:18 UTC.
+New gems created between 2026-09-30 07:18 UTC and 2026-09-30 08:18 UTC.
 
-[Full CSV](data/new-gems-2026-09-30T07-18-53-747434Z.csv)
+[Full CSV](data/new-gems-2026-09-30T08-18-47-251799Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-30 06:52:07 | [bandoola](https://rubygems.org/gems/bandoola) | 0.1.0 | Johan Halse | MIT | Bandoola builds PDF documents from plain Ruby, styling elements with a Tailwind… |
+| 2026-09-30 07:42:41 | [bandoola](https://rubygems.org/gems/bandoola) | 0.2.0 | Johan Halse | MIT | Bandoola builds PDF documents from plain Ruby, styling elements with a Tailwind… |
 
 ## Data source
 

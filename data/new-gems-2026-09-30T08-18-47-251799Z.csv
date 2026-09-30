@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-30T07:42:41.01Z,bandoola,0.2.0,46,Johan Halse,MIT,"Bandoola builds PDF documents from plain Ruby, styling elements with a Tailwind-inspired class vocabulary. No runtime dependencies."
