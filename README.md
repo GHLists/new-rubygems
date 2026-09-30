@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 18:21 UTC
+## Latest list — 2026-09-30 19:19 UTC
 
-New gems created between 2026-09-30 17:19 UTC and 2026-09-30 18:21 UTC.
+New gems created between 2026-09-30 18:21 UTC and 2026-09-30 19:19 UTC.
 
-[Full CSV](data/new-gems-2026-09-30T18-21-42-032774Z.csv)
+[Full CSV](data/new-gems-2026-09-30T19-19-51-095995Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-30 17:37:27 | [plan_driven](https://rubygems.org/gems/plan_driven) | 0.2.0 | Ivan Blažević | MIT | plan_driven runs a Rails team's delivery process from the command line. A termi… |
-| 2026-09-30 18:02:19 | [acp-sdk](https://rubygems.org/gems/acp-sdk) | 0.2.0 | Jake Bottrall | MIT | A Ruby SDK for the Agent Client Protocol. |
-| 2026-09-30 18:07:43 | [yabeda-hotcell](https://rubygems.org/gems/yabeda-hotcell) | 0.0.1 | Mike Dalessio | MIT | Yabeda metrics for HotCell. Reserves the name; the real gem will be published s… |
+| 2026-09-30 18:29:31 | [solid-jobs](https://rubygems.org/gems/solid-jobs) | 0.1.0 | Nicolas Vandenbogaerde | MIT | Ractor-local job clients and workers with Sidekiq-compatible Redis payloads, qu… |
+| 2026-09-30 19:03:47 | [ruby_llm-claude_cli](https://rubygems.org/gems/ruby_llm-claude_cli) | 0.1.0 | Andreas Idogawa | MIT | Use Claude Code (and its subscription login) as a RubyLLM provider: streaming,… |
+| 2026-09-30 19:06:20 | [workspaces](https://rubygems.org/gems/workspaces) | 0.1.0 | Workspaces contributors | MIT | Managed Git worktrees and browser previews for development |
 
 ## Data source
 

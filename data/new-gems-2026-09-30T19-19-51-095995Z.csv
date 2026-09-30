@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-30T18:29:31.531Z,solid-jobs,0.1.0,46,Nicolas Vandenbogaerde,MIT,"Ractor-local job clients and workers with Sidekiq-compatible Redis payloads, queues, scheduling, and retries."
+2026-09-30T19:03:47.268Z,ruby_llm-claude_cli,0.1.0,17,Andreas Idogawa,MIT,"Use Claude Code (and its subscription login) as a RubyLLM provider: streaming, images, PDFs, Office files, structured output and emulated tool calls over `claude -p`."
+2026-09-30T19:06:20.898Z,workspaces,0.1.0,12,Workspaces contributors,MIT,Managed Git worktrees and browser previews for development
