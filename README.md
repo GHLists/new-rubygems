@@ -9,23 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 15:21 UTC
+## Latest list — 2026-09-30 16:22 UTC
 
-New gems created between 2026-09-30 14:19 UTC and 2026-09-30 15:21 UTC.
+New gems created between 2026-09-30 15:21 UTC and 2026-09-30 16:22 UTC.
 
-[Full CSV](data/new-gems-2026-09-30T15-21-27-484146Z.csv)
+[Full CSV](data/new-gems-2026-09-30T16-22-07-258603Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-09-30 15:27:04 | [pennycress](https://rubygems.org/gems/pennycress) | 0.0.1 | Justin Locsei | MIT | Pennycress allows Rails apps to precompute and cache expensive logic, with fine… |
+| 2026-09-30 16:07:01 | [valid_email_checker](https://rubygems.org/gems/valid_email_checker) | 0.1.0 | J. Callahan | AGPL-3.0-only | valid_email_checker embeds the Rust crate check-if-email-exists and exposes it… |
+| 2026-09-30 16:15:06 | [rails_event_viewer](https://rubygems.org/gems/rails_event_viewer) | 0.1.2 | Keshav Biswa | MIT | RailsEventViewer provides a web interface to browse, search, and analyze struct… |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-30T15:27:04.141Z,pennycress,0.0.1,49,Justin Locsei,MIT,"Pennycress allows Rails apps to precompute and cache expensive logic, with fine-grained invalidation and support for targeted cache warming."
+2026-09-30T16:07:01.861Z,valid_email_checker,0.1.0,17,J. Callahan,AGPL-3.0-only,"valid_email_checker embeds the Rust crate check-if-email-exists and exposes it to Ruby as a native extension. It validates syntax, looks up MX records, holds an SMTP conversation with the recipient's mail exchanger, and reports disposable, role-based and catch-all addresses -- all in-process, with…"
+2026-09-30T16:15:06.695Z,rails_event_viewer,0.1.2,10,Keshav Biswa,MIT,"RailsEventViewer provides a web interface to browse, search, and analyze structured events emitted via Rails.event. Features include event listing, filtering, search, and analytics dashboards."
