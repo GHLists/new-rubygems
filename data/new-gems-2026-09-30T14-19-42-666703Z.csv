@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-30T13:33:13.171Z,vertodigital,0.1.0,52,VertoDigital,MIT,"Official Ruby SDK for VertoDigital's anonymous REST API: health, paginated case studies, contact enquiries, the OpenAPI spec, and markdown mirrors of every page on vertodigital.com."
+2026-09-30T13:57:14.717Z,pretty_tree,0.1.0,32,Riccardo Giomi,MIT,"PrettyTree renders tree-shaped data as readable ASCII diagrams. Useful in #inspect output, log lines, or anywhere you want to see a tree's structure at a glance instead of a nested inspect dump. Works out of the box with nested-array trees, and extends to any node type via a small Adapter/Formatter…"
