@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 22:19 UTC
+## Latest list — 2026-09-30 23:18 UTC
 
-New gems created between 2026-09-30 21:18 UTC and 2026-09-30 22:19 UTC.
+New gems created between 2026-09-30 22:19 UTC and 2026-09-30 23:18 UTC.
 
-[Full CSV](data/new-gems-2026-09-30T22-19-50-362215Z.csv)
+[Full CSV](data/new-gems-2026-09-30T23-18-56-789425Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-30 21:22:58 | [solid-jobs](https://rubygems.org/gems/solid-jobs) | 0.1.2 | Nicolas Vandenbogaerde | MIT | Ractor-local job clients and workers with Sidekiq-compatible Redis payloads, qu… |
-| 2026-09-30 21:36:27 | [linear_client](https://rubygems.org/gems/linear_client) | 0.1.0 | Lenio Ferretto | MIT | Cliente minimalista, sem dependencias externas, para criar issues, comentar e c… |
+| 2026-09-30 22:26:42 | [grpc_service_mesh](https://rubygems.org/gems/grpc_service_mesh) | 0.17.1 | Bryant Morrill, Paymentbox | MIT | Ruby library for the gRPC Service Mesh API |
+| 2026-09-30 22:38:39 | [service_mesh_nats](https://rubygems.org/gems/service_mesh_nats) | 0.7.0 | Bryant Morrill, Paymentbox | MIT | Ruby implementation of the Service Mesh API Specification over NATS |
 
 ## Data source
 
