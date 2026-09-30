@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-30T16:27:20.556Z,pretty_tree,0.1.1,80,Riccardo Giomi,MIT,"PrettyTree renders tree-shaped data as readable ASCII diagrams. Useful in #inspect output, log lines, or anywhere you want to see a tree's structure at a glance instead of a nested inspect dump. Works out of the box with nested-array trees, and extends to any node type via a small Adapter/Formatter…"
+2026-09-30T16:32:15.295Z,acp-sdk,0.1.0,48,Jake Bottrall,MIT,An Agent Client Protocol (ACP) server for exposing agents and a client for driving them.
+2026-09-30T16:36:08.397Z,rpg-callouts,1.0.0,48,directsun,MIT,"Just the Docs callouts for RPG adventures (monster, item)."
+2026-09-30T16:48:46.999Z,herringbone,0.1.0,39,Julik Tarkhanov,MIT,Reads and writes Apache Parquet files without native extensions or Thrift. Snappy and LZ4 are implemented in Ruby; ZSTD and Brotli are used when their gems are present.
