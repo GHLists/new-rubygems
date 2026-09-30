@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-30T03:07:56.436Z,dopairb,0.2.0,19,Koichi Sasada,MIT,"dopairb extends IRB with game-like terminal effects: sparks while typing, a wind-up and impact on every evaluation, big banners for combos and comebacks, and readable plain text left behind for copy & paste."

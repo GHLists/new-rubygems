@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 02:22 UTC
+## Latest list — 2026-09-30 03:20 UTC
 
-New gems created between 2026-09-30 01:19 UTC and 2026-09-30 02:22 UTC.
+New gems created between 2026-09-30 02:22 UTC and 2026-09-30 03:20 UTC.
 
-[Full CSV](data/new-gems-2026-09-30T02-22-07-785464Z.csv)
+[Full CSV](data/new-gems-2026-09-30T03-20-46-197479Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-30 01:40:33 | [ss-rails_application-development](https://rubygems.org/gems/ss-rails_application-development) | 0.0.1 | Ethan Garofolo | MIT | A mixin for a Rails application's config/application.rb that centralizes the co… |
-| 2026-09-30 02:12:03 | [spree_common_shipping_method_splitter](https://rubygems.org/gems/spree_common_shipping_method_splitter) | 1.0.1 | be agile Co., Ltd. | AGPL-3.0-or-later | Replaces the Spree::Stock::Splitter::ShippingCategory stock splitter so that pa… |
+| 2026-09-30 03:07:56 | [dopairb](https://rubygems.org/gems/dopairb) | 0.2.0 | Koichi Sasada | MIT | dopairb extends IRB with game-like terminal effects: sparks while typing, a win… |
 
 ## Data source
 
