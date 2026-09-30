@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 23:20 UTC
+## Latest list — 2026-09-30 01:19 UTC
 
-New gems created between 2026-09-29 22:22 UTC and 2026-09-29 23:20 UTC.
+New gems created between 2026-09-30 00:19 UTC and 2026-09-30 01:19 UTC.
 
-[Full CSV](data/new-gems-2026-09-29T23-20-44-083179Z.csv)
+[Full CSV](data/new-gems-2026-09-30T01-19-24-993267Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-29 22:57:37 | [slurm_hostlist](https://rubygems.org/gems/slurm_hostlist) | 0.1.0 | Travis Ravert | MIT | Pure Ruby, dependency-free expansion and compression of Slurm hostlist expressi… |
-| 2026-09-29 23:05:09 | [service_mesh_nats](https://rubygems.org/gems/service_mesh_nats) | 0.6.0 | Bryant Morrill, Paymentbox | MIT | Ruby implementation of the Service Mesh API Specification over NATS |
-| 2026-09-29 23:16:22 | [airtable_client](https://rubygems.org/gems/airtable_client) | 0.1.0 | David Silva | MIT | Ruby client for the Airtable Web API with zero runtime dependencies: persistent… |
+| 2026-09-30 01:19:18 | [ss-rails_application-development](https://rubygems.org/gems/ss-rails_application-development) | 0.0.0 | Ethan Garofolo | MIT | A mixin for a Rails application's config/application.rb that centralizes the co… |
 
 ## Data source
 
