@@ -9,16 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 14:19 UTC
+## Latest list — 2026-09-30 15:21 UTC
 
-New gems created between 2026-09-30 13:19 UTC and 2026-09-30 14:19 UTC.
+New gems created between 2026-09-30 14:19 UTC and 2026-09-30 15:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-30T14-19-42-666703Z.csv)
+[Full CSV](data/new-gems-2026-09-30T15-21-27-484146Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-30 13:33:13 | [vertodigital](https://rubygems.org/gems/vertodigital) | 0.1.0 | VertoDigital | MIT | Official Ruby SDK for VertoDigital's anonymous REST API: health, paginated case… |
-| 2026-09-30 13:57:14 | [pretty_tree](https://rubygems.org/gems/pretty_tree) | 0.1.0 | Riccardo Giomi | MIT | PrettyTree renders tree-shaped data as readable ASCII diagrams. Useful in #insp… |
+| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-09-30 14:53:56 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.1.2 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
 
 ## Data source
 
