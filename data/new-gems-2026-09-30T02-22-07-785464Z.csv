@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-30T01:40:33.866Z,ss-rails_application-development,0.0.1,130,Ethan Garofolo,MIT,"A mixin for a Rails application's config/application.rb that centralizes the config.* settings used to run a local development server, so they don't have to be duplicated across projects."
+2026-09-30T02:12:03.104Z,spree_common_shipping_method_splitter,1.0.1,9,"be agile Co., Ltd.",AGPL-3.0-or-later,Replaces the Spree::Stock::Splitter::ShippingCategory stock splitter so that packages are split by shipping category only when the categories have no shipping method in common
