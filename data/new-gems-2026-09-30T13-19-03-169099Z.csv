@@ -1,0 +1,13 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-09-30T11:31:41.053Z,fast_xlsx,0.1.1,36,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T11:31:41.053Z,fast_xlsx,0.1.1,36,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T11:31:41.053Z,fast_xlsx,0.1.1,36,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T11:31:41.053Z,fast_xlsx,0.1.1,36,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T11:31:41.053Z,fast_xlsx,0.1.1,36,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T11:31:41.053Z,fast_xlsx,0.1.1,36,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T11:31:41.053Z,fast_xlsx,0.1.1,36,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T11:31:41.053Z,fast_xlsx,0.1.1,36,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T11:31:41.053Z,fast_xlsx,0.1.1,36,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-09-30T12:30:40.025Z,rails_event_viewer,0.1.1,179,Keshav Biswa,MIT,"RailsEventViewer provides a web interface to browse, search, and analyze structured events emitted via Rails.event. Features include event listing, filtering, search, and analytics dashboards."
+2026-09-30T13:15:25.52Z,runapi-typesafe,0.3.0,0,RunAPI,Apache-2.0,"The TypeSafe Ruby SDK is the language-specific package for TypeSafe Jev on RunAPI. Use this package when your application needs typed request builders, calibrated decision answers, and consistent RunAPI errors in Ruby."
+2026-09-30T13:16:36.546Z,lean_struct,0.1.0,0,Serhii Ripchanskyi,MIT,"LeanStruct builds plain Ruby Struct classes with type checks, optional and nullable attributes, nested structs and recursive to_h. A lightweight, dependency-free alternative to Dry::Struct for simple entities."
