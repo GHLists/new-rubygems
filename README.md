@@ -9,18 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 11:19 UTC
+## Latest list — 2026-10-01 12:19 UTC
 
-New gems created between 2026-10-01 10:20 UTC and 2026-10-01 11:19 UTC.
+New gems created between 2026-10-01 11:19 UTC and 2026-10-01 12:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T11-19-25-559726Z.csv)
+[Full CSV](data/new-gems-2026-10-01T12-19-17-289966Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 10:25:35 | [chunky_bacon](https://rubygems.org/gems/chunky_bacon) | 0.1.2 | Andi Idogawa | MIT; CC-BY-SA-4.0 | The companion gem of "Learn Ruby with Chunky Bacon", an interactive Ruby course… |
-| 2026-10-01 10:25:36 | [chunkybacon](https://rubygems.org/gems/chunkybacon) | 0.1.1 | Andi Idogawa | MIT | Installing chunkybacon installs chunky_bacon, and requiring chunkybacon loads i… |
-| 2026-10-01 10:25:37 | [chunky-bacon](https://rubygems.org/gems/chunky-bacon) | 0.1.1 | Andi Idogawa | MIT | Installing chunky-bacon installs chunky_bacon, and requiring chunky-bacon loads… |
-| 2026-10-01 10:30:14 | [plan_driven](https://rubygems.org/gems/plan_driven) | 0.3.0 | Ivan Blažević | MIT | plan_driven runs a Rails team's delivery process inside your Rails app, from a… |
+| 2026-10-01 11:20:18 | [lingara-embed](https://rubygems.org/gems/lingara-embed) | 0.0.0 | Christopher Goddard | MIT | Embed Lingara in games and other platforms, with Ruby. |
+| 2026-10-01 11:46:59 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.5.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 11:46:59 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.5.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 11:46:59 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.5.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 11:46:59 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.5.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 11:46:59 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.5.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 11:46:59 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.5.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 11:46:59 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.5.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 11:46:59 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.5.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 11:46:59 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.5.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 12:14:54 | [pennycress](https://rubygems.org/gems/pennycress) | 0.0.2 | Justin Locsei | MIT | Pennycress allows Rails apps to precompute and cache expensive logic, with fine… |
+| 2026-10-01 12:16:46 | [chunky_bacon](https://rubygems.org/gems/chunky_bacon) | 0.1.3 | Andi Idogawa | MIT; CC-BY-SA-4.0 | The companion gem of "Learn Ruby with Chunky Bacon", an interactive Ruby course… |
 
 ## Data source
 
