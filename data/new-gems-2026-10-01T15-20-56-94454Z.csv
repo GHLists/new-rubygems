@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T14:52:24.113Z,r2ui,0.1.0,47,Ryan Gavin,MIT,"Declare resources, scopes, groupings, columns and actions; R2UI draws the tables, charts and key bindings in your terminal."
+2026-10-01T15:09:24.387Z,pennycress,0.0.3,16,Justin Locsei,MIT,"Pennycress allows Rails apps to precompute and cache expensive logic, with fine-grained invalidation and support for targeted cache warming."
