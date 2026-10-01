@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 01:20 UTC
+## Latest list — 2026-10-01 02:21 UTC
 
-New gems created between 2026-10-01 00:21 UTC and 2026-10-01 01:20 UTC.
+New gems created between 2026-10-01 01:20 UTC and 2026-10-01 02:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T01-20-01-103683Z.csv)
+[Full CSV](data/new-gems-2026-10-01T02-21-16-478268Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 00:38:07 | [dummy-Tax](https://rubygems.org/gems/dummy-Tax) | 0.1.0 | Mix Irving | MIT | Benign test gem: calculates NZ resident income tax by walking marginal brackets… |
+| 2026-10-01 01:31:25 | [entitler](https://rubygems.org/gems/entitler) | 0.0.1 | 1843 Inc. | MIT | Official Entitler SDK for Ruby (not yet available) |
 
 ## Data source
 
