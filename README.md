@@ -9,24 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 18:21 UTC
+## Latest list — 2026-10-01 19:19 UTC
 
-New gems created between 2026-10-01 17:22 UTC and 2026-10-01 18:21 UTC.
+New gems created between 2026-10-01 18:21 UTC and 2026-10-01 19:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T18-21-42-418032Z.csv)
+[Full CSV](data/new-gems-2026-10-01T19-19-29-811712Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 17:31:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.7.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 17:31:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.7.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 17:31:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.7.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 17:31:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.7.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 17:31:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.7.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 17:31:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.7.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 17:31:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.7.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 17:31:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.7.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 17:31:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.7.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 18:06:50 | [workspaces](https://rubygems.org/gems/workspaces) | 0.1.3 | Workspaces contributors | MIT | Managed Git worktrees and browser previews for development |
+| 2026-10-01 18:26:01 | [secscan](https://rubygems.org/gems/secscan) | 0.1.0 | Saulo Filho | MIT | Static analysis engine for JavaScript and TypeScript trees. Detects hardcoded s… |
+| 2026-10-01 18:53:40 | [solid-jobs](https://rubygems.org/gems/solid-jobs) | 0.1.3 | Nicolas Vandenbogaerde | MIT | Ractor-local job clients and workers with Sidekiq-compatible Redis payloads, qu… |
+| 2026-10-01 19:07:12 | [planka-cli](https://rubygems.org/gems/planka-cli) | 0.1.1 | Marshall Yount |  | Pick, claim and link Planka cards, inspect branch handoffs, and close completed… |
+| 2026-10-01 19:15:18 | [gebze-hamaliye](https://rubygems.org/gems/gebze-hamaliye) | 1.0.2 | Erol ILHAN | MIT | Ruby helper for Gebze Uygun Hamaliye moving-cost estimates and WhatsApp booking… |
 
 ## Data source
 

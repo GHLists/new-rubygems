@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T18:26:01.31Z,secscan,0.1.0,46,Saulo Filho,MIT,"Static analysis engine for JavaScript and TypeScript trees. Detects hardcoded secrets, high-entropy tokens, and sensitive API paths, then emits table, JSON, CSV, SARIF, or Markdown. Fails CI when a severity threshold or cumulative impact score is exceeded. Serialized reports mask matched values."
+2026-10-01T18:53:40.037Z,solid-jobs,0.1.3,78,Nicolas Vandenbogaerde,MIT,"Ractor-local job clients and workers with Sidekiq-compatible Redis payloads, queues, scheduling, and retries."
+2026-10-01T19:07:12.598Z,planka-cli,0.1.1,22,Marshall Yount,,"Pick, claim and link Planka cards, inspect branch handoffs, and close completed specs."
+2026-10-01T19:15:18.063Z,gebze-hamaliye,1.0.2,0,Erol ILHAN,MIT,Ruby helper for Gebze Uygun Hamaliye moving-cost estimates and WhatsApp booking links. Official site: https://gebze.uygunhamaliye.com/
