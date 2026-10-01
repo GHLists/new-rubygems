@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T09:27:43.055Z,snell,0.1.0,75,Snell Ruby contributors,MIT,A Ruby implementation of Snell TCP streams and UDP associations with bounded asynchronous I/O.
+2026-10-01T09:34:39.617Z,chunkybacon,0.1.0,75,Andi Idogawa,MIT,"Installing chunkybacon installs chunky_bacon, and requiring chunkybacon loads it. Use whichever name you like; they are the same library."
+2026-10-01T09:34:40.99Z,chunky-bacon,0.1.0,72,Andi Idogawa,MIT,"Installing chunky-bacon installs chunky_bacon, and requiring chunky-bacon loads it. Use whichever name you like; they are the same library."
+2026-10-01T09:36:08.544Z,anytls,0.1.0,67,AnyTLS Ruby contributors,MIT,"A Ruby implementation of the AnyTLS protocol, with TCP, UDP-over-TCP and mixed proxy listeners."
+2026-10-01T09:51:40.351Z,vogoo-ai-character-maker,0.1.0,46,Ethan Carter,MIT,AI Character Maker on Vogoo — create consistent AI characters from text or photo.
+2026-10-01T10:02:33.23Z,prt,0.3.0,23,Deepak Kumar,MIT,"A static blogging tool written in ruby, posts are in markdown format"
+2026-10-01T10:04:00.693Z,activeadmin_configurable_columns,1.0.0,20,Kyryl Oliinyk,MIT,"Lets every admin choose which columns of an ActiveAdmin index table they see. Adds a `configurable_columns` DSL to declare the available columns, renders a ""Columns"" picker in the index sidebar and on a central ""Table columns"" page, and stores each admin's choice in the database."
+2026-10-01T10:16:24.799Z,chunky_bacon,0.1.1,0,Andi Idogawa,MIT; CC-BY-SA-4.0,"The companion gem of ""Learn Ruby with Chunky Bacon"", an interactive Ruby course that runs in the browser. require ""chunky_bacon"" gives a program the course's helpers - show_image, show_pdf, show_browser, download_file, mock_get, show_irb, show_files, run_tests, install_gem - so code written in the…"
