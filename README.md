@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 02:21 UTC
+## Latest list — 2026-10-01 03:20 UTC
 
-New gems created between 2026-10-01 01:20 UTC and 2026-10-01 02:21 UTC.
+New gems created between 2026-10-01 02:21 UTC and 2026-10-01 03:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T02-21-16-478268Z.csv)
+[Full CSV](data/new-gems-2026-10-01T03-20-12-379625Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 01:31:25 | [entitler](https://rubygems.org/gems/entitler) | 0.0.1 | 1843 Inc. | MIT | Official Entitler SDK for Ruby (not yet available) |
+| 2026-10-01 03:19:00 | [ankusa-sdk](https://rubygems.org/gems/ankusa-sdk) | 0.3.0 | James Carr | Apache-2.0 | Client SDK for Ankusa deployments. Bundles the claim-check gateway client, the… |
 
 ## Data source
 

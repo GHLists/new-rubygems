@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T03:19:00.262Z,ankusa-sdk,0.3.0,0,James Carr,Apache-2.0,"Client SDK for Ankusa deployments. Bundles the claim-check gateway client, the route-management and operator (admin) clients, the source-management client, and a webhook-receiving header helper; more clients (ingest) land here as they're built."
