@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 19:19 UTC
+## Latest list — 2026-10-01 20:20 UTC
 
-New gems created between 2026-10-01 18:21 UTC and 2026-10-01 19:19 UTC.
+New gems created between 2026-10-01 19:19 UTC and 2026-10-01 20:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T19-19-29-811712Z.csv)
+[Full CSV](data/new-gems-2026-10-01T20-20-57-833134Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 18:26:01 | [secscan](https://rubygems.org/gems/secscan) | 0.1.0 | Saulo Filho | MIT | Static analysis engine for JavaScript and TypeScript trees. Detects hardcoded s… |
-| 2026-10-01 18:53:40 | [solid-jobs](https://rubygems.org/gems/solid-jobs) | 0.1.3 | Nicolas Vandenbogaerde | MIT | Ractor-local job clients and workers with Sidekiq-compatible Redis payloads, qu… |
-| 2026-10-01 19:07:12 | [planka-cli](https://rubygems.org/gems/planka-cli) | 0.1.1 | Marshall Yount |  | Pick, claim and link Planka cards, inspect branch handoffs, and close completed… |
-| 2026-10-01 19:15:18 | [gebze-hamaliye](https://rubygems.org/gems/gebze-hamaliye) | 1.0.2 | Erol ILHAN | MIT | Ruby helper for Gebze Uygun Hamaliye moving-cost estimates and WhatsApp booking… |
+| 2026-10-01 19:39:51 | [aws-sdk-endusermessaging](https://rubygems.org/gems/aws-sdk-endusermessaging) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for AWS End User Messaging. This gem is part of the AWS S… |
+| 2026-10-01 19:39:51 | [aws-sdk-lambdaweb](https://rubygems.org/gems/aws-sdk-lambdaweb) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Lambda Web. This gem is part of the AWS SDK for Ruby. |
+| 2026-10-01 20:07:27 | [belt-jobs](https://rubygems.org/gems/belt-jobs) | 0.0.1 | Stowzilla | MIT | A Belt plugin that runs Active Job on AWS Lambda with SQS, EventBridge Schedule… |
 
 ## Data source
 
