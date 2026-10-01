@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T13:41:19.462Z,browser.rb,0.16.0,64,thoran,MIT,"Read the bookmarks and history of the web browsers on a machine, Brave, Chrome, Chromium, Firefox, Safari and Tor Browser, and render them to CSV, JSON or a property list. Bookmarks come through as one representation whatever the browser; history as each browser stores it."

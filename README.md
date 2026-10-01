@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 13:20 UTC
+## Latest list — 2026-10-01 14:19 UTC
 
-New gems created between 2026-10-01 12:19 UTC and 2026-10-01 13:20 UTC.
+New gems created between 2026-10-01 13:20 UTC and 2026-10-01 14:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T13-20-31-411434Z.csv)
+[Full CSV](data/new-gems-2026-10-01T14-19-47-229476Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 12:58:38 | [rails-shopee-qris](https://rubygems.org/gems/rails-shopee-qris) | 0.1.0 | Azmi | MIT | Generate dynamic QRIS codes and access ShopeePay merchant transactions. |
+| 2026-10-01 13:41:19 | [browser.rb](https://rubygems.org/gems/browser.rb) | 0.16.0 | thoran | MIT | Read the bookmarks and history of the web browsers on a machine, Brave, Chrome,… |
 
 ## Data source
 
