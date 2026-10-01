@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T22:31:19.436Z,yabeda-hotcell,0.6.0,61,Mike Dalessio,MIT,"Yabeda metrics for an application that calls HotCell cells: a counter and a histogram for every call, and gauges polled from each local cell's control socket."
