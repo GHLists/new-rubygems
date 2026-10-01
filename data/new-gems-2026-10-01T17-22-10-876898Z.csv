@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T16:23:07.752Z,pennycress,0.1.0,65,Justin Locsei,MIT,"Pennycress allows Rails apps to precompute and cache expensive logic, with fine-grained invalidation and support for targeted cache warming."
+2026-10-01T16:32:32.697Z,intacct-rest,1.0.0,44,Bernardo Espinoza,MIT,"Allows to use SAGE Rest API for read, create and update SAGE's clients data"
+2026-10-01T16:51:27.351Z,planka-cli,0.1.0,33,Marshall Yount,,"Planka REST API commands for selecting, claiming, linking, and handing off workflow cards."
