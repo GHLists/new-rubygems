@@ -1,0 +1,11 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T04:20:13.853Z,fast_xlsx,0.2.0,25,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-10-01T04:20:13.853Z,fast_xlsx,0.2.0,25,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-10-01T04:20:13.853Z,fast_xlsx,0.2.0,25,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-10-01T04:20:13.853Z,fast_xlsx,0.2.0,25,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-10-01T04:20:13.853Z,fast_xlsx,0.2.0,25,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-10-01T04:20:13.853Z,fast_xlsx,0.2.0,25,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-10-01T04:20:13.853Z,fast_xlsx,0.2.0,25,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-10-01T04:20:13.853Z,fast_xlsx,0.2.0,25,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-10-01T04:20:13.853Z,fast_xlsx,0.2.0,25,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-10-01T04:50:57.638Z,mailhive,0.1.0,56,Naszat,MIT,"Send transactional email through the Mailhive Send API from Ruby and Rails: safe retries with idempotency keys, typed errors, webhook verification and an ActionMailer delivery method. No runtime dependencies."

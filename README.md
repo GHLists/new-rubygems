@@ -9,15 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 03:20 UTC
+## Latest list — 2026-10-01 05:18 UTC
 
-New gems created between 2026-10-01 02:21 UTC and 2026-10-01 03:20 UTC.
+New gems created between 2026-10-01 04:18 UTC and 2026-10-01 05:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T03-20-12-379625Z.csv)
+[Full CSV](data/new-gems-2026-10-01T05-18-49-228218Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 03:19:00 | [ankusa-sdk](https://rubygems.org/gems/ankusa-sdk) | 0.3.0 | James Carr | Apache-2.0 | Client SDK for Ankusa deployments. Bundles the claim-check gateway client, the… |
+| 2026-10-01 04:20:13 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.2.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 04:20:13 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.2.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 04:20:13 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.2.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 04:20:13 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.2.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 04:20:13 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.2.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 04:20:13 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.2.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 04:20:13 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.2.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 04:20:13 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.2.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 04:20:13 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.2.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 04:50:57 | [mailhive](https://rubygems.org/gems/mailhive) | 0.1.0 | Naszat | MIT | Send transactional email through the Mailhive Send API from Ruby and Rails: saf… |
 
 ## Data source
 
