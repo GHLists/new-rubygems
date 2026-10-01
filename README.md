@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 20:20 UTC
+## Latest list — 2026-10-01 21:20 UTC
 
-New gems created between 2026-10-01 19:19 UTC and 2026-10-01 20:20 UTC.
+New gems created between 2026-10-01 20:20 UTC and 2026-10-01 21:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T20-20-57-833134Z.csv)
+[Full CSV](data/new-gems-2026-10-01T21-20-55-882667Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 19:39:51 | [aws-sdk-endusermessaging](https://rubygems.org/gems/aws-sdk-endusermessaging) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for AWS End User Messaging. This gem is part of the AWS S… |
-| 2026-10-01 19:39:51 | [aws-sdk-lambdaweb](https://rubygems.org/gems/aws-sdk-lambdaweb) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Lambda Web. This gem is part of the AWS SDK for Ruby. |
-| 2026-10-01 20:07:27 | [belt-jobs](https://rubygems.org/gems/belt-jobs) | 0.0.1 | Stowzilla | MIT | A Belt plugin that runs Active Job on AWS Lambda with SQS, EventBridge Schedule… |
+| 2026-10-01 20:30:29 | [dannykeane](https://rubygems.org/gems/dannykeane) | 0.1.0 | Danny Keane | MIT | Official Ruby SDK and CLI for the dannykeane.com public API: work history, GitH… |
+| 2026-10-01 20:46:21 | [workspaces](https://rubygems.org/gems/workspaces) | 0.1.4 | Workspaces contributors | MIT | Managed Git worktrees and browser previews for development |
+| 2026-10-01 20:54:33 | [asciidoctor-csl](https://rubygems.org/gems/asciidoctor-csl) | 0.1.0 | Niko Strijbol | EUPL-1.2 | asciidoctor-csl is an Asciidoctor extension that adds CSL support for AsciiDoc… |
+| 2026-10-01 20:57:52 | [planka-cli](https://rubygems.org/gems/planka-cli) | 0.1.2 | Marshall Yount | MIT | Pick, claim and link Planka cards, inspect branch handoffs, and close completed… |
 
 ## Data source
 

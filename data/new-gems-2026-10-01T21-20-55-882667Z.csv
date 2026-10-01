@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T20:30:29.32Z,dannykeane,0.1.0,41,Danny Keane,MIT,"Official Ruby SDK and CLI for the dannykeane.com public API: work history, GitHub contributions, live stats, and the Habbo NPC chat. Zero dependencies."
+2026-10-01T20:46:21.89Z,workspaces,0.1.4,72,Workspaces contributors,MIT,Managed Git worktrees and browser previews for development
+2026-10-01T20:54:33.737Z,asciidoctor-csl,0.1.0,31,Niko Strijbol,EUPL-1.2,asciidoctor-csl is an Asciidoctor extension that adds CSL support for AsciiDoc documents.
+2026-10-01T20:57:52.55Z,planka-cli,0.1.2,49,Marshall Yount,MIT,"Pick, claim and link Planka cards, inspect branch handoffs, and close completed specs."
