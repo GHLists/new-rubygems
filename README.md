@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 00:21 UTC
+## Latest list — 2026-10-01 01:20 UTC
 
-New gems created between 2026-09-30 23:18 UTC and 2026-10-01 00:21 UTC.
+New gems created between 2026-10-01 00:21 UTC and 2026-10-01 01:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T00-21-51-847402Z.csv)
+[Full CSV](data/new-gems-2026-10-01T01-20-01-103683Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 00:00:47 | [lingara-apps](https://rubygems.org/gems/lingara-apps) | 0.0.0 | Christopher Goddard | MIT | Build apps that render cards inside Lingara, with Ruby. |
+| 2026-10-01 00:38:07 | [dummy-Tax](https://rubygems.org/gems/dummy-Tax) | 0.1.0 | Mix Irving | MIT | Benign test gem: calculates NZ resident income tax by walking marginal brackets… |
 
 ## Data source
 

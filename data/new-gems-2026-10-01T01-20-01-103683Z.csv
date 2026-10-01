@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T00:38:07.837Z,dummy-Tax,0.1.0,47,Mix Irving,MIT,Benign test gem: calculates NZ resident income tax by walking marginal brackets. Used for registry testing.
