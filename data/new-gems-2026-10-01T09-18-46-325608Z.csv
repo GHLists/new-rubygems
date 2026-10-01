@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T08:40:11.562Z,herringbone,0.3.0,63,Julik Tarkhanov,MIT,"Reads and writes Apache Parquet files in Ruby, without Thrift or native extensions of its own. Snappy and LZ4 are implemented in Ruby and GZIP uses zlib; ZSTD and Brotli are available when the zstd-ruby / brotli gems are installed."

@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 08:22 UTC
+## Latest list — 2026-10-01 09:18 UTC
 
-New gems created between 2026-10-01 07:21 UTC and 2026-10-01 08:22 UTC.
+New gems created between 2026-10-01 08:22 UTC and 2026-10-01 09:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T08-22-25-575657Z.csv)
+[Full CSV](data/new-gems-2026-10-01T09-18-46-325608Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 07:59:34 | [ruby_llm-providers-infomaniak](https://rubygems.org/gems/ruby_llm-providers-infomaniak) | 0.2.1 | Andi Idogawa | MIT | Use the models hosted by Infomaniak AI Tools in Switzerland (Kimi, Qwen, Apertu… |
-| 2026-10-01 08:13:26 | [foresight](https://rubygems.org/gems/foresight) | 0.1.0 | Ojus Chugh | MIT | Probabilistic demand forecasting for smooth and intermittent series |
+| 2026-10-01 08:40:11 | [herringbone](https://rubygems.org/gems/herringbone) | 0.3.0 | Julik Tarkhanov | MIT | Reads and writes Apache Parquet files in Ruby, without Thrift or native extensi… |
 
 ## Data source
 
