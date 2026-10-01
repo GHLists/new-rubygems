@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 23:18 UTC
+## Latest list — 2026-10-01 00:21 UTC
 
-New gems created between 2026-09-30 22:19 UTC and 2026-09-30 23:18 UTC.
+New gems created between 2026-09-30 23:18 UTC and 2026-10-01 00:21 UTC.
 
-[Full CSV](data/new-gems-2026-09-30T23-18-56-789425Z.csv)
+[Full CSV](data/new-gems-2026-10-01T00-21-51-847402Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-09-30 22:26:42 | [grpc_service_mesh](https://rubygems.org/gems/grpc_service_mesh) | 0.17.1 | Bryant Morrill, Paymentbox | MIT | Ruby library for the gRPC Service Mesh API |
-| 2026-09-30 22:38:39 | [service_mesh_nats](https://rubygems.org/gems/service_mesh_nats) | 0.7.0 | Bryant Morrill, Paymentbox | MIT | Ruby implementation of the Service Mesh API Specification over NATS |
+| 2026-10-01 00:00:47 | [lingara-apps](https://rubygems.org/gems/lingara-apps) | 0.0.0 | Christopher Goddard | MIT | Build apps that render cards inside Lingara, with Ruby. |
 
 ## Data source
 
