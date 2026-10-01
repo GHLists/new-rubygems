@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-01T07:59:34.529Z,ruby_llm-providers-infomaniak,0.2.1,52,Andi Idogawa,MIT,"Use the models hosted by Infomaniak AI Tools in Switzerland (Kimi, Qwen, Apertus, Mistral, ...) through RubyLLM: chat, streaming, tools, structured output, thinking, images and embeddings."
+2026-10-01T08:13:26.203Z,foresight,0.1.0,5,Ojus Chugh,MIT,Probabilistic demand forecasting for smooth and intermittent series

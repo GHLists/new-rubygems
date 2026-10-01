@@ -9,24 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 06:20 UTC
+## Latest list — 2026-10-01 08:22 UTC
 
-New gems created between 2026-10-01 05:18 UTC and 2026-10-01 06:20 UTC.
+New gems created between 2026-10-01 07:21 UTC and 2026-10-01 08:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T06-20-42-436675Z.csv)
+[Full CSV](data/new-gems-2026-10-01T08-22-25-575657Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 05:26:52 | [rails_event_viewer](https://rubygems.org/gems/rails_event_viewer) | 0.1.3 | Keshav Biswa | MIT | RailsEventViewer provides a web interface to browse, search, and analyze struct… |
-| 2026-10-01 06:07:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.4.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 06:07:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.4.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 06:07:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.4.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 06:07:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.4.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 06:07:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.4.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 06:07:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.4.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 06:07:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.4.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 06:07:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.4.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
-| 2026-10-01 06:07:14 | [fast_xlsx](https://rubygems.org/gems/fast_xlsx) | 0.4.0 | Zac | MIT | Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwr… |
+| 2026-10-01 07:59:34 | [ruby_llm-providers-infomaniak](https://rubygems.org/gems/ruby_llm-providers-infomaniak) | 0.2.1 | Andi Idogawa | MIT | Use the models hosted by Infomaniak AI Tools in Switzerland (Kimi, Qwen, Apertu… |
+| 2026-10-01 08:13:26 | [foresight](https://rubygems.org/gems/foresight) | 0.1.0 | Ojus Chugh | MIT | Probabilistic demand forecasting for smooth and intermittent series |
 
 ## Data source
 
