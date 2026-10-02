@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 23:20 UTC
+## Latest list — 2026-10-02 00:18 UTC
 
-New gems created between 2026-10-01 22:21 UTC and 2026-10-01 23:20 UTC.
+New gems created between 2026-10-01 23:20 UTC and 2026-10-02 00:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-01T23-20-07-345699Z.csv)
+[Full CSV](data/new-gems-2026-10-02T00-18-49-987111Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-01 22:31:19 | [yabeda-hotcell](https://rubygems.org/gems/yabeda-hotcell) | 0.6.0 | Mike Dalessio | MIT | Yabeda metrics for an application that calls HotCell cells: a counter and a his… |
+| 2026-10-02 00:08:11 | [jekyll-devto](https://rubygems.org/gems/jekyll-devto) | 0.1.0 | Juan Vásquez | MIT | Generates a feed dev.to imports with the full post (code blocks without Rouge l… |
 
 ## Data source
 

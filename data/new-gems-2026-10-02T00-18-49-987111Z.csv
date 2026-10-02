@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T00:08:11.212Z,jekyll-devto,0.1.0,12,Juan Vásquez,MIT,"Generates a feed dev.to imports with the full post (code blocks without Rouge line numbers, absolute links and images), and a command that publishes the imported drafts once their post is live on your site."
