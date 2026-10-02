@@ -9,17 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 13:19 UTC
+## Latest list — 2026-10-02 14:20 UTC
 
-New gems created between 2026-10-02 12:21 UTC and 2026-10-02 13:19 UTC.
+New gems created between 2026-10-02 13:19 UTC and 2026-10-02 14:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T13-19-43-026886Z.csv)
+[Full CSV](data/new-gems-2026-10-02T14-20-09-003349Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 12:25:12 | [pg_peek](https://rubygems.org/gems/pg_peek) | 0.1.1 | Tomasz Mazur | MIT | A Rails Engine that provides a web UI for monitoring and analyzing PostgreSQL q… |
-| 2026-10-02 12:57:20 | [patchwork-rb](https://rubygems.org/gems/patchwork-rb) | 0.1.0 | Chromablue Labs | MIT | Server-side helpers for integrating with Patchwork: RS256 session tokens, HMAC… |
-| 2026-10-02 13:08:18 | [jsondb-rb](https://rubygems.org/gems/jsondb-rb) | 0.1.0 | shiningray | MIT | jsondb 将单个 JSON 文件作为嵌入式文档数据库：集合/文档 CRUD、点路径与查询操作符（$gt/$in/$regex/$or...）、链式 whe… |
+| 2026-10-02 13:37:15 | [openfootball](https://rubygems.org/gems/openfootball) | 0.0.1 | Gerald Bauer | Public Domain | openfootball - config settings for openfootball repos @ github; incl. mapping o… |
+| 2026-10-02 13:51:30 | [activerecord-multi-tenant-next](https://rubygems.org/gems/activerecord-multi-tenant-next) | 2.5.0 | Citus Data, Patrick Donahue | MIT | A maintained fork of activerecord-multi-tenant (Citus Data) with support for Ra… |
+| 2026-10-02 14:01:42 | [deployangel](https://rubygems.org/gems/deployangel) | 0.1.1 | Jordan Owens | MIT | Aggregates HTTP request behavior in-process and reports one small payload per p… |
+| 2026-10-02 14:13:24 | [inferno_session_browser](https://rubygems.org/gems/inferno_session_browser) | 0.1.0 | Daniel Alistar | Apache-2.0 | Adds a paginated session dashboard and run history to an existing Inferno host… |
+| 2026-10-02 14:16:15 | [trmnlp-test](https://rubygems.org/gems/trmnlp-test) | 0.1.7 | ExcuseMi | MIT | Runs Playwright tests against TRMNL plugins in the trmnlp format: webhook, poll… |
 
 ## Data source
 
