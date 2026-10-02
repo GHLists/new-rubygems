@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 11:21 UTC
+## Latest list — 2026-10-02 12:21 UTC
 
-New gems created between 2026-10-02 10:19 UTC and 2026-10-02 11:21 UTC.
+New gems created between 2026-10-02 11:21 UTC and 2026-10-02 12:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T11-21-49-024421Z.csv)
+[Full CSV](data/new-gems-2026-10-02T12-21-34-800505Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 10:36:29 | [stablemates-workhorse](https://rubygems.org/gems/stablemates-workhorse) | 0.6.0 | Stablemates | Apache-2.0 | Ruby SDK for Workhorse, a durable task queue whose state lives in PostgreSQL |
-| 2026-10-02 10:56:21 | [reports_web](https://rubygems.org/gems/reports_web) | 1.0.0 | Pao@Office | Nonstandard | Reports.Web is a report designer and PDF engine for Japanese business forms (in… |
-| 2026-10-02 11:15:19 | [gridauth](https://rubygems.org/gems/gridauth) | 0.1.0 | jcallahan | MIT | Adds a grid card (a printed table of random characters) as a second factor to R… |
+| 2026-10-02 11:38:08 | [vanken](https://rubygems.org/gems/vanken) | 0.3.0 | Yudai Takada | MIT | Inspect pcap and pcapng captures with a virtual packet list, protocol details,… |
+| 2026-10-02 11:57:48 | [active-chronicle](https://rubygems.org/gems/active-chronicle) | 0.1.0 | Chronicle Core Team | MIT | Chronicle integrates Datomic into Ruby on Rails Active Record, providing seamle… |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T11:38:08.044Z,vanken,0.3.0,81,Yudai Takada,MIT,"Inspect pcap and pcapng captures with a virtual packet list, protocol details, byte view, and display filters."
+2026-10-02T11:57:48.715Z,active-chronicle,0.1.0,34,Chronicle Core Team,MIT,"Chronicle integrates Datomic into Ruby on Rails Active Record, providing seamless CRuby/JRuby transport auto-detection, immutable time-travel queries, and cross-database ACID transaction coordination."
