@@ -9,23 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 16:19 UTC
+## Latest list — 2026-10-02 17:21 UTC
 
-New gems created between 2026-10-02 15:21 UTC and 2026-10-02 16:19 UTC.
+New gems created between 2026-10-02 16:19 UTC and 2026-10-02 17:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T16-19-29-570778Z.csv)
+[Full CSV](data/new-gems-2026-10-02T17-21-15-369806Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 15:38:31 | [trmnlp-test](https://rubygems.org/gems/trmnlp-test) | 0.1.11 | ExcuseMi | MIT | Runs Playwright tests against TRMNL plugins in the trmnlp format: webhook, poll… |
-| 2026-10-02 15:41:30 | [zxing_ffi](https://rubygems.org/gems/zxing_ffi) | 0.1.0 | Will Hibbard | MIT | Extracts barcodes (QR and every symbology zxing-cpp can read) from PNG, JPEG, T… |
-| 2026-10-02 15:41:30 | [zxing_ffi](https://rubygems.org/gems/zxing_ffi) | 0.1.0 | Will Hibbard | MIT | Extracts barcodes (QR and every symbology zxing-cpp can read) from PNG, JPEG, T… |
-| 2026-10-02 15:41:30 | [zxing_ffi](https://rubygems.org/gems/zxing_ffi) | 0.1.0 | Will Hibbard | MIT | Extracts barcodes (QR and every symbology zxing-cpp can read) from PNG, JPEG, T… |
-| 2026-10-02 15:41:30 | [zxing_ffi](https://rubygems.org/gems/zxing_ffi) | 0.1.0 | Will Hibbard | MIT | Extracts barcodes (QR and every symbology zxing-cpp can read) from PNG, JPEG, T… |
-| 2026-10-02 15:41:30 | [zxing_ffi](https://rubygems.org/gems/zxing_ffi) | 0.1.0 | Will Hibbard | MIT | Extracts barcodes (QR and every symbology zxing-cpp can read) from PNG, JPEG, T… |
-| 2026-10-02 15:41:30 | [zxing_ffi](https://rubygems.org/gems/zxing_ffi) | 0.1.0 | Will Hibbard | MIT | Extracts barcodes (QR and every symbology zxing-cpp can read) from PNG, JPEG, T… |
-| 2026-10-02 15:41:30 | [zxing_ffi](https://rubygems.org/gems/zxing_ffi) | 0.1.0 | Will Hibbard | MIT | Extracts barcodes (QR and every symbology zxing-cpp can read) from PNG, JPEG, T… |
-| 2026-10-02 16:10:03 | [openfootball](https://rubygems.org/gems/openfootball) | 0.1.0 | Gerald Bauer | Public Domain | openfootball - config settings for openfootball repos @ github; incl. mapping o… |
+| 2026-10-02 16:43:21 | [deployangel](https://rubygems.org/gems/deployangel) | 0.1.2 | Jordan Owens | MIT | Aggregates HTTP request behavior in-process and reports one small payload per p… |
+| 2026-10-02 17:19:43 | [trmnlp-test](https://rubygems.org/gems/trmnlp-test) | 0.1.14 | ExcuseMi | MIT | Runs Playwright tests against TRMNL plugins in the trmnlp format: webhook, poll… |
 
 ## Data source
 

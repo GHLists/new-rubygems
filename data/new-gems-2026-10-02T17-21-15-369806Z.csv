@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T16:43:21.368Z,deployangel,0.1.2,72,Jordan Owens,MIT,"Aggregates HTTP request behavior in-process and reports one small payload per process per minute to DeployAngel, which verifies each deployment and tells you when it is safe to stop watching it."
+2026-10-02T17:19:43.1Z,trmnlp-test,0.1.14,0,ExcuseMi,MIT,"Runs Playwright tests against TRMNL plugins in the trmnlp format: webhook, polling, static and serverless transforms (Python, Ruby, Node, PHP) with mocked HTTP and a frozen clock, on every TRMNL device model and framework version. The launcher runs the ghcr.io/excusemi/trmnlp-test Docker image."
