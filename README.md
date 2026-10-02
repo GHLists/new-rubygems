@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 10:19 UTC
+## Latest list — 2026-10-02 11:21 UTC
 
-New gems created between 2026-10-02 09:19 UTC and 2026-10-02 10:19 UTC.
+New gems created between 2026-10-02 10:19 UTC and 2026-10-02 11:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T10-19-29-533405Z.csv)
+[Full CSV](data/new-gems-2026-10-02T11-21-49-024421Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 09:23:49 | [scrap4rb](https://rubygems.org/gems/scrap4rb) | 0.1.0 | Robert Hopman | MIT | scrap4rb reads Minitest test files and scores each test for size, branching, mo… |
-| 2026-10-02 09:37:05 | [rails-shopee-qris](https://rubygems.org/gems/rails-shopee-qris) | 0.2.0 | Azmi | MIT | Generate dynamic QRIS codes and access ShopeePay merchant transactions. |
-| 2026-10-02 09:52:55 | [cjk_index](https://rubygems.org/gems/cjk_index) | 0.1.0 | Satoru Nakamura | MIT; Apache-2.0 | Builds a bigram search index in Ruby (with kana, old/new kanji and NFKC normali… |
-| 2026-10-02 09:54:16 | [pg_peek](https://rubygems.org/gems/pg_peek) | 0.1.0 | Tomasz Mazur | MIT | A Rails Engine that provides a web UI for monitoring and analyzing PostgreSQL q… |
+| 2026-10-02 10:36:29 | [stablemates-workhorse](https://rubygems.org/gems/stablemates-workhorse) | 0.6.0 | Stablemates | Apache-2.0 | Ruby SDK for Workhorse, a durable task queue whose state lives in PostgreSQL |
+| 2026-10-02 10:56:21 | [reports_web](https://rubygems.org/gems/reports_web) | 1.0.0 | Pao@Office | Nonstandard | Reports.Web is a report designer and PDF engine for Japanese business forms (in… |
+| 2026-10-02 11:15:19 | [gridauth](https://rubygems.org/gems/gridauth) | 0.1.0 | jcallahan | MIT | Adds a grid card (a printed table of random characters) as a second factor to R… |
 
 ## Data source
 

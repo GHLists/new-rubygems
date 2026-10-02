@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T10:36:29.872Z,stablemates-workhorse,0.6.0,76,Stablemates,Apache-2.0,"Ruby SDK for Workhorse, a durable task queue whose state lives in PostgreSQL"
+2026-10-02T10:56:21.677Z,reports_web,1.0.0,35,Pao@Office,Nonstandard,"Reports.Web is a report designer and PDF engine for Japanese business forms (invoices, estimates, delivery slips, labels, business cards). This gem builds print data (PREPEJ JSON) and renders it to PDF with the Reports.Web engine (C++ WebAssembly, Docker image ghcr.io/reportsweb/engine). Trial buil…"
+2026-10-02T11:15:19.527Z,gridauth,0.1.0,1,jcallahan,MIT,"Adds a grid card (a printed table of random characters) as a second factor to Rails 8+ apps using `bin/rails generate authentication`: per-user cards, card rotation, and a challenge step after the password sign-in."
