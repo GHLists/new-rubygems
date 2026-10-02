@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T06:06:33.579Z,jw_calendar,0.1.0,21,JW Calendar,MIT,"A dependency-free civil-calendar engine for Ruby with proleptic Gregorian and Julian arithmetic, Julian Day Number conversions, ISO week and ordinal dates, month grids, reform cutovers, and boundary analysis. Civil dates are kept separate from instants and time zones."
+2026-10-02T06:08:12.645Z,gritz-core,0.2.0,16,Yudai Takada,MIT,"Transport-independent controllers, routing, middleware, configuration and testing for Gritz."
+2026-10-02T06:14:44.706Z,gritz-native,0.2.0,0,Yudai Takada,MIT,"The native gRPC adapter for Gritz, using the official grpc gem and a thread pool."
+2026-10-02T06:17:29.508Z,gritz,0.2.0,0,Yudai Takada,MIT,"Gritz combines transport-independent controllers, middleware and testing with a gRPC C-core server."
