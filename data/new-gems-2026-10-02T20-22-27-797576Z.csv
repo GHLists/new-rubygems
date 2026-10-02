@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T19:43:50.356Z,aws-sdk-lambdaweb,1.1.0,88,Amazon Web Services,Apache-2.0,Official AWS Ruby gem for Lambda Web. This gem is part of the AWS SDK for Ruby.
+2026-10-02T20:02:39.447Z,gigachat-ruby,0.1.1,41,Aleksandr Dryzhuk,MIT,"Plain-Ruby client for Sber's GigaChat API: chat (v2 and v1) with SSE streaming, embeddings, files, batches, token counting and AI-text detection."
+2026-10-02T20:18:47Z,iorwerth-hub,0.1.1,0,Iorwerth Technologies,MIT,"Sign-in through the Hub (OmniAuth), its /api/v1 client, cached entitlement checks, and a Rack endpoint that verifies the Hub's webhooks."
+2026-10-02T20:22:12.307Z,trmnlp-test,0.1.16,0,ExcuseMi,MIT,"Runs Playwright tests against TRMNL plugins in the trmnlp format: webhook, polling, static and serverless transforms (Python, Ruby, Node, PHP) with mocked HTTP and a frozen clock, on every TRMNL device model and framework version. The launcher runs the ghcr.io/excusemi/trmnlp-test Docker image."
+2026-10-02T20:22:24.292Z,dynamic-active-model-rails,0.16.1,0,Doug Youch,MIT,"Railtie for dynamic-active-model: declare databases in one initializer and get lazily built, reloadable models in CarsDB-style namespaces, with extension files in app/models/cars_db/ and automatic rebuilds after migrations."
