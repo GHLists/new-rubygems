@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T17:46:42.825Z,trmnlp-test,0.1.15,61,ExcuseMi,MIT,"Runs Playwright tests against TRMNL plugins in the trmnlp format: webhook, polling, static and serverless transforms (Python, Ruby, Node, PHP) with mocked HTTP and a frozen clock, on every TRMNL device model and framework version. The launcher runs the ghcr.io/excusemi/trmnlp-test Docker image."
+2026-10-02T18:05:43.266Z,gritz-core,0.5.0,25,Yudai Takada,MIT,"Transport-independent controllers, routing, middleware, configuration and testing for Gritz."
+2026-10-02T18:08:50.908Z,gritz-native,0.5.0,20,Yudai Takada,MIT,"The native gRPC adapter for Gritz, using the official grpc gem and a thread pool."
+2026-10-02T18:11:29.318Z,gritz,0.5.0,1,Yudai Takada,MIT,"Gritz combines transport-independent controllers, middleware and testing with a gRPC C-core server."
+2026-10-02T18:11:30.054Z,gritz-otel,0.2.0,5,Yudai Takada,MIT,"Server and client tracing and worker OTLP metrics for Gritz, initialized after fork."
+2026-10-02T18:17:14.803Z,manza,1.0.0,0,Manza,MIT,"Faraday-based Ruby SDK for the Manza payment platform API. Wraps accounts, customers, invoices, payment links, transactions, and webhook endpoints. HTTPX adapter for HTTP/2 + persistent connections."
