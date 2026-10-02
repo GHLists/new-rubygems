@@ -9,15 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 21:19 UTC
+## Latest list — 2026-10-02 22:19 UTC
 
-New gems created between 2026-10-02 20:22 UTC and 2026-10-02 21:19 UTC.
+New gems created between 2026-10-02 21:19 UTC and 2026-10-02 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T21-19-25-692416Z.csv)
+[Full CSV](data/new-gems-2026-10-02T22-19-41-051504Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 20:29:46 | [dynamic-active-model-rails](https://rubygems.org/gems/dynamic-active-model-rails) | 1.0.0 | Doug Youch | MIT | Railtie for dynamic-active-model: declare databases in one initializer and get… |
+| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
+| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
+| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
+| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
+| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
+| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
+| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
+| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
+| 2026-10-02 22:19:27 | [lavenda-pay-ruby](https://rubygems.org/gems/lavenda-pay-ruby) | 0.0.2 | La Venda Software | MIT | Create customers and orders on Lavenda Pay and verify/parse its webhooks, witho… |
 
 ## Data source
 
