@@ -9,22 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 09:19 UTC
+## Latest list — 2026-10-02 10:19 UTC
 
-New gems created between 2026-10-02 08:19 UTC and 2026-10-02 09:19 UTC.
+New gems created between 2026-10-02 09:19 UTC and 2026-10-02 10:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T09-19-07-236457Z.csv)
+[Full CSV](data/new-gems-2026-10-02T10-19-29-533405Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 08:24:17 | [kaunta](https://rubygems.org/gems/kaunta) | 0.0.0 | Abdelkader Boudih | MIT | Stub gem for Kaunta. Platform-specific releases bundle the native binary. |
-| 2026-10-02 08:25:08 | [kaunta-rails](https://rubygems.org/gems/kaunta-rails) | 0.0.0 | Abdelkader Boudih | MIT | Server-side tracking client for Kaunta, the self-hosted privacy-first analytics… |
-| 2026-10-02 08:44:11 | [simple-agent-extension](https://rubygems.org/gems/simple-agent-extension) | 0.2.1 |  | BSD-2-Clause | Coding Agent Extension Utility with Simple DSL and Rule Translating and Deployi… |
-| 2026-10-02 08:49:17 | [gritz-core](https://rubygems.org/gems/gritz-core) | 0.4.0 | Yudai Takada | MIT | Transport-independent controllers, routing, middleware, configuration and testi… |
-| 2026-10-02 08:57:41 | [gritz-native](https://rubygems.org/gems/gritz-native) | 0.4.0 | Yudai Takada | MIT | The native gRPC adapter for Gritz, using the official grpc gem and a thread poo… |
-| 2026-10-02 09:01:35 | [gritz](https://rubygems.org/gems/gritz) | 0.4.0 | Yudai Takada | MIT | Gritz combines transport-independent controllers, middleware and testing with a… |
-| 2026-10-02 09:13:17 | [vanken](https://rubygems.org/gems/vanken) | 0.1.0 | Yudai Takada | MIT | Inspect pcap and pcapng captures with a virtual packet list, protocol details,… |
-| 2026-10-02 09:15:01 | [gritz-otel](https://rubygems.org/gems/gritz-otel) | 0.1.0 | Yudai Takada | MIT | Server and client tracing and worker OTLP metrics for Gritz, initialized after… |
+| 2026-10-02 09:23:49 | [scrap4rb](https://rubygems.org/gems/scrap4rb) | 0.1.0 | Robert Hopman | MIT | scrap4rb reads Minitest test files and scores each test for size, branching, mo… |
+| 2026-10-02 09:37:05 | [rails-shopee-qris](https://rubygems.org/gems/rails-shopee-qris) | 0.2.0 | Azmi | MIT | Generate dynamic QRIS codes and access ShopeePay merchant transactions. |
+| 2026-10-02 09:52:55 | [cjk_index](https://rubygems.org/gems/cjk_index) | 0.1.0 | Satoru Nakamura | MIT; Apache-2.0 | Builds a bigram search index in Ruby (with kana, old/new kanji and NFKC normali… |
+| 2026-10-02 09:54:16 | [pg_peek](https://rubygems.org/gems/pg_peek) | 0.1.0 | Tomasz Mazur | MIT | A Rails Engine that provides a web UI for monitoring and analyzing PostgreSQL q… |
 
 ## Data source
 
