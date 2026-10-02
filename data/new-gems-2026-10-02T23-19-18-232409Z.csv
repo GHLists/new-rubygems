@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T22:59:44.085Z,rodauth-api_keys,0.1.0,23,Pavel Dušánek,MIT,"The api_keys feature for Rodauth lets an account create, list, and revoke API keys. A client sends an API key in the Authorization header to authenticate a request."

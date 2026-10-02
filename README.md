@@ -9,23 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 22:19 UTC
+## Latest list — 2026-10-02 23:19 UTC
 
-New gems created between 2026-10-02 21:19 UTC and 2026-10-02 22:19 UTC.
+New gems created between 2026-10-02 22:19 UTC and 2026-10-02 23:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T22-19-41-051504Z.csv)
+[Full CSV](data/new-gems-2026-10-02T23-19-18-232409Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
-| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
-| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
-| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
-| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
-| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
-| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
-| 2026-10-02 21:27:51 | [corvus_json_schema](https://rubygems.org/gems/corvus_json_schema) | 0.1.0 | endjin | Apache-2.0 | JSON Schema validation for Ruby with the corvus-json-schema Rust crate: drafts… |
-| 2026-10-02 22:19:27 | [lavenda-pay-ruby](https://rubygems.org/gems/lavenda-pay-ruby) | 0.0.2 | La Venda Software | MIT | Create customers and orders on Lavenda Pay and verify/parse its webhooks, witho… |
+| 2026-10-02 22:59:44 | [rodauth-api_keys](https://rubygems.org/gems/rodauth-api_keys) | 0.1.0 | Pavel Dušánek | MIT | The api_keys feature for Rodauth lets an account create, list, and revoke API k… |
 
 ## Data source
 
