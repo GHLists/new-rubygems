@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T07:37:49.908Z,localmail,0.2.2,62,John Arnold,MIT,"Localmail swaps ActionMailer's delivery for the mailer actions you name, stores the message in your database or Redis, and serves it from a mountable inbox. It works where mailcatcher and letter_opener_web cannot: across dynos and containers that share no disk."
+2026-10-02T08:01:53.754Z,gritz-core,0.3.0,44,Yudai Takada,MIT,"Transport-independent controllers, routing, middleware, configuration and testing for Gritz."
+2026-10-02T08:04:18.18Z,gritz-native,0.3.0,34,Yudai Takada,MIT,"The native gRPC adapter for Gritz, using the official grpc gem and a thread pool."
+2026-10-02T08:07:03.124Z,gritz,0.3.0,29,Yudai Takada,MIT,"Gritz combines transport-independent controllers, middleware and testing with a gRPC C-core server."
