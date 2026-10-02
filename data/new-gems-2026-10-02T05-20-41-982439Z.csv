@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T04:33:49.451Z,gritz-core,0.1.0,61,Yudai Takada,MIT,"Transport-independent controllers, routing, middleware, configuration and testing for Gritz."
+2026-10-02T04:34:09.399Z,gritz-native,0.1.0,55,Yudai Takada,MIT,"The native gRPC adapter for Gritz, using the official grpc gem and a thread pool."
+2026-10-02T04:34:36.993Z,gritz,0.1.0,50,Yudai Takada,MIT,"Gritz combines transport-independent controllers, middleware and testing with a gRPC C-core server."
