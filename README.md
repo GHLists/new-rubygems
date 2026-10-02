@@ -9,18 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 06:19 UTC
+## Latest list — 2026-10-02 07:22 UTC
 
-New gems created between 2026-10-02 05:20 UTC and 2026-10-02 06:19 UTC.
+New gems created between 2026-10-02 06:19 UTC and 2026-10-02 07:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T06-19-30-434214Z.csv)
+[Full CSV](data/new-gems-2026-10-02T07-22-07-623613Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 06:06:33 | [jw_calendar](https://rubygems.org/gems/jw_calendar) | 0.1.0 | JW Calendar | MIT | A dependency-free civil-calendar engine for Ruby with proleptic Gregorian and J… |
-| 2026-10-02 06:08:12 | [gritz-core](https://rubygems.org/gems/gritz-core) | 0.2.0 | Yudai Takada | MIT | Transport-independent controllers, routing, middleware, configuration and testi… |
-| 2026-10-02 06:14:44 | [gritz-native](https://rubygems.org/gems/gritz-native) | 0.2.0 | Yudai Takada | MIT | The native gRPC adapter for Gritz, using the official grpc gem and a thread poo… |
-| 2026-10-02 06:17:29 | [gritz](https://rubygems.org/gems/gritz) | 0.2.0 | Yudai Takada | MIT | Gritz combines transport-independent controllers, middleware and testing with a… |
+| 2026-10-02 06:23:00 | [shiftcare-toolkit](https://rubygems.org/gems/shiftcare-toolkit) | 0.1.0 | ShiftCare | Nonstandard | Internal ShiftCare tools. First tool: list, show, create, update and copy produ… |
+| 2026-10-02 06:29:08 | [tsukimoji](https://rubygems.org/gems/tsukimoji) | 0.1.1 | Sam Lehman | MIT | tsukiMOJi computes the current (or any) lunar phase and returns the matching em… |
+| 2026-10-02 06:44:46 | [jw_calendar](https://rubygems.org/gems/jw_calendar) | 0.1.3 | JW Calendar | MIT | == About JW Calendar A dependency-free civil-calendar engine for Ruby with prol… |
+| 2026-10-02 06:52:30 | [localmail](https://rubygems.org/gems/localmail) | 0.2.1 | John Arnold | MIT | Localmail swaps ActionMailer's delivery for the mailer actions you name, stores… |
+| 2026-10-02 07:20:24 | [jekyll-devto](https://rubygems.org/gems/jekyll-devto) | 0.3.1 | Juan Vásquez | MIT | Generates a feed dev.to imports with the full post (code blocks without Rouge l… |
 
 ## Data source
 
