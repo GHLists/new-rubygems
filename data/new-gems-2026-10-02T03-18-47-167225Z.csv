@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T03:08:48.979Z,deployangel,0.1.0,14,Jordan Owens,MIT,"Aggregates HTTP request behavior in-process and reports one small payload per process per minute to DeployAngel, which verifies each deployment and tells you when it is safe to stop watching it."
+2026-10-02T03:09:25.853Z,fast_xlsx,0.8.0,5,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-10-02T03:09:25.853Z,fast_xlsx,0.8.0,5,Zac,MIT,Writes Excel .xlsx files from Ruby through a native Rust extension (rust_xlsxwriter + magnus).
+2026-10-02T03:14:40.299Z,omniauth-openai,0.1.1,0,Ajay Krishnan,MIT,"Adds ""Sign in with ChatGPT"" to Rack and Rails applications through OmniAuth and Devise. Authorization code flow with PKCE and a nonce; the ID token's signature, issuer, audience, expiry, and nonce are verified against OpenAI's published keys before the application sees an identity. Unofficial; not…"
