@@ -9,19 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 14:20 UTC
+## Latest list — 2026-10-02 15:21 UTC
 
-New gems created between 2026-10-02 13:19 UTC and 2026-10-02 14:20 UTC.
+New gems created between 2026-10-02 14:20 UTC and 2026-10-02 15:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T14-20-09-003349Z.csv)
+[Full CSV](data/new-gems-2026-10-02T15-21-05-132033Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 13:37:15 | [openfootball](https://rubygems.org/gems/openfootball) | 0.0.1 | Gerald Bauer | Public Domain | openfootball - config settings for openfootball repos @ github; incl. mapping o… |
-| 2026-10-02 13:51:30 | [activerecord-multi-tenant-next](https://rubygems.org/gems/activerecord-multi-tenant-next) | 2.5.0 | Citus Data, Patrick Donahue | MIT | A maintained fork of activerecord-multi-tenant (Citus Data) with support for Ra… |
-| 2026-10-02 14:01:42 | [deployangel](https://rubygems.org/gems/deployangel) | 0.1.1 | Jordan Owens | MIT | Aggregates HTTP request behavior in-process and reports one small payload per p… |
-| 2026-10-02 14:13:24 | [inferno_session_browser](https://rubygems.org/gems/inferno_session_browser) | 0.1.0 | Daniel Alistar | Apache-2.0 | Adds a paginated session dashboard and run history to an existing Inferno host… |
-| 2026-10-02 14:16:15 | [trmnlp-test](https://rubygems.org/gems/trmnlp-test) | 0.1.7 | ExcuseMi | MIT | Runs Playwright tests against TRMNL plugins in the trmnlp format: webhook, poll… |
+| 2026-10-02 14:24:57 | [gigachat-ruby](https://rubygems.org/gems/gigachat-ruby) | 0.1.0 | Aleksandr Dryzhuk | MIT | Plain-Ruby client for Sber's GigaChat API: chat (v2 and v1) with SSE streaming,… |
+| 2026-10-02 14:52:58 | [pg_peek](https://rubygems.org/gems/pg_peek) | 0.2.0 | Tomasz Mazur | MIT | A Rails Engine that provides a web UI for monitoring and analyzing PostgreSQL q… |
+| 2026-10-02 14:55:25 | [active_chronicle](https://rubygems.org/gems/active_chronicle) | 0.1.0 | Chronicle Core Team | MIT | Chronicle integrates Datomic into Ruby on Rails Active Record, providing seamle… |
+| 2026-10-02 14:56:52 | [trmnlp-test](https://rubygems.org/gems/trmnlp-test) | 0.1.9 | ExcuseMi | MIT | Runs Playwright tests against TRMNL plugins in the trmnlp format: webhook, poll… |
 
 ## Data source
 
