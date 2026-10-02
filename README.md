@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 00:18 UTC
+## Latest list — 2026-10-02 01:20 UTC
 
-New gems created between 2026-10-01 23:20 UTC and 2026-10-02 00:18 UTC.
+New gems created between 2026-10-02 00:18 UTC and 2026-10-02 01:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T00-18-49-987111Z.csv)
+[Full CSV](data/new-gems-2026-10-02T01-20-41-128748Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 00:08:11 | [jekyll-devto](https://rubygems.org/gems/jekyll-devto) | 0.1.0 | Juan Vásquez | MIT | Generates a feed dev.to imports with the full post (code blocks without Rouge l… |
+| 2026-10-02 00:37:05 | [sqlite_search](https://rubygems.org/gems/sqlite_search) | 0.0.1 | Radioactive Labs | MIT | Full-text, vector, and hybrid search for ActiveRecord, without leaving SQLite.… |
+| 2026-10-02 01:01:40 | [omniauth-openai](https://rubygems.org/gems/omniauth-openai) | 0.1.0 | Ajay Krishnan | MIT | Adds "Sign in with ChatGPT" to Rack and Rails applications through OmniAuth and… |
 
 ## Data source
 
