@@ -9,20 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 18:20 UTC
+## Latest list — 2026-10-02 19:19 UTC
 
-New gems created between 2026-10-02 17:21 UTC and 2026-10-02 18:20 UTC.
+New gems created between 2026-10-02 18:20 UTC and 2026-10-02 19:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T18-20-08-783202Z.csv)
+[Full CSV](data/new-gems-2026-10-02T19-19-04-894263Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 17:46:42 | [trmnlp-test](https://rubygems.org/gems/trmnlp-test) | 0.1.15 | ExcuseMi | MIT | Runs Playwright tests against TRMNL plugins in the trmnlp format: webhook, poll… |
-| 2026-10-02 18:05:43 | [gritz-core](https://rubygems.org/gems/gritz-core) | 0.5.0 | Yudai Takada | MIT | Transport-independent controllers, routing, middleware, configuration and testi… |
-| 2026-10-02 18:08:50 | [gritz-native](https://rubygems.org/gems/gritz-native) | 0.5.0 | Yudai Takada | MIT | The native gRPC adapter for Gritz, using the official grpc gem and a thread poo… |
-| 2026-10-02 18:11:29 | [gritz](https://rubygems.org/gems/gritz) | 0.5.0 | Yudai Takada | MIT | Gritz combines transport-independent controllers, middleware and testing with a… |
-| 2026-10-02 18:11:30 | [gritz-otel](https://rubygems.org/gems/gritz-otel) | 0.2.0 | Yudai Takada | MIT | Server and client tracing and worker OTLP metrics for Gritz, initialized after… |
-| 2026-10-02 18:17:14 | [manza](https://rubygems.org/gems/manza) | 1.0.0 | Manza | MIT | Faraday-based Ruby SDK for the Manza payment platform API. Wraps accounts, cust… |
+| 2026-10-02 18:37:25 | [gritz-rails](https://rubygems.org/gems/gritz-rails) | 0.1.0 | Yudai Takada | MIT | Rails autoloading, RPC execution, generators and safe preloading for Gritz. |
+| 2026-10-02 18:45:01 | [kaunta](https://rubygems.org/gems/kaunta) | 0.122.1 | Abdelkader Boudih | MIT | Kaunta with a bundled native binary for this platform. Run `kaunta serve` to st… |
+| 2026-10-02 18:45:01 | [kaunta](https://rubygems.org/gems/kaunta) | 0.122.1 | Abdelkader Boudih | MIT | Kaunta with a bundled native binary for this platform. Run `kaunta serve` to st… |
+| 2026-10-02 18:45:01 | [kaunta](https://rubygems.org/gems/kaunta) | 0.122.1 | Abdelkader Boudih | MIT | Kaunta with a bundled native binary for this platform. Run `kaunta serve` to st… |
+| 2026-10-02 18:45:01 | [kaunta](https://rubygems.org/gems/kaunta) | 0.122.1 | Abdelkader Boudih | MIT | Kaunta with a bundled native binary for this platform. Run `kaunta serve` to st… |
+| 2026-10-02 18:45:01 | [kaunta](https://rubygems.org/gems/kaunta) | 0.122.1 | Abdelkader Boudih | MIT | Kaunta with a bundled native binary for this platform. Run `kaunta serve` to st… |
+| 2026-10-02 18:45:01 | [kaunta](https://rubygems.org/gems/kaunta) | 0.122.1 | Abdelkader Boudih | MIT | Kaunta with a bundled native binary for this platform. Run `kaunta serve` to st… |
+| 2026-10-02 19:16:04 | [dynamic-active-model-rails](https://rubygems.org/gems/dynamic-active-model-rails) | 0.13.0 | Doug Youch | MIT | Railtie for dynamic-active-model: declare databases in one initializer and get… |
 
 ## Data source
 

@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-02T18:37:25.829Z,gritz-rails,0.1.0,43,Yudai Takada,MIT,"Rails autoloading, RPC execution, generators and safe preloading for Gritz."
+2026-10-02T18:45:01.536Z,kaunta,0.122.1,23,Abdelkader Boudih,MIT,"Kaunta with a bundled native binary for this platform. Run `kaunta serve` to start the server, or `kaunta --help` for the CLI."
+2026-10-02T18:45:01.536Z,kaunta,0.122.1,23,Abdelkader Boudih,MIT,"Kaunta with a bundled native binary for this platform. Run `kaunta serve` to start the server, or `kaunta --help` for the CLI."
+2026-10-02T18:45:01.536Z,kaunta,0.122.1,23,Abdelkader Boudih,MIT,"Kaunta with a bundled native binary for this platform. Run `kaunta serve` to start the server, or `kaunta --help` for the CLI."
+2026-10-02T18:45:01.536Z,kaunta,0.122.1,23,Abdelkader Boudih,MIT,"Kaunta with a bundled native binary for this platform. Run `kaunta serve` to start the server, or `kaunta --help` for the CLI."
+2026-10-02T18:45:01.536Z,kaunta,0.122.1,23,Abdelkader Boudih,MIT,"Kaunta with a bundled native binary for this platform. Run `kaunta serve` to start the server, or `kaunta --help` for the CLI."
+2026-10-02T18:45:01.536Z,kaunta,0.122.1,23,Abdelkader Boudih,MIT,"Kaunta with a bundled native binary for this platform. Run `kaunta serve` to start the server, or `kaunta --help` for the CLI."
+2026-10-02T19:16:04.592Z,dynamic-active-model-rails,0.13.0,0,Doug Youch,MIT,"Railtie for dynamic-active-model: declare databases in one initializer and get lazily built, reloadable models in CarsDB-style namespaces, with extension files in app/models/cars_db/ and automatic rebuilds after migrations."
