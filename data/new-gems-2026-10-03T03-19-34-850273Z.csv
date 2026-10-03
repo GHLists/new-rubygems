@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-03T03:08:50.99Z,dynamic-active-model-rails,1.3.0,15,Doug Youch,MIT,"Railtie for dynamic-active-model: declare databases in one initializer and get lazily built, reloadable models in CarsDB-style namespaces, with extension files in app/models/cars_db/ and automatic rebuilds after migrations."
