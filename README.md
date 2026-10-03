@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 06:20 UTC
+## Latest list — 2026-10-03 07:20 UTC
 
-New gems created between 2026-10-03 05:19 UTC and 2026-10-03 06:20 UTC.
+New gems created between 2026-10-03 06:20 UTC and 2026-10-03 07:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-03T06-20-39-714817Z.csv)
+[Full CSV](data/new-gems-2026-10-03T07-20-11-960472Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-03 05:33:17 | [ipmax](https://rubygems.org/gems/ipmax) | 0.1.0 | IP-Max | Apache-2.0 | Ruby client for the IP-Max GeoIP and IP intelligence API |
+| 2026-10-03 06:54:30 | [gritz-otel](https://rubygems.org/gems/gritz-otel) | 0.3.1 | Yudai Takada | MIT | Server and client tracing and worker OTLP metrics for Gritz, initialized after… |
+| 2026-10-03 06:54:50 | [gritz-rails](https://rubygems.org/gems/gritz-rails) | 0.2.1 | Yudai Takada | MIT | Rails autoloading, RPC execution, generators and safe preloading for Gritz. |
+| 2026-10-03 07:18:36 | [gritz-async](https://rubygems.org/gems/gritz-async) | 0.1.3 | Yudai Takada | MIT | The Async gRPC adapter for Gritz, with inherited listeners and transport-indepe… |
 
 ## Data source
 
