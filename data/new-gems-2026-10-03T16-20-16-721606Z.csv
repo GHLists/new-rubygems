@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-03T16:05:16.632Z,parallel_matrix_formatter,0.1.0,31,Volodymyr Shcherbyna,MIT,An RSpec formatter that renders the progress of every parallel_split_test process as one Matrix-style digital rain and prints a single consolidated summary.

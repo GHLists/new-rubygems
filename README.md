@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 14:19 UTC
+## Latest list — 2026-10-03 16:20 UTC
 
-New gems created between 2026-10-03 13:21 UTC and 2026-10-03 14:19 UTC.
+New gems created between 2026-10-03 15:20 UTC and 2026-10-03 16:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-03T14-19-56-065718Z.csv)
+[Full CSV](data/new-gems-2026-10-03T16-20-16-721606Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-03 13:46:40 | [patchwork-rb](https://rubygems.org/gems/patchwork-rb) | 0.1.1 | Chromablue Labs | MIT | Server-side helpers for integrating with Patchwork: RS256 session tokens, HMAC… |
+| 2026-10-03 16:05:16 | [parallel_matrix_formatter](https://rubygems.org/gems/parallel_matrix_formatter) | 0.1.0 | Volodymyr Shcherbyna | MIT | An RSpec formatter that renders the progress of every parallel_split_test proce… |
 
 ## Data source
 
