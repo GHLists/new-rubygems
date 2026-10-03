@@ -9,24 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 09:20 UTC
+## Latest list — 2026-10-03 11:18 UTC
 
-New gems created between 2026-10-03 08:18 UTC and 2026-10-03 09:20 UTC.
+New gems created between 2026-10-03 10:20 UTC and 2026-10-03 11:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-03T09-20-29-976205Z.csv)
+[Full CSV](data/new-gems-2026-10-03T11-18-51-488286Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-03 09:06:35 | [gritz-async](https://rubygems.org/gems/gritz-async) | 0.1.4 | Yudai Takada | MIT | The Async gRPC adapter for Gritz, with inherited listeners and transport-indepe… |
-| 2026-10-03 09:09:33 | [gritz-otel](https://rubygems.org/gems/gritz-otel) | 0.9.0 | Yudai Takada | MIT | Server and client tracing and worker OTLP metrics for Gritz, initialized after… |
-| 2026-10-03 09:09:50 | [gritz-rails](https://rubygems.org/gems/gritz-rails) | 0.9.0 | Yudai Takada | MIT | Rails autoloading, RPC execution, generators and safe preloading for Gritz. |
-| 2026-10-03 09:14:08 | [pg_peek](https://rubygems.org/gems/pg_peek) | 0.2.1 | Tomasz Mazur | MIT | A Rails Engine that provides a web UI for monitoring and analyzing PostgreSQL q… |
-| 2026-10-03 09:19:09 | [rphonetic](https://rubygems.org/gems/rphonetic) | 0.1.0 | tzaid | Apache-2.0 | Reusable encoders for all twelve rphonetic algorithms, with caller-supplied rul… |
-| 2026-10-03 09:19:09 | [rphonetic](https://rubygems.org/gems/rphonetic) | 0.1.0 | tzaid | Apache-2.0 | Reusable encoders for all twelve rphonetic algorithms, with caller-supplied rul… |
-| 2026-10-03 09:19:09 | [rphonetic](https://rubygems.org/gems/rphonetic) | 0.1.0 | tzaid | Apache-2.0 | Reusable encoders for all twelve rphonetic algorithms, with caller-supplied rul… |
-| 2026-10-03 09:19:09 | [rphonetic](https://rubygems.org/gems/rphonetic) | 0.1.0 | tzaid | Apache-2.0 | Reusable encoders for all twelve rphonetic algorithms, with caller-supplied rul… |
-| 2026-10-03 09:19:09 | [rphonetic](https://rubygems.org/gems/rphonetic) | 0.1.0 | tzaid | Apache-2.0 | Reusable encoders for all twelve rphonetic algorithms, with caller-supplied rul… |
-| 2026-10-03 09:19:09 | [rphonetic](https://rubygems.org/gems/rphonetic) | 0.1.0 | tzaid | Apache-2.0 | Reusable encoders for all twelve rphonetic algorithms, with caller-supplied rul… |
+| 2026-10-03 10:42:18 | [lognorth](https://rubygems.org/gems/lognorth) | 0.1.0 | LogNorth | MIT | Send errors and logs from Rails to LogNorth for monitoring and alerting |
+| 2026-10-03 10:46:55 | [vps_rankings](https://rubygems.org/gems/vps_rankings) | 0.1.0 | Bob Tong | MIT | Lightweight command-line client for inspecting real-world cloud VPS benchmarks,… |
 
 ## Data source
 
