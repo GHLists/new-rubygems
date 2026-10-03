@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-03T13:46:40.741Z,patchwork-rb,0.1.1,95,Chromablue Labs,MIT,"Server-side helpers for integrating with Patchwork: RS256 session tokens, HMAC request signing and verification, webhook signature verification, and Rack middleware for the tool calls Patchwork makes to your backend."

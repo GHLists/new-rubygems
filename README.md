@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 11:18 UTC
+## Latest list — 2026-10-03 14:19 UTC
 
-New gems created between 2026-10-03 10:20 UTC and 2026-10-03 11:18 UTC.
+New gems created between 2026-10-03 13:21 UTC and 2026-10-03 14:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-03T11-18-51-488286Z.csv)
+[Full CSV](data/new-gems-2026-10-03T14-19-56-065718Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-03 10:42:18 | [lognorth](https://rubygems.org/gems/lognorth) | 0.1.0 | LogNorth | MIT | Send errors and logs from Rails to LogNorth for monitoring and alerting |
-| 2026-10-03 10:46:55 | [vps_rankings](https://rubygems.org/gems/vps_rankings) | 0.1.0 | Bob Tong | MIT | Lightweight command-line client for inspecting real-world cloud VPS benchmarks,… |
+| 2026-10-03 13:46:40 | [patchwork-rb](https://rubygems.org/gems/patchwork-rb) | 0.1.1 | Chromablue Labs | MIT | Server-side helpers for integrating with Patchwork: RS256 session tokens, HMAC… |
 
 ## Data source
 
