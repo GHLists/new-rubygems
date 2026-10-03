@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 05:19 UTC
+## Latest list — 2026-10-03 06:20 UTC
 
-New gems created between 2026-10-03 04:18 UTC and 2026-10-03 05:19 UTC.
+New gems created between 2026-10-03 05:19 UTC and 2026-10-03 06:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-03T05-19-31-258761Z.csv)
+[Full CSV](data/new-gems-2026-10-03T06-20-39-714817Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-03 04:43:27 | [cryptomnio](https://rubygems.org/gems/cryptomnio) | 0.2.2 | Dustin D. Trammell | MIT | A Ruby gem providing an interface to the Cryptomnio API |
+| 2026-10-03 05:33:17 | [ipmax](https://rubygems.org/gems/ipmax) | 0.1.0 | IP-Max | Apache-2.0 | Ruby client for the IP-Max GeoIP and IP intelligence API |
 
 ## Data source
 
