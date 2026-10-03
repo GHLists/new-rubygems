@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 01:20 UTC
+## Latest list — 2026-10-03 02:21 UTC
 
-New gems created between 2026-10-03 00:19 UTC and 2026-10-03 01:20 UTC.
+New gems created between 2026-10-03 01:20 UTC and 2026-10-03 02:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-03T01-20-00-790534Z.csv)
+[Full CSV](data/new-gems-2026-10-03T02-21-20-088791Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-03 00:40:32 | [gritz-async](https://rubygems.org/gems/gritz-async) | 0.1.0 | Yudai Takada | MIT | The Async gRPC adapter for Gritz, with inherited listeners and transport-indepe… |
-| 2026-10-03 00:41:05 | [dynamic-active-model-rails](https://rubygems.org/gems/dynamic-active-model-rails) | 1.1.0 | Doug Youch | MIT | Railtie for dynamic-active-model: declare databases in one initializer and get… |
+| 2026-10-03 01:20:47 | [exhale](https://rubygems.org/gems/exhale) | 0.1.0 | Obie Fernandez | MIT | exhale gates the exhale of every pull request in a Rails app. Its first check,… |
+| 2026-10-03 02:02:00 | [dynamic-active-model-rails](https://rubygems.org/gems/dynamic-active-model-rails) | 1.2.0 | Doug Youch | MIT | Railtie for dynamic-active-model: declare databases in one initializer and get… |
 
 ## Data source
 

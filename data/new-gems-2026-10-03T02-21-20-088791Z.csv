@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-03T01:20:47.276Z,exhale,0.1.0,60,Obie Fernandez,MIT,"exhale gates the exhale of every pull request in a Rails app. Its first check, exhale dry, sweeps the whole codebase for duplicated Ruby and ERB, scores near-copies by rarity-weighted structural similarity, and fails the build while any copy is undeclared. Deliberate duplication is declared in the…"
+2026-10-03T02:02:00.266Z,dynamic-active-model-rails,1.2.0,35,Doug Youch,MIT,"Railtie for dynamic-active-model: declare databases in one initializer and get lazily built, reloadable models in CarsDB-style namespaces, with extension files in app/models/cars_db/ and automatic rebuilds after migrations."
