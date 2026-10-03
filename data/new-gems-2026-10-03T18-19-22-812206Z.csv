@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-03T17:36:44.195Z,mcpspan,0.1.0,53,Kacper Zatoń,MIT,"Measures the tools of a server built on the official Ruby MCP SDK: which get called, by which client, how long they take and which fail. Parameter values never leave the process."

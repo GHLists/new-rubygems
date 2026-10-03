@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 17:20 UTC
+## Latest list — 2026-10-03 18:19 UTC
 
-New gems created between 2026-10-03 16:20 UTC and 2026-10-03 17:20 UTC.
+New gems created between 2026-10-03 17:20 UTC and 2026-10-03 18:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-03T17-20-22-278867Z.csv)
+[Full CSV](data/new-gems-2026-10-03T18-19-22-812206Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-03 16:59:11 | [patchwork-rb](https://rubygems.org/gems/patchwork-rb) | 0.1.2 | Chromablue Labs | MIT | Server-side helpers for integrating with Patchwork: RS256 session tokens, HMAC… |
-| 2026-10-03 17:06:01 | [gritz-async](https://rubygems.org/gems/gritz-async) | 0.1.5 | Yudai Takada | MIT | The Async gRPC adapter for Gritz, with inherited listeners and transport-indepe… |
-| 2026-10-03 17:11:27 | [gritz-otel](https://rubygems.org/gems/gritz-otel) | 0.9.1 | Yudai Takada | MIT | Server and client tracing and worker OTLP metrics for Gritz, initialized after… |
-| 2026-10-03 17:11:41 | [gritz-rails](https://rubygems.org/gems/gritz-rails) | 0.9.1 | Yudai Takada | MIT | Rails autoloading, RPC execution, generators and safe preloading for Gritz. |
+| 2026-10-03 17:36:44 | [mcpspan](https://rubygems.org/gems/mcpspan) | 0.1.0 | Kacper Zatoń | MIT | Measures the tools of a server built on the official Ruby MCP SDK: which get ca… |
 
 ## Data source
 
