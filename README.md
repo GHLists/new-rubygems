@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 19:20 UTC
+## Latest list — 2026-10-03 20:18 UTC
 
-New gems created between 2026-10-03 18:19 UTC and 2026-10-03 19:20 UTC.
+New gems created between 2026-10-03 19:20 UTC and 2026-10-03 20:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-03T19-20-13-363214Z.csv)
+[Full CSV](data/new-gems-2026-10-03T20-18-52-619538Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-03 18:51:06 | [casdoor-ruby-sdk](https://rubygems.org/gems/casdoor-ruby-sdk) | 1.0.0 | Yang Luo | Apache-2.0 | Ruby SDK for Casdoor: sign users in with OAuth 2.0 / OIDC, verify the JWT token… |
+| 2026-10-03 19:59:21 | [hyperuuid-wasm](https://rubygems.org/gems/hyperuuid-wasm) | 0.6.1 | Brian Buvinghausen | MIT | The hyperuuid gem's Magnus extension, prebuilt for wasm32-wasip1, for a ruby.wa… |
+| 2026-10-03 20:04:38 | [spree-paypal_merchant](https://rubygems.org/gems/spree-paypal_merchant) | 5.2.0 | Aypex | MIT | A Spree 5.6+ payment method for PayPal Checkout. Creates and captures PayPal Or… |
 
 ## Data source
 
