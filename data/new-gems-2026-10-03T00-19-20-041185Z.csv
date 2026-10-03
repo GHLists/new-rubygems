@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-03T00:07:00.81Z,gritz-native,0.6.0,31,Yudai Takada,MIT,"The native gRPC adapter for Gritz, using the official grpc gem and a thread pool."
+2026-10-03T00:11:07.608Z,gritz,0.6.0,13,Yudai Takada,MIT,"Gritz combines transport-independent controllers, middleware and testing with a gRPC C-core server."
+2026-10-03T00:11:12.03Z,gritz-otel,0.3.0,10,Yudai Takada,MIT,"Server and client tracing and worker OTLP metrics for Gritz, initialized after fork."
+2026-10-03T00:11:35.871Z,gritz-rails,0.2.0,10,Yudai Takada,MIT,"Rails autoloading, RPC execution, generators and safe preloading for Gritz."

@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 23:19 UTC
+## Latest list — 2026-10-03 00:19 UTC
 
-New gems created between 2026-10-02 22:19 UTC and 2026-10-02 23:19 UTC.
+New gems created between 2026-10-02 23:19 UTC and 2026-10-03 00:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-02T23-19-18-232409Z.csv)
+[Full CSV](data/new-gems-2026-10-03T00-19-20-041185Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-02 22:59:44 | [rodauth-api_keys](https://rubygems.org/gems/rodauth-api_keys) | 0.1.0 | Pavel Dušánek | MIT | The api_keys feature for Rodauth lets an account create, list, and revoke API k… |
+| 2026-10-03 00:07:00 | [gritz-native](https://rubygems.org/gems/gritz-native) | 0.6.0 | Yudai Takada | MIT | The native gRPC adapter for Gritz, using the official grpc gem and a thread poo… |
+| 2026-10-03 00:11:07 | [gritz](https://rubygems.org/gems/gritz) | 0.6.0 | Yudai Takada | MIT | Gritz combines transport-independent controllers, middleware and testing with a… |
+| 2026-10-03 00:11:12 | [gritz-otel](https://rubygems.org/gems/gritz-otel) | 0.3.0 | Yudai Takada | MIT | Server and client tracing and worker OTLP metrics for Gritz, initialized after… |
+| 2026-10-03 00:11:35 | [gritz-rails](https://rubygems.org/gems/gritz-rails) | 0.2.0 | Yudai Takada | MIT | Rails autoloading, RPC execution, generators and safe preloading for Gritz. |
 
 ## Data source
 
