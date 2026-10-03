@@ -9,18 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 00:19 UTC
+## Latest list — 2026-10-03 01:20 UTC
 
-New gems created between 2026-10-02 23:19 UTC and 2026-10-03 00:19 UTC.
+New gems created between 2026-10-03 00:19 UTC and 2026-10-03 01:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-03T00-19-20-041185Z.csv)
+[Full CSV](data/new-gems-2026-10-03T01-20-00-790534Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-03 00:07:00 | [gritz-native](https://rubygems.org/gems/gritz-native) | 0.6.0 | Yudai Takada | MIT | The native gRPC adapter for Gritz, using the official grpc gem and a thread poo… |
-| 2026-10-03 00:11:07 | [gritz](https://rubygems.org/gems/gritz) | 0.6.0 | Yudai Takada | MIT | Gritz combines transport-independent controllers, middleware and testing with a… |
-| 2026-10-03 00:11:12 | [gritz-otel](https://rubygems.org/gems/gritz-otel) | 0.3.0 | Yudai Takada | MIT | Server and client tracing and worker OTLP metrics for Gritz, initialized after… |
-| 2026-10-03 00:11:35 | [gritz-rails](https://rubygems.org/gems/gritz-rails) | 0.2.0 | Yudai Takada | MIT | Rails autoloading, RPC execution, generators and safe preloading for Gritz. |
+| 2026-10-03 00:40:32 | [gritz-async](https://rubygems.org/gems/gritz-async) | 0.1.0 | Yudai Takada | MIT | The Async gRPC adapter for Gritz, with inherited listeners and transport-indepe… |
+| 2026-10-03 00:41:05 | [dynamic-active-model-rails](https://rubygems.org/gems/dynamic-active-model-rails) | 1.1.0 | Doug Youch | MIT | Railtie for dynamic-active-model: declare databases in one initializer and get… |
 
 ## Data source
 
