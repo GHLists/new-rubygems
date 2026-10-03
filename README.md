@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 03:19 UTC
+## Latest list — 2026-10-03 05:19 UTC
 
-New gems created between 2026-10-03 02:21 UTC and 2026-10-03 03:19 UTC.
+New gems created between 2026-10-03 04:18 UTC and 2026-10-03 05:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-03T03-19-34-850273Z.csv)
+[Full CSV](data/new-gems-2026-10-03T05-19-31-258761Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-03 03:08:50 | [dynamic-active-model-rails](https://rubygems.org/gems/dynamic-active-model-rails) | 1.3.0 | Doug Youch | MIT | Railtie for dynamic-active-model: declare databases in one initializer and get… |
+| 2026-10-03 04:43:27 | [cryptomnio](https://rubygems.org/gems/cryptomnio) | 0.2.2 | Dustin D. Trammell | MIT | A Ruby gem providing an interface to the Cryptomnio API |
 
 ## Data source
 
