@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-03T16:59:11.094Z,patchwork-rb,0.1.2,62,Chromablue Labs,MIT,"Server-side helpers for integrating with Patchwork: RS256 session tokens, HMAC request signing and verification, webhook signature verification, and Rack middleware for the tool calls Patchwork makes to your backend."
+2026-10-03T17:06:01.744Z,gritz-async,0.1.5,37,Yudai Takada,MIT,"The Async gRPC adapter for Gritz, with inherited listeners and transport-independent controllers."
+2026-10-03T17:11:27.605Z,gritz-otel,0.9.1,17,Yudai Takada,MIT,"Server and client tracing and worker OTLP metrics for Gritz, initialized after fork."
+2026-10-03T17:11:41.633Z,gritz-rails,0.9.1,6,Yudai Takada,MIT,"Rails autoloading, RPC execution, generators and safe preloading for Gritz."
