@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-04T09:18:09.224Z,jobpayload,0.1.0,1,cottondesu,MIT,jobpayload snapshots Active Job serialized job data (ActiveJob::Base#serialize) into deterministic JSON fixtures and checks that the current application can still deserialize them (ActiveJob::Base.deserialize and ActiveJob::Arguments.deserialize) without ever performing the job.
