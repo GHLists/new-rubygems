@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-04T04:50:22.916Z,openemail,0.0.1,41,OpenEmail,Nonstandard,"Send email and broadcasts, work with threads, drafts, labels, templates, rules, webhooks, tracking, contacts, audiences, sign-up forms, domains, suppressions, files, API keys, roles, members, mailbox imports and disposable inboxes from Ruby."

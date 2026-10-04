@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 03:20 UTC
+## Latest list — 2026-10-04 05:18 UTC
 
-New gems created between 2026-10-04 02:19 UTC and 2026-10-04 03:20 UTC.
+New gems created between 2026-10-04 04:19 UTC and 2026-10-04 05:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-04T03-20-31-922749Z.csv)
+[Full CSV](data/new-gems-2026-10-04T05-18-54-194667Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-04 02:42:54 | [casdoor-ruby-sdk](https://rubygems.org/gems/casdoor-ruby-sdk) | 1.1.0 | Yang Luo | Apache-2.0 | Ruby SDK for Casdoor: sign users in with OAuth 2.0 / OIDC, verify the JWT token… |
+| 2026-10-04 04:50:22 | [openemail](https://rubygems.org/gems/openemail) | 0.0.1 | OpenEmail | Nonstandard | Send email and broadcasts, work with threads, drafts, labels, templates, rules,… |
 
 ## Data source
 
