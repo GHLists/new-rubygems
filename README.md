@@ -9,22 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 21:21 UTC
+## Latest list — 2026-10-04 23:22 UTC
 
-New gems created between 2026-10-04 20:19 UTC and 2026-10-04 21:21 UTC.
+New gems created between 2026-10-04 22:19 UTC and 2026-10-04 23:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-04T21-21-02-038617Z.csv)
+[Full CSV](data/new-gems-2026-10-04T23-22-00-476486Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-04 20:50:40 | [avrocadabra](https://rubygems.org/gems/avrocadabra) | 0.0.2 | Alexander Grebennik | MIT | Reusable Avro schemas, raw datum encoding and decoding, and schema resolution t… |
-| 2026-10-04 20:50:40 | [avrocadabra](https://rubygems.org/gems/avrocadabra) | 0.0.2 | Alexander Grebennik | MIT | Reusable Avro schemas, raw datum encoding and decoding, and schema resolution t… |
-| 2026-10-04 20:50:40 | [avrocadabra](https://rubygems.org/gems/avrocadabra) | 0.0.2 | Alexander Grebennik | MIT | Reusable Avro schemas, raw datum encoding and decoding, and schema resolution t… |
-| 2026-10-04 20:50:40 | [avrocadabra](https://rubygems.org/gems/avrocadabra) | 0.0.2 | Alexander Grebennik | MIT | Reusable Avro schemas, raw datum encoding and decoding, and schema resolution t… |
-| 2026-10-04 20:50:40 | [avrocadabra](https://rubygems.org/gems/avrocadabra) | 0.0.2 | Alexander Grebennik | MIT | Reusable Avro schemas, raw datum encoding and decoding, and schema resolution t… |
-| 2026-10-04 20:50:40 | [avrocadabra](https://rubygems.org/gems/avrocadabra) | 0.0.2 | Alexander Grebennik | MIT | Reusable Avro schemas, raw datum encoding and decoding, and schema resolution t… |
-| 2026-10-04 20:50:40 | [avrocadabra](https://rubygems.org/gems/avrocadabra) | 0.0.2 | Alexander Grebennik | MIT | Reusable Avro schemas, raw datum encoding and decoding, and schema resolution t… |
-| 2026-10-04 20:50:40 | [avrocadabra](https://rubygems.org/gems/avrocadabra) | 0.0.2 | Alexander Grebennik | MIT | Reusable Avro schemas, raw datum encoding and decoding, and schema resolution t… |
+| 2026-10-04 22:23:12 | [ace-hitl-contract](https://rubygems.org/gems/ace-hitl-contract) | 0.1.0 | Michal Czyz | MIT | Pure HITL provider vocabulary shared by request orchestration and delivery adap… |
+| 2026-10-04 22:34:21 | [jekyll-theme-resume](https://rubygems.org/gems/jekyll-theme-resume) | 1.3.0 | Khaldoon Mutahar | MIT | A data-driven, multilingual (LTR and RTL) Jekyll resume theme with six built-in… |
 
 ## Data source
 
