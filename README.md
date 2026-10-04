@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 15:18 UTC
+## Latest list — 2026-10-04 16:21 UTC
 
-New gems created between 2026-10-04 14:20 UTC and 2026-10-04 15:18 UTC.
+New gems created between 2026-10-04 15:18 UTC and 2026-10-04 16:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-04T15-18-50-800059Z.csv)
+[Full CSV](data/new-gems-2026-10-04T16-21-19-081211Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-04 15:14:07 | [hanami_icons](https://rubygems.org/gems/hanami_icons) | 0.5.0 | Rails Designer | MIT | Add any icon library to a Hanami app, from Heroicons, to Lucide to Tabler (and… |
+| 2026-10-04 15:40:16 | [nohead](https://rubygems.org/gems/nohead) | 0.1.0 | Nohead | MIT | A client for the Nohead API: records, collections, fields, assets, webhooks and… |
 
 ## Data source
 

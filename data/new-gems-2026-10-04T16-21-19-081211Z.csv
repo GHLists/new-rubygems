@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-04T15:40:16.381Z,nohead,0.1.0,44,Nohead,MIT,"A client for the Nohead API: records, collections, fields, assets, webhooks and search, with pagination, safe retries, uploads and webhook verification. No runtime dependencies."
