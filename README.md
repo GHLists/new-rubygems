@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 16:21 UTC
+## Latest list — 2026-10-04 17:20 UTC
 
-New gems created between 2026-10-04 15:18 UTC and 2026-10-04 16:21 UTC.
+New gems created between 2026-10-04 16:21 UTC and 2026-10-04 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-04T16-21-19-081211Z.csv)
+[Full CSV](data/new-gems-2026-10-04T17-20-33-729054Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-04 15:40:16 | [nohead](https://rubygems.org/gems/nohead) | 0.1.0 | Nohead | MIT | A client for the Nohead API: records, collections, fields, assets, webhooks and… |
+| 2026-10-04 16:47:03 | [gherkin_system](https://rubygems.org/gems/gherkin_system) | 0.1.0 | David Paluy | MIT | gherkin_system turns Gherkin scenarios into Minitest methods on the application… |
 
 ## Data source
 

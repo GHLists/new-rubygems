@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-04T16:47:03.487Z,gherkin_system,0.1.0,48,David Paluy,MIT,gherkin_system turns Gherkin scenarios into Minitest methods on the application's ApplicationSystemTestCase. Rails owns execution. Gherkin describes behavior.
