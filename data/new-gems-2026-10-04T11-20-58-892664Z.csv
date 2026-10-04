@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-04T10:49:24.198Z,google-apis-devicerun_v1alpha,0.1.0,42,Google LLC,Apache-2.0,"This is the simple REST client for Device Run API V1alpha. Simple REST clients are Ruby client libraries that provide access to Google services via their HTTP REST API endpoints. These libraries are generated and updated automatically based on the discovery documents published by the service, and t…"

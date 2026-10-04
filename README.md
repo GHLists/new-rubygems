@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 10:20 UTC
+## Latest list — 2026-10-04 11:20 UTC
 
-New gems created between 2026-10-04 09:24 UTC and 2026-10-04 10:20 UTC.
+New gems created between 2026-10-04 10:20 UTC and 2026-10-04 11:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-04T10-20-51-015724Z.csv)
+[Full CSV](data/new-gems-2026-10-04T11-20-58-892664Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-04 10:13:24 | [dfc-linkml-connector](https://rubygems.org/gems/dfc-linkml-connector) | 2.0.6 | Data Food Consortium | MIT | Ruby semantic object connector for the Data Food Consortium (DFC) standard. |
+| 2026-10-04 10:49:24 | [google-apis-devicerun_v1alpha](https://rubygems.org/gems/google-apis-devicerun_v1alpha) | 0.1.0 | Google LLC | Apache-2.0 | This is the simple REST client for Device Run API V1alpha. Simple REST clients… |
 
 ## Data source
 
