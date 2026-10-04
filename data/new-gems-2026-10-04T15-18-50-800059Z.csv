@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-04T15:14:07.657Z,hanami_icons,0.5.0,0,Rails Designer,MIT,"Add any icon library to a Hanami app, from Heroicons, to Lucide to Tabler (and others). Hanami Icons is library-agnostic, so you can add any library while using the same interface."

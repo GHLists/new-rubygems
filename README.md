@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 11:20 UTC
+## Latest list — 2026-10-04 15:18 UTC
 
-New gems created between 2026-10-04 10:20 UTC and 2026-10-04 11:20 UTC.
+New gems created between 2026-10-04 14:20 UTC and 2026-10-04 15:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-04T11-20-58-892664Z.csv)
+[Full CSV](data/new-gems-2026-10-04T15-18-50-800059Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-04 10:49:24 | [google-apis-devicerun_v1alpha](https://rubygems.org/gems/google-apis-devicerun_v1alpha) | 0.1.0 | Google LLC | Apache-2.0 | This is the simple REST client for Device Run API V1alpha. Simple REST clients… |
+| 2026-10-04 15:14:07 | [hanami_icons](https://rubygems.org/gems/hanami_icons) | 0.5.0 | Rails Designer | MIT | Add any icon library to a Hanami app, from Heroicons, to Lucide to Tabler (and… |
 
 ## Data source
 
