@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-04T06:27:46.331Z,casdoor-ruby-sdk,1.1.1,213,Yang Luo,Apache-2.0,"Ruby SDK for Casdoor: sign users in with OAuth 2.0 / OIDC, verify the JWT tokens, and manage users, organizations, applications, roles, permissions and the other objects of Casdoor."
