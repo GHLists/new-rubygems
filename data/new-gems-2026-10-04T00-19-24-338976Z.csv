@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-03T23:54:58.473Z,atlas-auth,0.1.1,49,Atlas,MIT,"A typed Ruby client over the Atlas Backend API (BAPI), the Ruby peer of the TypeScript @atlasauth/backend and Python atlas-backend SDKs. Covers the full management surface (users, organizations, roles, SSO, SCIM, FGA, webhooks, and more) and ships local RS256 session-token verification with an in-p…"

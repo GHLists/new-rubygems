@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 22:19 UTC
+## Latest list — 2026-10-04 00:19 UTC
 
-New gems created between 2026-10-03 21:21 UTC and 2026-10-03 22:19 UTC.
+New gems created between 2026-10-03 23:21 UTC and 2026-10-04 00:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-03T22-19-54-833311Z.csv)
+[Full CSV](data/new-gems-2026-10-04T00-19-24-338976Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-03 21:40:44 | [open_blog](https://rubygems.org/gems/open_blog) | 0.1.0 | TechWright Labs | MIT | A Rails blog engine with reader pages, revision history, and agent publishing i… |
+| 2026-10-03 23:54:58 | [atlas-auth](https://rubygems.org/gems/atlas-auth) | 0.1.1 | Atlas | MIT | A typed Ruby client over the Atlas Backend API (BAPI), the Ruby peer of the Typ… |
 
 ## Data source
 
