@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 17:20 UTC
+## Latest list — 2026-10-04 20:19 UTC
 
-New gems created between 2026-10-04 16:21 UTC and 2026-10-04 17:20 UTC.
+New gems created between 2026-10-04 19:22 UTC and 2026-10-04 20:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-04T17-20-33-729054Z.csv)
+[Full CSV](data/new-gems-2026-10-04T20-19-29-134519Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-04 16:47:03 | [gherkin_system](https://rubygems.org/gems/gherkin_system) | 0.1.0 | David Paluy | MIT | gherkin_system turns Gherkin scenarios into Minitest methods on the application… |
+| 2026-10-04 19:51:22 | [rahad-all-downloader](https://rubygems.org/gems/rahad-all-downloader) | 1.0.0 | Mohammad Rahad | MIT | A dependency-free Ruby client to fetch video URLs and metadata from 13 platform… |
+| 2026-10-04 19:55:07 | [avrocadabra](https://rubygems.org/gems/avrocadabra) | 0.0.1 | Alexander Grebennik | MIT | Reusable Avro schemas, raw datum encoding and decoding, and schema resolution t… |
 
 ## Data source
 
