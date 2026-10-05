@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T02:21:46.749Z,ruby-repo-canary,0.1.1,66,Highlander Paiva,MIT,Prints positional arguments separated by spaces; includes help and version commands.
+2026-10-05T02:54:55.805Z,gherkin_system,0.4.0,53,David Paluy,MIT,gherkin_system turns Gherkin scenarios into Minitest methods on the application's ApplicationSystemTestCase. Rails owns execution. Gherkin describes behavior.
+2026-10-05T03:13:49.309Z,tracepath,0.1.0,2,Tracepath contributors,MIT,"IPv4/IPv6 UDP, ICMP and TCP SYN traceroute with immutable observations, cancellation, and structured batch results."
