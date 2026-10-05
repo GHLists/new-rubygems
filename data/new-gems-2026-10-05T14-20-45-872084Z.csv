@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T13:32:08.701Z,qualm,0.0.1,54,Obie Fernandez,MIT,"qualm fails a pull request when an experienced reviewer would ask for the change to be simplified, and it tells the coding agent what to fix. It is a single Go binary that lives at github.com/tools4imps/qualm. This gem holds the name for the Ruby wrapper that will install that binary. Version 0.0.1…"

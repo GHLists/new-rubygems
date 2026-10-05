@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 13:19 UTC
+## Latest list — 2026-10-05 14:20 UTC
 
-New gems created between 2026-10-05 12:23 UTC and 2026-10-05 13:19 UTC.
+New gems created between 2026-10-05 13:19 UTC and 2026-10-05 14:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-05T13-19-21-919626Z.csv)
+[Full CSV](data/new-gems-2026-10-05T14-20-45-872084Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-05 12:39:32 | [saymaker](https://rubygems.org/gems/saymaker) | 0.1.0 | SayMaker | MIT | A zero-dependency client for saymaker.ai: text-to-image, photo edits and text-… |
-| 2026-10-05 13:09:50 | [mutato](https://rubygems.org/gems/mutato) | 0.2.0 | Mathias Løkke Madsen | MIT | Mutates methods with Prism, redefines them in forked children of a test process… |
+| 2026-10-05 13:32:08 | [qualm](https://rubygems.org/gems/qualm) | 0.0.1 | Obie Fernandez | MIT | qualm fails a pull request when an experienced reviewer would ask for the chang… |
 
 ## Data source
 
