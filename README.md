@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 12:23 UTC
+## Latest list — 2026-10-05 13:19 UTC
 
-New gems created between 2026-10-05 11:19 UTC and 2026-10-05 12:23 UTC.
+New gems created between 2026-10-05 12:23 UTC and 2026-10-05 13:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-05T12-23-06-973767Z.csv)
+[Full CSV](data/new-gems-2026-10-05T13-19-21-919626Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-05 12:07:44 | [beta_calendars](https://rubygems.org/gems/beta_calendars) | 0.1.0 | Mateo Pedersen | MIT | Beta Calendars Ruby generates Gregorian month and year calendar structures, inc… |
-| 2026-10-05 12:10:38 | [wordmark](https://rubygems.org/gems/wordmark) | 0.21.0 | claudiob | MIT | One stylesheet and one script, served by the engine or from design.easyfaa.com,… |
+| 2026-10-05 12:39:32 | [saymaker](https://rubygems.org/gems/saymaker) | 0.1.0 | SayMaker | MIT | A zero-dependency client for saymaker.ai: text-to-image, photo edits and text-… |
+| 2026-10-05 13:09:50 | [mutato](https://rubygems.org/gems/mutato) | 0.2.0 | Mathias Løkke Madsen | MIT | Mutates methods with Prism, redefines them in forked children of a test process… |
 
 ## Data source
 

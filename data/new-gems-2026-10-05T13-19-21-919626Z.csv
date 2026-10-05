@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T12:39:32.452Z,saymaker,0.1.0,45,SayMaker,MIT,"A zero-dependency client for saymaker.ai: text-to-image, photo edits and text- or image-to-video across Veo 3.1, Kling 3.0, Seedance 2.0, MiniMax H3, Nano Banana 2, GPT Image 2.5 and Seedream 5.0, on one API key."
+2026-10-05T13:09:50.702Z,mutato,0.2.0,8,Mathias Løkke Madsen,MIT,"Mutates methods with Prism, redefines them in forked children of a test process booted once, selects the tests that cover each mutant from per-test coverage, and reports the survivors. RSpec or Minitest."
