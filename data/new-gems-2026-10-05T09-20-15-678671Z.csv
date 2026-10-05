@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T08:30:41.645Z,pandorga,1.2.3,56,The Pandorga contributors,MIT,"Pandorga is a publishing platform: Jekyll shell, browser content runtime, JSON export pipeline, and Studio editor. Sites declare pages in a registry; the gem supplies templates, gates, and the pandorga CLI."
