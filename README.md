@@ -9,22 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 15:20 UTC
+## Latest list — 2026-10-05 16:20 UTC
 
-New gems created between 2026-10-05 14:20 UTC and 2026-10-05 15:20 UTC.
+New gems created between 2026-10-05 15:20 UTC and 2026-10-05 16:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-05T15-20-22-432728Z.csv)
+[Full CSV](data/new-gems-2026-10-05T16-20-05-91976Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-05 14:22:26 | [gento](https://rubygems.org/gems/gento) | 0.1.0 | ngram | MIT | Turns a Speaker Deck, SlideShare, Docswell or public Google Slides URL into the… |
-| 2026-10-05 14:22:54 | [gitbroker](https://rubygems.org/gems/gitbroker) | 0.3.0 | GitBroker | MIT | Pairs a machine with git.broker, keeps one outbound connection, and when you as… |
-| 2026-10-05 14:48:21 | [ace-hitl-contract](https://rubygems.org/gems/ace-hitl-contract) | 0.2.0 | Michal Czyz | MIT | Pure HITL provider vocabulary shared by request orchestration and delivery adap… |
-| 2026-10-05 15:09:02 | [hub_kernel-api](https://rubygems.org/gems/hub_kernel-api) | 0.1.0 | tylercschneider | MIT | hub_kernel-api gives any hub built on hub_kernel a JSON API: the host lists the… |
-| 2026-10-05 15:11:01 | [asterism](https://rubygems.org/gems/asterism) | 0.0.0 | Katsuhiko Kageyama | MIT | Asterism treats many Rubies as one network of objects on top of Zenoh. Part of… |
-| 2026-10-05 15:17:55 | [dsv](https://rubygems.org/gems/dsv) | 0.12.4 | thoran | MIT | Read and write the DSV family of files (CSV, TSV, etc.) from disk or in memory. |
-| 2026-10-05 15:17:59 | [dsv.rb](https://rubygems.org/gems/dsv.rb) | 0.12.4 | thoran | MIT | Read and write the DSV family of files (CSV, TSV, etc.) from disk or in memory. |
-| 2026-10-05 15:19:13 | [dev_onboarder](https://rubygems.org/gems/dev_onboarder) | 0.9.0 | tylercschneider | MIT | dev_onboarder reads a repo's Setupfile, checks each requirement it lists, runs… |
+| 2026-10-05 15:24:12 | [atlas-auth](https://rubygems.org/gems/atlas-auth) | 0.2.0 | Atlas | MIT | A typed Ruby client over the Atlas Backend API (BAPI), the Ruby peer of the Typ… |
+| 2026-10-05 15:26:11 | [dev_onboarder](https://rubygems.org/gems/dev_onboarder) | 0.9.1 | tylercschneider | MIT | dev_onboarder reads a repo's Setupfile, checks each requirement it lists, runs… |
+| 2026-10-05 15:27:02 | [farm.rb](https://rubygems.org/gems/farm.rb) | 0.0.1 | thoran | MIT | Distribute work across CPUs by measuring what the machine affords, rather than… |
+| 2026-10-05 15:28:06 | [vesremont-api](https://rubygems.org/gems/vesremont-api) | 0.2.0 | Vesremont | MIT | Vesremont catalog and buyer-authorized REST operations with verified TLS and no… |
+| 2026-10-05 15:51:50 | [aws_advanced_ruby_driver_wrapper](https://rubygems.org/gems/aws_advanced_ruby_driver_wrapper) | 1.0.0 | Amazon Web Services | Apache-2.0 | A Ruby DB driver wrapper that provides enhanced features for AWS RDS MySQL/Post… |
+| 2026-10-05 15:54:33 | [mutato](https://rubygems.org/gems/mutato) | 0.2.1 | Mathias Løkke Madsen | MIT | Mutates methods with Prism, redefines them in forked children of a test process… |
+| 2026-10-05 16:06:56 | [devbench](https://rubygems.org/gems/devbench) | 0.5.0 | Dev Bench | LicenseRef-Proprietary | Reports unhandled exceptions, Rails.error reports, failed ActiveJob and Sidekiq… |
+| 2026-10-05 16:16:04 | [gitbroker](https://rubygems.org/gems/gitbroker) | 0.3.2 | Yuri Sidorov (@newstler) | MIT | Pairs a machine with git.broker, keeps one outbound connection, and when you as… |
 
 ## Data source
 
