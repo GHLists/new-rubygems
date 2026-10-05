@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T18:04:44.784Z,sourced-component,0.1.0,27,Ismael Celis,MIT,"Declare typed components as a tree, implement them with dependencies and prepare/build/start/teardown hooks, and mount library components into applications."
+2026-10-05T18:09:46.607Z,pandorga,1.3.1,14,The Pandorga contributors,MIT,"Pandorga is a publishing platform: Jekyll shell, browser content runtime, JSON export pipeline, and Studio editor. Sites declare pages in a registry; the gem supplies templates, gates, and the pandorga CLI."
+2026-10-05T18:15:38.115Z,graphql_backed,0.1.1,4,Robert Mosolgo,MIT,Build APIs on top of existing GraphQL APIs
