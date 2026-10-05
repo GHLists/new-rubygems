@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T14:22:26.566Z,gento,0.1.0,56,ngram,MIT,"Turns a Speaker Deck, SlideShare, Docswell or public Google Slides URL into the ordered list of page images behind it. Pure Ruby with no runtime dependencies and a pluggable HTTP layer, so it runs in slim containers and on ruby.wasm as well as on a normal CRuby."
+2026-10-05T14:22:54.932Z,gitbroker,0.3.0,48,GitBroker,MIT,"Pairs a machine with git.broker, keeps one outbound connection, and when you ask from a PR card creates a worktree and runs your own agent there, headless or in your terminal."
+2026-10-05T14:48:21.429Z,ace-hitl-contract,0.2.0,91,Michal Czyz,MIT,"Pure HITL provider vocabulary shared by request orchestration and delivery adapters, without activating assignment or privileged HITL service dependencies."
+2026-10-05T15:09:02.688Z,hub_kernel-api,0.1.0,11,tylercschneider,MIT,"hub_kernel-api gives any hub built on hub_kernel a JSON API: the host lists the hubs it serves, and every call goes through the host's sign-in, permission check and account scope."
+2026-10-05T15:11:01.729Z,asterism,0.0.0,5,Katsuhiko Kageyama,MIT,Asterism treats many Rubies as one network of objects on top of Zenoh. Part of Family mruby. This early release only reserves the name.
+2026-10-05T15:17:55.468Z,dsv,0.12.4,0,thoran,MIT,"Read and write the DSV family of files (CSV, TSV, etc.) from disk or in memory."
+2026-10-05T15:17:59.048Z,dsv.rb,0.12.4,0,thoran,MIT,"Read and write the DSV family of files (CSV, TSV, etc.) from disk or in memory."
+2026-10-05T15:19:13.613Z,dev_onboarder,0.9.0,0,tylercschneider,MIT,"dev_onboarder reads a repo's Setupfile, checks each requirement it lists, runs the fix for each one that is not met, and records what it found in the clone."
