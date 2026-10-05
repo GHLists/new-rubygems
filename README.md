@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 10:21 UTC
+## Latest list — 2026-10-05 12:23 UTC
 
-New gems created between 2026-10-05 09:20 UTC and 2026-10-05 10:21 UTC.
+New gems created between 2026-10-05 11:19 UTC and 2026-10-05 12:23 UTC.
 
-[Full CSV](data/new-gems-2026-10-05T10-21-01-206933Z.csv)
+[Full CSV](data/new-gems-2026-10-05T12-23-06-973767Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-05 09:33:32 | [pandorga](https://rubygems.org/gems/pandorga) | 1.2.4 | The Pandorga contributors | MIT | Pandorga is a publishing platform: Jekyll shell, browser content runtime, JSON… |
-| 2026-10-05 09:52:28 | [browser_review_gate](https://rubygems.org/gems/browser_review_gate) | 0.1.2 | JetRockets | MIT | CI decides whether a pull request needs a browser run and takes back reviewer r… |
+| 2026-10-05 12:07:44 | [beta_calendars](https://rubygems.org/gems/beta_calendars) | 0.1.0 | Mateo Pedersen | MIT | Beta Calendars Ruby generates Gregorian month and year calendar structures, inc… |
+| 2026-10-05 12:10:38 | [wordmark](https://rubygems.org/gems/wordmark) | 0.21.0 | claudiob | MIT | One stylesheet and one script, served by the engine or from design.easyfaa.com,… |
 
 ## Data source
 

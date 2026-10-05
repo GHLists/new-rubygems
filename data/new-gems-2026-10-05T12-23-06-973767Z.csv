@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T12:07:44.831Z,beta_calendars,0.1.0,9,Mateo Pedersen,MIT,"Beta Calendars Ruby generates Gregorian month and year calendar structures, including configurable Sunday or Monday week starts, adjacent-month cells, ISO week metadata, fixed six-week print grids, blank planning grids, JSON serialization, and a small command-line interface. All calculations run lo…"
+2026-10-05T12:10:38.875Z,wordmark,0.21.0,1,claudiob,MIT,"One stylesheet and one script, served by the engine or from design.easyfaa.com, the marks every app is known by, the pages shown when an app is not, and helpers that draw a head, a lockup or a chat the same way everywhere."
