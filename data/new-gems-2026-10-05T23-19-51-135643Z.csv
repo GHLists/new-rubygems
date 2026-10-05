@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T22:39:22.816Z,authnz_eleven,0.1.0,43,Patrick Ziller,MIT,"Generates a pre-built, security-conscious authentication system into a Rails app: DB-backed sessions with idle/absolute timeouts, paranoid flows, magic links, TOTP MFA, an admin area, and more, all opt-in via flags. Inspired by authentication-zero."
+2026-10-05T22:47:58.392Z,agentmon,0.1.0,44,Ryan Gavin,MIT,"A terminal monitor for AI coding agents (Claude, Codex) on macOS: per-session CPU, real memory (footprint), disk and network I/O, memory pressure, and a history of runs. macOS only."

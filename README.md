@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 22:21 UTC
+## Latest list — 2026-10-05 23:19 UTC
 
-New gems created between 2026-10-05 21:19 UTC and 2026-10-05 22:21 UTC.
+New gems created between 2026-10-05 22:21 UTC and 2026-10-05 23:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-05T22-21-03-093515Z.csv)
+[Full CSV](data/new-gems-2026-10-05T23-19-51-135643Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-05 21:48:41 | [pocket_phone](https://rubygems.org/gems/pocket_phone) | 0.1.1 | hmk | BSD-3-Clause | Like letter_opener, but for iMessage and SMS, and in both directions. pocket_ph… |
+| 2026-10-05 22:39:22 | [authnz_eleven](https://rubygems.org/gems/authnz_eleven) | 0.1.0 | Patrick Ziller | MIT | Generates a pre-built, security-conscious authentication system into a Rails ap… |
+| 2026-10-05 22:47:58 | [agentmon](https://rubygems.org/gems/agentmon) | 0.1.0 | Ryan Gavin | MIT | A terminal monitor for AI coding agents (Claude, Codex) on macOS: per-session C… |
 
 ## Data source
 
