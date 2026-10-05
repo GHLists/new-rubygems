@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T05:07:11.602Z,browser_review_gate,0.1.1,31,JetRockets,MIT,"CI decides whether a pull request needs a browser run and takes back reviewer requests until an AI coding agent (Claude Code, Cursor, Codex) has exercised the change in a browser and published what it observed. One command sets a project up."

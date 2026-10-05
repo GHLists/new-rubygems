@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 03:18 UTC
+## Latest list — 2026-10-05 05:20 UTC
 
-New gems created between 2026-10-05 02:20 UTC and 2026-10-05 03:18 UTC.
+New gems created between 2026-10-05 04:21 UTC and 2026-10-05 05:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-05T03-18-51-157634Z.csv)
+[Full CSV](data/new-gems-2026-10-05T05-20-44-074513Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-05 02:21:46 | [ruby-repo-canary](https://rubygems.org/gems/ruby-repo-canary) | 0.1.1 | Highlander Paiva | MIT | Prints positional arguments separated by spaces; includes help and version comm… |
-| 2026-10-05 02:54:55 | [gherkin_system](https://rubygems.org/gems/gherkin_system) | 0.4.0 | David Paluy | MIT | gherkin_system turns Gherkin scenarios into Minitest methods on the application… |
-| 2026-10-05 03:13:49 | [tracepath](https://rubygems.org/gems/tracepath) | 0.1.0 | Tracepath contributors | MIT | IPv4/IPv6 UDP, ICMP and TCP SYN traceroute with immutable observations, cancell… |
+| 2026-10-05 05:07:11 | [browser_review_gate](https://rubygems.org/gems/browser_review_gate) | 0.1.1 | JetRockets | MIT | CI decides whether a pull request needs a browser run and takes back reviewer r… |
 
 ## Data source
 
