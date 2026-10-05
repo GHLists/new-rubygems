@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 23:22 UTC
+## Latest list — 2026-10-05 00:18 UTC
 
-New gems created between 2026-10-04 22:19 UTC and 2026-10-04 23:22 UTC.
+New gems created between 2026-10-04 23:22 UTC and 2026-10-05 00:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-04T23-22-00-476486Z.csv)
+[Full CSV](data/new-gems-2026-10-05T00-18-51-051499Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-04 22:23:12 | [ace-hitl-contract](https://rubygems.org/gems/ace-hitl-contract) | 0.1.0 | Michal Czyz | MIT | Pure HITL provider vocabulary shared by request orchestration and delivery adap… |
-| 2026-10-04 22:34:21 | [jekyll-theme-resume](https://rubygems.org/gems/jekyll-theme-resume) | 1.3.0 | Khaldoon Mutahar | MIT | A data-driven, multilingual (LTR and RTL) Jekyll resume theme with six built-in… |
+| 2026-10-05 00:11:28 | [gherkin_system](https://rubygems.org/gems/gherkin_system) | 0.1.1 | David Paluy | MIT | gherkin_system turns Gherkin scenarios into Minitest methods on the application… |
 
 ## Data source
 
