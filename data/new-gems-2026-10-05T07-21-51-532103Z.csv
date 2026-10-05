@@ -1,0 +1,35 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T06:56:50.849Z,req-throttle-mini,1.0.1,41,req-throttle-mini contributors,MIT,Tiny zero-dependency request throttler for Ruby backends.
+2026-10-05T06:56:54.486Z,throttle-requests,1.0.1,34,throttle-requests contributors,MIT,Tiny zero-dependency request throttler for Ruby backends.
+2026-10-05T06:56:58.371Z,rate-limit-mini,1.0.1,38,rate-limit-mini contributors,MIT,Tiny zero-dependency request throttler for Ruby backends.
+2026-10-05T06:57:02.128Z,request-guard,1.0.1,48,request-guard contributors,MIT,Tiny zero-dependency request throttler for Ruby backends.
+2026-10-05T06:57:29.691Z,backoff-retry-core,0.1.0,27,Backoff Maintainers,MIT,Exponential backoff retry helper with jitter for Ruby.
+2026-10-05T06:57:33.38Z,rate-window,0.1.0,30,RateWindow Contributors,MIT,Fixed-window rate limiter with automatic expiry.
+2026-10-05T06:57:37.016Z,limiter-token,0.1.0,28,LimiterToken Team,MIT,Thread-safe token bucket rate limiter.
+2026-10-05T06:57:40.371Z,circuit-breaker-lite,0.1.0,25,CircuitBreakerLite Contributors,MIT,Minimal circuit breaker with half-open recovery.
+2026-10-05T06:57:44.177Z,quota-bucket,0.1.0,27,QuotaBucket Maintainers,MIT,Simple in-memory quota bucket with reset window.
+2026-10-05T06:57:47.797Z,token-bucket-lite,0.1.0,25,TokenBucketLite Team,MIT,Lightweight single-threaded token bucket.
+2026-10-05T06:59:11.562Z,solid_score,0.2.0,28,harachan,MIT,Static analysis tool that scores Ruby classes/modules against SOLID principles using AST analysis
+2026-10-05T07:05:57.392Z,bitcoin-rpc-lite,1.0.0,18,bitcoin-rpc-lite contributors,MIT,Dependency-free bitcoin rpc lite helpers for Ruby.
+2026-10-05T07:06:00.375Z,web3-eth-utils,1.0.0,15,web3-eth-utils contributors,MIT,Dependency-free web3 eth utils helpers for Ruby.
+2026-10-05T07:06:03.488Z,wallet-crypto-utils,1.0.0,13,wallet-crypto-utils contributors,MIT,Dependency-free wallet crypto utils helpers for Ruby.
+2026-10-05T07:06:06.374Z,eth-keystore-utils,1.0.0,12,eth-keystore-utils contributors,MIT,Dependency-free eth keystore utils helpers for Ruby.
+2026-10-05T07:06:09.348Z,btc-wallet-tools,1.0.0,19,btc-wallet-tools contributors,MIT,Dependency-free btc wallet tools helpers for Ruby.
+2026-10-05T07:06:12.51Z,eth-address-utils,1.0.0,12,eth-address-utils contributors,MIT,Dependency-free eth address utils helpers for Ruby.
+2026-10-05T07:06:14.846Z,crypto-mnemonic-tools,1.0.0,22,crypto-mnemonic-tools contributors,MIT,Dependency-free crypto mnemonic tools helpers for Ruby.
+2026-10-05T07:07:02.345Z,wallet-backup-tool,1.0.0,15,wallet-backup-tool contributors,MIT,"Export/import helpers for HD wallet backups (BIP32/BIP39), offline-friendly.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:07:06.08Z,bip39-wordlist-utils,1.0.0,13,bip39-wordlist-utils contributors,MIT,"BIP39 English wordlist utilities: index lookups, checksum and entropy helpers.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:07:10.196Z,hdkey-derive-helper,1.0.0,20,hdkey-derive-helper contributors,MIT,"Minimal BIP32 derivation helpers for hardened and non-hardened key paths.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:07:13.894Z,blockchain-sync-utils,1.0.0,11,blockchain-sync-utils contributors,MIT,"Block sync status utilities: headers progress, best-block comparisons.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:07:17.643Z,tx-broadcast-utils,1.0.0,17,tx-broadcast-utils contributors,MIT,"Bitcoin transaction broadcast helpers over public esplora endpoints.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:10:51.74Z,electrum-protocol-lite,1.0.0,4,electrum-protocol-lite contributors,MIT,"Minimal Electrum protocol client helpers: subscribe and header notifications.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:10:55.547Z,coinmarket-utils,1.0.0,11,coinmarket-utils contributors,MIT,"Lightweight coinmarket data formatting helpers (prices, market caps, deltas).. Pure Ruby, no runtime dependencies."
+2026-10-05T07:10:59.293Z,web3-sign-helper,1.0.0,9,web3-sign-helper contributors,MIT,"EIP-712 typed data hashing and message signing helpers for Ruby dapps.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:11:03.067Z,crypto-key-utils,1.0.0,6,crypto-key-utils contributors,MIT,"Key serialization helpers: DER/PEM round-trips and fingerprint formatting.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:11:06.113Z,bitcoin-address-utils,1.0.0,8,bitcoin-address-utils contributors,MIT,"Bitcoin address validation and encoding helpers (P2PKH/P2SH/bech32).. Pure Ruby, no runtime dependencies."
+2026-10-05T07:11:09.66Z,ethereum-tx-helper,1.0.0,16,ethereum-tx-helper contributors,MIT,"Ethereum transaction envelope helpers: RLP-ready field ordering.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:11:12.903Z,merkle-proof-lite,1.0.0,5,merkle-proof-lite contributors,MIT,"Merkle proof construction and verification helpers for light clients.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:11:16.491Z,utxo-set-utils,1.0.0,11,utxo-set-utils contributors,MIT,"UTXO set filtering and coin selection helpers.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:11:20.065Z,lightning-invoice-utils,1.0.0,11,lightning-invoice-utils contributors,MIT,"BOLT11 invoice decoding helpers: amounts, hashes and expiry parsing.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:11:23.779Z,base58-check-helper,1.0.0,10,base58-check-helper contributors,MIT,"Base58Check encode/decode helpers with version-byte handling.. Pure Ruby, no runtime dependencies."
+2026-10-05T07:15:34.49Z,farm.rb,0.0.0,3,thoran,MIT,"Distribute work across CPUs by measuring what the machine affords, rather than by the caller naming a concurrency primitive."
