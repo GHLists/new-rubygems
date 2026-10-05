@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T01:20:54.725Z,gherkin_system,0.3.0,87,David Paluy,MIT,gherkin_system turns Gherkin scenarios into Minitest methods on the application's ApplicationSystemTestCase. Rails owns execution. Gherkin describes behavior.
+2026-10-05T01:34:54.509Z,rich-ri,0.1.0,53,Highlander Paiva,MIT,"A terminal reader for Ruby's RI documentation with semantic colors, Ruby syntax highlighting, shell transcript recognition and dynamic shell completion. Uses the documentation installed for your active Ruby and gems."
+2026-10-05T01:53:22.746Z,ruby-repo-canary,0.1.0,40,Highlander Paiva,MIT,Prints positional arguments separated by spaces; includes help and version commands.
+2026-10-05T01:54:01.561Z,browser_review_gate,0.1.0,44,JetRockets,MIT,"CI decides whether a pull request needs a browser run and takes back reviewer requests until an AI coding agent (Claude Code, Cursor, Codex) has exercised the change in a browser and published what it observed. One command sets a project up."
+2026-10-05T02:12:30.86Z,ruby-repo-kit,0.1.1,8,Highlander Paiva,MIT,"Shared release, repository checks and focused Ruby CLI generation, installed as a development dependency."
