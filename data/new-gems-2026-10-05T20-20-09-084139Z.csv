@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T19:41:02.314Z,envless-sdk,0.0.1,54,Envless,Nonstandard,"Manage workspaces, products, projects, environments, variables, versions, members, roles, keys and webhooks from Ruby, with every value encrypted on your machine."
+2026-10-05T20:12:43.815Z,gcs_put,0.1.0,2,Julik Tarkhanov,MIT,Gives you a writable IO-like object which streams what you write into it to a GCS object using the resumable upload protocol over a signed URL. The size of the upload does not need to be known beforehand.
+2026-10-05T20:14:36.144Z,pandorga,1.3.3,0,The Pandorga contributors,MIT,"Pandorga is a publishing platform: Jekyll shell, browser content runtime, JSON export pipeline, and Studio editor. Sites declare pages in a registry; the gem supplies templates, gates, and the pandorga CLI."
