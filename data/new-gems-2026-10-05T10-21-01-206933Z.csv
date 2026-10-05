@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T09:33:32.408Z,pandorga,1.2.4,68,The Pandorga contributors,MIT,"Pandorga is a publishing platform: Jekyll shell, browser content runtime, JSON export pipeline, and Studio editor. Sites declare pages in a registry; the gem supplies templates, gates, and the pandorga CLI."
+2026-10-05T09:52:28.432Z,browser_review_gate,0.1.2,52,JetRockets,MIT,"CI decides whether a pull request needs a browser run and takes back reviewer requests until an AI coding agent (Claude Code, Cursor, Codex) has exercised the change in a browser and published what it observed. One command sets a project up."

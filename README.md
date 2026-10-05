@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 09:20 UTC
+## Latest list — 2026-10-05 10:21 UTC
 
-New gems created between 2026-10-05 08:20 UTC and 2026-10-05 09:20 UTC.
+New gems created between 2026-10-05 09:20 UTC and 2026-10-05 10:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-05T09-20-15-678671Z.csv)
+[Full CSV](data/new-gems-2026-10-05T10-21-01-206933Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-05 08:30:41 | [pandorga](https://rubygems.org/gems/pandorga) | 1.2.3 | The Pandorga contributors | MIT | Pandorga is a publishing platform: Jekyll shell, browser content runtime, JSON… |
+| 2026-10-05 09:33:32 | [pandorga](https://rubygems.org/gems/pandorga) | 1.2.4 | The Pandorga contributors | MIT | Pandorga is a publishing platform: Jekyll shell, browser content runtime, JSON… |
+| 2026-10-05 09:52:28 | [browser_review_gate](https://rubygems.org/gems/browser_review_gate) | 0.1.2 | JetRockets | MIT | CI decides whether a pull request needs a browser run and takes back reviewer r… |
 
 ## Data source
 
