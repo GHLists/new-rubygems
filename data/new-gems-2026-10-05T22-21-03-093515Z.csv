@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T21:48:41.102Z,pocket_phone,0.1.1,85,hmk,BSD-3-Clause,"Like letter_opener, but for iMessage and SMS, and in both directions. pocket_phone is a mountable Rails engine that answers the Sendblue API, shows what your app sent in an iMessage-style inbox, and lets you text back through signed webhooks."

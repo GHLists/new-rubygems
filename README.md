@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 21:19 UTC
+## Latest list — 2026-10-05 22:21 UTC
 
-New gems created between 2026-10-05 20:20 UTC and 2026-10-05 21:19 UTC.
+New gems created between 2026-10-05 21:19 UTC and 2026-10-05 22:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-05T21-19-41-907315Z.csv)
+[Full CSV](data/new-gems-2026-10-05T22-21-03-093515Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-05 20:33:40 | [pandorga](https://rubygems.org/gems/pandorga) | 1.3.6 | The Pandorga contributors | MIT | Pandorga is a publishing platform: Jekyll shell, browser content runtime, JSON… |
-| 2026-10-05 20:57:53 | [pocket_phone](https://rubygems.org/gems/pocket_phone) | 0.1.0 | hmk | BSD-3-Clause | Like letter_opener, but for iMessage and SMS, and in both directions. pocket_ph… |
-| 2026-10-05 21:12:14 | [ntsb](https://rubygems.org/gems/ntsb) | 0.9.0 | claudiob | MIT | `ntsb -n 2632l` prints every event the NTSB recorded for an N-number, every tab… |
+| 2026-10-05 21:48:41 | [pocket_phone](https://rubygems.org/gems/pocket_phone) | 0.1.1 | hmk | BSD-3-Clause | Like letter_opener, but for iMessage and SMS, and in both directions. pocket_ph… |
 
 ## Data source
 
