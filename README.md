@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 00:18 UTC
+## Latest list — 2026-10-05 01:19 UTC
 
-New gems created between 2026-10-04 23:22 UTC and 2026-10-05 00:18 UTC.
+New gems created between 2026-10-05 00:18 UTC and 2026-10-05 01:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-05T00-18-51-051499Z.csv)
+[Full CSV](data/new-gems-2026-10-05T01-19-41-332046Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-05 00:11:28 | [gherkin_system](https://rubygems.org/gems/gherkin_system) | 0.1.1 | David Paluy | MIT | gherkin_system turns Gherkin scenarios into Minitest methods on the application… |
+| 2026-10-05 01:10:10 | [gherkin_system](https://rubygems.org/gems/gherkin_system) | 0.2.0 | David Paluy | MIT | gherkin_system turns Gherkin scenarios into Minitest methods on the application… |
 
 ## Data source
 
