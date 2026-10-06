@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 18:20 UTC
+## Latest list — 2026-10-06 19:20 UTC
 
-New gems created between 2026-10-06 17:21 UTC and 2026-10-06 18:20 UTC.
+New gems created between 2026-10-06 18:20 UTC and 2026-10-06 19:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-06T18-20-14-932724Z.csv)
+[Full CSV](data/new-gems-2026-10-06T19-20-06-619021Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-06 17:42:10 | [ipscanner-io](https://rubygems.org/gems/ipscanner-io) | 0.1.0 | IPScanner | MIT | Official Ruby client for the IPScanner API: IP lookups, bulk checks, Agentscan… |
-| 2026-10-06 18:09:26 | [augur](https://rubygems.org/gems/augur) | 0.1.0 | Alexandre Terrasa |  | Augur Ruby library. |
+| 2026-10-06 18:22:20 | [fastlane-plugin-galaxystore](https://rubygems.org/gems/fastlane-plugin-galaxystore) | 1.0.0 | Cristian Lewczyk | Apache-2.0 | A fastlane plugin that wraps the Samsung Galaxy Store Developer API. Provides a… |
+| 2026-10-06 18:46:43 | [jekyll-fingerprint-flow](https://rubygems.org/gems/jekyll-fingerprint-flow) | 0.1.1 | Svend Gundestrup | AGPL-3.0-or-later | A zero-config Jekyll plugin that content-tags supported local asset URLs in gen… |
+| 2026-10-06 18:48:34 | [gitbroker](https://rubygems.org/gems/gitbroker) | 0.5.0 | Yuri Sidorov (@newstler) | MIT | Pairs a machine with git.broker, keeps one outbound connection, and when you as… |
+| 2026-10-06 18:56:17 | [omp-worklog](https://rubygems.org/gems/omp-worklog) | 0.14.1 | Marlen Brunner | MIT | OMP Project Time work logs with an optional manual Harvest destination. |
 
 ## Data source
 
