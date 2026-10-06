@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 08:19 UTC
+## Latest list — 2026-10-06 09:20 UTC
 
-New gems created between 2026-10-06 07:20 UTC and 2026-10-06 08:19 UTC.
+New gems created between 2026-10-06 08:19 UTC and 2026-10-06 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-06T08-19-18-236071Z.csv)
+[Full CSV](data/new-gems-2026-10-06T09-20-37-651458Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-06 07:47:01 | [jekyll-fingerprint-flow](https://rubygems.org/gems/jekyll-fingerprint-flow) | 0.1.0 | Svend Gundestrup | AGPL-3.0-or-later | A zero-config Jekyll plugin that content-tags supported local asset URLs in gen… |
+| 2026-10-06 08:44:59 | [server_stats](https://rubygems.org/gems/server_stats) | 0.1.0 | Tam Nguyen | MIT | Thư viện Ruby gem thu thập thông số tài nguyên hệ thống (CPU cores, % CPU sử dụ… |
+| 2026-10-06 09:06:04 | [id-calendar-tui-clariant](https://rubygems.org/gems/id-calendar-tui-clariant) | 0.1.3 | clariantb | MIT | A TUI calendar application displaying Indonesian public holidays and cuti bersa… |
 
 ## Data source
 

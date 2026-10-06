@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-06T08:44:59.891Z,server_stats,0.1.0,43,Tam Nguyen,MIT,"Thư viện Ruby gem thu thập thông số tài nguyên hệ thống (CPU cores, % CPU sử dụng, RAM tổng/trống, Ổ cứng tổng/trống, OS) trên Ubuntu/Linux và macOS mà không cần gem phụ thuộc bên ngoài."
+2026-10-06T09:06:04.591Z,id-calendar-tui-clariant,0.1.3,13,clariantb,MIT,"A TUI calendar application displaying Indonesian public holidays and cuti bersama from the official SKB 3 Menteri announcements, with vim-like navigation"
