@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-06T00:40:37.306Z,vue_live,0.1.1,54,Daniel P. Clark,MIT; Apache-2.0,"vue_live compiles .vue single-file components on the fly, in Ruby, and serves them to the browser as native ES modules. It works with any Rack application (Sinatra, Roda, plain Rack), detects a Rails application and configures itself as a Railtie, and coexists with Sprockets, Propshaft, Webpacker,…"
+2026-10-06T00:40:45.814Z,rich-ri,0.1.1,74,Highlander Paiva,MIT,"A terminal reader for Ruby's RI documentation with semantic colors, Ruby syntax highlighting, shell transcript recognition and dynamic shell completion. Uses the documentation installed for your active Ruby and gems."
