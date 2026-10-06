@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 13:18 UTC
+## Latest list — 2026-10-06 14:19 UTC
 
-New gems created between 2026-10-06 12:21 UTC and 2026-10-06 13:18 UTC.
+New gems created between 2026-10-06 13:18 UTC and 2026-10-06 14:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-06T13-18-55-229553Z.csv)
+[Full CSV](data/new-gems-2026-10-06T14-19-24-070739Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-06 12:33:48 | [linkedin-member-data](https://rubygems.org/gems/linkedin-member-data) | 0.1.0 | Lucian Ghinda | MIT | Download your own LinkedIn data (snapshot domains and changelog events) through… |
-| 2026-10-06 13:09:23 | [a2a-rails](https://rubygems.org/gems/a2a-rails) | 0.1.0 | cuichangquan | MIT | Expose Rails applications as A2A agents while keeping protocol SDK details behi… |
+| 2026-10-06 14:16:33 | [hub_kernel-api](https://rubygems.org/gems/hub_kernel-api) | 0.2.0 | tylercschneider | MIT | hub_kernel-api gives any hub built on hub_kernel a JSON API: the host lists the… |
 
 ## Data source
 
