@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 23:19 UTC
+## Latest list — 2026-10-06 00:19 UTC
 
-New gems created between 2026-10-05 22:21 UTC and 2026-10-05 23:19 UTC.
+New gems created between 2026-10-05 23:19 UTC and 2026-10-06 00:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-05T23-19-51-135643Z.csv)
+[Full CSV](data/new-gems-2026-10-06T00-19-55-654174Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-05 22:39:22 | [authnz_eleven](https://rubygems.org/gems/authnz_eleven) | 0.1.0 | Patrick Ziller | MIT | Generates a pre-built, security-conscious authentication system into a Rails ap… |
-| 2026-10-05 22:47:58 | [agentmon](https://rubygems.org/gems/agentmon) | 0.1.0 | Ryan Gavin | MIT | A terminal monitor for AI coding agents (Claude, Codex) on macOS: per-session C… |
+| 2026-10-05 23:43:08 | [rouge-raku](https://rubygems.org/gems/rouge-raku) | 0.1.0 | Naoum Hankache | MIT | Adds syntax highlighting for the Raku programming language to Rouge, as a plugi… |
 
 ## Data source
 

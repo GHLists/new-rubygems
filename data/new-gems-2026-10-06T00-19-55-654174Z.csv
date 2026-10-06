@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-05T23:43:08.017Z,rouge-raku,0.1.0,50,Naoum Hankache,MIT,"Adds syntax highlighting for the Raku programming language to Rouge, as a plugin gem."
