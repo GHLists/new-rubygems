@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-06T20:31:00.45Z,widget_list_theme_ai,0.1.0,58,David Renne,MIT,"A modern midnight data-grid theme for widget_list, with cyan and violet accents, polished controls, and no external font or JavaScript dependencies."
+2026-10-06T20:58:07.658Z,ntsb,0.9.1,41,claudiob,MIT,"`ntsb -n 2632l` prints every event the NTSB recorded for an N-number, every table of each, as the NTSB published it."
+2026-10-06T21:19:43.82Z,kkhay,1.0.0,0,K Khay,MIT,"Accept non-custodial and custodial crypto payments (USDT, USDC, BNB, ETH on BSC, Polygon, Arbitrum, Base, Ethereum) in Ruby on Rails applications."

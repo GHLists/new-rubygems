@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 20:20 UTC
+## Latest list — 2026-10-06 21:21 UTC
 
-New gems created between 2026-10-06 19:20 UTC and 2026-10-06 20:20 UTC.
+New gems created between 2026-10-06 20:20 UTC and 2026-10-06 21:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-06T20-20-20-379253Z.csv)
+[Full CSV](data/new-gems-2026-10-06T21-21-38-322676Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-06 20:05:26 | [tayle](https://rubygems.org/gems/tayle) | 0.0.1 | David Gillis | MIT | Follow a file by name with GNU tail -F, across rotation and truncation |
+| 2026-10-06 20:31:00 | [widget_list_theme_ai](https://rubygems.org/gems/widget_list_theme_ai) | 0.1.0 | David Renne | MIT | A modern midnight data-grid theme for widget_list, with cyan and violet accents… |
+| 2026-10-06 20:58:07 | [ntsb](https://rubygems.org/gems/ntsb) | 0.9.1 | claudiob | MIT | `ntsb -n 2632l` prints every event the NTSB recorded for an N-number, every tab… |
+| 2026-10-06 21:19:43 | [kkhay](https://rubygems.org/gems/kkhay) | 1.0.0 | K Khay | MIT | Accept non-custodial and custodial crypto payments (USDT, USDC, BNB, ETH on BSC… |
 
 ## Data source
 
