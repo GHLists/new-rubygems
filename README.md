@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 06:20 UTC
+## Latest list — 2026-10-06 07:20 UTC
 
-New gems created between 2026-10-06 05:20 UTC and 2026-10-06 06:20 UTC.
+New gems created between 2026-10-06 06:20 UTC and 2026-10-06 07:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-06T06-20-58-182399Z.csv)
+[Full CSV](data/new-gems-2026-10-06T07-20-04-449671Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-06 05:31:29 | [solid_score](https://rubygems.org/gems/solid_score) | 0.3.0 | harachan | MIT | Static analysis tool that scores Ruby classes/modules against SOLID principles… |
+| 2026-10-06 06:26:51 | [fragment-donor-sdk](https://rubygems.org/gems/fragment-donor-sdk) | 0.1.0 | Fragment Donor SDK contributo… | MIT | Server-side Telegram Stars/Premium integration with typed responses, exact deci… |
 
 ## Data source
 
