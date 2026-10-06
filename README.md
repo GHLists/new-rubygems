@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 03:20 UTC
+## Latest list — 2026-10-06 04:19 UTC
 
-New gems created between 2026-10-06 02:20 UTC and 2026-10-06 03:20 UTC.
+New gems created between 2026-10-06 03:20 UTC and 2026-10-06 04:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-06T03-20-51-553952Z.csv)
+[Full CSV](data/new-gems-2026-10-06T04-19-13-773489Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-06 03:06:06 | [parapet-rails](https://rubygems.org/gems/parapet-rails) | 0.1.0 | Kraig Fairhurst | MIT | Parapet is a visual development interface for Rails. It runs beside your app an… |
+| 2026-10-06 04:14:16 | [pandorga](https://rubygems.org/gems/pandorga) | 1.3.7 | The Pandorga contributors | MIT | Pandorga is a publishing platform: Jekyll shell, browser content runtime, JSON… |
 
 ## Data source
 
