@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-06T03:06:06.252Z,parapet-rails,0.1.0,15,Kraig Fairhurst,MIT,"Parapet is a visual development interface for Rails. It runs beside your app and brings the inner loop into one browser window: test runs with live feedback, file exploring and editing, and CSS layout checks. Its CSS basis is QSS (Quantized Spatial Styling), a layout framework published as its own…"
