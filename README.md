@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 07:20 UTC
+## Latest list — 2026-10-06 08:19 UTC
 
-New gems created between 2026-10-06 06:20 UTC and 2026-10-06 07:20 UTC.
+New gems created between 2026-10-06 07:20 UTC and 2026-10-06 08:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-06T07-20-04-449671Z.csv)
+[Full CSV](data/new-gems-2026-10-06T08-19-18-236071Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-06 06:26:51 | [fragment-donor-sdk](https://rubygems.org/gems/fragment-donor-sdk) | 0.1.0 | Fragment Donor SDK contributo… | MIT | Server-side Telegram Stars/Premium integration with typed responses, exact deci… |
+| 2026-10-06 07:47:01 | [jekyll-fingerprint-flow](https://rubygems.org/gems/jekyll-fingerprint-flow) | 0.1.0 | Svend Gundestrup | AGPL-3.0-or-later | A zero-config Jekyll plugin that content-tags supported local asset URLs in gen… |
 
 ## Data source
 

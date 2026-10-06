@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-06T07:47:01.023Z,jekyll-fingerprint-flow,0.1.0,39,Svend Gundestrup,AGPL-3.0-or-later,A zero-config Jekyll plugin that content-tags supported local asset URLs in generated .html/.htm attributes at post_write. Covers matching markup emitted by themes and plugins without template changes. CSS/JS runtime references and HTTP cache headers are outside its scope.
