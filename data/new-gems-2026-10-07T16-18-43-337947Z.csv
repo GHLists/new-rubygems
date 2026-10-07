@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-07T16:04:56.269Z,keystone_ui-preferences,0.4.1,22,Tyler Schneider,MIT,"A companion engine for keystone_ui that saves each person's choices for a component, such as a data table's hidden columns, and supplies them back to keystone_ui."
