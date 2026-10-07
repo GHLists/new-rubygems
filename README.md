@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 05:18 UTC
+## Latest list — 2026-10-07 06:21 UTC
 
-New gems created between 2026-10-07 04:20 UTC and 2026-10-07 05:18 UTC.
+New gems created between 2026-10-07 05:18 UTC and 2026-10-07 06:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-07T05-18-55-448946Z.csv)
+[Full CSV](data/new-gems-2026-10-07T06-21-43-859677Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-07 04:21:10 | [haskell_match](https://rubygems.org/gems/haskell_match) | 0.1.0 | Daniel P. Clark | MIT; Apache-2.0 | Algebraic data types and Haskell pattern syntax for Ruby. Clauses are compiled… |
-| 2026-10-07 04:34:48 | [keystone_ui-preferences](https://rubygems.org/gems/keystone_ui-preferences) | 0.3.0 | Tyler Schneider | MIT | A companion engine for keystone_ui that saves each person's choices for a compo… |
+| 2026-10-07 06:14:49 | [active_durable](https://rubygems.org/gems/active_durable) | 0.6.0 | William Romero | MIT | ActiveDurable runs multi-step business flows (checkouts, onboarding, payouts) a… |
 
 ## Data source
 
