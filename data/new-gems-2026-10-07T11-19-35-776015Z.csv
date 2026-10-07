@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-07T11:04:27.175Z,poetry-jumpstart_pro,0.1.12,18,Matt Solt,MIT,"An installer that replaces a Jumpstart Pro app's views with Poetry-native recreations, accessible, themeable and agent-legible, and reconciles Jumpstart's stylesheets with Poetry's tokens. Ships only Poetry views, never Jumpstart's source, and installs them as host app/views overrides."
+2026-10-07T11:16:50.507Z,telex,0.1.1,0,B.O.X,MIT,Action Mailer sends through Lettermint's SMTP relay; Action Mailbox receives from Lettermint's inbound webhooks.
+2026-10-07T11:17:12.18Z,banana_img,0.1.0,0,Ryan Ellis,MIT,Client SDK and prompt utilities for Banana Img - Free Nano Banana AI Image Generator (2.1 & Pro).
