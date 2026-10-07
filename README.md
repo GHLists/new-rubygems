@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 00:19 UTC
+## Latest list — 2026-10-07 01:22 UTC
 
-New gems created between 2026-10-06 23:20 UTC and 2026-10-07 00:19 UTC.
+New gems created between 2026-10-07 00:19 UTC and 2026-10-07 01:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-07T00-19-52-942414Z.csv)
+[Full CSV](data/new-gems-2026-10-07T01-22-12-022912Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-06 23:53:29 | [hub_kernel-interface](https://rubygems.org/gems/hub_kernel-interface) | 0.3.0 | tylercschneider | MIT | hub_kernel-interface holds what a hub exposes, who may call it, and calling it… |
-| 2026-10-07 00:03:23 | [hub_kernel-mcp](https://rubygems.org/gems/hub_kernel-mcp) | 0.1.0 | tylercschneider | MIT | hub_kernel-mcp serves the methods every hub a host serves exposes as MCP tools… |
+| 2026-10-07 00:40:28 | [cronv-rb](https://rubygems.org/gems/cronv-rb) | 0.2.0 | Masato Yamashita | MIT | A gem that rewrites cronv, originally written in Go, in Ruby to visualize your… |
+| 2026-10-07 00:47:39 | [inet](https://rubygems.org/gems/inet) | 0.1.0 | inet contributors | MIT | The initial inet package provides a loadable namespace and version information. |
+| 2026-10-07 01:04:55 | [hub_kernel-mcp](https://rubygems.org/gems/hub_kernel-mcp) | 0.2.0 | tylercschneider | MIT | hub_kernel-mcp serves the methods every hub a host serves exposes as MCP tools… |
 
 ## Data source
 

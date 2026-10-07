@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-07T00:40:28.683Z,cronv-rb,0.2.0,50,Masato Yamashita,MIT,"A gem that rewrites cronv, originally written in Go, in Ruby to visualize your cron schedules in crontab."
+2026-10-07T00:47:39.446Z,inet,0.1.0,48,inet contributors,MIT,The initial inet package provides a loadable namespace and version information.
+2026-10-07T01:04:55.25Z,hub_kernel-mcp,0.2.0,36,tylercschneider,MIT,"hub_kernel-mcp serves the methods every hub a host serves exposes as MCP tools at one address, with every call going through the host's sign-in, permission check and account scope."
