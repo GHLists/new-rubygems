@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 20:19 UTC
+## Latest list — 2026-10-07 21:19 UTC
 
-New gems created between 2026-10-07 19:21 UTC and 2026-10-07 20:19 UTC.
+New gems created between 2026-10-07 20:19 UTC and 2026-10-07 21:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-07T20-19-17-70957Z.csv)
+[Full CSV](data/new-gems-2026-10-07T21-19-39-732388Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-07 19:23:51 | [wallflower](https://rubygems.org/gems/wallflower) | 0.2.0 | Tyler Schneider | MIT | A Rails engine that lets a person start long-running work, follow its status an… |
+| 2026-10-07 20:29:42 | [fast_mb_chars](https://rubygems.org/gems/fast_mb_chars) | 0.1.0 | SYNORYXEL | MIT | Faster String#mb_chars. limit(bytes) cuts on a character boundary without walki… |
+| 2026-10-07 21:19:09 | [hotcell-client-legacy](https://rubygems.org/gems/hotcell-client-legacy) | 0.0.1 | Mike Dalessio | MIT | A placeholder that reserves the name. A real release of hotcell-client-legacy,… |
 
 ## Data source
 
