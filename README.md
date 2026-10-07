@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 06:21 UTC
+## Latest list — 2026-10-07 10:20 UTC
 
-New gems created between 2026-10-07 05:18 UTC and 2026-10-07 06:21 UTC.
+New gems created between 2026-10-07 09:19 UTC and 2026-10-07 10:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-07T06-21-43-859677Z.csv)
+[Full CSV](data/new-gems-2026-10-07T10-20-05-340405Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-07 06:14:49 | [active_durable](https://rubygems.org/gems/active_durable) | 0.6.0 | William Romero | MIT | ActiveDurable runs multi-step business flows (checkouts, onboarding, payouts) a… |
+| 2026-10-07 09:55:14 | [ticket](https://rubygems.org/gems/ticket) | 0.1.0 | B.O.X | MIT | Lets the people using an app report a bug, an idea or a question, with a screen… |
+| 2026-10-07 09:55:28 | [telex](https://rubygems.org/gems/telex) | 0.1.0 | B.O.X | MIT | Action Mailer sends through Lettermint's SMTP relay; Action Mailbox receives fr… |
 
 ## Data source
 
