@@ -9,17 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 01:22 UTC
+## Latest list — 2026-10-07 02:19 UTC
 
-New gems created between 2026-10-07 00:19 UTC and 2026-10-07 01:22 UTC.
+New gems created between 2026-10-07 01:22 UTC and 2026-10-07 02:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-07T01-22-12-022912Z.csv)
+[Full CSV](data/new-gems-2026-10-07T02-19-28-335059Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-07 00:40:28 | [cronv-rb](https://rubygems.org/gems/cronv-rb) | 0.2.0 | Masato Yamashita | MIT | A gem that rewrites cronv, originally written in Go, in Ruby to visualize your… |
-| 2026-10-07 00:47:39 | [inet](https://rubygems.org/gems/inet) | 0.1.0 | inet contributors | MIT | The initial inet package provides a loadable namespace and version information. |
-| 2026-10-07 01:04:55 | [hub_kernel-mcp](https://rubygems.org/gems/hub_kernel-mcp) | 0.2.0 | tylercschneider | MIT | hub_kernel-mcp serves the methods every hub a host serves exposes as MCP tools… |
+| 2026-10-07 01:24:56 | [hub_kernel-mcp](https://rubygems.org/gems/hub_kernel-mcp) | 0.3.0 | tylercschneider | MIT | hub_kernel-mcp serves the methods every hub a host serves exposes as MCP tools… |
+| 2026-10-07 01:50:15 | [aim-sqlite3](https://rubygems.org/gems/aim-sqlite3) | 2.9.6.1 | Jamis Buck, Luis Lavena, Aaro… | BSD-3-Clause | Ruby library to interface with the SQLite3 database engine (http://www.sqlite.o… |
+| 2026-10-07 01:50:15 | [aim-sqlite3](https://rubygems.org/gems/aim-sqlite3) | 2.9.6.1 | Jamis Buck, Luis Lavena, Aaro… | BSD-3-Clause | Ruby library to interface with the SQLite3 database engine (http://www.sqlite.o… |
+| 2026-10-07 01:50:15 | [aim-sqlite3](https://rubygems.org/gems/aim-sqlite3) | 2.9.6.1 | Jamis Buck, Luis Lavena, Aaro… | BSD-3-Clause | Ruby library to interface with the SQLite3 database engine (http://www.sqlite.o… |
+| 2026-10-07 01:50:15 | [aim-sqlite3](https://rubygems.org/gems/aim-sqlite3) | 2.9.6.1 | Jamis Buck, Luis Lavena, Aaro… | BSD-3-Clause | Ruby library to interface with the SQLite3 database engine (http://www.sqlite.o… |
+| 2026-10-07 01:50:15 | [aim-sqlite3](https://rubygems.org/gems/aim-sqlite3) | 2.9.6.1 | Jamis Buck, Luis Lavena, Aaro… | BSD-3-Clause | Ruby library to interface with the SQLite3 database engine (http://www.sqlite.o… |
+| 2026-10-07 02:13:43 | [hub_kernel-interface](https://rubygems.org/gems/hub_kernel-interface) | 0.4.0 | tylercschneider | MIT | hub_kernel-interface holds what a hub exposes, who may call it, and calling it… |
 
 ## Data source
 
