@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-07T13:35:06.96Z,hub_kernel-mcp,0.4.0,108,tylercschneider,MIT,"hub_kernel-mcp serves the methods every hub a host serves exposes as MCP tools at one address, with every call going through the host's sign-in, permission check and account scope."

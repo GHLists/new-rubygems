@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 12:19 UTC
+## Latest list — 2026-10-07 14:22 UTC
 
-New gems created between 2026-10-07 11:19 UTC and 2026-10-07 12:19 UTC.
+New gems created between 2026-10-07 13:20 UTC and 2026-10-07 14:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-07T12-19-33-23746Z.csv)
+[Full CSV](data/new-gems-2026-10-07T14-22-47-356884Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-07 12:02:38 | [active_durable](https://rubygems.org/gems/active_durable) | 0.7.0 | William Romero | MIT | ActiveDurable runs multi-step business flows (checkouts, onboarding, payouts) a… |
-| 2026-10-07 12:11:40 | [pratka](https://rubygems.org/gems/pratka) | 0.1.0 | Stilqn Bairski | MIT | One Ruby interface for shipping, tracking and office lookup across Bulgarian co… |
+| 2026-10-07 13:35:06 | [hub_kernel-mcp](https://rubygems.org/gems/hub_kernel-mcp) | 0.4.0 | tylercschneider | MIT | hub_kernel-mcp serves the methods every hub a host serves exposes as MCP tools… |
 
 ## Data source
 
