@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 16:18 UTC
+## Latest list — 2026-10-07 17:21 UTC
 
-New gems created between 2026-10-07 15:20 UTC and 2026-10-07 16:18 UTC.
+New gems created between 2026-10-07 16:18 UTC and 2026-10-07 17:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-07T16-18-43-337947Z.csv)
+[Full CSV](data/new-gems-2026-10-07T17-21-08-58044Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-07 16:04:56 | [keystone_ui-preferences](https://rubygems.org/gems/keystone_ui-preferences) | 0.4.1 | Tyler Schneider | MIT | A companion engine for keystone_ui that saves each person's choices for a compo… |
+| 2026-10-07 17:16:36 | [clarion-builder](https://rubygems.org/gems/clarion-builder) | 1.0.0 | Jim Weirich | MIT | Builder provides a number of builder objects that make creating structured data… |
+| 2026-10-07 17:17:05 | [clarion-given](https://rubygems.org/gems/clarion-given) | 1.0.0 | Jim Weirich, Steve Wagner (ke… | MIT | Clarion Given — keeper's edition of Jim Weirich's rspec-given. An RSpec extensi… |
 
 ## Data source
 
