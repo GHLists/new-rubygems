@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-07T19:23:51.231Z,wallflower,0.2.0,83,Tyler Schneider,MIT,"A Rails engine that lets a person start long-running work, follow its status and progress, and get its result when it finishes."
