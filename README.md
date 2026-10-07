@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 11:19 UTC
+## Latest list — 2026-10-07 12:19 UTC
 
-New gems created between 2026-10-07 10:20 UTC and 2026-10-07 11:19 UTC.
+New gems created between 2026-10-07 11:19 UTC and 2026-10-07 12:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-07T11-19-35-776015Z.csv)
+[Full CSV](data/new-gems-2026-10-07T12-19-33-23746Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-07 11:04:27 | [poetry-jumpstart_pro](https://rubygems.org/gems/poetry-jumpstart_pro) | 0.1.12 | Matt Solt | MIT | An installer that replaces a Jumpstart Pro app's views with Poetry-native recre… |
-| 2026-10-07 11:16:50 | [telex](https://rubygems.org/gems/telex) | 0.1.1 | B.O.X | MIT | Action Mailer sends through Lettermint's SMTP relay; Action Mailbox receives fr… |
-| 2026-10-07 11:17:12 | [banana_img](https://rubygems.org/gems/banana_img) | 0.1.0 | Ryan Ellis | MIT | Client SDK and prompt utilities for Banana Img - Free Nano Banana AI Image Gene… |
+| 2026-10-07 12:02:38 | [active_durable](https://rubygems.org/gems/active_durable) | 0.7.0 | William Romero | MIT | ActiveDurable runs multi-step business flows (checkouts, onboarding, payouts) a… |
+| 2026-10-07 12:11:40 | [pratka](https://rubygems.org/gems/pratka) | 0.1.0 | Stilqn Bairski | MIT | One Ruby interface for shipping, tracking and office lookup across Bulgarian co… |
 
 ## Data source
 

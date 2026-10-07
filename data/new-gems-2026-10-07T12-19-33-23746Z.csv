@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-07T12:02:38.993Z,active_durable,0.7.0,31,William Romero,MIT,"ActiveDurable runs multi-step business flows (checkouts, onboarding, payouts) as durable sagas stored in your own database. Completed steps are checkpointed and never repeated after a crash, failures before the point of no return are compensated in reverse order, and failures after it are retried.…"
+2026-10-07T12:11:40.368Z,pratka,0.1.0,9,Stilqn Bairski,MIT,"One Ruby interface for shipping, tracking and office lookup across Bulgarian couriers."
