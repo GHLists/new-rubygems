@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-07T02:31:52.733Z,hub_kernel-interface,0.5.0,55,tylercschneider,MIT,"hub_kernel-interface holds what a hub exposes, who may call it, and calling it in an account's scope, so an interface gem can serve hubs without depending on the rest of hub_kernel."
