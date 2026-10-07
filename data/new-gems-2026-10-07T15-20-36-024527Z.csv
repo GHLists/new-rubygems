@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-07T14:31:01.557Z,rubocop-hanami,0.1.0,52,Aaron Allen,MIT,A collection of RuboCop cops that check Hanami apps and slices.
+2026-10-07T14:46:35.53Z,hub_kernel-mcp,0.7.0,54,tylercschneider,MIT,"hub_kernel-mcp serves the methods every hub a host serves exposes as MCP tools at one address, with every call going through the host's sign-in, permission check and account scope."
+2026-10-07T15:00:33.731Z,naijacloud-email,0.3.0,27,Naija Cloud,MIT,Send and retrieve transactional email through the Naijamail API. No runtime dependencies: standard-library net/http only.
+2026-10-07T15:05:02.327Z,hub_kernel-interface,0.8.0,33,tylercschneider,MIT,"hub_kernel-interface holds what a hub exposes, who may call it, and calling it in an account's scope, so an interface gem can serve hubs without depending on the rest of hub_kernel."
