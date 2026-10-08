@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 12:20 UTC
+## Latest list — 2026-10-08 13:19 UTC
 
-New gems created between 2026-10-08 11:19 UTC and 2026-10-08 12:20 UTC.
+New gems created between 2026-10-08 12:20 UTC and 2026-10-08 13:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-08T12-20-46-026953Z.csv)
+[Full CSV](data/new-gems-2026-10-08T13-19-34-318416Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-08 11:27:00 | [sreelakshmi_csv_quick_summary](https://rubygems.org/gems/sreelakshmi_csv_quick_summary) | 0.1.0 | Sreelakshmi | MIT | Reads a CSV file with a header row and returns its data row count and column na… |
-| 2026-10-08 12:06:48 | [waffo-pancake](https://rubygems.org/gems/waffo-pancake) | 0.2.1 | Good First Issue | MIT | Signed requests to the Waffo Pancake merchant API (checkout, subscriptions, pro… |
+| 2026-10-08 13:17:41 | [asterism-zenoh](https://rubygems.org/gems/asterism-zenoh) | 0.2.0 | Katsuhiko Kageyama | MIT; Apache-2.0 | Sessions, put / subscribe, get / queryable, liveliness and attachments, receive… |
 
 ## Data source
 
