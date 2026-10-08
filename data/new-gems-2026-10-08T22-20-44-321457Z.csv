@@ -1,0 +1,10 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-08T21:39:39.011Z,maf,0.1.0,46,Dominik Alberski,MIT,"multi-agent-flow is a coordination layer for AI coding agents (Claude Code, Codex, opencode, Hermes). Each agent works in its own git worktree. The agents share a Taskwarrior task board, file locks, and a knowledge graph through the coord CLI."
+2026-10-08T21:49:44.151Z,shveik-ag,0.1.3,39,shveik.dev,MIT,"Zero-dependency CLI to list endpoints, show 402 quotes and send payment-signed calls to agdata, agproxy, agvps, agmail and agpay (shveik.dev agent products)."
+2026-10-08T21:49:45.958Z,shveik-agdata,0.1.3,40,shveik.dev,MIT,"Zero-dependency CLI for agdata.shveik.dev, one of the shveik.dev agent products: list endpoints, show 402 quotes, send payment-signed calls. Same code as ag-cli."
+2026-10-08T21:50:00.879Z,ag-cli,0.1.3,37,shveik.dev,MIT,"Zero-dependency CLI to list endpoints, show 402 quotes and send payment-signed calls to agdata, agproxy, agvps, agmail and agpay (shveik.dev agent products)."
+2026-10-08T21:50:02.277Z,agdata,0.1.3,41,shveik.dev,MIT,"Zero-dependency CLI for agdata.shveik.dev, one of the shveik.dev agent products: list endpoints, show 402 quotes, send payment-signed calls. Same code as ag-cli."
+2026-10-08T21:50:03.958Z,agmail,0.1.3,41,shveik.dev,MIT,"Zero-dependency CLI for agmail.shveik.dev, one of the shveik.dev agent products: list endpoints, show 402 quotes, send payment-signed calls. Same code as ag-cli."
+2026-10-08T21:50:05.556Z,agpay,0.1.3,38,shveik.dev,MIT,"Zero-dependency CLI for agpay.shveik.dev, one of the shveik.dev agent products: list endpoints, show 402 quotes, send payment-signed calls. Same code as ag-cli."
+2026-10-08T21:50:07.068Z,agproxy,0.1.3,37,shveik.dev,MIT,"Zero-dependency CLI for agproxy.shveik.dev, one of the shveik.dev agent products: list endpoints, show 402 quotes, send payment-signed calls. Same code as ag-cli."
+2026-10-08T21:50:08.239Z,agvps,0.1.3,36,shveik.dev,MIT,"Zero-dependency CLI for agvps.shveik.dev, one of the shveik.dev agent products: list endpoints, show 402 quotes, send payment-signed calls. Same code as ag-cli."
