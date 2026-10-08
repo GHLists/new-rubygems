@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-08T15:02:49.085Z,fastlane-plugin-appshot,0.1.1,33,Maksim Zhelezniakov,MIT,Frame fastlane snapshot captures with appshot and hand them to deliver
