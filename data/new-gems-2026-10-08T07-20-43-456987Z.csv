@@ -1,0 +1,10 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-08T06:31:04.157Z,opentideconstants,0.0.0,49,Jordan Ritter,MIT,Reserves the name. The OpenTideConstants SDK is not released yet. See https://opentideconstants.org
+2026-10-08T06:41:44.25Z,pratka,0.1.1,52,Stilqn Bairski,MIT,"One Ruby interface for shipping, tracking and office lookup across Bulgarian couriers."
+2026-10-08T07:04:03.884Z,caesarx1,4.1.1,24,Shivang Kaushal,MIT,This gem was created to learn how to build and publish Ruby gems.
+2026-10-08T07:15:17.637Z,ag-cli,0.1.1,0,shveik.dev,MIT,"Zero-dependency CLI to list endpoints, show 402 quotes and send payment-signed calls to agdata, agproxy, agvps, agmail and agpay (shveik.dev agent products)."
+2026-10-08T07:15:19.733Z,agdata,0.1.1,0,shveik.dev,MIT,"Zero-dependency CLI for agdata.shveik.dev, one of the shveik.dev agent products: list endpoints, show 402 quotes, send payment-signed calls. Same code as ag-cli."
+2026-10-08T07:15:22.171Z,agproxy,0.1.1,0,shveik.dev,MIT,"Zero-dependency CLI for agproxy.shveik.dev, one of the shveik.dev agent products: list endpoints, show 402 quotes, send payment-signed calls. Same code as ag-cli."
+2026-10-08T07:15:24.242Z,agvps,0.1.1,0,shveik.dev,MIT,"Zero-dependency CLI for agvps.shveik.dev, one of the shveik.dev agent products: list endpoints, show 402 quotes, send payment-signed calls. Same code as ag-cli."
+2026-10-08T07:15:25.931Z,agmail,0.1.1,0,shveik.dev,MIT,"Zero-dependency CLI for agmail.shveik.dev, one of the shveik.dev agent products: list endpoints, show 402 quotes, send payment-signed calls. Same code as ag-cli."
+2026-10-08T07:15:28.308Z,agpay,0.1.1,0,shveik.dev,MIT,"Zero-dependency CLI for agpay.shveik.dev, one of the shveik.dev agent products: list endpoints, show 402 quotes, send payment-signed calls. Same code as ag-cli."
