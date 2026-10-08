@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-08T13:24:07.921Z,mimic-browser,0.1.1,129,Mimic Browser contributors,Prosperity-3.0.0,Pinned Mimic runtimes and typed capabilities beside native browser clients
+2026-10-08T13:24:37.393Z,fastlane-plugin-appshot,0.1.0,55,Maksim Zhelezniakov,MIT,Frame fastlane snapshot captures with appshot and hand them to deliver
+2026-10-08T14:19:40.559Z,easy_connect,0.1.0,0,tylercschneider,MIT,"EasyConnect stores boards of items a host app creates, lets an admin draw lines between them, and gives the host the lines as JSON."
+2026-10-08T14:22:17.848Z,hotcell-client-legacy,1.1.0,0,Mike Dalessio,MIT,"Call an operation in a HotCell container from an application that cannot run hotcell-client. One file, the standard library only, and legacy Ruby versions."

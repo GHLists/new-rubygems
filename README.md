@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 13:19 UTC
+## Latest list — 2026-10-08 14:25 UTC
 
-New gems created between 2026-10-08 12:20 UTC and 2026-10-08 13:19 UTC.
+New gems created between 2026-10-08 13:19 UTC and 2026-10-08 14:25 UTC.
 
-[Full CSV](data/new-gems-2026-10-08T13-19-34-318416Z.csv)
+[Full CSV](data/new-gems-2026-10-08T14-25-51-256754Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-08 13:17:41 | [asterism-zenoh](https://rubygems.org/gems/asterism-zenoh) | 0.2.0 | Katsuhiko Kageyama | MIT; Apache-2.0 | Sessions, put / subscribe, get / queryable, liveliness and attachments, receive… |
+| 2026-10-08 13:24:07 | [mimic-browser](https://rubygems.org/gems/mimic-browser) | 0.1.1 | Mimic Browser contributors | Prosperity-3.0.0 | Pinned Mimic runtimes and typed capabilities beside native browser clients |
+| 2026-10-08 13:24:37 | [fastlane-plugin-appshot](https://rubygems.org/gems/fastlane-plugin-appshot) | 0.1.0 | Maksim Zhelezniakov | MIT | Frame fastlane snapshot captures with appshot and hand them to deliver |
+| 2026-10-08 14:19:40 | [easy_connect](https://rubygems.org/gems/easy_connect) | 0.1.0 | tylercschneider | MIT | EasyConnect stores boards of items a host app creates, lets an admin draw lines… |
+| 2026-10-08 14:22:17 | [hotcell-client-legacy](https://rubygems.org/gems/hotcell-client-legacy) | 1.1.0 | Mike Dalessio | MIT | Call an operation in a HotCell container from an application that cannot run ho… |
 
 ## Data source
 
