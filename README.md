@@ -9,15 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 10:19 UTC
+## Latest list — 2026-10-08 11:19 UTC
 
-New gems created between 2026-10-08 09:20 UTC and 2026-10-08 10:19 UTC.
+New gems created between 2026-10-08 10:19 UTC and 2026-10-08 11:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-08T10-19-59-830739Z.csv)
+[Full CSV](data/new-gems-2026-10-08T11-19-08-623114Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-08 10:04:44 | [asterism-zenoh](https://rubygems.org/gems/asterism-zenoh) | 0.1.0 | Katsuhiko Kageyama | MIT; Apache-2.0 | Sessions, put / subscribe, get / queryable, liveliness and attachments, receive… |
+| 2026-10-08 10:35:48 | [crawlora-sofascore](https://rubygems.org/gems/crawlora-sofascore) | 0.3.0 | Crawlora | MIT | Credential-free SofaScore API access through Crawlora's hosted service. |
+| 2026-10-08 10:36:21 | [waffo-pancake](https://rubygems.org/gems/waffo-pancake) | 0.2.0 | Good First Issue | MIT | Signed requests to the Waffo Pancake merchant API (checkout, subscriptions, pro… |
+| 2026-10-08 10:50:57 | [crawlora-flashscore](https://rubygems.org/gems/crawlora-flashscore) | 0.3.0 | Crawlora | MIT | Credential-free Flashscore API access through Crawlora's hosted service. |
+| 2026-10-08 10:58:12 | [mimic-browser](https://rubygems.org/gems/mimic-browser) | 0.1.0 | Mimic Browser contributors | Prosperity-3.0.0 | Pinned Mimic runtimes and typed capabilities beside native browser clients |
+| 2026-10-08 11:01:08 | [lucky_dice](https://rubygems.org/gems/lucky_dice) | 0.1.0 | Afnan | MIT | LuckyDice lets you pick 2 numbers from 1 to 6, rolls 2 dice, and tells you if t… |
 
 ## Data source
 
