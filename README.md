@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 20:19 UTC
+## Latest list — 2026-10-08 21:20 UTC
 
-New gems created between 2026-10-08 19:20 UTC and 2026-10-08 20:19 UTC.
+New gems created between 2026-10-08 20:19 UTC and 2026-10-08 21:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-08T20-19-36-709402Z.csv)
+[Full CSV](data/new-gems-2026-10-08T21-20-15-361443Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-08 19:48:32 | [agentfeedback](https://rubygems.org/gems/agentfeedback) | 0.0.1 | AgentFeedback contributors | MIT | Official package of AgentFeedback (https://github.com/AgentFeedback/agentfeedba… |
+| 2026-10-08 20:20:14 | [easy_connect](https://rubygems.org/gems/easy_connect) | 0.1.2 | tylercschneider | MIT | EasyConnect stores boards of items a host app creates, lets an admin draw lines… |
+| 2026-10-08 20:54:24 | [very_fast_yaml](https://rubygems.org/gems/very_fast_yaml) | 0.1.3 | Peter Arato | MIT | Native YAML loading with a Psych-compatible Ruby interface |
 
 ## Data source
 
