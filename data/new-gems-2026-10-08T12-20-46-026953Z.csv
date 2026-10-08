@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-08T11:27:00.501Z,sreelakshmi_csv_quick_summary,0.1.0,43,Sreelakshmi,MIT,Reads a CSV file with a header row and returns its data row count and column names as a Ruby hash.
+2026-10-08T12:06:48.795Z,waffo-pancake,0.2.1,25,Good First Issue,MIT,"Signed requests to the Waffo Pancake merchant API (checkout, subscriptions, products, GraphQL) and webhook signature verification. A Ruby port of @waffo/pancake-ts."

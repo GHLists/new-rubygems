@@ -9,19 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 11:19 UTC
+## Latest list — 2026-10-08 12:20 UTC
 
-New gems created between 2026-10-08 10:19 UTC and 2026-10-08 11:19 UTC.
+New gems created between 2026-10-08 11:19 UTC and 2026-10-08 12:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-08T11-19-08-623114Z.csv)
+[Full CSV](data/new-gems-2026-10-08T12-20-46-026953Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-08 10:35:48 | [crawlora-sofascore](https://rubygems.org/gems/crawlora-sofascore) | 0.3.0 | Crawlora | MIT | Credential-free SofaScore API access through Crawlora's hosted service. |
-| 2026-10-08 10:36:21 | [waffo-pancake](https://rubygems.org/gems/waffo-pancake) | 0.2.0 | Good First Issue | MIT | Signed requests to the Waffo Pancake merchant API (checkout, subscriptions, pro… |
-| 2026-10-08 10:50:57 | [crawlora-flashscore](https://rubygems.org/gems/crawlora-flashscore) | 0.3.0 | Crawlora | MIT | Credential-free Flashscore API access through Crawlora's hosted service. |
-| 2026-10-08 10:58:12 | [mimic-browser](https://rubygems.org/gems/mimic-browser) | 0.1.0 | Mimic Browser contributors | Prosperity-3.0.0 | Pinned Mimic runtimes and typed capabilities beside native browser clients |
-| 2026-10-08 11:01:08 | [lucky_dice](https://rubygems.org/gems/lucky_dice) | 0.1.0 | Afnan | MIT | LuckyDice lets you pick 2 numbers from 1 to 6, rolls 2 dice, and tells you if t… |
+| 2026-10-08 11:27:00 | [sreelakshmi_csv_quick_summary](https://rubygems.org/gems/sreelakshmi_csv_quick_summary) | 0.1.0 | Sreelakshmi | MIT | Reads a CSV file with a header row and returns its data row count and column na… |
+| 2026-10-08 12:06:48 | [waffo-pancake](https://rubygems.org/gems/waffo-pancake) | 0.2.1 | Good First Issue | MIT | Signed requests to the Waffo Pancake merchant API (checkout, subscriptions, pro… |
 
 ## Data source
 
