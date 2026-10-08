@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 18:18 UTC
+## Latest list — 2026-10-08 20:19 UTC
 
-New gems created between 2026-10-08 17:19 UTC and 2026-10-08 18:18 UTC.
+New gems created between 2026-10-08 19:20 UTC and 2026-10-08 20:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-08T18-18-59-02344Z.csv)
+[Full CSV](data/new-gems-2026-10-08T20-19-36-709402Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-08 17:48:54 | [sferik](https://rubygems.org/gems/sferik) | 0.0.1 | Erik Berlin | MIT | A client for the sferik.net API: Erik Berlin's bio, GitHub contributions, proje… |
-| 2026-10-08 18:10:16 | [solargraph-dragonruby](https://rubygems.org/gems/solargraph-dragonruby) | 0.2.0 | Austin Simmons | MIT | Adds YARD-documented DragonRuby GTK API pins (args, outputs, inputs, $gtk, Geom… |
-| 2026-10-08 18:11:14 | [squishling](https://rubygems.org/gems/squishling) | 0.1.0 | Michael Carroll | Apache-2.0 | Squishling makes Ruby classes elastic. Add a squishling to a class and it can s… |
+| 2026-10-08 19:48:32 | [agentfeedback](https://rubygems.org/gems/agentfeedback) | 0.0.1 | AgentFeedback contributors | MIT | Official package of AgentFeedback (https://github.com/AgentFeedback/agentfeedba… |
 
 ## Data source
 

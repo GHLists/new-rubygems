@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-08T19:48:32.027Z,agentfeedback,0.0.1,45,AgentFeedback contributors,MIT,Official package of AgentFeedback (https://github.com/AgentFeedback/agentfeedback). 0.0.x is a launcher for the agentfeedback binary; the packaged binary follows in a later release.
