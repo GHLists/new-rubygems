@@ -9,29 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 00:19 UTC
+## Latest list — 2026-10-08 01:22 UTC
 
-New gems created between 2026-10-07 23:19 UTC and 2026-10-08 00:19 UTC.
+New gems created between 2026-10-08 00:19 UTC and 2026-10-08 01:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-08T00-19-23-966454Z.csv)
+[Full CSV](data/new-gems-2026-10-08T01-22-21-253571Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-07 23:35:01 | [hypertabular](https://rubygems.org/gems/hypertabular) | 0.7.0 | Brian Buvinghausen | MIT | CSV, TSV and any single-byte ASCII separator, and XLSX and ODS workbooks, read… |
-| 2026-10-07 23:35:01 | [hypertabular](https://rubygems.org/gems/hypertabular) | 0.7.0 | Brian Buvinghausen | MIT | CSV, TSV and any single-byte ASCII separator, and XLSX and ODS workbooks, read… |
-| 2026-10-07 23:35:01 | [hypertabular](https://rubygems.org/gems/hypertabular) | 0.7.0 | Brian Buvinghausen | MIT | CSV, TSV and any single-byte ASCII separator, and XLSX and ODS workbooks, read… |
-| 2026-10-07 23:35:01 | [hypertabular](https://rubygems.org/gems/hypertabular) | 0.7.0 | Brian Buvinghausen | MIT | CSV, TSV and any single-byte ASCII separator, and XLSX and ODS workbooks, read… |
-| 2026-10-07 23:35:01 | [hypertabular](https://rubygems.org/gems/hypertabular) | 0.7.0 | Brian Buvinghausen | MIT | CSV, TSV and any single-byte ASCII separator, and XLSX and ODS workbooks, read… |
-| 2026-10-07 23:35:01 | [hypertabular](https://rubygems.org/gems/hypertabular) | 0.7.0 | Brian Buvinghausen | MIT | CSV, TSV and any single-byte ASCII separator, and XLSX and ODS workbooks, read… |
-| 2026-10-07 23:35:01 | [hypertabular](https://rubygems.org/gems/hypertabular) | 0.7.0 | Brian Buvinghausen | MIT | CSV, TSV and any single-byte ASCII separator, and XLSX and ODS workbooks, read… |
-| 2026-10-07 23:35:01 | [hypertabular](https://rubygems.org/gems/hypertabular) | 0.7.0 | Brian Buvinghausen | MIT | CSV, TSV and any single-byte ASCII separator, and XLSX and ODS workbooks, read… |
-| 2026-10-07 23:35:13 | [hypertabular-wasm](https://rubygems.org/gems/hypertabular-wasm) | 0.7.0 | Brian Buvinghausen | MIT | The hypertabular gem's Magnus extension, prebuilt for wasm32-wasip1, for a ruby… |
-| 2026-10-07 23:59:55 | [shuttlebay](https://rubygems.org/gems/shuttlebay) | 0.1.4 | Abdelkader Boudih | MIT | Shuttlebay serves a Rack app (Rails, Sinatra, Roda) as a Mothership [[bays.http… |
-| 2026-10-07 23:59:55 | [shuttlebay](https://rubygems.org/gems/shuttlebay) | 0.1.4 | Abdelkader Boudih | MIT | Shuttlebay serves a Rack app (Rails, Sinatra, Roda) as a Mothership [[bays.http… |
-| 2026-10-07 23:59:55 | [shuttlebay](https://rubygems.org/gems/shuttlebay) | 0.1.4 | Abdelkader Boudih | MIT | Shuttlebay serves a Rack app (Rails, Sinatra, Roda) as a Mothership [[bays.http… |
-| 2026-10-07 23:59:55 | [shuttlebay](https://rubygems.org/gems/shuttlebay) | 0.1.4 | Abdelkader Boudih | MIT | Shuttlebay serves a Rack app (Rails, Sinatra, Roda) as a Mothership [[bays.http… |
-| 2026-10-07 23:59:55 | [shuttlebay](https://rubygems.org/gems/shuttlebay) | 0.1.4 | Abdelkader Boudih | MIT | Shuttlebay serves a Rack app (Rails, Sinatra, Roda) as a Mothership [[bays.http… |
-| 2026-10-07 23:59:55 | [shuttlebay](https://rubygems.org/gems/shuttlebay) | 0.1.4 | Abdelkader Boudih | MIT | Shuttlebay serves a Rack app (Rails, Sinatra, Roda) as a Mothership [[bays.http… |
+| 2026-10-08 00:54:08 | [dkw_test](https://rubygems.org/gems/dkw_test) | 0.1.0 | dkw_rubygems |  | A test gem that does nothing |
 
 ## Data source
 
