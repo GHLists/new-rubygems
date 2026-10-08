@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 01:22 UTC
+## Latest list — 2026-10-08 05:19 UTC
 
-New gems created between 2026-10-08 00:19 UTC and 2026-10-08 01:22 UTC.
+New gems created between 2026-10-08 04:19 UTC and 2026-10-08 05:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-08T01-22-21-253571Z.csv)
+[Full CSV](data/new-gems-2026-10-08T05-19-20-728305Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-08 00:54:08 | [dkw_test](https://rubygems.org/gems/dkw_test) | 0.1.0 | dkw_rubygems |  | A test gem that does nothing |
+| 2026-10-08 04:48:00 | [rubocop-hanami](https://rubygems.org/gems/rubocop-hanami) | 0.2.0 | Aaron Allen | MIT | A collection of RuboCop cops that check Hanami apps and slices. |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-08T04:48:00.328Z,rubocop-hanami,0.2.0,51,Aaron Allen,MIT,A collection of RuboCop cops that check Hanami apps and slices.
