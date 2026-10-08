@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-08T17:48:54.331Z,sferik,0.0.1,39,Erik Berlin,MIT,"A client for the sferik.net API: Erik Berlin's bio, GitHub contributions, projects, talks, and resume (as JSON Resume, LaTeX, or PDF), with immutable response objects"
+2026-10-08T18:10:16.376Z,solargraph-dragonruby,0.2.0,10,Austin Simmons,MIT,"Adds YARD-documented DragonRuby GTK API pins (args, outputs, inputs, $gtk, Geometry, ...) to Solargraph so LSP editors get autocomplete, hover and go-to-definition in DragonRuby games."
+2026-10-08T18:11:14.755Z,squishling,0.1.0,6,Michael Carroll,Apache-2.0,"Squishling makes Ruby classes elastic. Add a squishling to a class and it can send inputs straight to an LLM (OpenAI, Anthropic Claude, Google Gemini, or any provider RubyLLM supports) and return strict-schema-validated, typed results: the same type your Ruby code returns. Use it to gracefully main…"

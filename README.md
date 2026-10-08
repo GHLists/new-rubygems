@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 17:19 UTC
+## Latest list — 2026-10-08 18:18 UTC
 
-New gems created between 2026-10-08 16:22 UTC and 2026-10-08 17:19 UTC.
+New gems created between 2026-10-08 17:19 UTC and 2026-10-08 18:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-08T17-19-23-391118Z.csv)
+[Full CSV](data/new-gems-2026-10-08T18-18-59-02344Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-08 16:34:09 | [ares_rest](https://rubygems.org/gems/ares_rest) | 0.1.0 | lepi1 | MIT | Look up Czech companies by ICO (IČO) using the official ARES REST API. |
-| 2026-10-08 16:55:50 | [easy_connect](https://rubygems.org/gems/easy_connect) | 0.1.1 | tylercschneider | MIT | EasyConnect stores boards of items a host app creates, lets an admin draw lines… |
-| 2026-10-08 17:11:26 | [crawlora-bbb](https://rubygems.org/gems/crawlora-bbb) | 0.1.0 | Crawlora | MIT | Credential-free Better Business Bureau API access through Crawlora's hosted ser… |
+| 2026-10-08 17:48:54 | [sferik](https://rubygems.org/gems/sferik) | 0.0.1 | Erik Berlin | MIT | A client for the sferik.net API: Erik Berlin's bio, GitHub contributions, proje… |
+| 2026-10-08 18:10:16 | [solargraph-dragonruby](https://rubygems.org/gems/solargraph-dragonruby) | 0.2.0 | Austin Simmons | MIT | Adds YARD-documented DragonRuby GTK API pins (args, outputs, inputs, $gtk, Geom… |
+| 2026-10-08 18:11:14 | [squishling](https://rubygems.org/gems/squishling) | 0.1.0 | Michael Carroll | Apache-2.0 | Squishling makes Ruby classes elastic. Add a squishling to a class and it can s… |
 
 ## Data source
 
