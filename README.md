@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 15:20 UTC
+## Latest list — 2026-10-08 16:22 UTC
 
-New gems created between 2026-10-08 14:25 UTC and 2026-10-08 15:20 UTC.
+New gems created between 2026-10-08 15:20 UTC and 2026-10-08 16:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-08T15-20-19-007471Z.csv)
+[Full CSV](data/new-gems-2026-10-08T16-22-11-941673Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-08 15:02:49 | [fastlane-plugin-appshot](https://rubygems.org/gems/fastlane-plugin-appshot) | 0.1.1 | Maksim Zhelezniakov | MIT | Frame fastlane snapshot captures with appshot and hand them to deliver |
+| 2026-10-08 16:06:07 | [probezxw7711b](https://rubygems.org/gems/probezxw7711b) | 1.0.0 | gemprobe_7621 | MIT | lab probe gem used for authorized bounty testing only. |
+| 2026-10-08 16:07:25 | [probezxw7711a](https://rubygems.org/gems/probezxw7711a) | 2.0.0 | gemprobe_7621 | MIT | lab probe gem used for authorized bounty testing only. |
+| 2026-10-08 16:13:12 | [asterism-zenoh](https://rubygems.org/gems/asterism-zenoh) | 0.3.0 | Katsuhiko Kageyama | MIT; Apache-2.0 | Sessions, put / subscribe, get / queryable, liveliness and attachments, receive… |
 
 ## Data source
 
