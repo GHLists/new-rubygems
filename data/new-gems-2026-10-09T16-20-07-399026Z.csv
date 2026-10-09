@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-09T15:33:13.783Z,space-cadet,9.1.0,60,Eric Jacobs,MIT,"A dry-cli CLI for spaces: date-prefixed directories with a YAML identity file, $PWD-based current-space resolution, and XDG config/state. Provisions repos at copy-on-write speed from evergreen checkouts (pairs with repo-tender), concurrently on fibers. Ships fish shell integration and completions."
+2026-10-09T16:03:56.696Z,sumwerk,0.2.0,13,Kitchn Venture GmbH,MIT,"Every call of the sumwerk API (customers, usage, notes, tasks, revenue, billing) with errors and retries, and billing answers (features, limits, rollout flags) from a local copy kept current by sumwerk."
