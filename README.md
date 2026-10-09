@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 01:19 UTC
+## Latest list — 2026-10-09 02:19 UTC
 
-New gems created between 2026-10-09 00:19 UTC and 2026-10-09 01:19 UTC.
+New gems created between 2026-10-09 01:19 UTC and 2026-10-09 02:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-09T01-19-12-277936Z.csv)
+[Full CSV](data/new-gems-2026-10-09T02-19-06-40871Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 00:52:53 | [crawlora-bbb](https://rubygems.org/gems/crawlora-bbb) | 0.1.1 | Crawlora | MIT | Credential-free Better Business Bureau API access through Crawlora's hosted ser… |
+| 2026-10-09 01:43:47 | [crawlora-bbb](https://rubygems.org/gems/crawlora-bbb) | 0.1.2 | Crawlora | MIT | Credential-free Better Business Bureau API access through Crawlora's hosted ser… |
 
 ## Data source
 
