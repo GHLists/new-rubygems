@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-09T09:47:45.778Z,pinecall,0.0.1,38,Pinecall,Apache-2.0,"The application's side of Pinecall. A class whose declared fields are the state, whose `tool` methods are the model's verbs, whose comments are the prompt, and whose ERB view is the part of that prompt which changes. It speaks commands and reads entries over one socket; it never imports the runtime…"
+2026-10-09T10:02:05.432Z,opentrust,0.1.2,35,ParityCube,MIT,"Check mobile numbers against experiences shared by other Indian merchants, and share your own. A small, dependency-free client for https://opentrust.in."

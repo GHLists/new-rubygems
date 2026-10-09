@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 09:20 UTC
+## Latest list — 2026-10-09 10:19 UTC
 
-New gems created between 2026-10-09 08:19 UTC and 2026-10-09 09:20 UTC.
+New gems created between 2026-10-09 09:20 UTC and 2026-10-09 10:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-09T09-20-32-896348Z.csv)
+[Full CSV](data/new-gems-2026-10-09T10-19-05-930348Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 08:23:43 | [agentforge-telegram-notifier](https://rubygems.org/gems/agentforge-telegram-notifier) | 0.2.1 | AgentForge Labs | AGPL-3.0-only | A credential-safe Ruby client for the Telegram Notifier public v1 API. Supports… |
+| 2026-10-09 09:47:45 | [pinecall](https://rubygems.org/gems/pinecall) | 0.0.1 | Pinecall | Apache-2.0 | The application's side of Pinecall. A class whose declared fields are the state… |
+| 2026-10-09 10:02:05 | [opentrust](https://rubygems.org/gems/opentrust) | 0.1.2 | ParityCube | MIT | Check mobile numbers against experiences shared by other Indian merchants, and… |
 
 ## Data source
 
