@@ -9,21 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 23:20 UTC
+## Latest list — 2026-10-09 01:19 UTC
 
-New gems created between 2026-10-08 22:20 UTC and 2026-10-08 23:20 UTC.
+New gems created between 2026-10-09 00:19 UTC and 2026-10-09 01:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-08T23-20-38-756681Z.csv)
+[Full CSV](data/new-gems-2026-10-09T01-19-12-277936Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-08 22:56:16 | [metapath](https://rubygems.org/gems/metapath) | 0.0.0 | Brooke Kuhlmann | Hippocratic-2.1 | A parser of enriched file path metadata. |
-| 2026-10-08 23:01:17 | [psychowl](https://rubygems.org/gems/psychowl) | 0.1.0 | Abdelkader Boudih | MIT | Language and script detection with a Rust engine, precompiled for Linux, macOS… |
-| 2026-10-08 23:01:17 | [psychowl](https://rubygems.org/gems/psychowl) | 0.1.0 | Abdelkader Boudih | MIT | Language and script detection with a Rust engine, precompiled for Linux, macOS… |
-| 2026-10-08 23:01:17 | [psychowl](https://rubygems.org/gems/psychowl) | 0.1.0 | Abdelkader Boudih | MIT | Language and script detection with a Rust engine, precompiled for Linux, macOS… |
-| 2026-10-08 23:01:17 | [psychowl](https://rubygems.org/gems/psychowl) | 0.1.0 | Abdelkader Boudih | MIT | Language and script detection with a Rust engine, precompiled for Linux, macOS… |
-| 2026-10-08 23:01:17 | [psychowl](https://rubygems.org/gems/psychowl) | 0.1.0 | Abdelkader Boudih | MIT | Language and script detection with a Rust engine, precompiled for Linux, macOS… |
-| 2026-10-08 23:01:17 | [psychowl](https://rubygems.org/gems/psychowl) | 0.1.0 | Abdelkader Boudih | MIT | Language and script detection with a Rust engine, precompiled for Linux, macOS… |
+| 2026-10-09 00:52:53 | [crawlora-bbb](https://rubygems.org/gems/crawlora-bbb) | 0.1.1 | Crawlora | MIT | Credential-free Better Business Bureau API access through Crawlora's hosted ser… |
 
 ## Data source
 
