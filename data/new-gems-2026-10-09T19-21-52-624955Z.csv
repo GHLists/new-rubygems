@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-09T18:47:23.034Z,cvrvaelger,0.1.0,42,Rasmus Bergholdt,MIT,HTTP client for Det Centrale Virksomhedsregister (CVR) on Datafordeler GraphQL: verify an 8-digit CVR number or exact registered name and return the company name plus light address fields for picker UX. No Rails dependency.
+2026-10-09T18:51:11.527Z,diffbroker,0.9.0,42,Yuri Sidorov (@newstler),MIT,"Pairs a machine with diff.broker, keeps one outbound connection, and when you ask from a PR card creates a worktree and runs your own agent there, headless or in your terminal."
+2026-10-09T18:57:52.916Z,eav_field,0.1.0,37,Mouad Imam,MIT,"Add database-defined, validated, queryable fields to existing Rails models without altering their tables."

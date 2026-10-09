@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 18:19 UTC
+## Latest list — 2026-10-09 19:21 UTC
 
-New gems created between 2026-10-09 17:21 UTC and 2026-10-09 18:19 UTC.
+New gems created between 2026-10-09 18:19 UTC and 2026-10-09 19:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-09T18-19-49-197074Z.csv)
+[Full CSV](data/new-gems-2026-10-09T19-21-52-624955Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 17:53:24 | [rails_preflight](https://rubygems.org/gems/rails_preflight) | 0.1.1 | Syed Aslam | MIT | Point rails-preflight at a Rails app and a target version. It reads the lockfil… |
-| 2026-10-09 17:56:07 | [sqs_simplify](https://rubygems.org/gems/sqs_simplify) | 0.2.0 | Ralph Baesso, Nathan Meira, J… | MIT | Send, consume and schedule Amazon SQS messages with jobs, consumers, dead lette… |
+| 2026-10-09 18:47:23 | [cvrvaelger](https://rubygems.org/gems/cvrvaelger) | 0.1.0 | Rasmus Bergholdt | MIT | HTTP client for Det Centrale Virksomhedsregister (CVR) on Datafordeler GraphQL:… |
+| 2026-10-09 18:51:11 | [diffbroker](https://rubygems.org/gems/diffbroker) | 0.9.0 | Yuri Sidorov (@newstler) | MIT | Pairs a machine with diff.broker, keeps one outbound connection, and when you a… |
+| 2026-10-09 18:57:52 | [eav_field](https://rubygems.org/gems/eav_field) | 0.1.0 | Mouad Imam | MIT | Add database-defined, validated, queryable fields to existing Rails models with… |
 
 ## Data source
 
