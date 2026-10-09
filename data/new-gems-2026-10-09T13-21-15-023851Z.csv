@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-09T12:23:28.294Z,edupage-cli,0.1.1,60,Ahmed Al Hafoudh,MIT,"ActiveRecord-like prístup k Edupage - školy, žiaci, rozvrhy, domáce úlohy a známky - vystavený zhodne cez Ruby API, CLI, REST API a MCP server. Iba na čítanie."

@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 12:20 UTC
+## Latest list — 2026-10-09 13:21 UTC
 
-New gems created between 2026-10-09 11:20 UTC and 2026-10-09 12:20 UTC.
+New gems created between 2026-10-09 12:20 UTC and 2026-10-09 13:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-09T12-20-49-362432Z.csv)
+[Full CSV](data/new-gems-2026-10-09T13-21-15-023851Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 12:17:44 | [pinecall](https://rubygems.org/gems/pinecall) | 0.0.2 | Pinecall | Apache-2.0 | The application's side of Pinecall. A class whose declared fields are the state… |
+| 2026-10-09 12:23:28 | [edupage-cli](https://rubygems.org/gems/edupage-cli) | 0.1.1 | Ahmed Al Hafoudh | MIT | ActiveRecord-like prístup k Edupage - školy, žiaci, rozvrhy, domáce úlohy a zná… |
 
 ## Data source
 
