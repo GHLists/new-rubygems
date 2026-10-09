@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-09T13:37:06.849Z,edupage-cli,0.2.0,94,Ahmed Al Hafoudh,MIT,"ActiveRecord-like prístup k Edupage - školy, žiaci, rozvrhy, domáce úlohy a známky - vystavený zhodne cez Ruby API, CLI, REST API a MCP server. Iba na čítanie."
+2026-10-09T13:58:43.593Z,pinecall,0.0.4,21,Pinecall,Apache-2.0,"The application's side of Pinecall. A class whose declared fields are the state, whose `tool` methods are the model's verbs, whose comments are the prompt, and whose ERB view is the part of that prompt which changes. It speaks commands and reads entries over one socket; it never imports the runtime…"
+2026-10-09T14:09:33.951Z,zotero-mcp,1.3.0,10,Stephane D'Alu,MIT,"A Model Context Protocol server that lets Claude Code and other MCP clients search, read, cite and edit a Zotero library through the Zotero Web API v3, or read it from the Zotero desktop app."
