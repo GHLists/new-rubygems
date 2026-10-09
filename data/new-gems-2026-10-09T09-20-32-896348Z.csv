@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-09T08:23:43.895Z,agentforge-telegram-notifier,0.2.1,74,AgentForge Labs,AGPL-3.0-only,"A credential-safe Ruby client for the Telegram Notifier public v1 API. Supports source-scoped inbox, notification, reply and file flows with optional Bearer auth, idempotent writes, retries and structured errors."
