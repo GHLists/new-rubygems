@@ -9,21 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 07:20 UTC
+## Latest list — 2026-10-09 08:19 UTC
 
-New gems created between 2026-10-09 06:20 UTC and 2026-10-09 07:20 UTC.
+New gems created between 2026-10-09 07:20 UTC and 2026-10-09 08:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-09T07-20-34-67664Z.csv)
+[Full CSV](data/new-gems-2026-10-09T08-19-09-898157Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 06:31:29 | [crawlora-reddit](https://rubygems.org/gems/crawlora-reddit) | 0.1.1 | Crawlora | MIT | Credential-free Reddit API access through Crawlora's hosted service. |
-| 2026-10-09 06:31:52 | [crawlora-amazon](https://rubygems.org/gems/crawlora-amazon) | 0.1.1 | Crawlora | MIT | Credential-free Amazon API access through Crawlora's hosted service. |
-| 2026-10-09 06:32:19 | [crawlora-imdb](https://rubygems.org/gems/crawlora-imdb) | 0.1.1 | Crawlora | MIT | Credential-free IMDb API access through Crawlora's hosted service. |
-| 2026-10-09 06:37:30 | [crawlora-tiktok](https://rubygems.org/gems/crawlora-tiktok) | 0.1.1 | Crawlora | MIT | Credential-free TikTok API access through Crawlora's hosted service. |
-| 2026-10-09 07:05:52 | [hypertabular-wasm](https://rubygems.org/gems/hypertabular-wasm) | 0.8.0 | Brian Buvinghausen | MIT | The hypertabular gem's Magnus extension, prebuilt for wasm32-wasip1, for a ruby… |
-| 2026-10-09 07:18:16 | [asterism-zenoh](https://rubygems.org/gems/asterism-zenoh) | 0.4.0 | Katsuhiko Kageyama | MIT; Apache-2.0 | Sessions, put / subscribe, get / queryable, liveliness and attachments, receive… |
-| 2026-10-09 07:18:28 | [opentrust](https://rubygems.org/gems/opentrust) | 0.1.1 | OpenTrust | MIT | Check mobile numbers against experiences shared by other Indian merchants, and… |
+| 2026-10-09 07:22:09 | [agentforge-telegram-notifier](https://rubygems.org/gems/agentforge-telegram-notifier) | 0.2.0 | AgentForge Labs | AGPL-3.0-only | A credential-safe Ruby client for the Telegram Notifier public v1 API. Supports… |
+| 2026-10-09 07:48:12 | [space-cadet](https://rubygems.org/gems/space-cadet) | 9.0.0 | Eric Jacobs | MIT | A dry-cli CLI for spaces: date-prefixed directories with a YAML identity file,… |
+| 2026-10-09 07:59:36 | [snitcher_reports](https://rubygems.org/gems/snitcher_reports) | 0.2.0 | Visuality | MIT | Aggregates completed work across trackers into a unified per-user report. One s… |
+| 2026-10-09 08:18:50 | [snapforge](https://rubygems.org/gems/snapforge) | 0.2.0 | AgentForge Labs | AGPL-3.0-only | A thin Ruby client for managed SnapForge with explicit self-hosted support, typ… |
 
 ## Data source
 
