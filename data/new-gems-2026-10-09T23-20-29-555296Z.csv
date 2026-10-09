@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-09T22:54:03.665Z,gmcp,0.5.1,94,TwilightCoders,MIT,"A local stdio MCP server that gives AI assistants scoped access to Gmail, Google Calendar, Google Drive and Google Voice across several Google accounts, with per-capability grants."
+2026-10-09T22:57:25.765Z,clio_it_slack,0.0.0,40,Clio,,clio_it_slack

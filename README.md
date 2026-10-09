@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 21:18 UTC
+## Latest list — 2026-10-09 23:20 UTC
 
-New gems created between 2026-10-09 20:20 UTC and 2026-10-09 21:18 UTC.
+New gems created between 2026-10-09 22:18 UTC and 2026-10-09 23:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-09T21-18-52-478144Z.csv)
+[Full CSV](data/new-gems-2026-10-09T23-20-29-555296Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 20:45:50 | [scalar_api_ruby](https://rubygems.org/gems/scalar_api_ruby) | 0.2.0 | Scalar | Apache-2.0 | Ruby library to access the Scalar API |
-| 2026-10-09 21:04:31 | [pop_frame](https://rubygems.org/gems/pop_frame) | 0.1.0 | Andy Cohen | MIT | A view helper for a button that opens a lazily loaded Turbo Frame in a native p… |
+| 2026-10-09 22:54:03 | [gmcp](https://rubygems.org/gems/gmcp) | 0.5.1 | TwilightCoders | MIT | A local stdio MCP server that gives AI assistants scoped access to Gmail, Googl… |
+| 2026-10-09 22:57:25 | [clio_it_slack](https://rubygems.org/gems/clio_it_slack) | 0.0.0 | Clio |  | clio_it_slack |
 
 ## Data source
 
