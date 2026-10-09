@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 20:20 UTC
+## Latest list — 2026-10-09 21:18 UTC
 
-New gems created between 2026-10-09 19:21 UTC and 2026-10-09 20:20 UTC.
+New gems created between 2026-10-09 20:20 UTC and 2026-10-09 21:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-09T20-20-09-245114Z.csv)
+[Full CSV](data/new-gems-2026-10-09T21-18-52-478144Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 19:28:39 | [duva-rails](https://rubygems.org/gems/duva-rails) | 0.1.0 | 9573-4562 Québec inc. | MIT | Adds a :duva delivery method to Action Mailer: mailers, Active Job deliveries a… |
-| 2026-10-09 19:58:24 | [eav_field](https://rubygems.org/gems/eav_field) | 0.2.0 | Mouad Imam | MIT | Add database-defined, validated, queryable fields to existing Rails models with… |
+| 2026-10-09 20:45:50 | [scalar_api_ruby](https://rubygems.org/gems/scalar_api_ruby) | 0.2.0 | Scalar | Apache-2.0 | Ruby library to access the Scalar API |
+| 2026-10-09 21:04:31 | [pop_frame](https://rubygems.org/gems/pop_frame) | 0.1.0 | Andy Cohen | MIT | A view helper for a button that opens a lazily loaded Turbo Frame in a native p… |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-09T20:45:50.408Z,scalar_api_ruby,0.2.0,38,Scalar,Apache-2.0,Ruby library to access the Scalar API
+2026-10-09T21:04:31.033Z,pop_frame,0.1.0,34,Andy Cohen,MIT,"A view helper for a button that opens a lazily loaded Turbo Frame in a native popover, anchored to the button with CSS. No JavaScript of its own."
