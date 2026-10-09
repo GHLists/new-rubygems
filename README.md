@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 10:19 UTC
+## Latest list — 2026-10-09 11:20 UTC
 
-New gems created between 2026-10-09 09:20 UTC and 2026-10-09 10:19 UTC.
+New gems created between 2026-10-09 10:19 UTC and 2026-10-09 11:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-09T10-19-05-930348Z.csv)
+[Full CSV](data/new-gems-2026-10-09T11-20-22-489372Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 09:47:45 | [pinecall](https://rubygems.org/gems/pinecall) | 0.0.1 | Pinecall | Apache-2.0 | The application's side of Pinecall. A class whose declared fields are the state… |
-| 2026-10-09 10:02:05 | [opentrust](https://rubygems.org/gems/opentrust) | 0.1.2 | ParityCube | MIT | Check mobile numbers against experiences shared by other Indian merchants, and… |
+| 2026-10-09 10:26:51 | [numo-gsl-alt](https://rubygems.org/gems/numo-gsl-alt) | 0.1.3 | Masahiro TANAKA, Matijs van Z… | GPL-3 | Numo::GSL Alternative is an alternative to Numo::GSL that depends on Numo::NArr… |
+| 2026-10-09 11:03:13 | [crawlora-bbb](https://rubygems.org/gems/crawlora-bbb) | 0.2.0 | Crawlora | MIT | Credential-free Better Business Bureau API access through Crawlora's hosted ser… |
+| 2026-10-09 11:09:56 | [edupage-cli](https://rubygems.org/gems/edupage-cli) | 0.1.0 | Ahmed Al Hafoudh | MIT | ActiveRecord-like prístup k Edupage - školy, žiaci, rozvrhy, domáce úlohy a zná… |
 
 ## Data source
 
