@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 16:20 UTC
+## Latest list — 2026-10-09 17:21 UTC
 
-New gems created between 2026-10-09 15:20 UTC and 2026-10-09 16:20 UTC.
+New gems created between 2026-10-09 16:20 UTC and 2026-10-09 17:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-09T16-20-07-399026Z.csv)
+[Full CSV](data/new-gems-2026-10-09T17-21-24-986512Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 15:33:13 | [space-cadet](https://rubygems.org/gems/space-cadet) | 9.1.0 | Eric Jacobs | MIT | A dry-cli CLI for spaces: date-prefixed directories with a YAML identity file,… |
-| 2026-10-09 16:03:56 | [sumwerk](https://rubygems.org/gems/sumwerk) | 0.2.0 | Kitchn Venture GmbH | MIT | Every call of the sumwerk API (customers, usage, notes, tasks, revenue, billing… |
+| 2026-10-09 16:42:11 | [squishling](https://rubygems.org/gems/squishling) | 0.2.0 | Michael Carroll | Apache-2.0 | Squishling makes Ruby classes elastic. Add a squishling to a class and it can s… |
+| 2026-10-09 17:10:47 | [companion](https://rubygems.org/gems/companion) | 0.1.0 | Kevin Sylvestre | MIT | Companion is a mountable engine that spawns and supervises companion applicatio… |
 
 ## Data source
 

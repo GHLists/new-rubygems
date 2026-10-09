@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-09T16:42:11.927Z,squishling,0.2.0,86,Michael Carroll,Apache-2.0,"Squishling makes Ruby classes elastic. Add a squishling to a class and it can send inputs straight to an LLM (OpenAI, Anthropic Claude, Google Gemini, or any provider RubyLLM supports) and return strict-schema-validated, typed results: the same type your Ruby code returns. Use it to gracefully main…"
+2026-10-09T17:10:47.519Z,companion,0.1.0,6,Kevin Sylvestre,MIT,Companion is a mountable engine that spawns and supervises companion applications.
