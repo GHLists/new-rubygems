@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-09T19:28:39.867Z,duva-rails,0.1.0,44,9573-4562 Québec inc.,MIT,"Adds a :duva delivery method to Action Mailer: mailers, Active Job deliveries and Action Mailbox replies are sent through Duva. Built on the official duva-mail library."
+2026-10-09T19:58:24.925Z,eav_field,0.2.0,51,Mouad Imam,MIT,"Add database-defined, validated, queryable fields to existing Rails models without altering their tables."
