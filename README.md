@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 02:19 UTC
+## Latest list — 2026-10-09 03:18 UTC
 
-New gems created between 2026-10-09 01:19 UTC and 2026-10-09 02:19 UTC.
+New gems created between 2026-10-09 02:19 UTC and 2026-10-09 03:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-09T02-19-06-40871Z.csv)
+[Full CSV](data/new-gems-2026-10-09T03-18-43-369523Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 01:43:47 | [crawlora-bbb](https://rubygems.org/gems/crawlora-bbb) | 0.1.2 | Crawlora | MIT | Credential-free Better Business Bureau API access through Crawlora's hosted ser… |
+| 2026-10-09 02:52:17 | [crawlora-bbb](https://rubygems.org/gems/crawlora-bbb) | 0.1.3 | Crawlora | MIT | Credential-free Better Business Bureau API access through Crawlora's hosted ser… |
+| 2026-10-09 03:07:11 | [async-matrix-bridge](https://rubygems.org/gems/async-matrix-bridge) | 2.0.0 | Nathan Kidd | Apache-2.0 | The server side of a Matrix bridge or bot: a Rack application that authenticate… |
 
 ## Data source
 
