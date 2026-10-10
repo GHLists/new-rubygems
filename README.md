@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 04:19 UTC
+## Latest list — 2026-10-10 06:20 UTC
 
-New gems created between 2026-10-10 03:20 UTC and 2026-10-10 04:19 UTC.
+New gems created between 2026-10-10 05:20 UTC and 2026-10-10 06:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-10T04-19-48-775616Z.csv)
+[Full CSV](data/new-gems-2026-10-10T06-20-27-348441Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-10 04:18:05 | [peerpressure](https://rubygems.org/gems/peerpressure) | 0.1.0 | Forrest Chang | MIT | List live Claude Code and Codex sessions, send them messages, and hear back, fr… |
+| 2026-10-10 05:38:44 | [cogbox_toolbox_api_client](https://rubygems.org/gems/cogbox_toolbox_api_client) | 0.190.1 | cognifyi | Unlicense | Cogbox Toolbox API Client |
+| 2026-10-10 05:38:46 | [cogbox_api_client](https://rubygems.org/gems/cogbox_api_client) | 0.190.1 | cognifyi | Unlicense | Cogbox API Client |
+| 2026-10-10 06:18:38 | [saboteur](https://rubygems.org/gems/saboteur) | 0.2.0 | Vamsi Pavan Mahesh Gunturu | MIT | saboteur makes small deliberate changes to your methods, runs only the tests th… |
 
 ## Data source
 
