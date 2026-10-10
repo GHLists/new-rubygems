@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-10T17:25:33.774Z,runlight,0.1.0,62,Jon C. Phillips,MIT,"Mount the Rails engine or the Rack app, add a script tag, and read your stats at /runlight. The Ruby port of the runlight npm package: same tables, same answers, same dashboard."
+2026-10-10T18:12:04.221Z,zard,0.0.1,15,USAMI Kenta,MPL-2.0,"ZARD models Ruby declarations, API documentation, and RBS or Rigor contract text with source provenance."
+2026-10-10T18:13:06.873Z,zard-doc,0.0.1,9,USAMI Kenta,MPL-2.0,zard-doc renders API documentation from the versioned ZARD document model.

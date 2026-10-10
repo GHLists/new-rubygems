@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 17:19 UTC
+## Latest list — 2026-10-10 18:20 UTC
 
-New gems created between 2026-10-10 16:20 UTC and 2026-10-10 17:19 UTC.
+New gems created between 2026-10-10 17:19 UTC and 2026-10-10 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-10T17-19-44-595303Z.csv)
+[Full CSV](data/new-gems-2026-10-10T18-20-10-347517Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-10 16:34:01 | [pinecall](https://rubygems.org/gems/pinecall) | 0.0.6 | Pinecall | Apache-2.0 | The application's side of Pinecall. A class whose declared fields are the state… |
-| 2026-10-10 16:54:36 | [kling4-clearer-take](https://rubygems.org/gems/kling4-clearer-take) | 0.1.0 | Maya Lin | MIT | Compares clarity and motion scores and keeps the stronger take. |
+| 2026-10-10 17:25:33 | [runlight](https://rubygems.org/gems/runlight) | 0.1.0 | Jon C. Phillips | MIT | Mount the Rails engine or the Rack app, add a script tag, and read your stats a… |
+| 2026-10-10 18:12:04 | [zard](https://rubygems.org/gems/zard) | 0.0.1 | USAMI Kenta | MPL-2.0 | ZARD models Ruby declarations, API documentation, and RBS or Rigor contract tex… |
+| 2026-10-10 18:13:06 | [zard-doc](https://rubygems.org/gems/zard-doc) | 0.0.1 | USAMI Kenta | MPL-2.0 | zard-doc renders API documentation from the versioned ZARD document model. |
 
 ## Data source
 
