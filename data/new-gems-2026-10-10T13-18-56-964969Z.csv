@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-10T12:28:17.793Z,pinecall,0.0.5,125,Pinecall,Apache-2.0,"The application's side of Pinecall. A class whose declared fields are the state, whose `tool` methods are the model's verbs, whose comments are the prompt, and whose ERB view is the part of that prompt which changes. It speaks commands and reads entries over one socket; it never imports the runtime…"

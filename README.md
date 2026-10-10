@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 11:21 UTC
+## Latest list — 2026-10-10 13:18 UTC
 
-New gems created between 2026-10-10 10:19 UTC and 2026-10-10 11:21 UTC.
+New gems created between 2026-10-10 12:20 UTC and 2026-10-10 13:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-10T11-21-30-092877Z.csv)
+[Full CSV](data/new-gems-2026-10-10T13-18-56-964969Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-10 10:38:30 | [crawlora-tiktok](https://rubygems.org/gems/crawlora-tiktok) | 0.1.2 | Crawlora | MIT | Credential-free TikTok API access through Crawlora's hosted service. |
-| 2026-10-10 11:16:44 | [mailsenpai](https://rubygems.org/gems/mailsenpai) | 1.0.0 | MailSenpai | MIT | Send transactional email through SMTP Senpai by MailSenpai, the EU-hosted SMTP… |
+| 2026-10-10 12:28:17 | [pinecall](https://rubygems.org/gems/pinecall) | 0.0.5 | Pinecall | Apache-2.0 | The application's side of Pinecall. A class whose declared fields are the state… |
 
 ## Data source
 
