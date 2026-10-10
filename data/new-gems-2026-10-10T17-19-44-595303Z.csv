@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-10T16:34:01.368Z,pinecall,0.0.6,106,Pinecall,Apache-2.0,"The application's side of Pinecall. A class whose declared fields are the state, whose `tool` methods are the model's verbs, whose comments are the prompt, and whose ERB view is the part of that prompt which changes. It speaks commands and reads entries over one socket; it never imports the runtime…"
+2026-10-10T16:54:36Z,kling4-clearer-take,0.1.0,48,Maya Lin,MIT,Compares clarity and motion scores and keeps the stronger take.
