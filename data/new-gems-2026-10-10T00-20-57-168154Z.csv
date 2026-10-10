@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-09T23:49:24.882Z,diffbroker,0.11.0,101,Yuri Sidorov (@newstler),MIT,"Pairs a machine with diff.broker, keeps one outbound connection, and when you ask from a PR card creates a worktree and runs your own agent there, headless or in your terminal."

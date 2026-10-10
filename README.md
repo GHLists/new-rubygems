@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 23:20 UTC
+## Latest list — 2026-10-10 00:20 UTC
 
-New gems created between 2026-10-09 22:18 UTC and 2026-10-09 23:20 UTC.
+New gems created between 2026-10-09 23:20 UTC and 2026-10-10 00:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-09T23-20-29-555296Z.csv)
+[Full CSV](data/new-gems-2026-10-10T00-20-57-168154Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 22:54:03 | [gmcp](https://rubygems.org/gems/gmcp) | 0.5.1 | TwilightCoders | MIT | A local stdio MCP server that gives AI assistants scoped access to Gmail, Googl… |
-| 2026-10-09 22:57:25 | [clio_it_slack](https://rubygems.org/gems/clio_it_slack) | 0.0.0 | Clio |  | clio_it_slack |
+| 2026-10-09 23:49:24 | [diffbroker](https://rubygems.org/gems/diffbroker) | 0.11.0 | Yuri Sidorov (@newstler) | MIT | Pairs a machine with diff.broker, keeps one outbound connection, and when you a… |
 
 ## Data source
 
