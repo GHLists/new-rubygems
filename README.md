@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 06:20 UTC
+## Latest list — 2026-10-10 08:20 UTC
 
-New gems created between 2026-10-10 05:20 UTC and 2026-10-10 06:20 UTC.
+New gems created between 2026-10-10 07:19 UTC and 2026-10-10 08:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-10T06-20-27-348441Z.csv)
+[Full CSV](data/new-gems-2026-10-10T08-20-43-704688Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-10 05:38:44 | [cogbox_toolbox_api_client](https://rubygems.org/gems/cogbox_toolbox_api_client) | 0.190.1 | cognifyi | Unlicense | Cogbox Toolbox API Client |
-| 2026-10-10 05:38:46 | [cogbox_api_client](https://rubygems.org/gems/cogbox_api_client) | 0.190.1 | cognifyi | Unlicense | Cogbox API Client |
-| 2026-10-10 06:18:38 | [saboteur](https://rubygems.org/gems/saboteur) | 0.2.0 | Vamsi Pavan Mahesh Gunturu | MIT | saboteur makes small deliberate changes to your methods, runs only the tests th… |
+| 2026-10-10 07:58:33 | [cogbox](https://rubygems.org/gems/cogbox) | 0.190.1 | Cogbox Platforms Inc. |  | High-level Ruby SDK for Cogbox: sandboxes, git, filesystem, LSP, process, and o… |
+| 2026-10-10 08:16:23 | [opinionated_rails](https://rubygems.org/gems/opinionated_rails) | 0.1.4 | brolinr | MIT | Generates Rails applications by composing independent, opinionated steps. |
 
 ## Data source
 
