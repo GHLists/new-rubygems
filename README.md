@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 08:20 UTC
+## Latest list — 2026-10-10 09:19 UTC
 
-New gems created between 2026-10-10 07:19 UTC and 2026-10-10 08:20 UTC.
+New gems created between 2026-10-10 08:20 UTC and 2026-10-10 09:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-10T08-20-43-704688Z.csv)
+[Full CSV](data/new-gems-2026-10-10T09-19-34-018695Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-10 07:58:33 | [cogbox](https://rubygems.org/gems/cogbox) | 0.190.1 | Cogbox Platforms Inc. |  | High-level Ruby SDK for Cogbox: sandboxes, git, filesystem, LSP, process, and o… |
-| 2026-10-10 08:16:23 | [opinionated_rails](https://rubygems.org/gems/opinionated_rails) | 0.1.4 | brolinr | MIT | Generates Rails applications by composing independent, opinionated steps. |
+| 2026-10-10 08:38:20 | [flexiq](https://rubygems.org/gems/flexiq) | 2.1.0 | ByteVeda | MIT | Submit, read, cancel and count FlexiQ jobs over a running flexiq-server's JSON… |
+| 2026-10-10 08:41:37 | [flexiq-executor](https://rubygems.org/gems/flexiq-executor) | 2.1.0 | ByteVeda | MIT | Attach to a running flexiq-server's executor door over gRPC, run the jobs it di… |
+| 2026-10-10 09:15:54 | [sequel-notion](https://rubygems.org/gems/sequel-notion) | 0.2.0 | Stéphane D'Alu | MIT | A Sequel database adapter that maps Notion databases and data sources to Sequel… |
 
 ## Data source
 

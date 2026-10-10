@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-10T08:38:20.561Z,flexiq,2.1.0,57,ByteVeda,MIT,"Submit, read, cancel and count FlexiQ jobs over a running flexiq-server's JSON door. Pure Ruby, standard library only: no database credential, no native extension, no gRPC toolchain."
+2026-10-10T08:41:37.91Z,flexiq-executor,2.1.0,55,ByteVeda,MIT,"Attach to a running flexiq-server's executor door over gRPC, run the jobs it dispatches and settle each one. A separate gem from `flexiq` because this door needs a real gRPC library, and the producer gem has no dependencies."
+2026-10-10T09:15:54.204Z,sequel-notion,0.2.0,0,Stéphane D'Alu,MIT,"A Sequel database adapter that maps Notion databases and data sources to Sequel's Dataset interface. Supports multi-source databases, filtering, sorting, pagination, and CRUD operations via the Notion API (2026-03-11)."
