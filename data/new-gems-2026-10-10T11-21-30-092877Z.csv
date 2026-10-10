@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-10T10:38:30.996Z,crawlora-tiktok,0.1.2,119,Crawlora,MIT,Credential-free TikTok API access through Crawlora's hosted service.
+2026-10-10T11:16:44.878Z,mailsenpai,1.0.0,0,MailSenpai,MIT,"Send transactional email through SMTP Senpai by MailSenpai, the EU-hosted SMTP relay and email API: API client (send, events, suppression list), webhook signature verification and an ActionMailer delivery method (:mailsenpai)."

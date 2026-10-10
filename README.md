@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 09:19 UTC
+## Latest list — 2026-10-10 11:21 UTC
 
-New gems created between 2026-10-10 08:20 UTC and 2026-10-10 09:19 UTC.
+New gems created between 2026-10-10 10:19 UTC and 2026-10-10 11:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-10T09-19-34-018695Z.csv)
+[Full CSV](data/new-gems-2026-10-10T11-21-30-092877Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-10 08:38:20 | [flexiq](https://rubygems.org/gems/flexiq) | 2.1.0 | ByteVeda | MIT | Submit, read, cancel and count FlexiQ jobs over a running flexiq-server's JSON… |
-| 2026-10-10 08:41:37 | [flexiq-executor](https://rubygems.org/gems/flexiq-executor) | 2.1.0 | ByteVeda | MIT | Attach to a running flexiq-server's executor door over gRPC, run the jobs it di… |
-| 2026-10-10 09:15:54 | [sequel-notion](https://rubygems.org/gems/sequel-notion) | 0.2.0 | Stéphane D'Alu | MIT | A Sequel database adapter that maps Notion databases and data sources to Sequel… |
+| 2026-10-10 10:38:30 | [crawlora-tiktok](https://rubygems.org/gems/crawlora-tiktok) | 0.1.2 | Crawlora | MIT | Credential-free TikTok API access through Crawlora's hosted service. |
+| 2026-10-10 11:16:44 | [mailsenpai](https://rubygems.org/gems/mailsenpai) | 1.0.0 | MailSenpai | MIT | Send transactional email through SMTP Senpai by MailSenpai, the EU-hosted SMTP… |
 
 ## Data source
 
