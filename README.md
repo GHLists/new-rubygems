@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 13:18 UTC
+## Latest list — 2026-10-10 15:18 UTC
 
-New gems created between 2026-10-10 12:20 UTC and 2026-10-10 13:18 UTC.
+New gems created between 2026-10-10 14:19 UTC and 2026-10-10 15:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-10T13-18-56-964969Z.csv)
+[Full CSV](data/new-gems-2026-10-10T15-18-50-750972Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-10 12:28:17 | [pinecall](https://rubygems.org/gems/pinecall) | 0.0.5 | Pinecall | Apache-2.0 | The application's side of Pinecall. A class whose declared fields are the state… |
+| 2026-10-10 14:56:45 | [cvrvaelger](https://rubygems.org/gems/cvrvaelger) | 0.2.0 | Rasmus Bergholdt | MIT | HTTP client for Det Centrale Virksomhedsregister (CVR) on Datafordeler: GraphQL… |
 
 ## Data source
 

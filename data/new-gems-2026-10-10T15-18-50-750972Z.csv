@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-10T14:56:45.63Z,cvrvaelger,0.2.0,56,Rasmus Bergholdt,MIT,"HTTP client for Det Centrale Virksomhedsregister (CVR) on Datafordeler: GraphQL lookup/search for picker UX, Fildownload helpers for totalextract zips, and CVR_Events pull/poll for incremental sync. No Rails dependency."
