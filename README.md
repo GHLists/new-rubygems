@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 00:20 UTC
+## Latest list — 2026-10-10 03:20 UTC
 
-New gems created between 2026-10-09 23:20 UTC and 2026-10-10 00:20 UTC.
+New gems created between 2026-10-10 02:20 UTC and 2026-10-10 03:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-10T00-20-57-168154Z.csv)
+[Full CSV](data/new-gems-2026-10-10T03-20-00-929399Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-09 23:49:24 | [diffbroker](https://rubygems.org/gems/diffbroker) | 0.11.0 | Yuri Sidorov (@newstler) | MIT | Pairs a machine with diff.broker, keeps one outbound connection, and when you a… |
+| 2026-10-10 03:15:31 | [i18n-embedded-references](https://rubygems.org/gems/i18n-embedded-references) | 1.2.1 | Jaime Arrieta | MIT | An I18n backend extension that lets a translation embed other translations with… |
 
 ## Data source
 

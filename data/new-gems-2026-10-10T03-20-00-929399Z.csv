@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-10T03:15:31.313Z,i18n-embedded-references,1.2.1,0,Jaime Arrieta,MIT,"An I18n backend extension that lets a translation embed other translations with ${some.key}. References resolve on lookup, recursively, with cycle detection and in the requested locale when fallbacks apply. Works with strings, hashes and arrays. Ships a static checker (CLI and rake task) that finds…"
