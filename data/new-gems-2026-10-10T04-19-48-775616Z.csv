@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-10T04:18:05.636Z,peerpressure,0.1.0,0,Forrest Chang,MIT,"List live Claude Code and Codex sessions, send them messages, and hear back, from Ruby or the peer CLI. Idle sessions wake up and act. Honest delivery status (held, denied, expired) instead of a fake 'sent'. Local Unix sockets, same user, no network."
