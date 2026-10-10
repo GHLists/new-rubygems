@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 19:19 UTC
+## Latest list — 2026-10-10 20:19 UTC
 
-New gems created between 2026-10-10 18:20 UTC and 2026-10-10 19:19 UTC.
+New gems created between 2026-10-10 19:19 UTC and 2026-10-10 20:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-10T19-19-36-254542Z.csv)
+[Full CSV](data/new-gems-2026-10-10T20-19-12-25507Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-10 19:03:25 | [pinecall](https://rubygems.org/gems/pinecall) | 0.0.7 | Pinecall | Apache-2.0 | The application's side of Pinecall. A class whose declared fields are the state… |
+| 2026-10-10 19:35:08 | [ixport](https://rubygems.org/gems/ixport) | 0.1.0 | Tyler Schneider | MIT | A Rails engine that lets a person import records into a Rails app from a CSV fi… |
+| 2026-10-10 19:52:28 | [diffbroker](https://rubygems.org/gems/diffbroker) | 0.12.0 | Yuri Sidorov (@newstler) | MIT | Pairs a machine with diff.broker, keeps one outbound connection, and when you a… |
 
 ## Data source
 
