@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-10T21:29:13.363Z,ixport,0.2.0,85,Tyler Schneider,MIT,A Rails engine that lets a person import records into a Rails app from a CSV file and export them to one.
+2026-10-10T22:03:53.926Z,diffbroker,0.12.1,59,Yuri Sidorov (@newstler),MIT,"Pairs a machine with diff.broker, keeps one outbound connection, and when you ask from a PR card creates a worktree and runs your own agent there, headless or in your terminal."
