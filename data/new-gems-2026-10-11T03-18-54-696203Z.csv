@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-11T02:26:03.866Z,ixport,0.3.1,127,Tyler Schneider,MIT,A Rails engine that lets a person import records into a Rails app from a CSV file and export them to one.
