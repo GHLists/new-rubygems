@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-11T20:28:09.223Z,soml-lang,0.0.1,63,Sindre Sorhus,MIT,"A strict parser and a generator for SOML that keeps member order or writes canonical form, with exact integers, instants, and durations, and an error message that says what is wrong and where."
