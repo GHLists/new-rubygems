@@ -9,25 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 12:21 UTC
+## Latest list — 2026-10-11 13:21 UTC
 
-New gems created between 2026-10-11 11:19 UTC and 2026-10-11 12:21 UTC.
+New gems created between 2026-10-11 12:21 UTC and 2026-10-11 13:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-11T12-21-01-342755Z.csv)
+[Full CSV](data/new-gems-2026-10-11T13-21-23-475349Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-11 11:36:30 | [tonic-rails](https://rubygems.org/gems/tonic-rails) | 0.5.0 | Matt Tanous | MIT | Tonic::Rails serves gRPC from Rails applications. The transport layer (HTTP/2 f… |
-| 2026-10-11 11:36:30 | [tonic-rails](https://rubygems.org/gems/tonic-rails) | 0.5.0 | Matt Tanous | MIT | Tonic::Rails serves gRPC from Rails applications. The transport layer (HTTP/2 f… |
-| 2026-10-11 11:36:30 | [tonic-rails](https://rubygems.org/gems/tonic-rails) | 0.5.0 | Matt Tanous | MIT | Tonic::Rails serves gRPC from Rails applications. The transport layer (HTTP/2 f… |
-| 2026-10-11 11:36:30 | [tonic-rails](https://rubygems.org/gems/tonic-rails) | 0.5.0 | Matt Tanous | MIT | Tonic::Rails serves gRPC from Rails applications. The transport layer (HTTP/2 f… |
-| 2026-10-11 11:36:30 | [tonic-rails](https://rubygems.org/gems/tonic-rails) | 0.5.0 | Matt Tanous | MIT | Tonic::Rails serves gRPC from Rails applications. The transport layer (HTTP/2 f… |
-| 2026-10-11 11:36:30 | [tonic-rails](https://rubygems.org/gems/tonic-rails) | 0.5.0 | Matt Tanous | MIT | Tonic::Rails serves gRPC from Rails applications. The transport layer (HTTP/2 f… |
-| 2026-10-11 11:46:55 | [raider_reporter](https://rubygems.org/gems/raider_reporter) | 0.1.1 | Augustin Gottlieb | MIT | RSpec formatter that records results, screenshots and videos in the Raider sche… |
-| 2026-10-11 11:53:52 | [sidekiq-error-groups](https://rubygems.org/gems/sidekiq-error-groups) | 0.1.0 | r3cha | MIT | Adds an "Error groups" tab to the Sidekiq Web UI that groups retrying and dead… |
-| 2026-10-11 11:55:19 | [rodauth-token_exchange](https://rubygems.org/gems/rodauth-token_exchange) | 0.1.0 | Hiroshi Kajisha | MIT | Adds the RFC 8693 token-exchange grant to rodauth-oauth's token endpoint, with… |
-| 2026-10-11 11:55:53 | [rodauth-ciba](https://rubygems.org/gems/rodauth-ciba) | 0.1.0 | rodauth-ciba contributors | MIT | Adds backchannel authentication, Ruby completion APIs, transactional hooks and… |
-| 2026-10-11 12:12:35 | [modulith-guardrails](https://rubygems.org/gems/modulith-guardrails) | 0.0.1 | Paweł Dąbrowski | MIT | Guardrails verifies agent-generated code with deterministic checks, such as det… |
+| 2026-10-11 12:50:34 | [rubik](https://rubygems.org/gems/rubik) | 0.1.0 | Özgür Ulukır, Rubik Team | MIT | Polyglot AI coding agent with spatiotemporal composability, file buffering, and… |
 
 ## Data source
 
