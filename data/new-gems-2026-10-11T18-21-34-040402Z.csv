@@ -1,0 +1,27 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-11T17:21:00.141Z,crawlora-google,0.1.0,63,Crawlora,MIT,Credential-free Google API access through Crawlora's hosted service.
+2026-10-11T17:21:08.359Z,sd_jwt,0.1.0,52,Yudai Takada,MIT,"RFC 9901 selective disclosure, recursive claims, JWS JSON serialization, and holder key binding, using ruby-jwt for signatures."
+2026-10-11T17:23:59.988Z,crawlora-bing,0.1.0,64,Crawlora,MIT,Credential-free Bing API access through Crawlora's hosted service.
+2026-10-11T17:36:21.617Z,crawlora-brave,0.1.0,48,Crawlora,MIT,Credential-free Brave Search API access through Crawlora's hosted service.
+2026-10-11T17:38:44.739Z,masks-server,0.7.0,53,the masks authors,MIT,"A multi-tenant OpenID Connect and OAuth 2.0 provider with a signing key per tenant, SAML, SCIM, passkeys, and a management API. Mount it at the root of an app of its own, or inside an existing Rails app."
+2026-10-11T17:39:45.59Z,crawlora-duckduckgo,0.1.0,58,Crawlora,MIT,Credential-free DuckDuckGo API access through Crawlora's hosted service.
+2026-10-11T17:42:37.744Z,crawlora-ebay,0.1.0,54,Crawlora,MIT,Credential-free eBay API access through Crawlora's hosted service.
+2026-10-11T17:45:45.038Z,crawlora-googleplay,0.1.0,51,Crawlora,MIT,Credential-free Google Play API access through Crawlora's hosted service.
+2026-10-11T17:47:26.144Z,crawlora-appstore,0.1.0,48,Crawlora,MIT,Credential-free App Store API access through Crawlora's hosted service.
+2026-10-11T17:48:56.646Z,relume,0.0.0,45,21tycoons,MIT,Placeholder gem for the Relume name.
+2026-10-11T17:53:25.379Z,crawlora-airbnb,0.1.0,41,Crawlora,MIT,Credential-free Airbnb API access through Crawlora's hosted service.
+2026-10-11T17:55:04.738Z,crawlora-spotify,0.1.0,42,Crawlora,MIT,Credential-free Spotify API access through Crawlora's hosted service.
+2026-10-11T17:57:54.054Z,prysm,0.0.0,39,21tycoons,MIT,Placeholder gem for the Prysm name.
+2026-10-11T17:57:55.977Z,prise,0.0.0,41,21tycoons,MIT,Placeholder gem for the Prise name.
+2026-10-11T17:57:57.731Z,awl,0.0.0,41,21tycoons,MIT,Placeholder gem for the Awl name.
+2026-10-11T17:57:59.459Z,replume,0.0.0,37,21tycoons,MIT,Placeholder gem for the Replume name.
+2026-10-11T17:59:10.899Z,yang_json,0.1.0,35,Yudai Takada,MIT,"Schema-aware YANG JSON value conversion, namespace normalization, structural validation, and RFC 7952 annotations."
+2026-10-11T18:08:21.822Z,limn,0.0.0,19,21tycoons,MIT,Placeholder gem for the Limn name.
+2026-10-11T18:08:23.273Z,gouge,0.0.0,19,21tycoons,MIT,Placeholder gem for the Gouge name.
+2026-10-11T18:08:24.876Z,educe,0.0.0,20,21tycoons,MIT,Placeholder gem for the Educe name.
+2026-10-11T18:08:26.751Z,lancet,0.0.0,17,21tycoons,MIT,Placeholder gem for the Lancet name.
+2026-10-11T18:08:28.401Z,marrow,0.0.0,15,21tycoons,MIT,Placeholder gem for the Marrow name.
+2026-10-11T18:11:56.946Z,jscalendar,0.2.0,6,Yudai Takada,MIT,"RFC 8984 calendar models, time zones, atomic patches, and bounded recurrence expansion."
+2026-10-11T18:12:01.191Z,senml,0.2.0,9,Yudai Takada,MIT,"RFC 8428 SenML JSON, base-value resolution, incremental SenSML streams, fragments, and CBOR."
+2026-10-11T18:16:17.555Z,rubik,0.1.2,2,"Özgür Ulukır, Rubik Team",MIT,"Polyglot AI coding agent with spatiotemporal composability, file buffering, and automated repair."
+2026-10-11T18:19:05.536Z,iodef,0.2.0,0,Yudai Takada,MIT,"RFC 8727 JSON incident reports, typed IODEF v2 models, validation, CBOR, and RFC 7970 XML conversion."
