@@ -9,22 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 10:18 UTC
+## Latest list — 2026-10-11 11:19 UTC
 
-New gems created between 2026-10-11 09:19 UTC and 2026-10-11 10:18 UTC.
+New gems created between 2026-10-11 10:18 UTC and 2026-10-11 11:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-11T10-18-41-219533Z.csv)
+[Full CSV](data/new-gems-2026-10-11T11-19-22-227447Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-11 10:01:01 | [padded_cell](https://rubygems.org/gems/padded_cell) | 0.1.0 | Abdelkader Boudih | MIT | Runs existing Minitest and Rails test suites with fork-per-test isolation, cras… |
-| 2026-10-11 10:01:01 | [padded_cell](https://rubygems.org/gems/padded_cell) | 0.1.0 | Abdelkader Boudih | MIT | Runs existing Minitest and Rails test suites with fork-per-test isolation, cras… |
-| 2026-10-11 10:01:01 | [padded_cell](https://rubygems.org/gems/padded_cell) | 0.1.0 | Abdelkader Boudih | MIT | Runs existing Minitest and Rails test suites with fork-per-test isolation, cras… |
-| 2026-10-11 10:01:01 | [padded_cell](https://rubygems.org/gems/padded_cell) | 0.1.0 | Abdelkader Boudih | MIT | Runs existing Minitest and Rails test suites with fork-per-test isolation, cras… |
-| 2026-10-11 10:01:01 | [padded_cell](https://rubygems.org/gems/padded_cell) | 0.1.0 | Abdelkader Boudih | MIT | Runs existing Minitest and Rails test suites with fork-per-test isolation, cras… |
-| 2026-10-11 10:01:01 | [padded_cell](https://rubygems.org/gems/padded_cell) | 0.1.0 | Abdelkader Boudih | MIT | Runs existing Minitest and Rails test suites with fork-per-test isolation, cras… |
-| 2026-10-11 10:01:01 | [padded_cell](https://rubygems.org/gems/padded_cell) | 0.1.0 | Abdelkader Boudih | MIT | Runs existing Minitest and Rails test suites with fork-per-test isolation, cras… |
-| 2026-10-11 10:01:01 | [padded_cell](https://rubygems.org/gems/padded_cell) | 0.1.0 | Abdelkader Boudih | MIT | Runs existing Minitest and Rails test suites with fork-per-test isolation, cras… |
+| 2026-10-11 10:45:20 | [modulith](https://rubygems.org/gems/modulith) | 0.0.1 | Paweł Dąbrowski | MIT | Build Ruby on Rails applications with the modular monolith approach. |
+| 2026-10-11 10:50:19 | [google-apis-integrations_v2](https://rubygems.org/gems/google-apis-integrations_v2) | 0.1.0 | Google LLC | Apache-2.0 | This is the simple REST client for Application Integration API V2. Simple REST… |
 
 ## Data source
 
