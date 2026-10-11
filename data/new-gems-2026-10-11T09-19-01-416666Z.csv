@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-11T08:51:38.068Z,moonraker-bosun,0.1.0,35,akira yamada,MIT,"bosun fetches configuration files and Moonraker database contents from a Klipper host through the Moonraker API, records them in a dedicated git branch, and pushes local changes back to the host after checking that nothing has changed there."
+2026-10-11T09:03:37.099Z,jcard_jcal,0.1.0,21,Yudai Takada,MIT,"Read, validate, and write jCard (RFC 7095) and jCal (RFC 7265), including structured values, recurrence rules, and unknown extensions."
