@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-11T05:51:43.327Z,goodsorcery,0.1.0,59,Philip Q Nguyen,MIT,"Reports exceptions from Ruby and Rails apps to Good Sorcery. Filters sensitive data in-process and delivers events in batches from a background thread, without blocking the host app."
+2026-10-11T05:54:28.175Z,cogbox_api_client,0.190.2,46,cognifyi,Unlicense,Cogbox API Client
+2026-10-11T05:54:31.127Z,cogbox_toolbox_api_client,0.190.2,49,cognifyi,Unlicense,Cogbox Toolbox API Client
+2026-10-11T05:54:43.284Z,cogbox,0.190.2,97,Cogbox Platforms Inc.,,"High-level Ruby SDK for Cogbox: sandboxes, git, filesystem, LSP, process, and object storage."
