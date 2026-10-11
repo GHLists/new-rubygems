@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-11T21:53:27.658Z,speedy-bg,0.1.0,52,Boyan Georgiev,MIT,"A Faraday-backed Ruby client for Speedy shipments, labels, tracking, locations, pickups, clients, contracts, and payouts."
+2026-10-11T21:53:30.2Z,econt,0.1.0,55,Boyan Georgiev,MIT,"A Faraday-backed Ruby client for Econt labels, shipment tracking, courier requests, addresses, offices, profiles, and reports."

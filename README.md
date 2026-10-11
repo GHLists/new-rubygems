@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 21:20 UTC
+## Latest list — 2026-10-11 22:19 UTC
 
-New gems created between 2026-10-11 20:19 UTC and 2026-10-11 21:20 UTC.
+New gems created between 2026-10-11 21:20 UTC and 2026-10-11 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-11T21-20-33-496903Z.csv)
+[Full CSV](data/new-gems-2026-10-11T22-19-57-992232Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-11 20:28:09 | [soml-lang](https://rubygems.org/gems/soml-lang) | 0.0.1 | Sindre Sorhus | MIT | A strict parser and a generator for SOML that keeps member order or writes cano… |
+| 2026-10-11 21:53:27 | [speedy-bg](https://rubygems.org/gems/speedy-bg) | 0.1.0 | Boyan Georgiev | MIT | A Faraday-backed Ruby client for Speedy shipments, labels, tracking, locations,… |
+| 2026-10-11 21:53:30 | [econt](https://rubygems.org/gems/econt) | 0.1.0 | Boyan Georgiev | MIT | A Faraday-backed Ruby client for Econt labels, shipment tracking, courier reque… |
 
 ## Data source
 
