@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-11T07:34:49.285Z,goodsorcery,0.1.1,64,Philip Q Nguyen,MIT,"Reports exceptions from Ruby and Rails apps to Good Sorcery. Filters sensitive data in-process and delivers events in batches from a background thread, without blocking the host app."
