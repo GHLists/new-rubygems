@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-11T22:36:08.407Z,solargraph-dr_talon,0.2.0,100,Austin Simmons,MIT,"Teaches Solargraph the metaprogramming in the Talon game framework for DragonRuby: Talon::Concern mixins (class_methods, included), the prop and state DSLs, and on_* lifecycle hook blocks, so LSP editors get autocomplete, hover and go-to-definition in Talon games."
+2026-10-11T22:40:41.665Z,dns_json,0.2.0,75,Yudai Takada,MIT,"Bounded tolerant DNS wire parsing, RFC 8427 JSON conversion, RDATA codecs, profiles, and JSON text sequences."
+2026-10-11T22:42:48.02Z,iodef,0.2.1,71,Yudai Takada,MIT,"RFC 8727 JSON incident reports, typed IODEF v2 models, validation, CBOR, and RFC 7970 XML conversion."
+2026-10-11T22:43:40.93Z,jscontact,0.2.0,80,Yudai Takada,MIT,"JSContact 1.0 and 2.0 models, validation, localization patches, and optional vCard 4.0 conversion."
+2026-10-11T22:50:58.074Z,jscalendar,0.2.1,115,Yudai Takada,MIT,"RFC 8984 calendar models, time zones, atomic patches, and bounded recurrence expansion."
