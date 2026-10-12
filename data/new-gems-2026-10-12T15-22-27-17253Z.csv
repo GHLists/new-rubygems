@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-12T14:40:30.163Z,augure,0.1.0,53,Gregory Epp,MIT,"Augure encodes exploitation technique selection as Datalog rules verified by arithmetic and SMT checks, ranked by Beta-bandit priors and planned by MCTS. Every decision is reproducible and explainable. Augure decides. It never executes."
+2026-10-12T14:40:31.294Z,augure-profiler,0.0.1,50,Gregory Epp,MIT,"Generates augure fact files from ELF binaries via metasm: checksec protections, PLT imports, unsafe-symbol hints and semantically classified gadgets. The profiler speaks facts; augure decides."
+2026-10-12T14:40:32.628Z,augure-mcp,0.1.0,45,Gregory Epp,MIT,"Three read-only tools: analyze_target (facts in, decision + provenance out), list_rules, explain_technique. The LLM proposes, augure disposes - the decision layer every security agent can call."
+2026-10-12T15:08:37.566Z,public_code,0.1.0,11,Tyler Schneider,MIT,"Gives an Active Record model a random code that its addresses carry and that finds it, so no address shows a database id."
+2026-10-12T15:14:49.1Z,crawlora-spotify,0.1.1,6,Crawlora,MIT,"Ruby client for Crawlora's hosted Spotify API. Covers search, tracks, albums, artists, playlists, profiles, audiobooks, charts, and podcast shows and episodes across 38 endpoints."

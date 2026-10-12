@@ -9,20 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 14:22 UTC
+## Latest list — 2026-10-12 15:22 UTC
 
-New gems created between 2026-10-12 13:18 UTC and 2026-10-12 14:22 UTC.
+New gems created between 2026-10-12 14:22 UTC and 2026-10-12 15:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-12T14-22-08-067Z.csv)
+[Full CSV](data/new-gems-2026-10-12T15-22-27-17253Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-12 13:20:46 | [make_a_calendar_toolkit](https://rubygems.org/gems/make_a_calendar_toolkit) | 0.1.2 | Ethan | MIT | Make a Calendar Toolkit is an offline Ruby library and command-line tool for ca… |
-| 2026-10-12 13:24:02 | [crawlora-ebay](https://rubygems.org/gems/crawlora-ebay) | 0.1.1 | Crawlora | MIT | Ruby client for Crawlora's hosted eBay API. Covers listing search, item details… |
-| 2026-10-12 13:31:21 | [crawlora-googleplay](https://rubygems.org/gems/crawlora-googleplay) | 0.1.1 | Crawlora | MIT | Ruby client for Crawlora's hosted Google Play API. Covers app search, details,… |
-| 2026-10-12 13:35:39 | [crawlora-appstore](https://rubygems.org/gems/crawlora-appstore) | 0.1.1 | Crawlora | MIT | Ruby client for Crawlora's hosted App Store API. Covers app search, details, re… |
-| 2026-10-12 13:46:02 | [econt](https://rubygems.org/gems/econt) | 0.1.1 | Boyan Georgiev | MIT | A Faraday-backed Ruby client for Econt labels, shipment tracking, courier reque… |
-| 2026-10-12 13:51:14 | [crawlora-airbnb](https://rubygems.org/gems/crawlora-airbnb) | 0.1.1 | Crawlora | MIT | Ruby client for Crawlora's hosted Airbnb API. Covers listing search, room detai… |
+| 2026-10-12 14:40:30 | [augure](https://rubygems.org/gems/augure) | 0.1.0 | Gregory Epp | MIT | Augure encodes exploitation technique selection as Datalog rules verified by ar… |
+| 2026-10-12 14:40:31 | [augure-profiler](https://rubygems.org/gems/augure-profiler) | 0.0.1 | Gregory Epp | MIT | Generates augure fact files from ELF binaries via metasm: checksec protections,… |
+| 2026-10-12 14:40:32 | [augure-mcp](https://rubygems.org/gems/augure-mcp) | 0.1.0 | Gregory Epp | MIT | Three read-only tools: analyze_target (facts in, decision + provenance out), li… |
+| 2026-10-12 15:08:37 | [public_code](https://rubygems.org/gems/public_code) | 0.1.0 | Tyler Schneider | MIT | Gives an Active Record model a random code that its addresses carry and that fi… |
+| 2026-10-12 15:14:49 | [crawlora-spotify](https://rubygems.org/gems/crawlora-spotify) | 0.1.1 | Crawlora | MIT | Ruby client for Crawlora's hosted Spotify API. Covers search, tracks, albums, a… |
 
 ## Data source
 
