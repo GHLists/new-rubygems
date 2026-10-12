@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 02:20 UTC
+## Latest list — 2026-10-12 03:19 UTC
 
-New gems created between 2026-10-12 01:18 UTC and 2026-10-12 02:20 UTC.
+New gems created between 2026-10-12 02:20 UTC and 2026-10-12 03:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-12T02-20-11-284481Z.csv)
+[Full CSV](data/new-gems-2026-10-12T03-19-33-605718Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-12 01:45:01 | [runsheets](https://rubygems.org/gems/runsheets) | 0.0.1 | Dewayne VanHoozer | MIT | runsheets turns a directory of markdown files into an executable runbook served… |
-| 2026-10-12 02:19:37 | [arbiter-gem](https://rubygems.org/gems/arbiter-gem) | 0.1.0 | Actual General Intelligence,… | MIT | Ruby client for ARBITER compare and embed, plus explicit finite-action dispatch… |
+| 2026-10-12 02:26:40 | [permit_params](https://rubygems.org/gems/permit_params) | 0.1.0 | Lasnor | MIT | permit_params adds a `permit_params` class macro that lets you declare the expe… |
 
 ## Data source
 

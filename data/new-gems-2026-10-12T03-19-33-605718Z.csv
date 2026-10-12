@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-12T02:26:40.111Z,permit_params,0.1.0,64,Lasnor,MIT,"permit_params adds a `permit_params` class macro that lets you declare the expected parameters for each controller action and applies them automatically. It supports `permit`, `required` + `permit`, and the Rails 8 `expect` API, and is included into every ActionController::Base/ActionController::AP…"
