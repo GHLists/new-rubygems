@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-12T01:45:01.973Z,runsheets,0.0.1,45,Dewayne VanHoozer,MIT,"runsheets turns a directory of markdown files into an executable runbook served from a local web page. Fenced code blocks the author marks as runnable get a Run button; every execution, its output, exit status and timing, and every operator acknowledgement is captured in order into a run record (th…"
+2026-10-12T02:19:37.259Z,arbiter-gem,0.1.0,0,"Actual General Intelligence, Inc.",MIT,"Ruby client for ARBITER compare and embed, plus explicit finite-action dispatch. Remote measurement, no local engine or binary."
