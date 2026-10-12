@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-12T11:35:02.404Z,activeadmin-command_palette,0.1.8,52,Andrei Makarov,MIT,"Keyboard command palette for ActiveAdmin 4: menu navigation, registered actions, and host-defined record finders."
+2026-10-12T11:40:18.868Z,ravenrelay,0.1.0,50,RavenRelay,Nonstandard,"Send and read RavenRelay email, use saved templates, and verify signed webhooks."
