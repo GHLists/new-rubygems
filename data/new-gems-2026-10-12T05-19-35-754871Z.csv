@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-12T04:41:08.967Z,licensechain_ruby_sdk,1.0.1,55,LicenseChain Team,Elastic-2.0,"A comprehensive Ruby SDK for integrating with LicenseChain's license management platform. Provides full API access for license validation, user management, application management, and more."
