@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-12T05:37:22.69Z,mutaruby,0.1.1,74,Atlas Authorization,MIT,"mutaruby changes your code in small ways (mutants) and runs your test command against each change. A mutant your tests do not notice is a gap in your tests. Works with any test command (rspec, minitest, rake), runs every mutant in a fresh process inside a private copy of the project, and reports a…"
+2026-10-12T05:58:24.045Z,arbiter-gem,0.1.1,62,"Actual General Intelligence, Inc.",MIT,"Measure and rank candidate actions with the ARBITER API from Ruby. Includes compare, embed, rank, decide and dispatch; MCP interoperability and x402 payment challenges. No native engine."
+2026-10-12T06:14:33.326Z,ruby_llm-agent-evaluations,0.2.0,0,RubyLLM Evaluations contributors,MIT,"Evaluate any callable Ruby LLM agent with semantic, relevance, and action checks, persist runs in PostgreSQL through ActiveRecord, and inspect regressions in a local dashboard."
