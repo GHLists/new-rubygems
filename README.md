@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 08:21 UTC
+## Latest list — 2026-10-12 09:21 UTC
 
-New gems created between 2026-10-12 07:20 UTC and 2026-10-12 08:21 UTC.
+New gems created between 2026-10-12 08:21 UTC and 2026-10-12 09:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-12T08-21-36-118822Z.csv)
+[Full CSV](data/new-gems-2026-10-12T09-21-32-490145Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-12 07:55:31 | [ruby_llm-agent-evaluations](https://rubygems.org/gems/ruby_llm-agent-evaluations) | 0.2.2 | RubyLLM Evaluations contribut… | MIT | Evaluate any callable Ruby LLM agent with semantic, relevance, and action check… |
-| 2026-10-12 08:18:20 | [activeadmin-command-palette](https://rubygems.org/gems/activeadmin-command-palette) | 0.1.6 | Andrei Makarov | MIT | Keyboard command palette for ActiveAdmin 4: menu navigation, registered actions… |
+| 2026-10-12 08:27:18 | [activeadmin-command_palette](https://rubygems.org/gems/activeadmin-command_palette) | 0.1.6 | Andrei Makarov | MIT | Keyboard command palette for ActiveAdmin 4: menu navigation, registered actions… |
+| 2026-10-12 08:54:01 | [pug-sh](https://rubygems.org/gems/pug-sh) | 0.0.1 | pug.sh | MIT | Pug server-side SDK for Ruby — event tracking, profile identify, and analytics… |
+| 2026-10-12 09:04:45 | [mutaruby](https://rubygems.org/gems/mutaruby) | 0.2.0 | Atlas Authorization | MIT | mutaruby changes your code in small ways (mutants) and runs your test command a… |
 
 ## Data source
 
