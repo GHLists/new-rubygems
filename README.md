@@ -9,16 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 12:18 UTC
+## Latest list — 2026-10-12 13:18 UTC
 
-New gems created between 2026-10-12 11:19 UTC and 2026-10-12 12:18 UTC.
+New gems created between 2026-10-12 12:18 UTC and 2026-10-12 13:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-12T12-18-45-796822Z.csv)
+[Full CSV](data/new-gems-2026-10-12T13-18-44-258557Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-12 11:35:02 | [activeadmin-command_palette](https://rubygems.org/gems/activeadmin-command_palette) | 0.1.8 | Andrei Makarov | MIT | Keyboard command palette for ActiveAdmin 4: menu navigation, registered actions… |
-| 2026-10-12 11:40:18 | [ravenrelay](https://rubygems.org/gems/ravenrelay) | 0.1.0 | RavenRelay | Nonstandard | Send and read RavenRelay email, use saved templates, and verify signed webhooks. |
+| 2026-10-12 13:00:46 | [make_a_calendar_toolkit](https://rubygems.org/gems/make_a_calendar_toolkit) | 0.1.1 | Ethan | MIT | Make a Calendar Toolkit is an offline Ruby library and command-line tool for ca… |
+| 2026-10-12 13:08:08 | [lithop](https://rubygems.org/gems/lithop) | 0.1.0 | ogom | MIT | Lithop converts JPEG, PNG, and SVG images locally into STL and multipart CMYW 3… |
+| 2026-10-12 13:13:53 | [vodozemac](https://rubygems.org/gems/vodozemac) | 0.1.1 | Nathan Kidd | Apache-2.0 | Olm and Megolm for Ruby, over the vodozemac crate by magnus. Accounts, sessions… |
+| 2026-10-12 13:13:53 | [vodozemac](https://rubygems.org/gems/vodozemac) | 0.1.1 | Nathan Kidd | Apache-2.0 | Olm and Megolm for Ruby, over the vodozemac crate by magnus. Accounts, sessions… |
+| 2026-10-12 13:13:53 | [vodozemac](https://rubygems.org/gems/vodozemac) | 0.1.1 | Nathan Kidd | Apache-2.0 | Olm and Megolm for Ruby, over the vodozemac crate by magnus. Accounts, sessions… |
+| 2026-10-12 13:13:53 | [vodozemac](https://rubygems.org/gems/vodozemac) | 0.1.1 | Nathan Kidd | Apache-2.0 | Olm and Megolm for Ruby, over the vodozemac crate by magnus. Accounts, sessions… |
+| 2026-10-12 13:13:53 | [vodozemac](https://rubygems.org/gems/vodozemac) | 0.1.1 | Nathan Kidd | Apache-2.0 | Olm and Megolm for Ruby, over the vodozemac crate by magnus. Accounts, sessions… |
+| 2026-10-12 13:13:53 | [vodozemac](https://rubygems.org/gems/vodozemac) | 0.1.1 | Nathan Kidd | Apache-2.0 | Olm and Megolm for Ruby, over the vodozemac crate by magnus. Accounts, sessions… |
+| 2026-10-12 13:13:53 | [vodozemac](https://rubygems.org/gems/vodozemac) | 0.1.1 | Nathan Kidd | Apache-2.0 | Olm and Megolm for Ruby, over the vodozemac crate by magnus. Accounts, sessions… |
+| 2026-10-12 13:13:53 | [vodozemac](https://rubygems.org/gems/vodozemac) | 0.1.1 | Nathan Kidd | Apache-2.0 | Olm and Megolm for Ruby, over the vodozemac crate by magnus. Accounts, sessions… |
+| 2026-10-12 13:13:53 | [vodozemac](https://rubygems.org/gems/vodozemac) | 0.1.1 | Nathan Kidd | Apache-2.0 | Olm and Megolm for Ruby, over the vodozemac crate by magnus. Accounts, sessions… |
+| 2026-10-12 13:13:53 | [vodozemac](https://rubygems.org/gems/vodozemac) | 0.1.1 | Nathan Kidd | Apache-2.0 | Olm and Megolm for Ruby, over the vodozemac crate by magnus. Accounts, sessions… |
+| 2026-10-12 13:13:53 | [vodozemac](https://rubygems.org/gems/vodozemac) | 0.1.1 | Nathan Kidd | Apache-2.0 | Olm and Megolm for Ruby, over the vodozemac crate by magnus. Accounts, sessions… |
 
 ## Data source
 
