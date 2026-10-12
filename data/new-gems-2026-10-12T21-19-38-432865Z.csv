@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-12T20:26:58.047Z,scully,0.0.1,59,Theo Melo,MIT,Tests trustworthiness checking tool
+2026-10-12T20:28:30.678Z,fractal-ruby,0.1.0,62,Fractal,MIT,"Reports a Rails app's exceptions to Fractal's /v1/errors and sends server-side analytics events to /v1/batch, from a background thread that never slows a request."
+2026-10-12T21:16:04.076Z,aws-sdk-sagemakertrainingsessionruntime,1.0.0,0,Amazon Web Services,Apache-2.0,Official AWS Ruby gem for SageMaker Training Session Runtime. This gem is part of the AWS SDK for Ruby.
