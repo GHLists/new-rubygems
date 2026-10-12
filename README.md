@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 21:19 UTC
+## Latest list — 2026-10-12 22:19 UTC
 
-New gems created between 2026-10-12 20:20 UTC and 2026-10-12 21:19 UTC.
+New gems created between 2026-10-12 21:19 UTC and 2026-10-12 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-12T21-19-38-432865Z.csv)
+[Full CSV](data/new-gems-2026-10-12T22-19-06-197413Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-12 20:26:58 | [scully](https://rubygems.org/gems/scully) | 0.0.1 | Theo Melo | MIT | Tests trustworthiness checking tool |
-| 2026-10-12 20:28:30 | [fractal-ruby](https://rubygems.org/gems/fractal-ruby) | 0.1.0 | Fractal | MIT | Reports a Rails app's exceptions to Fractal's /v1/errors and sends server-side… |
-| 2026-10-12 21:16:04 | [aws-sdk-sagemakertrainingsessionruntime](https://rubygems.org/gems/aws-sdk-sagemakertrainingsessionruntime) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for SageMaker Training Session Runtime. This gem is part… |
+| 2026-10-12 22:00:03 | [hanami-turbo](https://rubygems.org/gems/hanami-turbo) | 0.1.0 | Andrea Fomera | MIT | Turbo Stream rendering, Turbo Frame helpers, and Turbo-friendly redirects for H… |
 
 ## Data source
 
