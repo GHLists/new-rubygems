@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 07:20 UTC
+## Latest list — 2026-10-12 08:21 UTC
 
-New gems created between 2026-10-12 06:19 UTC and 2026-10-12 07:20 UTC.
+New gems created between 2026-10-12 07:20 UTC and 2026-10-12 08:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-12T07-20-31-143716Z.csv)
+[Full CSV](data/new-gems-2026-10-12T08-21-36-118822Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-12 07:05:09 | [ruby_llm-agent-evaluations](https://rubygems.org/gems/ruby_llm-agent-evaluations) | 0.2.1 | RubyLLM Evaluations contribut… | MIT | Evaluate any callable Ruby LLM agent with semantic, relevance, and action check… |
-| 2026-10-12 07:13:09 | [raider_reporter](https://rubygems.org/gems/raider_reporter) | 0.4.0 | Augustin Gottlieb | MIT | RSpec and Cucumber formatters that record results, screenshots and videos in th… |
+| 2026-10-12 07:55:31 | [ruby_llm-agent-evaluations](https://rubygems.org/gems/ruby_llm-agent-evaluations) | 0.2.2 | RubyLLM Evaluations contribut… | MIT | Evaluate any callable Ruby LLM agent with semantic, relevance, and action check… |
+| 2026-10-12 08:18:20 | [activeadmin-command-palette](https://rubygems.org/gems/activeadmin-command-palette) | 0.1.6 | Andrei Makarov | MIT | Keyboard command palette for ActiveAdmin 4: menu navigation, registered actions… |
 
 ## Data source
 
