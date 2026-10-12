@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 09:21 UTC
+## Latest list — 2026-10-12 11:19 UTC
 
-New gems created between 2026-10-12 08:21 UTC and 2026-10-12 09:21 UTC.
+New gems created between 2026-10-12 10:21 UTC and 2026-10-12 11:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-12T09-21-32-490145Z.csv)
+[Full CSV](data/new-gems-2026-10-12T11-19-07-683209Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-12 08:27:18 | [activeadmin-command_palette](https://rubygems.org/gems/activeadmin-command_palette) | 0.1.6 | Andrei Makarov | MIT | Keyboard command palette for ActiveAdmin 4: menu navigation, registered actions… |
-| 2026-10-12 08:54:01 | [pug-sh](https://rubygems.org/gems/pug-sh) | 0.0.1 | pug.sh | MIT | Pug server-side SDK for Ruby — event tracking, profile identify, and analytics… |
-| 2026-10-12 09:04:45 | [mutaruby](https://rubygems.org/gems/mutaruby) | 0.2.0 | Atlas Authorization | MIT | mutaruby changes your code in small ways (mutants) and runs your test command a… |
+| 2026-10-12 10:24:20 | [rubik](https://rubygems.org/gems/rubik) | 0.1.3 | Özgür Ulukır, Rubik Team | MIT | Polyglot AI coding agent with spatiotemporal composability, file buffering, and… |
+| 2026-10-12 11:16:50 | [activeadmin-command_palette](https://rubygems.org/gems/activeadmin-command_palette) | 0.1.7 | Andrei Makarov | MIT | Keyboard command palette for ActiveAdmin 4: menu navigation, registered actions… |
 
 ## Data source
 
