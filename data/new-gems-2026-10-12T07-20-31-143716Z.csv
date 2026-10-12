@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-12T07:05:09.366Z,ruby_llm-agent-evaluations,0.2.1,29,RubyLLM Evaluations contributors,MIT,"Evaluate any callable Ruby LLM agent with semantic, relevance, and action checks, persist runs in PostgreSQL through ActiveRecord, and inspect regressions in a local dashboard."
+2026-10-12T07:13:09.519Z,raider_reporter,0.4.0,0,Augustin Gottlieb,MIT,"RSpec and Cucumber formatters that record results, screenshots and videos in the Raider schema, write them locally, and optionally upload them to a Raider server."

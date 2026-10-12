@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 06:19 UTC
+## Latest list — 2026-10-12 07:20 UTC
 
-New gems created between 2026-10-12 05:19 UTC and 2026-10-12 06:19 UTC.
+New gems created between 2026-10-12 06:19 UTC and 2026-10-12 07:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-12T06-19-48-764716Z.csv)
+[Full CSV](data/new-gems-2026-10-12T07-20-31-143716Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-12 05:37:22 | [mutaruby](https://rubygems.org/gems/mutaruby) | 0.1.1 | Atlas Authorization | MIT | mutaruby changes your code in small ways (mutants) and runs your test command a… |
-| 2026-10-12 05:58:24 | [arbiter-gem](https://rubygems.org/gems/arbiter-gem) | 0.1.1 | Actual General Intelligence,… | MIT | Measure and rank candidate actions with the ARBITER API from Ruby. Includes com… |
-| 2026-10-12 06:14:33 | [ruby_llm-agent-evaluations](https://rubygems.org/gems/ruby_llm-agent-evaluations) | 0.2.0 | RubyLLM Evaluations contribut… | MIT | Evaluate any callable Ruby LLM agent with semantic, relevance, and action check… |
+| 2026-10-12 07:05:09 | [ruby_llm-agent-evaluations](https://rubygems.org/gems/ruby_llm-agent-evaluations) | 0.2.1 | RubyLLM Evaluations contribut… | MIT | Evaluate any callable Ruby LLM agent with semantic, relevance, and action check… |
+| 2026-10-12 07:13:09 | [raider_reporter](https://rubygems.org/gems/raider_reporter) | 0.4.0 | Augustin Gottlieb | MIT | RSpec and Cucumber formatters that record results, screenshots and videos in th… |
 
 ## Data source
 
