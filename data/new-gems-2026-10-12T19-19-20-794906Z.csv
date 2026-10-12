@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-12T18:43:48.815Z,dependabot-apm,0.400.0,55,Dependabot,MIT,"Dependabot-Apm provides support for bumping APM (Agent Package Manager) dependencies via Dependabot. If you want support for multiple package managers, you probably want the meta-gem dependabot-omnibus."
+2026-10-12T18:48:07.403Z,omniauth-sps_commerce,0.1.0,44,Karl Falconer,MIT,An OmniAuth OAuth2 strategy that authenticates against SPS Commerce (auth.spscommerce.com) and obtains tokens for the SPS Commerce APIs.
