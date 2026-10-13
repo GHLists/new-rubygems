@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-13T21:46:29.992Z,qr_reader,0.0.2,63,Andi Idogawa,MIT,"Detects and decodes QR codes in photos and scanned documents (PNG, JPEG, JPEG 2000, GIF, BMP, PNM, TIFF incl. CCITT fax, PDF incl. vector-drawn codes) without native extensions or external tools."
+2026-10-13T21:46:32.092Z,qr_reader-native,0.0.2,63,Andi Idogawa,MIT,"The hot loops of the pure-Ruby qr_reader gem, compiled to C with the Spinel Ruby AOT compiler. qr_reader uses them automatically when this gem is installed; without it, qr_reader runs the same code as plain Ruby."
+2026-10-13T22:05:53.94Z,webauthn-slim,3.4.3,23,"Gonzalo Rodriguez, Braulio Martinez",MIT,WebAuthn ruby server library ― Make your application a W3C Web Authentication conformant

@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 21:21 UTC
+## Latest list — 2026-10-13 22:20 UTC
 
-New gems created between 2026-10-13 20:18 UTC and 2026-10-13 21:21 UTC.
+New gems created between 2026-10-13 21:21 UTC and 2026-10-13 22:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-13T21-21-44-17008Z.csv)
+[Full CSV](data/new-gems-2026-10-13T22-20-20-272961Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-13 20:30:42 | [openlanes](https://rubygems.org/gems/openlanes) | 3.0.0 | Konstantin Gredeskoul |  | Keeps a project's specifications, plans and pull requests joined up, and drives… |
-| 2026-10-13 21:03:07 | [fsdk-2237-ruby-e2e](https://rubygems.org/gems/fsdk-2237-ruby-e2e) | 0.1.0 | Postman SDK Generator | Nonstandard | This is a sample Pet Store Server based on the OpenAPI 3.0 specification. You c… |
+| 2026-10-13 21:46:29 | [qr_reader](https://rubygems.org/gems/qr_reader) | 0.0.2 | Andi Idogawa | MIT | Detects and decodes QR codes in photos and scanned documents (PNG, JPEG, JPEG 2… |
+| 2026-10-13 21:46:32 | [qr_reader-native](https://rubygems.org/gems/qr_reader-native) | 0.0.2 | Andi Idogawa | MIT | The hot loops of the pure-Ruby qr_reader gem, compiled to C with the Spinel Rub… |
+| 2026-10-13 22:05:53 | [webauthn-slim](https://rubygems.org/gems/webauthn-slim) | 3.4.3 | Gonzalo Rodriguez, Braulio Ma… | MIT | WebAuthn ruby server library ― Make your application a W3C Web Authentication c… |
 
 ## Data source
 
