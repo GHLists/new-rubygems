@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-13T14:57:00.554Z,qr_reader,0.0.1,35,Andi Idogawa,MIT,"Detects and decodes QR codes in photos and scanned documents (PNG, JPEG, GIF, BMP, PNM, TIFF incl. CCITT fax, PDF) without native extensions or external tools."
+2026-10-13T14:57:01.535Z,specproof,0.1.0,28,Lucian Ghinda,MIT,"SpecProof is an experimental proof of concept for checking explicit Ruby input domains and partitions, planning deterministic boundary and pairwise candidates, and observing test coverage. String targets support offline analysis without loading application code."
+2026-10-13T14:57:02.31Z,qr_reader-native,0.0.1,28,Andi Idogawa,MIT,"The hot loops of the pure-Ruby qr_reader gem, compiled to C with the Spinel Ruby AOT compiler. qr_reader uses them automatically when this gem is installed; without it, qr_reader runs the same code as plain Ruby."
+2026-10-13T15:04:32.396Z,protobufable,0.1.0,15,Sorah Fukumori,MIT,"Parses JSON request bodies into generated protobuf message classes, stores messages in json and jsonb columns, catalogues RFC 9457 problems in a protobuf enum, and binds Alba serializers to the messages they produce."
