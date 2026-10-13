@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-13T19:36:45.26Z,hanami-importmap,0.1.0,47,Andrea Fomera,MIT,"A pure-Ruby bundler for hanami-assets that fingerprints your JavaScript, CSS and images, plus `config/importmap.rb`, the `javascript_importmap_tags` helper and `hanami importmap pin`"
+2026-10-13T20:09:10.538Z,aikontent,0.1.0,11,AIKontent Engineering,MIT,AIKontent client library for orchestrating generative programmatic content and SEO automation workflows.
+2026-10-13T20:14:43.243Z,waverider_seo,0.1.0,0,Waverider SEO Team,MIT,Ruby client library for Waverider SEO programmatic crawl optimization and autonomous search architecture.
