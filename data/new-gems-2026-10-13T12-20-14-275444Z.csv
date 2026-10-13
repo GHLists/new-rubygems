@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-13T11:51:48.03Z,mutaruby,0.3.0,45,Atlas Authorization,MIT,"mutaruby changes your code in small ways (mutants) and runs your test command against each change. A mutant your tests do not notice is a gap in your tests. Works with any test command (rspec, minitest, rake), runs every mutant in a fresh process inside a private copy of the project, and reports a…"

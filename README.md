@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 11:20 UTC
+## Latest list — 2026-10-13 12:20 UTC
 
-New gems created between 2026-10-13 10:20 UTC and 2026-10-13 11:20 UTC.
+New gems created between 2026-10-13 11:20 UTC and 2026-10-13 12:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-13T11-20-25-970226Z.csv)
+[Full CSV](data/new-gems-2026-10-13T12-20-14-275444Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-13 11:09:27 | [http3](https://rubygems.org/gems/http3) | 0.0.3 | Yusuke Nakamura | MIT | An HTTP/3 server for Rack 3 applications, built on the quic gem and nghttp3 (HT… |
+| 2026-10-13 11:51:48 | [mutaruby](https://rubygems.org/gems/mutaruby) | 0.3.0 | Atlas Authorization | MIT | mutaruby changes your code in small ways (mutants) and runs your test command a… |
 
 ## Data source
 
