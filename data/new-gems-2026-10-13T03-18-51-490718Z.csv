@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-13T03:16:24.539Z,public_code,0.3.1,0,Tyler Schneider,MIT,"Gives an Active Record model a random code that its addresses carry and that finds it, so no address shows a database id."
