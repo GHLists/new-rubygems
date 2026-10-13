@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-13T11:09:27.188Z,http3,0.0.3,11,Yusuke Nakamura,MIT,"An HTTP/3 server for Rack 3 applications, built on the quic gem and nghttp3 (HTTP/3 and QPACK). nghttp3 is built at install time and linked statically, and its Ruby bindings are available as HTTP3::Nghttp3."
