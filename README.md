@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 03:18 UTC
+## Latest list — 2026-10-13 10:20 UTC
 
-New gems created between 2026-10-13 02:18 UTC and 2026-10-13 03:18 UTC.
+New gems created between 2026-10-13 09:20 UTC and 2026-10-13 10:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-13T03-18-51-490718Z.csv)
+[Full CSV](data/new-gems-2026-10-13T10-20-38-819569Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-13 03:16:24 | [public_code](https://rubygems.org/gems/public_code) | 0.3.1 | Tyler Schneider | MIT | Gives an Active Record model a random code that its addresses carry and that fi… |
+| 2026-10-13 09:41:30 | [licentivo-sdk](https://rubygems.org/gems/licentivo-sdk) | 0.10.0 | Licentivo | MIT | Licentivo adds license activation, machine-scoped device credentials, pinned si… |
+| 2026-10-13 09:41:30 | [licentivo-sdk](https://rubygems.org/gems/licentivo-sdk) | 0.10.0 | Licentivo | MIT | Licentivo adds license activation, machine-scoped device credentials, pinned si… |
+| 2026-10-13 09:41:30 | [licentivo-sdk](https://rubygems.org/gems/licentivo-sdk) | 0.10.0 | Licentivo | MIT | Licentivo adds license activation, machine-scoped device credentials, pinned si… |
 
 ## Data source
 
