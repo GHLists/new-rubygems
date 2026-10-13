@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 22:19 UTC
+## Latest list — 2026-10-13 02:18 UTC
 
-New gems created between 2026-10-12 21:19 UTC and 2026-10-12 22:19 UTC.
+New gems created between 2026-10-13 01:21 UTC and 2026-10-13 02:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-12T22-19-06-197413Z.csv)
+[Full CSV](data/new-gems-2026-10-13T02-18-47-96669Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-12 22:00:03 | [hanami-turbo](https://rubygems.org/gems/hanami-turbo) | 0.1.0 | Andrea Fomera | MIT | Turbo Stream rendering, Turbo Frame helpers, and Turbo-friendly redirects for H… |
+| 2026-10-13 02:17:09 | [public_code](https://rubygems.org/gems/public_code) | 0.3.0 | Tyler Schneider | MIT | Gives an Active Record model a random code that its addresses carry and that fi… |
 
 ## Data source
 
