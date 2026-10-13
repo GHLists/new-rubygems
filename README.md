@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 16:21 UTC
+## Latest list — 2026-10-13 17:19 UTC
 
-New gems created between 2026-10-13 15:20 UTC and 2026-10-13 16:21 UTC.
+New gems created between 2026-10-13 16:21 UTC and 2026-10-13 17:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-13T16-21-53-670129Z.csv)
+[Full CSV](data/new-gems-2026-10-13T17-19-27-692694Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-13 15:51:43 | [rudy4](https://rubygems.org/gems/rudy4) | 0.2.0 | Tomasz Stachewicz | MIT | rudy4 lets you write Ruby native extensions in D (compiled by GDC) instead of C… |
-| 2026-10-13 15:59:32 | [rkoans](https://rubygems.org/gems/rkoans) | 0.0.0 | Theo Melo | MIT | Ruby and Rails challenges for learning and practicing |
+| 2026-10-13 16:47:27 | [rkoans](https://rubygems.org/gems/rkoans) | 0.0.1 | Theo Melo | MIT | Ruby and Rails challenges for learning and practicing |
+| 2026-10-13 17:19:16 | [ruby_llm-agent-evaluations](https://rubygems.org/gems/ruby_llm-agent-evaluations) | 0.3.1 | RubyLLM Evaluations contribut… | MIT | Evaluate any callable Ruby LLM agent with semantic, relevance, and action check… |
 
 ## Data source
 
