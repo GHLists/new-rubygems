@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-13T18:01:43.43Z,glazed-aws,0.1.0,28,Sorah Fukumori,Apache-2.0,"AWS integrations for glazed, such as S3 storage"
+2026-10-13T18:01:56.785Z,glazed,0.1.0,24,Sorah Fukumori,Apache-2.0,"Network device configuration scraper, a modern successor of oxidized"
+2026-10-13T18:02:54.879Z,glazed-oxidized,0.1.0,22,Sorah Fukumori,Apache-2.0,Oxidized model compatibility layer for glazed

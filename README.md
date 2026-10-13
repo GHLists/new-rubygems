@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 17:19 UTC
+## Latest list — 2026-10-13 18:18 UTC
 
-New gems created between 2026-10-13 16:21 UTC and 2026-10-13 17:19 UTC.
+New gems created between 2026-10-13 17:19 UTC and 2026-10-13 18:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-13T17-19-27-692694Z.csv)
+[Full CSV](data/new-gems-2026-10-13T18-18-52-434376Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-13 16:47:27 | [rkoans](https://rubygems.org/gems/rkoans) | 0.0.1 | Theo Melo | MIT | Ruby and Rails challenges for learning and practicing |
-| 2026-10-13 17:19:16 | [ruby_llm-agent-evaluations](https://rubygems.org/gems/ruby_llm-agent-evaluations) | 0.3.1 | RubyLLM Evaluations contribut… | MIT | Evaluate any callable Ruby LLM agent with semantic, relevance, and action check… |
+| 2026-10-13 18:01:43 | [glazed-aws](https://rubygems.org/gems/glazed-aws) | 0.1.0 | Sorah Fukumori | Apache-2.0 | AWS integrations for glazed, such as S3 storage |
+| 2026-10-13 18:01:56 | [glazed](https://rubygems.org/gems/glazed) | 0.1.0 | Sorah Fukumori | Apache-2.0 | Network device configuration scraper, a modern successor of oxidized |
+| 2026-10-13 18:02:54 | [glazed-oxidized](https://rubygems.org/gems/glazed-oxidized) | 0.1.0 | Sorah Fukumori | Apache-2.0 | Oxidized model compatibility layer for glazed |
 
 ## Data source
 
