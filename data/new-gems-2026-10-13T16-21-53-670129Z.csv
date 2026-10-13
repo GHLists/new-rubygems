@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-13T15:51:43.582Z,rudy4,0.2.0,41,Tomasz Stachewicz,MIT,"rudy4 lets you write Ruby native extensions in D (compiled by GDC) instead of C. This gem ships the rudy4 D library plus the `rudy4` command: `rudy4 init NAME` scaffolds a self-contained extension gem (vendoring the D sources, so it builds with no checkout), and `rudy4 doctor` checks your Ruby + GD…"
+2026-10-13T15:59:32.982Z,rkoans,0.0.0,29,Theo Melo,MIT,Ruby and Rails challenges for learning and practicing

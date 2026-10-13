@@ -9,18 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 15:20 UTC
+## Latest list — 2026-10-13 16:21 UTC
 
-New gems created between 2026-10-13 14:19 UTC and 2026-10-13 15:20 UTC.
+New gems created between 2026-10-13 15:20 UTC and 2026-10-13 16:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-13T15-20-53-860088Z.csv)
+[Full CSV](data/new-gems-2026-10-13T16-21-53-670129Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-13 14:57:00 | [qr_reader](https://rubygems.org/gems/qr_reader) | 0.0.1 | Andi Idogawa | MIT | Detects and decodes QR codes in photos and scanned documents (PNG, JPEG, GIF, B… |
-| 2026-10-13 14:57:01 | [specproof](https://rubygems.org/gems/specproof) | 0.1.0 | Lucian Ghinda | MIT | SpecProof is an experimental proof of concept for checking explicit Ruby input… |
-| 2026-10-13 14:57:02 | [qr_reader-native](https://rubygems.org/gems/qr_reader-native) | 0.0.1 | Andi Idogawa | MIT | The hot loops of the pure-Ruby qr_reader gem, compiled to C with the Spinel Rub… |
-| 2026-10-13 15:04:32 | [protobufable](https://rubygems.org/gems/protobufable) | 0.1.0 | Sorah Fukumori | MIT | Parses JSON request bodies into generated protobuf message classes, stores mess… |
+| 2026-10-13 15:51:43 | [rudy4](https://rubygems.org/gems/rudy4) | 0.2.0 | Tomasz Stachewicz | MIT | rudy4 lets you write Ruby native extensions in D (compiled by GDC) instead of C… |
+| 2026-10-13 15:59:32 | [rkoans](https://rubygems.org/gems/rkoans) | 0.0.0 | Theo Melo | MIT | Ruby and Rails challenges for learning and practicing |
 
 ## Data source
 
