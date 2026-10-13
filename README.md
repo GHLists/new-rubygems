@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 20:18 UTC
+## Latest list — 2026-10-13 21:21 UTC
 
-New gems created between 2026-10-13 19:20 UTC and 2026-10-13 20:18 UTC.
+New gems created between 2026-10-13 20:18 UTC and 2026-10-13 21:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-13T20-18-47-23859Z.csv)
+[Full CSV](data/new-gems-2026-10-13T21-21-44-17008Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-13 19:36:45 | [hanami-importmap](https://rubygems.org/gems/hanami-importmap) | 0.1.0 | Andrea Fomera | MIT | A pure-Ruby bundler for hanami-assets that fingerprints your JavaScript, CSS an… |
-| 2026-10-13 20:09:10 | [aikontent](https://rubygems.org/gems/aikontent) | 0.1.0 | AIKontent Engineering | MIT | AIKontent client library for orchestrating generative programmatic content and… |
-| 2026-10-13 20:14:43 | [waverider_seo](https://rubygems.org/gems/waverider_seo) | 0.1.0 | Waverider SEO Team | MIT | Ruby client library for Waverider SEO programmatic crawl optimization and auton… |
+| 2026-10-13 20:30:42 | [openlanes](https://rubygems.org/gems/openlanes) | 3.0.0 | Konstantin Gredeskoul |  | Keeps a project's specifications, plans and pull requests joined up, and drives… |
+| 2026-10-13 21:03:07 | [fsdk-2237-ruby-e2e](https://rubygems.org/gems/fsdk-2237-ruby-e2e) | 0.1.0 | Postman SDK Generator | Nonstandard | This is a sample Pet Store Server based on the OpenAPI 3.0 specification. You c… |
 
 ## Data source
 
