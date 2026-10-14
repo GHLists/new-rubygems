@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 01:21 UTC
+## Latest list — 2026-10-14 02:21 UTC
 
-New gems created between 2026-10-14 00:19 UTC and 2026-10-14 01:21 UTC.
+New gems created between 2026-10-14 01:21 UTC and 2026-10-14 02:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-14T01-21-28-588131Z.csv)
+[Full CSV](data/new-gems-2026-10-14T02-21-09-546293Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-14 00:41:08 | [active_pipeline](https://rubygems.org/gems/active_pipeline) | 0.1.0 | Carlos (Thrashattack) Cunha | MIT | Implements Go-channel-like write batching for Rails and Sidekiq using PostgreSQ… |
-| 2026-10-14 01:10:28 | [structured_params-openapi](https://rubygems.org/gems/structured_params-openapi) | 0.1.0 | Mizuki Yamamoto | MIT | Detects differences between OpenAPI request schemas and StructuredParams classe… |
+| 2026-10-14 01:55:35 | [openlanes](https://rubygems.org/gems/openlanes) | 3.0.1 | Konstantin Gredeskoul |  | Keeps a project's specifications, plans and pull requests joined up, and drives… |
 
 ## Data source
 

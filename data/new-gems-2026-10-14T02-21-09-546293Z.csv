@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-14T01:55:35.654Z,openlanes,3.0.1,79,Konstantin Gredeskoul,,"Keeps a project's specifications, plans and pull requests joined up, and drives specialist agents over them in parallel. A feature's state is its folder name under .plans, so a transition renames a directory rather than updating a row, and nothing can claim a phase whose document is missing."
