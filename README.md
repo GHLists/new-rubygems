@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 23:21 UTC
+## Latest list — 2026-10-14 01:21 UTC
 
-New gems created between 2026-10-13 22:20 UTC and 2026-10-13 23:21 UTC.
+New gems created between 2026-10-14 00:19 UTC and 2026-10-14 01:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-13T23-21-26-742663Z.csv)
+[Full CSV](data/new-gems-2026-10-14T01-21-28-588131Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-13 23:20:03 | [dmarcator](https://rubygems.org/gems/dmarcator) | 0.2.0 | Noah Berman, Davis Gallinghou… | MIT | A hardened DMARC record parser and query client, forked from the Trail of Bits… |
+| 2026-10-14 00:41:08 | [active_pipeline](https://rubygems.org/gems/active_pipeline) | 0.1.0 | Carlos (Thrashattack) Cunha | MIT | Implements Go-channel-like write batching for Rails and Sidekiq using PostgreSQ… |
+| 2026-10-14 01:10:28 | [structured_params-openapi](https://rubygems.org/gems/structured_params-openapi) | 0.1.0 | Mizuki Yamamoto | MIT | Detects differences between OpenAPI request schemas and StructuredParams classe… |
 
 ## Data source
 

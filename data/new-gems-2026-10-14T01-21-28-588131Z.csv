@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-14T00:41:08.538Z,active_pipeline,0.1.0,51,Carlos (Thrashattack) Cunha,MIT,"Implements Go-channel-like write batching for Rails and Sidekiq using PostgreSQL pipeline mode, with per-statement error isolation."
+2026-10-14T01:10:28.775Z,structured_params-openapi,0.1.0,17,Mizuki Yamamoto,MIT,"Detects differences between OpenAPI request schemas and StructuredParams classes, with a Rake task for CI, JSON Pointer and component naming conventions, and support for several OpenAPI documents."
