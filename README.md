@@ -9,22 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 14:20 UTC
+## Latest list — 2026-10-14 15:20 UTC
 
-New gems created between 2026-10-14 13:21 UTC and 2026-10-14 14:20 UTC.
+New gems created between 2026-10-14 14:20 UTC and 2026-10-14 15:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-14T14-20-39-071954Z.csv)
+[Full CSV](data/new-gems-2026-10-14T15-20-30-220079Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-14 13:23:30 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
-| 2026-10-14 13:23:30 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
-| 2026-10-14 13:23:30 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
-| 2026-10-14 13:23:30 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
-| 2026-10-14 13:23:30 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
-| 2026-10-14 13:23:30 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
-| 2026-10-14 13:28:40 | [windsock](https://rubygems.org/gems/windsock) | 0.1.0 | Jim Remsik | MIT | Parses Tailwind v4 @theme CSS so Ruby can use the same colors, fonts and breakp… |
-| 2026-10-14 13:30:01 | [racc-rbs-inline](https://rubygems.org/gems/racc-rbs-inline) | 0.1.0 | Yudai Takada | MIT | Annotates Racc parser tables and reduction methods for rbs-inline and Steep wit… |
+| 2026-10-14 15:09:33 | [archspec_diagram](https://rubygems.org/gems/archspec_diagram) | 0.1.0 | meganemura | MIT | Draw an Archspec.rb as a Mermaid flowchart |
 
 ## Data source
 
