@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 10:21 UTC
+## Latest list — 2026-10-14 12:20 UTC
 
-New gems created between 2026-10-14 09:21 UTC and 2026-10-14 10:21 UTC.
+New gems created between 2026-10-14 11:20 UTC and 2026-10-14 12:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-14T10-21-17-077208Z.csv)
+[Full CSV](data/new-gems-2026-10-14T12-20-33-336621Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-14 09:45:19 | [footfall](https://rubygems.org/gems/footfall) | 0.1.0 | Oleh Khomei | MIT | Footfall is what a shop counts at its door: people coming in, not who they are.… |
+| 2026-10-14 11:51:55 | [ndr_browser_timings](https://rubygems.org/gems/ndr_browser_timings) | 0.4.4 | NDR Development Team |  | Capture request timing data from clients |
 
 ## Data source
 
