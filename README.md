@@ -9,19 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 18:21 UTC
+## Latest list — 2026-10-14 19:21 UTC
 
-New gems created between 2026-10-14 17:21 UTC and 2026-10-14 18:21 UTC.
+New gems created between 2026-10-14 18:21 UTC and 2026-10-14 19:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-14T18-21-25-704387Z.csv)
+[Full CSV](data/new-gems-2026-10-14T19-21-12-945912Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-14 17:24:58 | [ordainer](https://rubygems.org/gems/ordainer) | 0.1.0 | Ordainer | MIT | Ask Ordainer before your tool runs: one decide() call checks the caller's plan… |
-| 2026-10-14 17:51:34 | [glazed](https://rubygems.org/gems/glazed) | 0.2.0 | Sorah Fukumori | Apache-2.0 | Network device configuration scraper, a modern successor of oxidized |
-| 2026-10-14 17:51:37 | [glazed-oxidized](https://rubygems.org/gems/glazed-oxidized) | 0.2.0 | Sorah Fukumori | Apache-2.0 | Oxidized model compatibility layer for glazed |
-| 2026-10-14 17:52:04 | [glazed-aws](https://rubygems.org/gems/glazed-aws) | 0.2.0 | Sorah Fukumori | Apache-2.0 | AWS integrations for glazed, such as S3 storage |
-| 2026-10-14 18:01:57 | [htpage](https://rubygems.org/gems/htpage) | 0.1.0 | Mustafa Naeem | MIT | High-performance markup language compiler powered by a pure Rust core |
+| 2026-10-14 18:46:06 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.2 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
+| 2026-10-14 18:46:06 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.2 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
+| 2026-10-14 18:46:06 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.2 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
+| 2026-10-14 18:46:06 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.2 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
+| 2026-10-14 18:46:06 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.2 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
+| 2026-10-14 18:46:06 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.2 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
+| 2026-10-14 18:46:06 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.2 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
+| 2026-10-14 18:46:06 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.2 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
+| 2026-10-14 18:46:45 | [sequel-pg_reaper](https://rubygems.org/gems/sequel-pg_reaper) | 1.0.0 | bougyman | MIT | Retires pooled Sequel connections after a maximum lifetime, so clients reach fr… |
+| 2026-10-14 18:52:47 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
+| 2026-10-14 18:52:47 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
+| 2026-10-14 18:52:47 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
+| 2026-10-14 18:52:47 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
+| 2026-10-14 18:52:47 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
+| 2026-10-14 18:52:47 | [behavior_machines](https://rubygems.org/gems/behavior_machines) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | BehaviorMachines runs behavior trees whose nodes follow the behavior-tree patte… |
 
 ## Data source
 
