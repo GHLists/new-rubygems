@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-14T17:24:58.412Z,ordainer,0.1.0,73,Ordainer,MIT,Ask Ordainer before your tool runs: one decide() call checks the caller's plan and counts the use.
+2026-10-14T17:51:34.235Z,glazed,0.2.0,45,Sorah Fukumori,Apache-2.0,"Network device configuration scraper, a modern successor of oxidized"
+2026-10-14T17:51:37.067Z,glazed-oxidized,0.2.0,47,Sorah Fukumori,Apache-2.0,Oxidized model compatibility layer for glazed
+2026-10-14T17:52:04.297Z,glazed-aws,0.2.0,72,Sorah Fukumori,Apache-2.0,"AWS integrations for glazed, such as S3 storage"
+2026-10-14T18:01:57.621Z,htpage,0.1.0,16,Mustafa Naeem,MIT,High-performance markup language compiler powered by a pure Rust core
