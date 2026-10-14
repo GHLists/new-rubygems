@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-14T19:32:14.995Z,permission_forge,0.14.1,63,Feti Jashari,MIT,"PermissionForge stores permissions as Permission Sets that admins edit at runtime: per-model CRUD flags and custom actions, per-field read/edit access with masking, and row-level query rules. It applies them in your models (find_by, permission_scoped, attribute readers and serialization) and contro…"
