@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-14T21:25:42.204Z,include2ignore,0.1.0,66,Ismo Kärkkäinen,UPL-1.0,"Takes a list of file names or patterns, finds all files that do not match any of them, or only match exclude patterns in the input file, and outputs them. If directory contains no files that are included, outputs the directory instead of individual files."
+2026-10-14T21:59:06.382Z,graphql-constant_queries,0.1.0,46,Stephen Crosby,MIT,Generates a check for every field of every object type in a graphql-ruby schema that fails when the field's ActiveRecord statement count grows with the number of objects it resolves across.
