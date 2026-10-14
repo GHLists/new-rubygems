@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-14T17:12:17.352Z,voikko,0.1.0,2,Martin Vysny,MIT,"Ruby bindings for libvoikko, the Finnish morphological analyser, via FFI."

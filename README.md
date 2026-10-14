@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 15:20 UTC
+## Latest list — 2026-10-14 17:21 UTC
 
-New gems created between 2026-10-14 14:20 UTC and 2026-10-14 15:20 UTC.
+New gems created between 2026-10-14 16:22 UTC and 2026-10-14 17:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-14T15-20-30-220079Z.csv)
+[Full CSV](data/new-gems-2026-10-14T17-21-25-467532Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-14 15:09:33 | [archspec_diagram](https://rubygems.org/gems/archspec_diagram) | 0.1.0 | meganemura | MIT | Draw an Archspec.rb as a Mermaid flowchart |
+| 2026-10-14 17:12:17 | [voikko](https://rubygems.org/gems/voikko) | 0.1.0 | Martin Vysny | MIT | Ruby bindings for libvoikko, the Finnish morphological analyser, via FFI. |
 
 ## Data source
 
