@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-14T09:45:19.324Z,footfall,0.1.0,46,Oleh Khomei,MIT,"Footfall is what a shop counts at its door: people coming in, not who they are. Rack middleware that counts page views, visitors, the sites they came from and file downloads into a SQLite file, and a report for the terminal. No cookies, no IP addresses, no full referrers: a visitor is a hash salted…"

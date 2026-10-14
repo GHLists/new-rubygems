@@ -9,22 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 08:22 UTC
+## Latest list — 2026-10-14 10:21 UTC
 
-New gems created between 2026-10-14 07:19 UTC and 2026-10-14 08:22 UTC.
+New gems created between 2026-10-14 09:21 UTC and 2026-10-14 10:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-14T08-22-29-732657Z.csv)
+[Full CSV](data/new-gems-2026-10-14T10-21-17-077208Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-14 07:20:11 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.1 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
-| 2026-10-14 07:20:11 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.1 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
-| 2026-10-14 07:20:11 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.1 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
-| 2026-10-14 07:20:11 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.1 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
-| 2026-10-14 07:20:11 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.1 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
-| 2026-10-14 07:20:11 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.1 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
-| 2026-10-14 07:20:11 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.1 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
-| 2026-10-14 07:20:11 | [rustyprint](https://rubygems.org/gems/rustyprint) | 1.0.1 | Ryan Verschuren | MIT; Apache-2.0 | rustyprint renders HTML and CSS to PDF with a layout engine of its own, written… |
+| 2026-10-14 09:45:19 | [footfall](https://rubygems.org/gems/footfall) | 0.1.0 | Oleh Khomei | MIT | Footfall is what a shop counts at its door: people coming in, not who they are.… |
 
 ## Data source
 
