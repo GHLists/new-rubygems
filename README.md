@@ -9,15 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 11:20 UTC
+## Latest list — 2026-10-15 13:21 UTC
 
-New gems created between 2026-10-15 10:22 UTC and 2026-10-15 11:20 UTC.
+New gems created between 2026-10-15 12:21 UTC and 2026-10-15 13:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-15T11-20-39-021301Z.csv)
+[Full CSV](data/new-gems-2026-10-15T13-21-52-625324Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-15 10:41:18 | [conformance-kit](https://rubygems.org/gems/conformance-kit) | 0.3.0 | mhenrixon | MIT | Shared RSpec examples, a per-Ractor storage shim, a class-state audit, RuboCop… |
+| 2026-10-15 12:43:04 | [dxpdf](https://rubygems.org/gems/dxpdf) | 0.8.1 | Pete Matsyburka | MIT | Ruby FFI bindings for dxpdf, a Rust DOCX to PDF converter. Ships prebuilt nativ… |
+| 2026-10-15 12:43:04 | [dxpdf](https://rubygems.org/gems/dxpdf) | 0.8.1 | Pete Matsyburka | MIT | Ruby FFI bindings for dxpdf, a Rust DOCX to PDF converter. Ships prebuilt nativ… |
+| 2026-10-15 12:43:04 | [dxpdf](https://rubygems.org/gems/dxpdf) | 0.8.1 | Pete Matsyburka | MIT | Ruby FFI bindings for dxpdf, a Rust DOCX to PDF converter. Ships prebuilt nativ… |
+| 2026-10-15 12:43:04 | [dxpdf](https://rubygems.org/gems/dxpdf) | 0.8.1 | Pete Matsyburka | MIT | Ruby FFI bindings for dxpdf, a Rust DOCX to PDF converter. Ships prebuilt nativ… |
+| 2026-10-15 12:43:04 | [dxpdf](https://rubygems.org/gems/dxpdf) | 0.8.1 | Pete Matsyburka | MIT | Ruby FFI bindings for dxpdf, a Rust DOCX to PDF converter. Ships prebuilt nativ… |
+| 2026-10-15 12:43:04 | [dxpdf](https://rubygems.org/gems/dxpdf) | 0.8.1 | Pete Matsyburka | MIT | Ruby FFI bindings for dxpdf, a Rust DOCX to PDF converter. Ships prebuilt nativ… |
+| 2026-10-15 12:46:36 | [tuix_rails](https://rubygems.org/gems/tuix_rails) | 0.1.0 | Tuix | MIT | Server-signed Tuix identities, hosted widget delivery and Turbo lifecycle integ… |
+| 2026-10-15 13:17:12 | [hanko_xml](https://rubygems.org/gems/hanko_xml) | 0.1.0 | Danimar Ribeiro | MIT | hanko_xml signs and verifies XML-DSig signatures by binding to libxmlsec1 throu… |
+| 2026-10-15 13:17:12 | [hanko_xml](https://rubygems.org/gems/hanko_xml) | 0.1.0 | Danimar Ribeiro | MIT | hanko_xml signs and verifies XML-DSig signatures by binding to libxmlsec1 throu… |
+| 2026-10-15 13:17:12 | [hanko_xml](https://rubygems.org/gems/hanko_xml) | 0.1.0 | Danimar Ribeiro | MIT | hanko_xml signs and verifies XML-DSig signatures by binding to libxmlsec1 throu… |
+| 2026-10-15 13:17:12 | [hanko_xml](https://rubygems.org/gems/hanko_xml) | 0.1.0 | Danimar Ribeiro | MIT | hanko_xml signs and verifies XML-DSig signatures by binding to libxmlsec1 throu… |
+| 2026-10-15 13:17:12 | [hanko_xml](https://rubygems.org/gems/hanko_xml) | 0.1.0 | Danimar Ribeiro | MIT | hanko_xml signs and verifies XML-DSig signatures by binding to libxmlsec1 throu… |
 
 ## Data source
 
