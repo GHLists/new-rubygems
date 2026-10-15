@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-15T10:41:18.021Z,conformance-kit,0.3.0,55,mhenrixon,MIT,"Shared RSpec examples, a per-Ractor storage shim, a class-state audit, RuboCop configs and a reusable CI workflow that hold a gem to explicit thread-safe, fiber-safe and Ractor-clean tiers."

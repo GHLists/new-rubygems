@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 10:22 UTC
+## Latest list — 2026-10-15 11:20 UTC
 
-New gems created between 2026-10-15 09:22 UTC and 2026-10-15 10:22 UTC.
+New gems created between 2026-10-15 10:22 UTC and 2026-10-15 11:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-15T10-22-31-439047Z.csv)
+[Full CSV](data/new-gems-2026-10-15T11-20-39-021301Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-15 09:28:56 | [confeature](https://rubygems.org/gems/confeature) | 0.0.0 | MakerLabs | MIT | The first real release is coming; do not depend on 0.0.0. |
-| 2026-10-15 09:32:58 | [voikko](https://rubygems.org/gems/voikko) | 0.2.0 | Martin Vysny | MIT | Ruby bindings for libvoikko, the Finnish morphological analyser, via FFI. |
+| 2026-10-15 10:41:18 | [conformance-kit](https://rubygems.org/gems/conformance-kit) | 0.3.0 | mhenrixon | MIT | Shared RSpec examples, a per-Ractor storage shim, a class-state audit, RuboCop… |
 
 ## Data source
 
