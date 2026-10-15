@@ -9,17 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 20:19 UTC
+## Latest list — 2026-10-15 22:21 UTC
 
-New gems created between 2026-10-15 19:19 UTC and 2026-10-15 20:19 UTC.
+New gems created between 2026-10-15 21:20 UTC and 2026-10-15 22:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-15T20-19-25-377568Z.csv)
+[Full CSV](data/new-gems-2026-10-15T22-21-54-078122Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-15 19:22:35 | [wakio](https://rubygems.org/gems/wakio) | 0.1.4 | WorkersLab LLC | MIT | ActionMailer delivery method for Wakio |
-| 2026-10-15 19:34:28 | [fast-completions](https://rubygems.org/gems/fast-completions) | 0.2.0 | Eric Jacobs | MIT | Fast::Completions speaks the OpenAI-compatible chat-completions wire. One wire… |
-| 2026-10-15 19:45:24 | [conformance-kit](https://rubygems.org/gems/conformance-kit) | 0.4.0 | mhenrixon | MIT | Shared RSpec examples, a per-Ractor storage shim, a class-state audit, RuboCop… |
+| 2026-10-15 21:37:36 | [prx_hyperresource](https://rubygems.org/gems/prx_hyperresource) | 1.0.0 | Pete Gamache, Andrew Kuklewic… | MIT | HyperResource is a hypermedia client library for Ruby. Its goals are to interfa… |
+| 2026-10-15 21:59:54 | [ternwire](https://rubygems.org/gems/ternwire) | 0.1.0 | Ternwire | MIT | Ruby client for the Ternwire transactional email API |
+| 2026-10-15 22:04:34 | [fast-completions](https://rubygems.org/gems/fast-completions) | 0.3.0 | Eric Jacobs | MIT | Fast::Completions speaks the OpenAI-compatible chat-completions wire. One wire… |
+| 2026-10-15 22:06:21 | [tungsten-runtime](https://rubygems.org/gems/tungsten-runtime) | 0.1.2 | Prince Boachie | Apache-2.0 | Pre-flight validation, auth, idempotency, confirmation, retries, error classifi… |
+| 2026-10-15 22:14:55 | [zzhelloworld_socktest](https://rubygems.org/gems/zzhelloworld_socktest) | 0.1.0 | derekiops | MIT | just a test gem learning how to code |
+| 2026-10-15 22:17:22 | [lua-virtualizer](https://rubygems.org/gems/lua-virtualizer) | 1.0.0 | Bartosz Wójcik | Apache-2.0 | Lua Virtualizer Web API Ruby SDK |
 
 ## Data source
 
