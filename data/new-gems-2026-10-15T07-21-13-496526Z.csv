@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-15T06:38:31.861Z,runtime_groups,0.1.2,150,Peter H. Boling,MIT,"🍲 RuntimeGroups extracts the small parallel-runner primitives from turbo_tests2 — worker process count resolution, pid-file bookkeeping, runtime log recording, and runtime-weighted balanced file grouping — into a dependency-free gem that is engine-portable across MRI, JRuby, and TruffleRuby."
+2026-10-15T06:40:39.139Z,bridgetown-ai-chatbot,1.0.0,54,Asyntai,MIT,"Adds the Asyntai AI chatbot to every page of your Bridgetown site. It answers visitor questions from your own content, in 80+ languages."
+2026-10-15T07:03:18.466Z,dexa-ai-sdk,0.3.5,27,Durga Sai,Apache-2.0,"Dexa runs decide and extract tasks against one context in a single request, from Ruby."
