@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-15T07:27:11.472Z,dexa-ai-sdk,0.5.0,78,Durga Sai,Apache-2.0,"Dexa runs decide and extract tasks against one context in a single request, from Ruby."
+2026-10-15T07:35:44.306Z,runtime_groups,0.1.3,101,Peter H. Boling,MIT,"🍲 RuntimeGroups extracts the small parallel-runner primitives from turbo_tests2 — worker process count resolution, pid-file bookkeeping, runtime log recording, and runtime-weighted balanced file grouping — into a dependency-free gem that is engine-portable across MRI, JRuby, and TruffleRuby."
+2026-10-15T08:17:49.333Z,agent-evals,0.2.0,0,Konstantin Gredeskoul,MIT,"Runs a suite of cases against one or more models through an adapter the consumer writes, scores each reply with a scorer the consumer writes, and prints leaderboards, per-case breakdowns and Braintrust experiments. The gem knows nothing about what is being evaluated: it owns discovery, the model li…"
