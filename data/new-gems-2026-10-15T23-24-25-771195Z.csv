@@ -1,0 +1,8 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-15T22:27:21.017Z,pharmaobservatory,0.1.1,71,Scientist.com,MIT,Ruby client for the Pharma Observatory public REST API (https://pharmaobservatory.com/api-reference). Generated from the published OpenAPI document.
+2026-10-15T22:27:22.122Z,pharma-observatory,0.1.1,73,Scientist.com,MIT,"This gem only depends on and requires `pharmaobservatory`, the Ruby client for the Pharma Observatory public REST API. Install `pharmaobservatory` directly."
+2026-10-15T23:02:50.899Z,mecha_authorize,0.1.0,41,Jeff Lunt,MIT,"MechaAuthorize provides a YAML-driven, closed-by-default route authorization system for Rails applications, complete with static route parity auditing and behavioral persona matrix probing."
+2026-10-15T23:04:56.395Z,fluent-plugin-gcloud-pubsub-universe-domain,2.0.0,32,Théo Berthier,MIT,Google Cloud Pub/Sub input/output plugin for Fluentd event collector with universe_domain parameter
+2026-10-15T23:05:51.436Z,ternwire,0.2.0,48,Ternwire,MIT,Ruby client for the Ternwire transactional email API
+2026-10-15T23:06:24.938Z,mecha_encrypt,0.1.0,28,Jeff Lunt,MIT,"MechaEncrypt enforces database column encryption parity in Rails applications via a YAML schema registry, static schema-to-model auditing, and behavioral ciphertext & index safety probing."
+2026-10-15T23:22:05.472Z,mecha_tenant,0.1.1,0,Jeff Lunt,MIT,"MechaTenant enforces strict tenant isolation in Rails applications via a YAML model classification registry, explicit tenant_scope helpers, Prism AST static analysis of controllers, and behavioral IDOR route probing."

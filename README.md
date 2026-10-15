@@ -9,20 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 22:21 UTC
+## Latest list — 2026-10-15 23:24 UTC
 
-New gems created between 2026-10-15 21:20 UTC and 2026-10-15 22:21 UTC.
+New gems created between 2026-10-15 22:21 UTC and 2026-10-15 23:24 UTC.
 
-[Full CSV](data/new-gems-2026-10-15T22-21-54-078122Z.csv)
+[Full CSV](data/new-gems-2026-10-15T23-24-25-771195Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-15 21:37:36 | [prx_hyperresource](https://rubygems.org/gems/prx_hyperresource) | 1.0.0 | Pete Gamache, Andrew Kuklewic… | MIT | HyperResource is a hypermedia client library for Ruby. Its goals are to interfa… |
-| 2026-10-15 21:59:54 | [ternwire](https://rubygems.org/gems/ternwire) | 0.1.0 | Ternwire | MIT | Ruby client for the Ternwire transactional email API |
-| 2026-10-15 22:04:34 | [fast-completions](https://rubygems.org/gems/fast-completions) | 0.3.0 | Eric Jacobs | MIT | Fast::Completions speaks the OpenAI-compatible chat-completions wire. One wire… |
-| 2026-10-15 22:06:21 | [tungsten-runtime](https://rubygems.org/gems/tungsten-runtime) | 0.1.2 | Prince Boachie | Apache-2.0 | Pre-flight validation, auth, idempotency, confirmation, retries, error classifi… |
-| 2026-10-15 22:14:55 | [zzhelloworld_socktest](https://rubygems.org/gems/zzhelloworld_socktest) | 0.1.0 | derekiops | MIT | just a test gem learning how to code |
-| 2026-10-15 22:17:22 | [lua-virtualizer](https://rubygems.org/gems/lua-virtualizer) | 1.0.0 | Bartosz Wójcik | Apache-2.0 | Lua Virtualizer Web API Ruby SDK |
+| 2026-10-15 22:27:21 | [pharmaobservatory](https://rubygems.org/gems/pharmaobservatory) | 0.1.1 | Scientist.com | MIT | Ruby client for the Pharma Observatory public REST API (https://pharmaobservato… |
+| 2026-10-15 22:27:22 | [pharma-observatory](https://rubygems.org/gems/pharma-observatory) | 0.1.1 | Scientist.com | MIT | This gem only depends on and requires `pharmaobservatory`, the Ruby client for… |
+| 2026-10-15 23:02:50 | [mecha_authorize](https://rubygems.org/gems/mecha_authorize) | 0.1.0 | Jeff Lunt | MIT | MechaAuthorize provides a YAML-driven, closed-by-default route authorization sy… |
+| 2026-10-15 23:04:56 | [fluent-plugin-gcloud-pubsub-universe-domain](https://rubygems.org/gems/fluent-plugin-gcloud-pubsub-universe-domain) | 2.0.0 | Théo Berthier | MIT | Google Cloud Pub/Sub input/output plugin for Fluentd event collector with unive… |
+| 2026-10-15 23:05:51 | [ternwire](https://rubygems.org/gems/ternwire) | 0.2.0 | Ternwire | MIT | Ruby client for the Ternwire transactional email API |
+| 2026-10-15 23:06:24 | [mecha_encrypt](https://rubygems.org/gems/mecha_encrypt) | 0.1.0 | Jeff Lunt | MIT | MechaEncrypt enforces database column encryption parity in Rails applications v… |
+| 2026-10-15 23:22:05 | [mecha_tenant](https://rubygems.org/gems/mecha_tenant) | 0.1.1 | Jeff Lunt | MIT | MechaTenant enforces strict tenant isolation in Rails applications via a YAML m… |
 
 ## Data source
 
