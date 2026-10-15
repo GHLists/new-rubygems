@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-15T17:25:24.31Z,samplab-url-tools,0.1.1,67,bbwdadfg,MIT,"Offline URL builder for SampLab Pro, a browser audio and MIDI tool suite. Not an official SDK."
+2026-10-15T17:25:26.869Z,studyguidemaker-url-tools,0.1.1,69,bbwdadfg,MIT,"Offline URL builder for Study Guide Maker source, audience, flashcard, and quiz pages. Not an official SDK."
+2026-10-15T17:25:29.225Z,trystencil-url-tools,0.1.1,69,bbwdadfg,MIT,"Offline URL builder for TryStencil tattoo generator, try-on, stencil, and idea pages. Not an official SDK."
+2026-10-15T17:25:31.572Z,aiautocropper-url-tools,0.1.1,69,bbwdadfg,MIT,Offline URL builder for AI Auto Cropper scan-splitting workflows. Not an official SDK.
+2026-10-15T17:25:33.768Z,virtual-staging-url-tools,0.1.1,65,bbwdadfg,MIT,Offline URL builder for Virtual Staging tool pages and rental-listing guides. Not an official SDK.
+2026-10-15T17:29:19.63Z,forge-ci,0.1.0,64,Azmi Muwahid,MIT,"Compiles CircleCI v2.1-style pipeline YAML into a normalized, JSON-serializable intermediate representation. Pure Ruby, stdlib only. Component 1 of the ForgeCI open-source CI project."
