@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-15T16:04:11.354Z,roda-inertia-lite,0.1.1,15,Henrique F. Teixeira,MIT,"Inertia.js adapter for Roda, without views or other plugins dependency"

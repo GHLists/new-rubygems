@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 14:19 UTC
+## Latest list — 2026-10-15 16:22 UTC
 
-New gems created between 2026-10-15 13:21 UTC and 2026-10-15 14:19 UTC.
+New gems created between 2026-10-15 15:20 UTC and 2026-10-15 16:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-15T14-19-25-943399Z.csv)
+[Full CSV](data/new-gems-2026-10-15T16-22-30-977837Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-15 14:15:12 | [wakio](https://rubygems.org/gems/wakio) | 0.1.3 | WorkersLab LLC | MIT | ActionMailer delivery method for Wakio |
+| 2026-10-15 16:04:11 | [roda-inertia-lite](https://rubygems.org/gems/roda-inertia-lite) | 0.1.1 | Henrique F. Teixeira | MIT | Inertia.js adapter for Roda, without views or other plugins dependency |
 
 ## Data source
 
