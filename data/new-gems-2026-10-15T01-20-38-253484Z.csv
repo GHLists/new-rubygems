@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-15T00:24:49.679Z,envvariablecheck,0.1.0,70,kellysec,MIT,"envvariablecheck loads ~/.env into the environment before a Ruby script runs, and reviews the file's keys and passwords against password best practices. It ranks each secret, checks for reused and placeholder values, and reports loose file permissions and a missing gitignore entry. The review print…"

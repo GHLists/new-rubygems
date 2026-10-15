@@ -9,24 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 00:19 UTC
+## Latest list — 2026-10-15 01:20 UTC
 
-New gems created between 2026-10-14 23:21 UTC and 2026-10-15 00:19 UTC.
+New gems created between 2026-10-15 00:19 UTC and 2026-10-15 01:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-15T00-19-44-534679Z.csv)
+[Full CSV](data/new-gems-2026-10-15T01-20-38-253484Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-14 23:52:21 | [sigaedu_api](https://rubygems.org/gems/sigaedu_api) | 2.1.1 | Luiz Picolo | MIT | Gem para gerar uma API com o objetivo de consumir dados do sistemas acadêmico d… |
-| 2026-10-14 23:55:00 | [mxc](https://rubygems.org/gems/mxc) | 0.2.0 | Carmine Paolino | MIT | An unofficial Ruby binding to Microsoft's MXC. Run commands in Bubblewrap, Seat… |
-| 2026-10-14 23:55:00 | [mxc](https://rubygems.org/gems/mxc) | 0.2.0 | Carmine Paolino | MIT | An unofficial Ruby binding to Microsoft's MXC. Run commands in Bubblewrap, Seat… |
-| 2026-10-14 23:55:00 | [mxc](https://rubygems.org/gems/mxc) | 0.2.0 | Carmine Paolino | MIT | An unofficial Ruby binding to Microsoft's MXC. Run commands in Bubblewrap, Seat… |
-| 2026-10-14 23:55:00 | [mxc](https://rubygems.org/gems/mxc) | 0.2.0 | Carmine Paolino | MIT | An unofficial Ruby binding to Microsoft's MXC. Run commands in Bubblewrap, Seat… |
-| 2026-10-14 23:55:00 | [mxc](https://rubygems.org/gems/mxc) | 0.2.0 | Carmine Paolino | MIT | An unofficial Ruby binding to Microsoft's MXC. Run commands in Bubblewrap, Seat… |
-| 2026-10-14 23:55:00 | [mxc](https://rubygems.org/gems/mxc) | 0.2.0 | Carmine Paolino | MIT | An unofficial Ruby binding to Microsoft's MXC. Run commands in Bubblewrap, Seat… |
-| 2026-10-14 23:55:00 | [mxc](https://rubygems.org/gems/mxc) | 0.2.0 | Carmine Paolino | MIT | An unofficial Ruby binding to Microsoft's MXC. Run commands in Bubblewrap, Seat… |
-| 2026-10-14 23:55:00 | [mxc](https://rubygems.org/gems/mxc) | 0.2.0 | Carmine Paolino | MIT | An unofficial Ruby binding to Microsoft's MXC. Run commands in Bubblewrap, Seat… |
-| 2026-10-14 23:55:00 | [mxc](https://rubygems.org/gems/mxc) | 0.2.0 | Carmine Paolino | MIT | An unofficial Ruby binding to Microsoft's MXC. Run commands in Bubblewrap, Seat… |
+| 2026-10-15 00:24:49 | [envvariablecheck](https://rubygems.org/gems/envvariablecheck) | 0.1.0 | kellysec | MIT | envvariablecheck loads ~/.env into the environment before a Ruby script runs, a… |
 
 ## Data source
 
