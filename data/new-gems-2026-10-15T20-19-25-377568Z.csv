@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-15T19:22:35.055Z,wakio,0.1.4,79,WorkersLab LLC,MIT,ActionMailer delivery method for Wakio
+2026-10-15T19:34:28.941Z,fast-completions,0.2.0,57,Eric Jacobs,MIT,"Fast::Completions speaks the OpenAI-compatible chat-completions wire. One wire protocol, dialects as data, async-http as the only runtime dependency. Byte-faithful to pi's request/stream behavior."
+2026-10-15T19:45:24.039Z,conformance-kit,0.4.0,79,mhenrixon,MIT,"Shared RSpec examples, a per-Ractor storage shim, a class-state audit, RuboCop configs and a reusable CI workflow that hold a gem to explicit thread-safe, fiber-safe and Ractor-clean tiers."
