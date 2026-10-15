@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 03:22 UTC
+## Latest list — 2026-10-15 04:22 UTC
 
-New gems created between 2026-10-15 02:21 UTC and 2026-10-15 03:22 UTC.
+New gems created between 2026-10-15 03:22 UTC and 2026-10-15 04:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-15T03-22-02-761471Z.csv)
+[Full CSV](data/new-gems-2026-10-15T04-22-26-965292Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-15 02:25:29 | [joliegg](https://rubygems.org/gems/joliegg) | 0.2.0 | Diana Islas Ocampo | Nonstandard | Jolie's Ruby libraries |
+| 2026-10-15 03:44:58 | [phlexite-rss](https://rubygems.org/gems/phlexite-rss) | 0.1.1 | Aleks Rutins | MIT | Build RSS feeds for Phlexite sites. |
 
 ## Data source
 
