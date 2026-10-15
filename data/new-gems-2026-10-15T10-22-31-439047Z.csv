@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-15T09:28:56.195Z,confeature,0.0.0,69,MakerLabs,MIT,The first real release is coming; do not depend on 0.0.0.
+2026-10-15T09:32:58.177Z,voikko,0.2.0,62,Martin Vysny,MIT,"Ruby bindings for libvoikko, the Finnish morphological analyser, via FFI."
