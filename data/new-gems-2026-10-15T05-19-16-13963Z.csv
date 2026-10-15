@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-15T04:24:16.465Z,runtime_groups,0.1.0,70,Peter H. Boling,MIT,"🍲 RuntimeGroups extracts the small parallel-runner primitives from turbo_tests2 — worker process count resolution, pid-file bookkeeping, runtime log recording, and runtime-weighted balanced file grouping — into a dependency-free gem that is engine-portable across MRI, JRuby, and TruffleRuby."
