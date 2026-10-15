@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 01:20 UTC
+## Latest list — 2026-10-15 02:21 UTC
 
-New gems created between 2026-10-15 00:19 UTC and 2026-10-15 01:20 UTC.
+New gems created between 2026-10-15 01:20 UTC and 2026-10-15 02:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-15T01-20-38-253484Z.csv)
+[Full CSV](data/new-gems-2026-10-15T02-21-13-295631Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-15 00:24:49 | [envvariablecheck](https://rubygems.org/gems/envvariablecheck) | 0.1.0 | kellysec | MIT | envvariablecheck loads ~/.env into the environment before a Ruby script runs, a… |
+| 2026-10-15 02:08:53 | [joliegg](https://rubygems.org/gems/joliegg) | 0.1.0 | Diana Islas Ocampo | Nonstandard | Jolie's Ruby libraries |
 
 ## Data source
 
