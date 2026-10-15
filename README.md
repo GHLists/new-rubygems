@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 05:19 UTC
+## Latest list — 2026-10-15 06:21 UTC
 
-New gems created between 2026-10-15 04:22 UTC and 2026-10-15 05:19 UTC.
+New gems created between 2026-10-15 05:19 UTC and 2026-10-15 06:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-15T05-19-16-13963Z.csv)
+[Full CSV](data/new-gems-2026-10-15T06-21-40-266988Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-15 04:24:16 | [runtime_groups](https://rubygems.org/gems/runtime_groups) | 0.1.0 | Peter H. Boling | MIT | 🍲 RuntimeGroups extracts the small parallel-runner primitives from turbo_tests2… |
+| 2026-10-15 05:59:58 | [runtime_groups](https://rubygems.org/gems/runtime_groups) | 0.1.1 | Peter H. Boling | MIT | 🍲 RuntimeGroups extracts the small parallel-runner primitives from turbo_tests2… |
 
 ## Data source
 
