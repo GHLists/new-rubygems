@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-15T23:48:17.606Z,mecha_tenant,0.1.2,55,Jeff Lunt,MIT,"MechaTenant enforces strict tenant isolation in Rails applications via a YAML model classification registry, explicit tenant_scope helpers, Prism AST static analysis of controllers, and behavioral IDOR route probing."
+2026-10-15T23:49:06.102Z,mecha_authorize,0.1.1,55,Jeff Lunt,MIT,"MechaAuthorize provides a YAML-driven, closed-by-default route authorization system for Rails applications, complete with static route parity auditing and behavioral persona matrix probing."
+2026-10-15T23:49:24.228Z,mecha_encrypt,0.1.1,67,Jeff Lunt,MIT,"MechaEncrypt enforces database column encryption parity in Rails applications via a YAML schema registry, static schema-to-model auditing, and behavioral ciphertext & index safety probing."
