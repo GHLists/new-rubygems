@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 18:20 UTC
+## Latest list — 2026-10-16 19:19 UTC
 
-New gems created between 2026-10-16 17:21 UTC and 2026-10-16 18:20 UTC.
+New gems created between 2026-10-16 18:20 UTC and 2026-10-16 19:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-16T18-20-30-130018Z.csv)
+[Full CSV](data/new-gems-2026-10-16T19-19-42-419554Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-16 17:27:49 | [cisco_nxos](https://rubygems.org/gems/cisco_nxos) | 0.1.0 | gatework | MIT | Initial Cisco NX-OS gem scaffold with a versioned namespace and error class. De… |
-| 2026-10-16 17:28:01 | [cisco_asa](https://rubygems.org/gems/cisco_asa) | 0.1.0 | gatework | MIT | Initial Cisco ASA gem scaffold with a versioned namespace and error class. Devi… |
-| 2026-10-16 17:33:03 | [topsec](https://rubygems.org/gems/topsec) | 0.1.0 | gatework | MIT | Initial Topsec gem scaffold with a versioned namespace and error class. Device… |
-| 2026-10-16 18:06:38 | [coss-rails](https://rubygems.org/gems/coss-rails) | 0.1.0 | Cal.com, Inc. | MIT | Send your Rails app's Action Mailer emails through coss.com by changing configu… |
+| 2026-10-16 18:21:48 | [solar_icons](https://rubygems.org/gems/solar_icons) | 2.0.0 | Hakim Saoudi | MIT | Inline Solar icons in Rails views through the solar_icon helper, generated from… |
 
 ## Data source
 
