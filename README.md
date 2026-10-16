@@ -9,23 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 20:21 UTC
+## Latest list — 2026-10-16 21:19 UTC
 
-New gems created between 2026-10-16 19:19 UTC and 2026-10-16 20:21 UTC.
+New gems created between 2026-10-16 20:21 UTC and 2026-10-16 21:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-16T20-21-13-195729Z.csv)
+[Full CSV](data/new-gems-2026-10-16T21-19-31-356257Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 20:06:52 | [keystone_ui-pages](https://rubygems.org/gems/keystone_ui-pages) | 0.1.0 | Tyler Schneider | MIT | Pages kept as versioned JSON documents of sections, rows and columns, changed t… |
+| 2026-10-16 20:35:17 | [keystone_ui-pages](https://rubygems.org/gems/keystone_ui-pages) | 0.1.1 | Tyler Schneider | MIT | Pages kept as versioned JSON documents of sections, rows and columns, changed t… |
+| 2026-10-16 21:07:55 | [posh-bundler](https://rubygems.org/gems/posh-bundler) | 0.1.0 | Stanislav Katkov | MIT | A best-effort Bundler plugin that runs posh sync once after bundle install or b… |
 
 ## Data source
 
