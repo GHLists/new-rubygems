@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T11:36:16.864Z,mirroring,0.1.0,97,claudiob,MIT,"A Rails engine: a model declared with `mirroring key:` copies a table a source publishes field for field, and each refresh inserts, updates and deletes only the rows the source did, counting them in one run."
