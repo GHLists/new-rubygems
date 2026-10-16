@@ -1,0 +1,10 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T14:35:43.344Z,rails-pg-managed-identity,0.1.0,49,Frederik Erbs Spang Thomsen,MIT,"Connects Active Record's PostgreSQL adapter to Azure Database for PostgreSQL flexible server with Microsoft Entra access tokens from managed identity, workload identity, a service principal or the Azure CLI. Tokens are fetched when connections are opened and refreshed before they expire, instead of…"
+2026-10-16T14:50:31.48Z,panos,0.1.0,45,gatework,MIT,Initial Panos gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T14:51:20.021Z,stoneos,0.1.0,46,gatework,MIT,Initial Stoneos gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T14:51:32.48Z,sangfor,0.1.0,45,gatework,MIT,Initial Sangfor gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T14:51:48.95Z,centec,0.1.0,50,gatework,MIT,Initial Centec gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T14:53:49.671Z,vxlan,0.1.0,42,Gatework contributors,MIT,"Independent configuration and runtime parsers for VXLAN fabrics, with immutable snapshots and injected collection sessions."
+2026-10-16T14:55:26.842Z,ctx_checker,0.1.0,35,Gatework contributors,MIT,"Normalize interfaces, routing protocols, optical metrics, system resources and counters into evidence-aware health reports."
+2026-10-16T14:55:27.15Z,wireless-rb,0.1.0,37,Gatework contributors,MIT,"Wireless configuration, access point, radio, client and neighbor observations with independent command and nested-session failure handling."
+2026-10-16T15:15:22.491Z,ruby-lsp-extras,0.1.0,3,Brands Insurance,BSD-3-Clause,Shared Extras for Ruby LSP
