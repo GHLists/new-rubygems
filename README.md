@@ -9,15 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 19:19 UTC
+## Latest list — 2026-10-16 20:21 UTC
 
-New gems created between 2026-10-16 18:20 UTC and 2026-10-16 19:19 UTC.
+New gems created between 2026-10-16 19:19 UTC and 2026-10-16 20:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-16T19-19-42-419554Z.csv)
+[Full CSV](data/new-gems-2026-10-16T20-21-13-195729Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-16 18:21:48 | [solar_icons](https://rubygems.org/gems/solar_icons) | 2.0.0 | Hakim Saoudi | MIT | Inline Solar icons in Rails views through the solar_icon helper, generated from… |
+| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 19:34:46 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.2.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 20:06:52 | [keystone_ui-pages](https://rubygems.org/gems/keystone_ui-pages) | 0.1.0 | Tyler Schneider | MIT | Pages kept as versioned JSON documents of sections, rows and columns, changed t… |
 
 ## Data source
 
