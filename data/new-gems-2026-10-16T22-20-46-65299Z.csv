@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T21:32:44.423Z,shopify_api-graphql-metafields,0.0.1,59,Skye Shaw,MIT,"User-friendly metafield wrapper around Shopify's GraphQL Admin API with built-in retry, batching, and error handling"
+2026-10-16T21:44:03.525Z,sendclipper,0.1.0,55,SendClipper,MIT,"Send mail, and manage domains, templates, sandboxes, webhooks, contacts and suppressions with the SendClipper email API. No runtime dependencies."
+2026-10-16T21:45:34.047Z,swiss_qr,0.1.0,55,Andi Idogawa,MIT,"Parses the payload of the Swiss QR Code on a Swiss QR-bill (QR-Rechnung, QR-facture, QR-fattura; Switzerland and Liechtenstein) per the SIX Swiss Implementation Guidelines for the QR-bill (""SPC""/""0200"") into immutable value objects: account and QR-IBAN, creditor and debtor addresses, amount, curren…"
