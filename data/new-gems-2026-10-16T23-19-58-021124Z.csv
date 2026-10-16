@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T23:15:19.134Z,async-vikunja,1.0.0,0,Nathan Kidd,MIT,An asynchronous Ruby client for the Vikunja API.
