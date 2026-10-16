@@ -1,0 +1,11 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T13:32:21.802Z,huawei,0.1.1,75,gatework,MIT,Initial Huawei gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T13:33:55.635Z,h3c,0.1.0,73,gatework,MIT,Initial H3C gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T13:34:52.852Z,hillstone,0.1.0,76,gatework,MIT,Initial Hillstone gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T13:38:46.703Z,radware,0.1.0,64,gatework,MIT,Initial Radware gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T13:40:25.123Z,ctx_parser,0.1.1,77,Gatework contributors,MIT,"Reusable configuration documents, command catalogs, platform profiles, immutable results and parsing primitives for network automation."
+2026-10-16T13:41:10.054Z,cisco_ios,0.1.0,54,gatework,MIT,Initial Cisco IOS gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T13:41:25.197Z,paloalto-rb,0.1.1,58,gatework,MIT,Initial Palo Alto Networks gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T13:41:35.213Z,cisco_n9k,0.1.0,57,gatework,MIT,Initial Cisco Nexus 9000 gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T13:43:50.987Z,ctx_driver,0.1.0,56,Gatework contributors,MIT,"Sequential declared command execution over injected sessions, with immutable receipts, failure classification and source digests."
+2026-10-16T13:44:48.517Z,baseline-rb,0.1.0,60,Gatework contributors,MIT,"Vendor-aware configuration facts, scoped policies and compliance reports that preserve incomplete evidence and unknown requirements."
