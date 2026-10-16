@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 01:20 UTC
+## Latest list — 2026-10-16 03:20 UTC
 
-New gems created between 2026-10-16 00:22 UTC and 2026-10-16 01:20 UTC.
+New gems created between 2026-10-16 02:20 UTC and 2026-10-16 03:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-16T01-20-57-523284Z.csv)
+[Full CSV](data/new-gems-2026-10-16T03-20-30-493811Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-16 00:41:37 | [rails-mmd](https://rubygems.org/gems/rails-mmd) | 0.1.0 | AudioStakes | MIT | rails-mmd is a Ruby CLI for generating Mermaid diagrams from configured Rails/A… |
-| 2026-10-16 01:03:03 | [zzhelloworld_socktest](https://rubygems.org/gems/zzhelloworld_socktest) | 0.1.1 | derekiops | MIT | just a test gem learning how to code |
+| 2026-10-16 02:48:19 | [fast-completions](https://rubygems.org/gems/fast-completions) | 0.4.0 | Eric Jacobs | MIT | Fast::Completions speaks the OpenAI-compatible chat-completions wire. One wire… |
 
 ## Data source
 

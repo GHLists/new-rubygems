@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T02:48:19.894Z,fast-completions,0.4.0,64,Eric Jacobs,MIT,"Fast::Completions speaks the OpenAI-compatible chat-completions wire. One wire protocol, dialects as data, async-http as the only runtime dependency. Byte-faithful to pi's request/stream behavior."
