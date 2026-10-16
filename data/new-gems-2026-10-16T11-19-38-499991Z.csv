@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T11:04:39.849Z,confeature,0.1.0,28,MakerLabs,MIT,"Confeature is an open-source feature-flag service that mirrors the ConfigCat API surface 1:1 (Constitution Principle II). The `confeature` gem is the Ruby SDK: same public class names, same option keywords, same polling modes, same flag-override semantics as `configcat`. Migrate by renaming the gem…"
