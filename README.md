@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 03:20 UTC
+## Latest list — 2026-10-16 05:19 UTC
 
-New gems created between 2026-10-16 02:20 UTC and 2026-10-16 03:20 UTC.
+New gems created between 2026-10-16 04:19 UTC and 2026-10-16 05:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-16T03-20-30-493811Z.csv)
+[Full CSV](data/new-gems-2026-10-16T05-19-53-137068Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-16 02:48:19 | [fast-completions](https://rubygems.org/gems/fast-completions) | 0.4.0 | Eric Jacobs | MIT | Fast::Completions speaks the OpenAI-compatible chat-completions wire. One wire… |
+| 2026-10-16 04:28:11 | [emaki](https://rubygems.org/gems/emaki) | 0.1.0 | emaki | MIT | Official SDK for emaki (emaki.ai), the Japanese-language AI video generator for… |
 
 ## Data source
 

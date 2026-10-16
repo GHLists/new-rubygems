@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T04:28:11.749Z,emaki,0.1.0,64,emaki,MIT,"Official SDK for emaki (emaki.ai), the Japanese-language AI video generator for Seedance 2.5 and Seedance 2.0. A zero-dependency Ruby client: text-to-video and image-to-video with Seedance 2.5, Seedance 2.0, MiniMax H3 and Veo 3.1, and images with Nano Banana 2, Seedream 5 and GPT Image 2, on one A…"
