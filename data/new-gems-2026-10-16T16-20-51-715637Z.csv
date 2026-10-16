@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T15:50:13.699Z,ruby-lsp-extras,0.1.1,55,Brands Insurance,BSD-3-Clause,Shared Extras for Ruby LSP
+2026-10-16T16:14:35.016Z,tarantool-client,0.1.0,0,Starlexxx,MIT,"Thread-safe IPROTO client for Tarantool 2.11+ and 3.x: CRUD by space and index name, SQL, interactive transactions, push, watchers, background reconnect and a role-aware pool."
+2026-10-16T16:17:36.157Z,tarantool-model,0.1.0,0,Starlexxx,MIT,"Attributes, validations, callbacks, dirty tracking and index-based queries with keyset pagination over Tarantool 2.11+ and 3.x spaces, through tarantool-client or tarantool-crud."
+2026-10-16T16:17:53.644Z,tarantool-crud,0.1.0,0,Starlexxx,MIT,"Per-space CRUD, conditions, pagination and batch operations over the tarantool/crud module for vshard clusters on Tarantool 2.11+ and 3.x, built on tarantool-client."
