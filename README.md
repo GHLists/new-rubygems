@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 00:22 UTC
+## Latest list — 2026-10-16 01:20 UTC
 
-New gems created between 2026-10-15 23:24 UTC and 2026-10-16 00:22 UTC.
+New gems created between 2026-10-16 00:22 UTC and 2026-10-16 01:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-16T00-22-28-610878Z.csv)
+[Full CSV](data/new-gems-2026-10-16T01-20-57-523284Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-15 23:48:17 | [mecha_tenant](https://rubygems.org/gems/mecha_tenant) | 0.1.2 | Jeff Lunt | MIT | MechaTenant enforces strict tenant isolation in Rails applications via a YAML m… |
-| 2026-10-15 23:49:06 | [mecha_authorize](https://rubygems.org/gems/mecha_authorize) | 0.1.1 | Jeff Lunt | MIT | MechaAuthorize provides a YAML-driven, closed-by-default route authorization sy… |
-| 2026-10-15 23:49:24 | [mecha_encrypt](https://rubygems.org/gems/mecha_encrypt) | 0.1.1 | Jeff Lunt | MIT | MechaEncrypt enforces database column encryption parity in Rails applications v… |
+| 2026-10-16 00:41:37 | [rails-mmd](https://rubygems.org/gems/rails-mmd) | 0.1.0 | AudioStakes | MIT | rails-mmd is a Ruby CLI for generating Mermaid diagrams from configured Rails/A… |
+| 2026-10-16 01:03:03 | [zzhelloworld_socktest](https://rubygems.org/gems/zzhelloworld_socktest) | 0.1.1 | derekiops | MIT | just a test gem learning how to code |
 
 ## Data source
 
