@@ -9,18 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 16:20 UTC
+## Latest list — 2026-10-16 17:21 UTC
 
-New gems created between 2026-10-16 15:21 UTC and 2026-10-16 16:20 UTC.
+New gems created between 2026-10-16 16:20 UTC and 2026-10-16 17:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-16T16-20-51-715637Z.csv)
+[Full CSV](data/new-gems-2026-10-16T17-21-37-026224Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-16 15:50:13 | [ruby-lsp-extras](https://rubygems.org/gems/ruby-lsp-extras) | 0.1.1 | Brands Insurance | BSD-3-Clause | Shared Extras for Ruby LSP |
-| 2026-10-16 16:14:35 | [tarantool-client](https://rubygems.org/gems/tarantool-client) | 0.1.0 | Starlexxx | MIT | Thread-safe IPROTO client for Tarantool 2.11+ and 3.x: CRUD by space and index… |
-| 2026-10-16 16:17:36 | [tarantool-model](https://rubygems.org/gems/tarantool-model) | 0.1.0 | Starlexxx | MIT | Attributes, validations, callbacks, dirty tracking and index-based queries with… |
-| 2026-10-16 16:17:53 | [tarantool-crud](https://rubygems.org/gems/tarantool-crud) | 0.1.0 | Starlexxx | MIT | Per-space CRUD, conditions, pagination and batch operations over the tarantool/… |
+| 2026-10-16 16:23:48 | [groundmail](https://rubygems.org/gems/groundmail) | 0.8.3 | Groundmail | MIT | Official Ruby client for the Groundmail REST API. |
+| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
+| 2026-10-16 17:04:37 | [h3c_wlc](https://rubygems.org/gems/h3c_wlc) | 0.1.0 | gatework | MIT | Initial H3C wireless controller gem scaffold with a versioned namespace and err… |
+| 2026-10-16 17:06:10 | [ace-design](https://rubygems.org/gems/ace-design) | 0.2.0 | Michal Czyz | MIT | Shared site/app design workflows, local mockup previews, browser inspection and… |
+| 2026-10-16 17:09:54 | [h3c_wireless](https://rubygems.org/gems/h3c_wireless) | 0.1.0 | gatework | MIT | Initial H3C wireless device gem scaffold with a versioned namespace and error c… |
+| 2026-10-16 17:17:06 | [fortinet](https://rubygems.org/gems/fortinet) | 0.1.0 | gatework | MIT | Initial Fortinet gem scaffold with a versioned namespace and error class. Devic… |
+| 2026-10-16 17:17:17 | [algosec](https://rubygems.org/gems/algosec) | 0.1.0 | gatework | MIT | Initial AlgoSec gem scaffold with a versioned namespace and error class. Device… |
+| 2026-10-16 17:18:31 | [firemon](https://rubygems.org/gems/firemon) | 0.1.0 | gatework | MIT | Initial FireMon gem scaffold with a versioned namespace and error class. Device… |
 
 ## Data source
 
