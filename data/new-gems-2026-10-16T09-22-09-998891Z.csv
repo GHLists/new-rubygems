@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T09:00:41.164Z,sprockets-sidecar,0.1.0,45,"Pavlo Bilyak, Hans Otto Wirtz",MIT,Writes precompressed Brotli and Zstd sidecar files for Sprockets assets
+2026-10-16T09:16:54.836Z,cocoapods-yaml,1.0.0,4,wsp,MIT,1、iOS端按target以yaml文件管理依赖(本地/二方/三方统一) 2、pod yaml relation子命令查询依赖库正向/反向依赖关系 3、检查import写法错误问题 4、检查未被使用的依赖库和间接依赖的依赖库 5、TRIM_UNUSED_POD/pod install/update --trim 自动移除未使用依赖以加速编译 6、其他功能开发中...
+2026-10-16T09:17:18.204Z,pod-binary-pack,1.0.0,0,wsp,MIT,iOS双私有源组件打包核心功能

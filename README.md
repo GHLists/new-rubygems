@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 07:22 UTC
+## Latest list — 2026-10-16 09:22 UTC
 
-New gems created between 2026-10-16 06:19 UTC and 2026-10-16 07:22 UTC.
+New gems created between 2026-10-16 08:21 UTC and 2026-10-16 09:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-16T07-22-44-916094Z.csv)
+[Full CSV](data/new-gems-2026-10-16T09-22-09-998891Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-16 06:27:14 | [catenary](https://rubygems.org/gems/catenary) | 0.1.0 | Catenary | MIT | Catenary generates selective, translation-validated lowered Ruby for Rails 8.1+… |
-| 2026-10-16 07:09:46 | [mutineer-mongoid](https://rubygems.org/gems/mutineer-mongoid) | 2.0.0 | David Teren, Justin Allen Mar… | MIT | Mutineer mutates your source one change at a time and runs your Minitest or RSp… |
+| 2026-10-16 09:00:41 | [sprockets-sidecar](https://rubygems.org/gems/sprockets-sidecar) | 0.1.0 | Pavlo Bilyak, Hans Otto Wirtz | MIT | Writes precompressed Brotli and Zstd sidecar files for Sprockets assets |
+| 2026-10-16 09:16:54 | [cocoapods-yaml](https://rubygems.org/gems/cocoapods-yaml) | 1.0.0 | wsp | MIT | 1、iOS端按target以yaml文件管理依赖(本地/二方/三方统一) 2、pod yaml relation子命令查询依赖库正向/反向依赖关系 3、检查i… |
+| 2026-10-16 09:17:18 | [pod-binary-pack](https://rubygems.org/gems/pod-binary-pack) | 1.0.0 | wsp | MIT | iOS双私有源组件打包核心功能 |
 
 ## Data source
 
