@@ -9,29 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 17:21 UTC
+## Latest list — 2026-10-16 18:20 UTC
 
-New gems created between 2026-10-16 16:20 UTC and 2026-10-16 17:21 UTC.
+New gems created between 2026-10-16 17:21 UTC and 2026-10-16 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-16T17-21-37-026224Z.csv)
+[Full CSV](data/new-gems-2026-10-16T18-20-30-130018Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-16 16:23:48 | [groundmail](https://rubygems.org/gems/groundmail) | 0.8.3 | Groundmail | MIT | Official Ruby client for the Groundmail REST API. |
-| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 16:26:04 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-16 17:04:37 | [h3c_wlc](https://rubygems.org/gems/h3c_wlc) | 0.1.0 | gatework | MIT | Initial H3C wireless controller gem scaffold with a versioned namespace and err… |
-| 2026-10-16 17:06:10 | [ace-design](https://rubygems.org/gems/ace-design) | 0.2.0 | Michal Czyz | MIT | Shared site/app design workflows, local mockup previews, browser inspection and… |
-| 2026-10-16 17:09:54 | [h3c_wireless](https://rubygems.org/gems/h3c_wireless) | 0.1.0 | gatework | MIT | Initial H3C wireless device gem scaffold with a versioned namespace and error c… |
-| 2026-10-16 17:17:06 | [fortinet](https://rubygems.org/gems/fortinet) | 0.1.0 | gatework | MIT | Initial Fortinet gem scaffold with a versioned namespace and error class. Devic… |
-| 2026-10-16 17:17:17 | [algosec](https://rubygems.org/gems/algosec) | 0.1.0 | gatework | MIT | Initial AlgoSec gem scaffold with a versioned namespace and error class. Device… |
-| 2026-10-16 17:18:31 | [firemon](https://rubygems.org/gems/firemon) | 0.1.0 | gatework | MIT | Initial FireMon gem scaffold with a versioned namespace and error class. Device… |
+| 2026-10-16 17:27:49 | [cisco_nxos](https://rubygems.org/gems/cisco_nxos) | 0.1.0 | gatework | MIT | Initial Cisco NX-OS gem scaffold with a versioned namespace and error class. De… |
+| 2026-10-16 17:28:01 | [cisco_asa](https://rubygems.org/gems/cisco_asa) | 0.1.0 | gatework | MIT | Initial Cisco ASA gem scaffold with a versioned namespace and error class. Devi… |
+| 2026-10-16 17:33:03 | [topsec](https://rubygems.org/gems/topsec) | 0.1.0 | gatework | MIT | Initial Topsec gem scaffold with a versioned namespace and error class. Device… |
+| 2026-10-16 18:06:38 | [coss-rails](https://rubygems.org/gems/coss-rails) | 0.1.0 | Cal.com, Inc. | MIT | Send your Rails app's Action Mailer emails through coss.com by changing configu… |
 
 ## Data source
 

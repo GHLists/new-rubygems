@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T17:27:49.51Z,cisco_nxos,0.1.0,65,gatework,MIT,Initial Cisco NX-OS gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T17:28:01.605Z,cisco_asa,0.1.0,72,gatework,MIT,Initial Cisco ASA gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T17:33:03.725Z,topsec,0.1.0,65,gatework,MIT,Initial Topsec gem scaffold with a versioned namespace and error class. Device connections and operations are not implemented yet.
+2026-10-16T18:06:38.381Z,coss-rails,0.1.0,13,"Cal.com, Inc.",MIT,"Send your Rails app's Action Mailer emails through coss.com by changing configuration, not call sites."
