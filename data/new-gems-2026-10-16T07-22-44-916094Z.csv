@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T06:27:14.846Z,catenary,0.1.0,60,Catenary,MIT,"Catenary generates selective, translation-validated lowered Ruby for Rails 8.1+ applications running on Ruby 4.0+."
+2026-10-16T07:09:46.754Z,mutineer-mongoid,2.0.0,16,"David Teren, Justin Allen Marsh",MIT,"Mutineer mutates your source one change at a time and runs your Minitest or RSpec suite against each mutant to find tests that don't actually test anything. Prism-based, fork-isolated, zero runtime dependencies."
