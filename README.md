@@ -9,27 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 17:21 UTC
+## Latest list — 2026-10-17 18:21 UTC
 
-New gems created between 2026-10-17 16:20 UTC and 2026-10-17 17:21 UTC.
+New gems created between 2026-10-17 17:21 UTC and 2026-10-17 18:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-17T17-21-19-75185Z.csv)
+[Full CSV](data/new-gems-2026-10-17T18-21-08-37943Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-17 16:23:56 | [skill](https://rubygems.org/gems/skill) | 0.1.0 | Carmine Paolino | MIT | Installs Agent Skills, folders holding a SKILL.md, from GitHub repositories, pl… |
-| 2026-10-17 16:45:42 | [hey.rb](https://rubygems.org/gems/hey.rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | hey sends load to a web application and reports a latency histogram, percentile… |
-| 2026-10-17 16:58:46 | [tarantool-schema](https://rubygems.org/gems/tarantool-schema) | 0.2.0 | Starlexxx | MIT | Declare Tarantool 2.11+ and 3.x spaces, indexes and primary key sequences in Ru… |
-| 2026-10-17 17:01:32 | [tarantool-rails](https://rubygems.org/gems/tarantool-rails) | 0.2.0 | Starlexxx | MIT | config/tarantool.yml per environment, one connection pool per process, models o… |
-| 2026-10-17 17:02:45 | [async-vikunja](https://rubygems.org/gems/async-vikunja) | 1.1.0 | Nathan Kidd | MIT | An asynchronous Ruby client for the Vikunja API. |
-| 2026-10-17 17:12:59 | [monosmith](https://rubygems.org/gems/monosmith) | 1.11.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 17:12:59 | [monosmith](https://rubygems.org/gems/monosmith) | 1.11.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 17:12:59 | [monosmith](https://rubygems.org/gems/monosmith) | 1.11.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 17:12:59 | [monosmith](https://rubygems.org/gems/monosmith) | 1.11.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 17:12:59 | [monosmith](https://rubygems.org/gems/monosmith) | 1.11.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 17:12:59 | [monosmith](https://rubygems.org/gems/monosmith) | 1.11.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 17:12:59 | [monosmith](https://rubygems.org/gems/monosmith) | 1.11.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 17:12:59 | [monosmith](https://rubygems.org/gems/monosmith) | 1.11.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 17:35:14 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 17:35:14 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 17:35:14 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 17:35:14 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 17:35:14 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 17:35:14 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 17:35:14 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 17:35:14 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 17:37:23 | [pinesandbox](https://rubygems.org/gems/pinesandbox) | 0.3.18 | Pine AI | Apache-2.0 | Ruby SDK for Pine Computers: create a Computer for your project, attach to it,… |
+| 2026-10-17 17:44:47 | [skill](https://rubygems.org/gems/skill) | 0.2.0 | Carmine Paolino | MIT | Installs Agent Skills, folders holding a SKILL.md, from GitHub repositories, pl… |
+| 2026-10-17 17:49:41 | [building_sync_bindings](https://rubygems.org/gems/building_sync_bindings) | 0.1.2 | Mark Borkum | BSD-2-Clause | A public gem mirror of building_sync_rails, including the BuildingSync 2.6.0 sc… |
+| 2026-10-17 17:59:23 | [solar_icons](https://rubygems.org/gems/solar_icons) | 2.1.0 | Hakim Saoudi | MIT | Inline Solar icons in Rails views through the solar_icon helper, generated from… |
 
 ## Data source
 
