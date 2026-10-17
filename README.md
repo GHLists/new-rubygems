@@ -9,18 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 19:21 UTC
+## Latest list — 2026-10-17 22:20 UTC
 
-New gems created between 2026-10-17 18:21 UTC and 2026-10-17 19:21 UTC.
+New gems created between 2026-10-17 21:20 UTC and 2026-10-17 22:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-17T19-21-15-103338Z.csv)
+[Full CSV](data/new-gems-2026-10-17T22-20-38-280173Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-17 18:44:23 | [tarantool-schema](https://rubygems.org/gems/tarantool-schema) | 0.2.1 | Starlexxx | MIT | Declare Tarantool 2.11+ and 3.x spaces, indexes and primary key sequences in Ru… |
-| 2026-10-17 18:57:50 | [tarantool-opentelemetry](https://rubygems.org/gems/tarantool-opentelemetry) | 0.1.0 | Starlexxx | MIT | An instrumenter for tarantool-client that turns every request and lifecycle eve… |
-| 2026-10-17 19:10:44 | [view_component_atomix](https://rubygems.org/gems/view_component_atomix) | 0.1.0 | Peter Park | MIT | Define styles as Ruby hashes next to your components. Compiles to deterministic… |
-| 2026-10-17 19:17:35 | [birman](https://rubygems.org/gems/birman) | 0.2.1 | Tad Thorley | MIT | Module-based grammars, immutable Data matchers and AST nodes with source spans,… |
+| 2026-10-17 21:24:21 | [openpx-sdk](https://rubygems.org/gems/openpx-sdk) | 0.0.1 | OpenPX | MIT | Early release of the OpenPX SDK. Ships the OpenPX schema for describing product… |
+| 2026-10-17 21:24:22 | [openpx-cli](https://rubygems.org/gems/openpx-cli) | 0.0.1 | OpenPX | MIT | Early release of the openpx command: openpx --version and openpx schema. |
+| 2026-10-17 21:24:24 | [openpx](https://rubygems.org/gems/openpx) | 0.0.1 | OpenPX | MIT | Early release of OpenPX. Installs openpx-sdk and openpx-cli. |
+| 2026-10-17 22:07:35 | [birman](https://rubygems.org/gems/birman) | 0.2.2 | Tad Thorley | MIT | Module-based grammars, immutable Data matchers and AST nodes with source spans,… |
+| 2026-10-17 22:10:38 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.3 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 22:10:38 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.3 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 22:10:38 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.3 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 22:10:38 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.3 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 22:10:38 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.3 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 22:10:38 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.3 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 22:10:38 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.3 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 22:10:38 | [monosmith](https://rubygems.org/gems/monosmith) | 1.12.3 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
 
 ## Data source
 
