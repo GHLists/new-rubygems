@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-17T18:44:23.851Z,tarantool-schema,0.2.1,54,Starlexxx,MIT,"Declare Tarantool 2.11+ and 3.x spaces, indexes and primary key sequences in Ruby; apply creates what is missing and fails with a readable diff when the live schema differs."
+2026-10-17T18:57:50.93Z,tarantool-opentelemetry,0.1.0,42,Starlexxx,MIT,"An instrumenter for tarantool-client that turns every request and lifecycle event into an OpenTelemetry client span, with db.* attributes and without keys, tuples or credentials."
+2026-10-17T19:10:44.968Z,view_component_atomix,0.1.0,3,Peter Park,MIT,"Define styles as Ruby hashes next to your components. Compiles to deterministic atomic classes with per-property merging, conditions, breakpoints, dynamic values and CSS-variable theming. No JavaScript build step."
+2026-10-17T19:17:35.36Z,birman,0.2.1,0,Tad Thorley,MIT,"Module-based grammars, immutable Data matchers and AST nodes with source spans, packrat memoization, commit points, labels, and Success/Failure results."
