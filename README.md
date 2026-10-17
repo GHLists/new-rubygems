@@ -9,16 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 09:19 UTC
+## Latest list — 2026-10-17 10:19 UTC
 
-New gems created between 2026-10-17 08:20 UTC and 2026-10-17 09:19 UTC.
+New gems created between 2026-10-17 09:19 UTC and 2026-10-17 10:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-17T09-19-38-666275Z.csv)
+[Full CSV](data/new-gems-2026-10-17T10-19-43-839194Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-17 09:17:14 | [misardev](https://rubygems.org/gems/misardev) | 1.0.0 | Misar.AI | MIT | Ruby client for the Misar.Dev API (misar.dev): create projects, write their fil… |
-| 2026-10-17 09:17:25 | [misarseo](https://rubygems.org/gems/misarseo) | 1.0.0 | Misar.AI | MIT | Ruby client for the MisarSEO API (seo.misar.io): keyword research, site audits,… |
+| 2026-10-17 09:20:10 | [misarpost](https://rubygems.org/gems/misarpost) | 1.0.0 | Misar.AI | MIT | Schedule and publish posts across every connected channel, generate and repurpo… |
+| 2026-10-17 10:09:10 | [monosmith](https://rubygems.org/gems/monosmith) | 1.3.1 | monosmith | MIT | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases Thi… |
+| 2026-10-17 10:09:10 | [monosmith](https://rubygems.org/gems/monosmith) | 1.3.1 | monosmith | MIT | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases Thi… |
+| 2026-10-17 10:09:10 | [monosmith](https://rubygems.org/gems/monosmith) | 1.3.1 | monosmith | MIT | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases Thi… |
+| 2026-10-17 10:09:10 | [monosmith](https://rubygems.org/gems/monosmith) | 1.3.1 | monosmith | MIT | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases Thi… |
+| 2026-10-17 10:09:10 | [monosmith](https://rubygems.org/gems/monosmith) | 1.3.1 | monosmith | MIT | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases Thi… |
+| 2026-10-17 10:09:10 | [monosmith](https://rubygems.org/gems/monosmith) | 1.3.1 | monosmith | MIT | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases Thi… |
+| 2026-10-17 10:09:10 | [monosmith](https://rubygems.org/gems/monosmith) | 1.3.1 | monosmith | MIT | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases Thi… |
+| 2026-10-17 10:09:10 | [monosmith](https://rubygems.org/gems/monosmith) | 1.3.1 | monosmith | MIT | Runs a monorepo in Node, Go and Python: tasks from a cache, CI and releases Thi… |
 
 ## Data source
 
