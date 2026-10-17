@@ -9,23 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 01:19 UTC
+## Latest list — 2026-10-17 02:18 UTC
 
-New gems created between 2026-10-17 00:19 UTC and 2026-10-17 01:19 UTC.
+New gems created between 2026-10-17 01:19 UTC and 2026-10-17 02:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-17T01-19-19-003323Z.csv)
+[Full CSV](data/new-gems-2026-10-17T02-18-42-61827Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-17 00:31:20 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.3.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-17 00:31:20 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.3.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-17 00:31:20 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.3.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-17 00:31:20 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.3.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-17 00:31:20 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.3.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-17 00:31:20 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.3.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-17 00:31:20 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.3.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-17 00:31:20 | [imprimatur](https://rubygems.org/gems/imprimatur) | 0.3.0 | Abdelkader Boudih | BSD-3-Clause | A Ruby DSL over a native core that writes Excel workbooks, and PDF and Word doc… |
-| 2026-10-17 00:39:36 | [groundmail](https://rubygems.org/gems/groundmail) | 0.8.4 | Groundmail | MIT | Official Ruby client for the Groundmail REST API. |
+| 2026-10-17 01:31:45 | [groundmail](https://rubygems.org/gems/groundmail) | 0.8.5 | Groundmail | MIT | Official Ruby client for the Groundmail transactional email API, with a Rails A… |
+| 2026-10-17 01:41:26 | [paperclip_database_myplaceonline](https://rubygems.org/gems/paperclip_database_myplaceonline) | 3.1.1 | Jarl Friis | MIT | To have all your data in one place: the database |
 
 ## Data source
 
