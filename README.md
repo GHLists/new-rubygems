@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 23:19 UTC
+## Latest list — 2026-10-17 00:19 UTC
 
-New gems created between 2026-10-16 22:20 UTC and 2026-10-16 23:19 UTC.
+New gems created between 2026-10-16 23:19 UTC and 2026-10-17 00:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-16T23-19-58-021124Z.csv)
+[Full CSV](data/new-gems-2026-10-17T00-19-16-859769Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-16 23:15:19 | [async-vikunja](https://rubygems.org/gems/async-vikunja) | 1.0.0 | Nathan Kidd | MIT | An asynchronous Ruby client for the Vikunja API. |
+| 2026-10-16 23:41:53 | [ctree](https://rubygems.org/gems/ctree) | 0.5.3 | mytrak | MIT | ctree lets you run several branches of a Docker-compose project at once, each i… |
 
 ## Data source
 

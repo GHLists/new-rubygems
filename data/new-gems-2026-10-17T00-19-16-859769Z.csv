@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-16T23:41:53.099Z,ctree,0.5.3,56,mytrak,MIT,"ctree lets you run several branches of a Docker-compose project at once, each in its own sibling git worktree with replicated Docker volumes. Manage the full lifecycle with create, delete, list, rebase, and update commands."
