@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-17T02:27:37.139Z,async-firefly,1.0.0,69,Nathan Kidd,MIT,An asynchronous Ruby client for the Firefly III API.
