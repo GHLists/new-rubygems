@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-17T09:17:14.357Z,misardev,1.0.0,0,Misar.AI,MIT,"Ruby client for the Misar.Dev API (misar.dev): create projects, write their files, build and deploy them to a subdomain or your own domain, start from templates, call the OpenAI-compatible chat completions endpoint, search your code and read usage. 21 resource groups and every route generated from…"
+2026-10-17T09:17:25.46Z,misarseo,1.0.0,0,Misar.AI,MIT,"Ruby client for the MisarSEO API (seo.misar.io): keyword research, site audits, rank tracking, backlinks, AI search visibility, Search Console, GA4 and Business Profile — 221 methods on one client, retries with backoff, typed plan-limit errors carrying the upgrade offer, and SSE crawl progress. No…"
