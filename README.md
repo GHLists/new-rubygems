@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 04:19 UTC
+## Latest list — 2026-10-17 05:21 UTC
 
-New gems created between 2026-10-17 03:20 UTC and 2026-10-17 04:19 UTC.
+New gems created between 2026-10-17 04:19 UTC and 2026-10-17 05:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-17T04-19-40-490579Z.csv)
+[Full CSV](data/new-gems-2026-10-17T05-21-29-712543Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-17 03:53:33 | [lowloop](https://rubygems.org/gems/lowloop) | 0.8.1 | maedi |  | An asynchronous server that creates events for your event-driven application to… |
-| 2026-10-17 03:57:56 | [lowevent](https://rubygems.org/gems/lowevent) | 0.8.1 | maedi |  | Events and observers for event-driven applications |
-| 2026-10-17 04:16:53 | [lownode](https://rubygems.org/gems/lownode) | 0.5.2 | maedi |  | Flexible building blocks |
+| 2026-10-17 05:02:44 | [ctx_parser](https://rubygems.org/gems/ctx_parser) | 0.2.0 | Gatework contributors | MIT | Reusable configuration documents, command declarations, platform profiles, immu… |
+| 2026-10-17 05:05:11 | [ctx_driver](https://rubygems.org/gems/ctx_driver) | 0.2.0 | Gatework contributors | MIT | Sequential declared command execution over injected sessions, with immutable re… |
+| 2026-10-17 05:08:07 | [ctx_checker](https://rubygems.org/gems/ctx_checker) | 0.2.0 | Gatework contributors | MIT | Normalize interfaces, routing protocols, optical metrics, system resources and… |
 
 ## Data source
 
