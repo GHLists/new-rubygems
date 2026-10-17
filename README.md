@@ -9,17 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 05:21 UTC
+## Latest list — 2026-10-17 06:18 UTC
 
-New gems created between 2026-10-17 04:19 UTC and 2026-10-17 05:21 UTC.
+New gems created between 2026-10-17 05:21 UTC and 2026-10-17 06:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-17T05-21-29-712543Z.csv)
+[Full CSV](data/new-gems-2026-10-17T06-18-53-227298Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-17 05:02:44 | [ctx_parser](https://rubygems.org/gems/ctx_parser) | 0.2.0 | Gatework contributors | MIT | Reusable configuration documents, command declarations, platform profiles, immu… |
-| 2026-10-17 05:05:11 | [ctx_driver](https://rubygems.org/gems/ctx_driver) | 0.2.0 | Gatework contributors | MIT | Sequential declared command execution over injected sessions, with immutable re… |
-| 2026-10-17 05:08:07 | [ctx_checker](https://rubygems.org/gems/ctx_checker) | 0.2.0 | Gatework contributors | MIT | Normalize interfaces, routing protocols, optical metrics, system resources and… |
+| 2026-10-17 06:13:05 | [wordcraft](https://rubygems.org/gems/wordcraft) | 0.7.0 | Pete Matsyburka | MIT | Ruby FFI bindings for WordCraft, a pure Rust word processor engine. Ships prebu… |
+| 2026-10-17 06:13:05 | [wordcraft](https://rubygems.org/gems/wordcraft) | 0.7.0 | Pete Matsyburka | MIT | Ruby FFI bindings for WordCraft, a pure Rust word processor engine. Ships prebu… |
+| 2026-10-17 06:13:05 | [wordcraft](https://rubygems.org/gems/wordcraft) | 0.7.0 | Pete Matsyburka | MIT | Ruby FFI bindings for WordCraft, a pure Rust word processor engine. Ships prebu… |
+| 2026-10-17 06:13:05 | [wordcraft](https://rubygems.org/gems/wordcraft) | 0.7.0 | Pete Matsyburka | MIT | Ruby FFI bindings for WordCraft, a pure Rust word processor engine. Ships prebu… |
+| 2026-10-17 06:13:05 | [wordcraft](https://rubygems.org/gems/wordcraft) | 0.7.0 | Pete Matsyburka | MIT | Ruby FFI bindings for WordCraft, a pure Rust word processor engine. Ships prebu… |
 
 ## Data source
 
