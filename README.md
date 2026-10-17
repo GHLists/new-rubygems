@@ -9,23 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 15:19 UTC
+## Latest list — 2026-10-17 16:20 UTC
 
-New gems created between 2026-10-17 14:20 UTC and 2026-10-17 15:19 UTC.
+New gems created between 2026-10-17 15:19 UTC and 2026-10-17 16:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-17T15-19-03-488457Z.csv)
+[Full CSV](data/new-gems-2026-10-17T16-20-58-531043Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-17 14:34:15 | [monosmith](https://rubygems.org/gems/monosmith) | 1.8.1 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 14:34:15 | [monosmith](https://rubygems.org/gems/monosmith) | 1.8.1 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 14:34:15 | [monosmith](https://rubygems.org/gems/monosmith) | 1.8.1 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 14:34:15 | [monosmith](https://rubygems.org/gems/monosmith) | 1.8.1 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 14:34:15 | [monosmith](https://rubygems.org/gems/monosmith) | 1.8.1 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 14:34:15 | [monosmith](https://rubygems.org/gems/monosmith) | 1.8.1 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 14:34:15 | [monosmith](https://rubygems.org/gems/monosmith) | 1.8.1 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 14:34:15 | [monosmith](https://rubygems.org/gems/monosmith) | 1.8.1 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
-| 2026-10-17 14:35:42 | [rails-agent-kit](https://rubygems.org/gems/rails-agent-kit) | 0.1.0 | Andrii Furmanets | MIT | rails-agent-kit is a small Model Context Protocol (stdio) server. It exposes a… |
+| 2026-10-17 16:00:27 | [monosmith](https://rubygems.org/gems/monosmith) | 1.9.2 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 16:00:27 | [monosmith](https://rubygems.org/gems/monosmith) | 1.9.2 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 16:00:27 | [monosmith](https://rubygems.org/gems/monosmith) | 1.9.2 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 16:00:27 | [monosmith](https://rubygems.org/gems/monosmith) | 1.9.2 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 16:00:27 | [monosmith](https://rubygems.org/gems/monosmith) | 1.9.2 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 16:00:27 | [monosmith](https://rubygems.org/gems/monosmith) | 1.9.2 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 16:00:27 | [monosmith](https://rubygems.org/gems/monosmith) | 1.9.2 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-17 16:00:27 | [monosmith](https://rubygems.org/gems/monosmith) | 1.9.2 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
 
 ## Data source
 
