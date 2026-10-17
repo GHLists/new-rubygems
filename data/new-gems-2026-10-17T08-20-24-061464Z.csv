@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-17T07:51:52.97Z,tarantool-client,0.2.0,77,Starlexxx,MIT,"Thread-safe IPROTO client for Tarantool 2.11+ and 3.x: CRUD by space and index name, SQL, interactive transactions, push, watchers, background reconnect and a role-aware pool."
+2026-10-17T07:59:47.193Z,tarantool-schema,0.1.0,38,Starlexxx,MIT,"Declare Tarantool 2.11+ and 3.x spaces, indexes and primary key sequences in Ruby; apply creates what is missing and fails with a readable diff when the live schema differs."
+2026-10-17T08:00:45.155Z,tarantool-model,0.2.0,45,Starlexxx,MIT,"Attributes, validations, callbacks, dirty tracking and index-based queries with keyset pagination over Tarantool 2.11+ and 3.x spaces, through tarantool-client or tarantool-crud."
+2026-10-17T08:01:26.824Z,tarantool-crud,0.1.1,90,Starlexxx,MIT,"Per-space CRUD, conditions, pagination and batch operations over the tarantool/crud module for vshard clusters on Tarantool 2.11+ and 3.x, built on tarantool-client."
