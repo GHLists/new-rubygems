@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-18T15:32:26.104Z,intosql,0.1.0,57,IntoSQL,MIT,"Upload XLSX, XLS, ODS, CSV or JSON files and get SQL for PostgreSQL, MySQL, MariaDB, SQLite, SQL Server or Oracle back from the IntoSQL API, with webhook verification."
