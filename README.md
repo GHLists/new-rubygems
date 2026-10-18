@@ -9,22 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 10:20 UTC
+## Latest list — 2026-10-18 11:20 UTC
 
-New gems created between 2026-10-18 09:20 UTC and 2026-10-18 10:20 UTC.
+New gems created between 2026-10-18 10:20 UTC and 2026-10-18 11:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-18T10-20-23-387848Z.csv)
+[Full CSV](data/new-gems-2026-10-18T11-20-20-734582Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 09:27:12 | [openui-rails](https://rubygems.org/gems/openui-rails) | 0.1.0 | Andy Wang | MIT | Render model-generated, streaming, interactive OpenUI Lang UI inside an existin… |
-| 2026-10-18 10:05:03 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 10:05:03 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 10:05:03 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 10:05:03 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 10:05:03 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 10:05:03 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 10:07:42 | [rails_tool_views](https://rubygems.org/gems/rails_tool_views) | 0.1.0 | Andy Wang | MIT | A Rails engine for strict component registration, scoped surfaces, durable acti… |
+| 2026-10-18 10:46:41 | [sequel-beagle-turso](https://rubygems.org/gems/sequel-beagle-turso) | 0.1.0 | BeagleSoftwareUK | MIT | A Sequel adapter (URL scheme beagle-turso://) that runs Sequel -- and ROM / Han… |
+| 2026-10-18 11:12:54 | [rails-datepicker](https://rubygems.org/gems/rails-datepicker) | 0.1.0 | Tamiru | MIT | A Rails 8 engine providing a Stimulus 3 and Tailwind CSS 4 datepicker with accu… |
+| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
+| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
+| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
+| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
+| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
+| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
 
 ## Data source
 
