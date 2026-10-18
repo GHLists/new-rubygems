@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-18T03:33:20.351Z,midnight_ride,0.1.0,57,Dennis Hackethal,Nonstandard,"Builds on Solid Errors: alerts about new errors, resolved ones that come back, and unresolved ones still happening, and starts a Claude Code session for each through a routine's API trigger."

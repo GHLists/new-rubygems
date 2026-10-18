@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 03:20 UTC
+## Latest list — 2026-10-18 04:19 UTC
 
-New gems created between 2026-10-18 02:20 UTC and 2026-10-18 03:20 UTC.
+New gems created between 2026-10-18 03:20 UTC and 2026-10-18 04:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-18T03-20-33-948478Z.csv)
+[Full CSV](data/new-gems-2026-10-18T04-19-24-452344Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 02:43:35 | [spinel_test-unit](https://rubygems.org/gems/spinel_test-unit) | 0.1.0 | Yuji Yaginuma | MIT | An xUnit-style test framework for Spinel. |
-| 2026-10-18 02:49:49 | [b4n1-boost](https://rubygems.org/gems/b4n1-boost) | 0.4.1 | B4N1 Team | BUSL-1.1 | Zero-copy Gzip/Zstd compression, HTML minification, and fast JSON validation po… |
+| 2026-10-18 03:33:20 | [midnight_ride](https://rubygems.org/gems/midnight_ride) | 0.1.0 | Dennis Hackethal | Nonstandard | Builds on Solid Errors: alerts about new errors, resolved ones that come back,… |
 
 ## Data source
 
