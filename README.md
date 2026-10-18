@@ -9,18 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 14:21 UTC
+## Latest list — 2026-10-18 15:19 UTC
 
-New gems created between 2026-10-18 13:19 UTC and 2026-10-18 14:21 UTC.
+New gems created between 2026-10-18 14:21 UTC and 2026-10-18 15:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-18T14-21-11-839488Z.csv)
+[Full CSV](data/new-gems-2026-10-18T15-19-08-188105Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 13:39:04 | [openui-rails](https://rubygems.org/gems/openui-rails) | 0.2.0 | Andy Wang | MIT | Render model-generated, streaming, interactive OpenUI Lang UI inside an existin… |
-| 2026-10-18 13:42:13 | [activerecord-minimizer](https://rubygems.org/gems/activerecord-minimizer) | 0.1.3 | Sampo Kuokkanen | MIT | Generates only the reader and writer per Active Record column (strict mode remo… |
-| 2026-10-18 13:42:38 | [activesupport-minimizer](https://rubygems.org/gems/activesupport-minimizer) | 0.1.2 | Sampo Kuokkanen | MIT | Runs ActiveSupport::Callbacks chains (controller filters, model and validation… |
-| 2026-10-18 13:42:57 | [rails-minify](https://rubygems.org/gems/rails-minify) | 0.1.3 | Sampo Kuokkanen | MIT | Turns on activerecord-, activesupport- and actionpack-minimizer, and patches pa… |
+| 2026-10-18 14:29:34 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.0 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 14:29:34 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.0 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 14:29:34 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.0 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 14:29:34 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.0 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 14:29:34 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.0 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 14:43:12 | [tarantool-rails](https://rubygems.org/gems/tarantool-rails) | 0.3.0 | Starlexxx | MIT | config/tarantool.yml per environment, one connection pool per process, models o… |
+| 2026-10-18 14:45:06 | [ezacloud-sdk](https://rubygems.org/gems/ezacloud-sdk) | 0.2.0 | Eza Cloud | MIT | Zero-dependency Ruby client for Eza Cloud. Initiate M-Pesa STK pushes, send tra… |
+| 2026-10-18 14:47:02 | [monosmith](https://rubygems.org/gems/monosmith) | 1.23.1 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 15:14:19 | [midnight_ride](https://rubygems.org/gems/midnight_ride) | 0.1.1 | Dennis Hackethal | Nonstandard | Builds on Solid Errors: alerts about new errors, resolved ones that come back,… |
 
 ## Data source
 
