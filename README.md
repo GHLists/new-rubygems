@@ -9,15 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 22:20 UTC
+## Latest list — 2026-10-18 23:19 UTC
 
-New gems created between 2026-10-18 21:21 UTC and 2026-10-18 22:20 UTC.
+New gems created between 2026-10-18 22:20 UTC and 2026-10-18 23:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-18T22-20-03-312266Z.csv)
+[Full CSV](data/new-gems-2026-10-18T23-19-03-388931Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 21:29:10 | [perata-sdk](https://rubygems.org/gems/perata-sdk) | 0.1.1 | Peráta | MIT | Peráta's SDK for Ruby: products, customers, checkouts, payments, subscriptions… |
+| 2026-10-18 22:45:51 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.3 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 22:45:51 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.3 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 22:45:51 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.3 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 22:45:51 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.3 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 22:45:51 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.3 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
 
 ## Data source
 
