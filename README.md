@@ -9,22 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 00:20 UTC
+## Latest list — 2026-10-18 01:19 UTC
 
-New gems created between 2026-10-17 23:18 UTC and 2026-10-18 00:20 UTC.
+New gems created between 2026-10-18 00:20 UTC and 2026-10-18 01:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-18T00-20-42-59971Z.csv)
+[Full CSV](data/new-gems-2026-10-18T01-19-41-800616Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 00:07:04 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 00:07:04 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 00:07:04 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 00:07:04 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 00:07:04 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 00:07:50 | [booksmith](https://rubygems.org/gems/booksmith) | 1.0.0 | Leonid Medovyy | MIT | Converts Markdown chapters into a styled PDF or EPUB book using Prawn, GEPUB, a… |
-| 2026-10-18 00:16:56 | [verisec](https://rubygems.org/gems/verisec) | 1.0.0 | VeriSec Labs | MIT | Every VeriSec API as a method: faces, liveness, documents, MRZ, contact and ris… |
-| 2026-10-18 00:19:22 | [sendclipper](https://rubygems.org/gems/sendclipper) | 0.2.0 | SendClipper | MIT | Send mail, and manage domains, templates, sandboxes, webhooks, contacts and sup… |
+| 2026-10-18 00:44:25 | [monosmith](https://rubygems.org/gems/monosmith) | 1.13.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 00:44:25 | [monosmith](https://rubygems.org/gems/monosmith) | 1.13.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 00:44:25 | [monosmith](https://rubygems.org/gems/monosmith) | 1.13.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 00:44:25 | [monosmith](https://rubygems.org/gems/monosmith) | 1.13.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 00:44:25 | [monosmith](https://rubygems.org/gems/monosmith) | 1.13.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 00:44:25 | [monosmith](https://rubygems.org/gems/monosmith) | 1.13.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 00:44:25 | [monosmith](https://rubygems.org/gems/monosmith) | 1.13.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 00:44:25 | [monosmith](https://rubygems.org/gems/monosmith) | 1.13.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 00:58:01 | [ast-crispr-toml](https://rubygems.org/gems/ast-crispr-toml) | 7.1.12 | Peter H. Boling | AGPL-3.0-only; PolyForm-Small… | 🧬 TOML table and dotted-key-path selectors and edit helpers for ast-crispr, bac… |
 
 ## Data source
 
