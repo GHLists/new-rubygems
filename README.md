@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 21:21 UTC
+## Latest list — 2026-10-18 22:20 UTC
 
-New gems created between 2026-10-18 20:20 UTC and 2026-10-18 21:21 UTC.
+New gems created between 2026-10-18 21:21 UTC and 2026-10-18 22:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-18T21-21-12-382158Z.csv)
+[Full CSV](data/new-gems-2026-10-18T22-20-03-312266Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 20:48:00 | [visionary-sdk](https://rubygems.org/gems/visionary-sdk) | 0.4.0 | styropyr0 | Apache-2.0 | The Ruby collector for Visionary. A Rack middleware (with a Railtie for Rails)… |
+| 2026-10-18 21:29:10 | [perata-sdk](https://rubygems.org/gems/perata-sdk) | 0.1.1 | Peráta | MIT | Peráta's SDK for Ruby: products, customers, checkouts, payments, subscriptions… |
 
 ## Data source
 
