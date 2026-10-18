@@ -9,22 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 11:20 UTC
+## Latest list — 2026-10-18 12:19 UTC
 
-New gems created between 2026-10-18 10:20 UTC and 2026-10-18 11:20 UTC.
+New gems created between 2026-10-18 11:20 UTC and 2026-10-18 12:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-18T11-20-20-734582Z.csv)
+[Full CSV](data/new-gems-2026-10-18T12-19-18-365357Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 10:46:41 | [sequel-beagle-turso](https://rubygems.org/gems/sequel-beagle-turso) | 0.1.0 | BeagleSoftwareUK | MIT | A Sequel adapter (URL scheme beagle-turso://) that runs Sequel -- and ROM / Han… |
-| 2026-10-18 11:12:54 | [rails-datepicker](https://rubygems.org/gems/rails-datepicker) | 0.1.0 | Tamiru | MIT | A Rails 8 engine providing a Stimulus 3 and Tailwind CSS 4 datepicker with accu… |
-| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
-| 2026-10-18 11:14:53 | [orbitcast](https://rubygems.org/gems/orbitcast) | 0.3.3 | Abdelkader Boudih | BSD-3-Clause | Orbitcast serves the ActionCable JSON protocol from a separately supervised Rus… |
+| 2026-10-18 11:39:13 | [nakama](https://rubygems.org/gems/nakama) | 0.0.0 | Axel Gustav | MIT | Tenants, memberships with roles, invites and active-tenant switching as small m… |
+| 2026-10-18 11:42:52 | [monosmith](https://rubygems.org/gems/monosmith) | 1.21.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 11:42:52 | [monosmith](https://rubygems.org/gems/monosmith) | 1.21.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 11:42:52 | [monosmith](https://rubygems.org/gems/monosmith) | 1.21.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 11:42:52 | [monosmith](https://rubygems.org/gems/monosmith) | 1.21.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 11:42:52 | [monosmith](https://rubygems.org/gems/monosmith) | 1.21.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 11:42:52 | [monosmith](https://rubygems.org/gems/monosmith) | 1.21.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 11:42:52 | [monosmith](https://rubygems.org/gems/monosmith) | 1.21.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 11:42:52 | [monosmith](https://rubygems.org/gems/monosmith) | 1.21.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
 
 ## Data source
 
