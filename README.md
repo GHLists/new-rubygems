@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 04:19 UTC
+## Latest list — 2026-10-18 05:19 UTC
 
-New gems created between 2026-10-18 03:20 UTC and 2026-10-18 04:19 UTC.
+New gems created between 2026-10-18 04:19 UTC and 2026-10-18 05:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-18T04-19-24-452344Z.csv)
+[Full CSV](data/new-gems-2026-10-18T05-19-11-843975Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 03:33:20 | [midnight_ride](https://rubygems.org/gems/midnight_ride) | 0.1.0 | Dennis Hackethal | Nonstandard | Builds on Solid Errors: alerts about new errors, resolved ones that come back,… |
+| 2026-10-18 04:24:20 | [administrate-column_filters](https://rubygems.org/gems/administrate-column_filters) | 0.1.1 | Ignacio Coluccio | MIT | Builds a dashboard's COLLECTION_FILTERS from its ATTRIBUTE_TYPES: substring and… |
 
 ## Data source
 

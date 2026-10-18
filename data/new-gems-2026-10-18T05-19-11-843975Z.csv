@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-18T04:24:20.612Z,administrate-column_filters,0.1.1,69,Ignacio Coluccio,MIT,"Builds a dashboard's COLLECTION_FILTERS from its ATTRIBUTE_TYPES: substring and exact matching for text columns, comparisons and ranges for numbers and dates, and association ids, instead of one hand-written lambda per column."
