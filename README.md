@@ -9,20 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 17:20 UTC
+## Latest list — 2026-10-18 18:20 UTC
 
-New gems created between 2026-10-18 16:19 UTC and 2026-10-18 17:20 UTC.
+New gems created between 2026-10-18 17:20 UTC and 2026-10-18 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-18T17-20-05-365382Z.csv)
+[Full CSV](data/new-gems-2026-10-18T18-20-15-44821Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 16:29:47 | [smspool](https://rubygems.org/gems/smspool) | 0.1.1 | SMSPool | MIT | Official Ruby client for the SMSPool API (https://api.smspool.net/docs). |
-| 2026-10-18 16:41:49 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.1 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-18 16:41:49 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.1 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-18 16:41:49 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.1 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-18 16:41:49 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.1 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-18 16:41:49 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.1 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 18:11:45 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.2 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 18:11:45 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.2 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 18:11:45 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.2 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 18:11:45 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.2 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 18:11:45 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.2 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
 
 ## Data source
 
