@@ -9,19 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 18:20 UTC
+## Latest list — 2026-10-18 21:21 UTC
 
-New gems created between 2026-10-18 17:20 UTC and 2026-10-18 18:20 UTC.
+New gems created between 2026-10-18 20:20 UTC and 2026-10-18 21:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-18T18-20-15-44821Z.csv)
+[Full CSV](data/new-gems-2026-10-18T21-21-12-382158Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 18:11:45 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.2 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-18 18:11:45 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.2 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-18 18:11:45 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.2 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-18 18:11:45 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.2 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-18 18:11:45 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.2 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-18 20:48:00 | [visionary-sdk](https://rubygems.org/gems/visionary-sdk) | 0.4.0 | styropyr0 | Apache-2.0 | The Ruby collector for Visionary. A Rack middleware (with a Railtie for Rails)… |
 
 ## Data source
 

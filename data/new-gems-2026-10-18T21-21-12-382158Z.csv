@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-18T20:48:00.58Z,visionary-sdk,0.4.0,54,styropyr0,Apache-2.0,"The Ruby collector for Visionary. A Rack middleware (with a Railtie for Rails) writes one row per HTTP request, database and outbound HTTP spans, errors, deploy markers and periodic host/process samples to PostgreSQL, MySQL, SQLite or Cloudflare D1, on background threads."
