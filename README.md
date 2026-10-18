@@ -9,15 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 05:19 UTC
+## Latest list — 2026-10-18 06:20 UTC
 
-New gems created between 2026-10-18 04:19 UTC and 2026-10-18 05:19 UTC.
+New gems created between 2026-10-18 05:19 UTC and 2026-10-18 06:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-18T05-19-11-843975Z.csv)
+[Full CSV](data/new-gems-2026-10-18T06-20-23-728366Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 04:24:20 | [administrate-column_filters](https://rubygems.org/gems/administrate-column_filters) | 0.1.1 | Ignacio Coluccio | MIT | Builds a dashboard's COLLECTION_FILTERS from its ATTRIBUTE_TYPES: substring and… |
+| 2026-10-18 06:06:57 | [loomail](https://rubygems.org/gems/loomail) | 0.1.0 | Loomail | MIT | Zero-dependency Ruby client for Loomail's ingestion API, with retries, idempote… |
+| 2026-10-18 06:18:20 | [monosmith](https://rubygems.org/gems/monosmith) | 1.15.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 06:18:20 | [monosmith](https://rubygems.org/gems/monosmith) | 1.15.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 06:18:20 | [monosmith](https://rubygems.org/gems/monosmith) | 1.15.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 06:18:20 | [monosmith](https://rubygems.org/gems/monosmith) | 1.15.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 06:18:20 | [monosmith](https://rubygems.org/gems/monosmith) | 1.15.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 06:18:20 | [monosmith](https://rubygems.org/gems/monosmith) | 1.15.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 06:18:20 | [monosmith](https://rubygems.org/gems/monosmith) | 1.15.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
+| 2026-10-18 06:18:20 | [monosmith](https://rubygems.org/gems/monosmith) | 1.15.0 | monosmith | MIT | Runs a monorepo in Node, Go, Python, Rust, .NET, Ruby, PHP, C++, Dart, the JVM… |
 
 ## Data source
 
