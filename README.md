@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 16:20 UTC
+## Latest list — 2026-10-19 17:23 UTC
 
-New gems created between 2026-10-19 15:21 UTC and 2026-10-19 16:20 UTC.
+New gems created between 2026-10-19 16:20 UTC and 2026-10-19 17:23 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T16-20-52-447819Z.csv)
+[Full CSV](data/new-gems-2026-10-19T17-23-44-910817Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 15:22:20 | [habarico](https://rubygems.org/gems/habarico) | 7.2.0 | Matěj Outlý | MIT | With this library you can define a bunch of admin resources and connect it to a… |
-| 2026-10-19 15:25:58 | [active_record_pgnats](https://rubygems.org/gems/active_record_pgnats) | 1.0.0 | Nathan K | MIT | Adds methods to ActiveRecord::Migration to manage pgnats: its foreign server, i… |
-| 2026-10-19 15:26:05 | [active_record_pgnats-rails](https://rubygems.org/gems/active_record_pgnats-rails) | 1.0.0 | Nathan K | MIT | Hooks active_record_pgnats into Rails at the on_load :active_record moment and… |
-| 2026-10-19 15:55:12 | [intosql](https://rubygems.org/gems/intosql) | 0.2.0 | IntoSQL | MIT | Upload XLSX, XLS, ODS, CSV or JSON files and get SQL for PostgreSQL, MySQL, Mar… |
+| 2026-10-19 16:28:40 | [active_admin_filter_extensions](https://rubygems.org/gems/active_admin_filter_extensions) | 1.0.1 | Igor Fedoronchuk | MIT | Lets an Active Admin resource declare its index filter defaults and the policie… |
+| 2026-10-19 16:45:31 | [asterism-games](https://rubygems.org/gems/asterism-games) | 0.17.0 | Katsuhiko Kageyama | MIT | A framework for the server side of a game on an Asterism network: the host (tab… |
+| 2026-10-19 17:11:56 | [nbk2pdf](https://rubygems.org/gems/nbk2pdf) | 1.0.0 | Sergey Avseyev | GPL-3.0-or-later | Reads the `nbk` files a Kindle Scribe writes and renders them as vector PDFs, c… |
 
 ## Data source
 
