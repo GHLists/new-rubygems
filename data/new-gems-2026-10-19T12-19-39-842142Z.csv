@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-19T11:50:20.458Z,utilvo-pdf-merger,1.0.0,44,Utilvo,MIT,"Lightweight Ruby library for inspecting PDF binary headers, counting /Type /Page dictionary objects, validating xref tables, and merging multiple PDF byte streams."
+2026-10-19T12:14:15.654Z,twinshot,1.2.2,0,Oleg Orlov,MIT,"Save and compare screenshots of the functionality of other applications you want to copy end to end: compares a verified oracle tree against a current tree (structure check first, then per-file similarity through adapters — html by structure, txt by lines, png by pixels, binaries by bytes). Any unk…"
