@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 00:21 UTC
+## Latest list — 2026-10-19 01:21 UTC
 
-New gems created between 2026-10-18 23:19 UTC and 2026-10-19 00:21 UTC.
+New gems created between 2026-10-19 00:21 UTC and 2026-10-19 01:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T00-21-19-74093Z.csv)
+[Full CSV](data/new-gems-2026-10-19T01-21-02-653411Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-18 23:56:29 | [ruby_llm-browser](https://rubygems.org/gems/ruby_llm-browser) | 0.2.0 | Andy Wang | MIT | An unofficial community extension for RubyLLM. It adds policy-bound, read-only… |
-| 2026-10-19 00:00:59 | [jekyll-theme-writeon](https://rubygems.org/gems/jekyll-theme-writeon) | 0.1.0 | grisse | MIT | A minimal Jekyll theme for content-focused blogs — write first, design less. |
+| 2026-10-19 00:22:16 | [ruby_llm-ag_ui](https://rubygems.org/gems/ruby_llm-ag_ui) | 0.2.0 | Andy Wang | MIT | An unofficial RubyLLM ecosystem extension that turns one RubyLLM 2.x chat turn… |
+| 2026-10-19 01:13:56 | [loams](https://rubygems.org/gems/loams) | 0.1.0 | Ostrium Labs | Apache-2.0 | The Loams Ruby SDK. Pre-release: the API may change between previews; pin the e… |
 
 ## Data source
 
