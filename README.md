@@ -9,15 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 09:20 UTC
+## Latest list — 2026-10-19 10:20 UTC
 
-New gems created between 2026-10-19 08:21 UTC and 2026-10-19 09:20 UTC.
+New gems created between 2026-10-19 09:20 UTC and 2026-10-19 10:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T09-20-48-744998Z.csv)
+[Full CSV](data/new-gems-2026-10-19T10-20-18-13139Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 09:02:23 | [utilvo-shield-filters](https://rubygems.org/gems/utilvo-shield-filters) | 1.0.0 | Utilvo | MIT | Parses Adblock Plus 2.0 and uBlock Origin static network filter rules (\|\|domain… |
+| 2026-10-19 09:25:47 | [rails_tool_views](https://rubygems.org/gems/rails_tool_views) | 0.3.0 | Andy Wang | MIT | A Rails engine for strict component registration, scoped surfaces, durable acti… |
+| 2026-10-19 09:49:52 | [gopromotional-event-planner](https://rubygems.org/gems/gopromotional-event-planner) | 1.0.0 | GoPromotional | MIT | Plan an event or trade show from the command line or your code: a countdown, a… |
+| 2026-10-19 09:49:54 | [gopromotional-siplog](https://rubygems.org/gems/gopromotional-siplog) | 1.0.0 | GoPromotional | MIT | A small hydration tracker: estimate a daily water goal from weight, exercise an… |
+| 2026-10-19 09:49:55 | [gopromotional-packlist](https://rubygems.org/gems/gopromotional-packlist) | 1.0.0 | GoPromotional | MIT | Build a packing checklist from templates (work day, travel, trade show, gym), s… |
+| 2026-10-19 09:49:57 | [gopromotional-mugday](https://rubygems.org/gems/gopromotional-mugday) | 1.0.0 | GoPromotional | MIT | Log coffee, tea and other drinks with typical caffeine values, compare the day'… |
 
 ## Data source
 
