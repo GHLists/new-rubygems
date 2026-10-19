@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 18:20 UTC
+## Latest list — 2026-10-19 19:19 UTC
 
-New gems created between 2026-10-19 17:23 UTC and 2026-10-19 18:20 UTC.
+New gems created between 2026-10-19 18:20 UTC and 2026-10-19 19:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T18-20-36-487511Z.csv)
+[Full CSV](data/new-gems-2026-10-19T19-19-15-437534Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 17:41:37 | [active_admin_filter_extensions](https://rubygems.org/gems/active_admin_filter_extensions) | 1.1.0 | Igor Fedoronchuk | MIT | Lets an Active Admin resource declare its index filter defaults and the policie… |
+| 2026-10-19 19:08:39 | [microsoft_kiota_serialization_text](https://rubygems.org/gems/microsoft_kiota_serialization_text) | 0.25.0 | Microsoft Corporation | MIT | Implementation of Kiota Serialization interfaces for text |
+| 2026-10-19 19:08:51 | [microsoft_kiota_serialization_multipart](https://rubygems.org/gems/microsoft_kiota_serialization_multipart) | 0.25.0 | Microsoft Corporation | MIT | Implementation of Kiota Serialization interfaces for multipart form data |
+| 2026-10-19 19:09:06 | [microsoft_kiota_serialization_form](https://rubygems.org/gems/microsoft_kiota_serialization_form) | 0.25.0 | Microsoft Corporation | MIT | Implementation of Kiota Serialization interfaces for URL-encoded forms |
+| 2026-10-19 19:14:56 | [proto_service_mesh](https://rubygems.org/gems/proto_service_mesh) | 0.18.0 | Bryant Morrill, Paymentbox | MIT | Ruby library for the Proto Service Mesh API |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-19T19:08:39.719Z,microsoft_kiota_serialization_text,0.25.0,11,Microsoft Corporation,MIT,Implementation of Kiota Serialization interfaces for text
+2026-10-19T19:08:51.103Z,microsoft_kiota_serialization_multipart,0.25.0,10,Microsoft Corporation,MIT,Implementation of Kiota Serialization interfaces for multipart form data
+2026-10-19T19:09:06.454Z,microsoft_kiota_serialization_form,0.25.0,8,Microsoft Corporation,MIT,Implementation of Kiota Serialization interfaces for URL-encoded forms
+2026-10-19T19:14:56.252Z,proto_service_mesh,0.18.0,0,"Bryant Morrill, Paymentbox",MIT,Ruby library for the Proto Service Mesh API
