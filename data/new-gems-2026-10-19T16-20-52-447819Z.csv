@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-19T15:22:20.251Z,habarico,7.2.0,76,Matěj Outlý,MIT,With this library you can define a bunch of admin resources and connect it to a Habarico frontend to automatically generate an admin user interface.
+2026-10-19T15:25:58.597Z,active_record_pgnats,1.0.0,79,Nathan K,MIT,"Adds methods to ActiveRecord::Migration to manage pgnats: its foreign server, its subject subscriptions, and triggers that publish row changes to NATS. Active Record only -- Rails support lives in the sibling active_record_pgnats-rails gem."
+2026-10-19T15:26:05.21Z,active_record_pgnats-rails,1.0.0,74,Nathan K,MIT,"Hooks active_record_pgnats into Rails at the on_load :active_record moment and adds generators for the migrations: the pgnats foreign server, a subject subscription, and a trigger publishing a table's row changes."
+2026-10-19T15:55:12.172Z,intosql,0.2.0,76,IntoSQL,MIT,"Upload XLSX, XLS, ODS, CSV or JSON files and get SQL for PostgreSQL, MySQL, MariaDB, SQLite, SQL Server or Oracle back from the IntoSQL API, with webhook verification."
