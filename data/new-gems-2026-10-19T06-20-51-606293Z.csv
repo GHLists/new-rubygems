@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-19T06:01:40.913Z,config-merge,7.1.13,27,Peter H. Boling,AGPL-3.0-only; PolyForm-Small-Business-1.0.0,🔧 Three-way configuration merging with declared per-format policies and named normalizers.
+2026-10-19T06:05:16.483Z,visionary-sdk,0.5.1,19,styropyr0,Apache-2.0,"The Ruby collector for Visionary. A Rack middleware (with a Railtie for Rails) writes one row per HTTP request, database and outbound HTTP spans, errors, deploy markers and periodic host/process samples to PostgreSQL, MySQL, SQLite or Cloudflare D1, on background threads."
+2026-10-19T06:09:53.884Z,vesper-rails,0.1.0,4,Yasumasa Ashida,MIT,Vesper Rails

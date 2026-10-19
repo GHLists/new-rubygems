@@ -9,22 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 05:20 UTC
+## Latest list — 2026-10-19 06:20 UTC
 
-New gems created between 2026-10-19 04:19 UTC and 2026-10-19 05:20 UTC.
+New gems created between 2026-10-19 05:20 UTC and 2026-10-19 06:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T05-20-29-720764Z.csv)
+[Full CSV](data/new-gems-2026-10-19T06-20-51-606293Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 04:31:59 | [scanandpay](https://rubygems.org/gems/scanandpay) | 0.0.1 | Scan & Pay | Apache-2.0 | Official Scan & Pay Ruby SDK: accept PayTo PayID payments with QR code-based in… |
-| 2026-10-19 04:35:28 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.6 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-19 04:35:28 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.6 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-19 04:35:28 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.6 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-19 04:35:28 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.6 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-19 04:35:28 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.6 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-19 04:55:13 | [jekyll-theme-writeon](https://rubygems.org/gems/jekyll-theme-writeon) | 1.0.0 | grisse | MIT | A minimal Jekyll theme for content-focused blogs — write first, design less. |
-| 2026-10-19 05:12:52 | [endor-firewall-test](https://rubygems.org/gems/endor-firewall-test) | 1.0.0 | Mahesh Kete | MIT | Test package |
+| 2026-10-19 06:01:40 | [config-merge](https://rubygems.org/gems/config-merge) | 7.1.13 | Peter H. Boling | AGPL-3.0-only; PolyForm-Small… | 🔧 Three-way configuration merging with declared per-format policies and named n… |
+| 2026-10-19 06:05:16 | [visionary-sdk](https://rubygems.org/gems/visionary-sdk) | 0.5.1 | styropyr0 | Apache-2.0 | The Ruby collector for Visionary. A Rack middleware (with a Railtie for Rails)… |
+| 2026-10-19 06:09:53 | [vesper-rails](https://rubygems.org/gems/vesper-rails) | 0.1.0 | Yasumasa Ashida | MIT | Vesper Rails |
 
 ## Data source
 
