@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 13:21 UTC
+## Latest list — 2026-10-19 14:22 UTC
 
-New gems created between 2026-10-19 12:19 UTC and 2026-10-19 13:21 UTC.
+New gems created between 2026-10-19 13:21 UTC and 2026-10-19 14:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T13-21-31-745372Z.csv)
+[Full CSV](data/new-gems-2026-10-19T14-22-21-795272Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 12:39:37 | [ruby_llm-browser](https://rubygems.org/gems/ruby_llm-browser) | 0.3.0 | Andy Wang | MIT | An unofficial community extension for RubyLLM. It adds policy-bound, read-only… |
+| 2026-10-19 14:11:39 | [codemail](https://rubygems.org/gems/codemail) | 0.1.0 | Codemail | MIT | Cliente oficial da API do Transacional da Codemail, com idempotência automática… |
 
 ## Data source
 

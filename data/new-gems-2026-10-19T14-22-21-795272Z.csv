@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-19T14:11:39.188Z,codemail,0.1.0,16,Codemail,MIT,"Cliente oficial da API do Transacional da Codemail, com idempotência automática, retentativas e erros tipados."
