@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-19T09:02:23.964Z,utilvo-shield-filters,1.0.0,31,Utilvo,MIT,Parses Adblock Plus 2.0 and uBlock Origin static network filter rules (||domain^$third-party) and matches hostnames against domain blocklists.

@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 08:21 UTC
+## Latest list — 2026-10-19 09:20 UTC
 
-New gems created between 2026-10-19 07:19 UTC and 2026-10-19 08:21 UTC.
+New gems created between 2026-10-19 08:21 UTC and 2026-10-19 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T08-21-41-615442Z.csv)
+[Full CSV](data/new-gems-2026-10-19T09-20-48-744998Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 07:39:41 | [zard-rigor](https://rubygems.org/gems/zard-rigor) | 0.0.2 | USAMI Kenta | MPL-2.0 | Experimental Rigor lens adapter for ZARD documentation |
-| 2026-10-19 07:57:20 | [kompressr-sdk](https://rubygems.org/gems/kompressr-sdk) | 0.1.0 | Kompressr | MIT | Upload, wait for processing, sign private links and manage scoped identities us… |
-| 2026-10-19 08:13:35 | [ast-crispr-toml](https://rubygems.org/gems/ast-crispr-toml) | 7.1.13 | Peter H. Boling | AGPL-3.0-only; PolyForm-Small… | 🧬 TOML table and dotted-key-path selectors and edit helpers for ast-crispr, bac… |
+| 2026-10-19 09:02:23 | [utilvo-shield-filters](https://rubygems.org/gems/utilvo-shield-filters) | 1.0.0 | Utilvo | MIT | Parses Adblock Plus 2.0 and uBlock Origin static network filter rules (\|\|domain… |
 
 ## Data source
 
