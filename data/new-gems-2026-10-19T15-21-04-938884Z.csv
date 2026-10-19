@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-19T15:07:18.055Z,typeid_rails,0.1.0,12,Sorah Fukumori,MIT,"Renders a 128-bit UUID as a TypeID, a short type-tagged string such as ""user_2n1t201rmv87aae5j4csam8000"", and parses it back. Includes an ActiveRecord attribute type and an optional deterministic SHAKE128 derivation."

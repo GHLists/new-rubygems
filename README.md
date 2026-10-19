@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 14:22 UTC
+## Latest list — 2026-10-19 15:21 UTC
 
-New gems created between 2026-10-19 13:21 UTC and 2026-10-19 14:22 UTC.
+New gems created between 2026-10-19 14:22 UTC and 2026-10-19 15:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T14-22-21-795272Z.csv)
+[Full CSV](data/new-gems-2026-10-19T15-21-04-938884Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 14:11:39 | [codemail](https://rubygems.org/gems/codemail) | 0.1.0 | Codemail | MIT | Cliente oficial da API do Transacional da Codemail, com idempotência automática… |
+| 2026-10-19 15:07:18 | [typeid_rails](https://rubygems.org/gems/typeid_rails) | 0.1.0 | Sorah Fukumori | MIT | Renders a 128-bit UUID as a TypeID, a short type-tagged string such as "user_2n… |
 
 ## Data source
 
