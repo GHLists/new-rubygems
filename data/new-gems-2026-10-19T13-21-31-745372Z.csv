@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-19T12:39:37.485Z,ruby_llm-browser,0.3.0,83,Andy Wang,MIT,"An unofficial community extension for RubyLLM. It adds policy-bound, read-only browser Inspect and Extract tools with an offline FakeBackend. The Stagehand Ruby SDK adapter is present but unsupported for live operations until provider egress and cleanup are qualified. The first release also include…"

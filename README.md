@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 12:19 UTC
+## Latest list — 2026-10-19 13:21 UTC
 
-New gems created between 2026-10-19 11:23 UTC and 2026-10-19 12:19 UTC.
+New gems created between 2026-10-19 12:19 UTC and 2026-10-19 13:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T12-19-39-842142Z.csv)
+[Full CSV](data/new-gems-2026-10-19T13-21-31-745372Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 11:50:20 | [utilvo-pdf-merger](https://rubygems.org/gems/utilvo-pdf-merger) | 1.0.0 | Utilvo | MIT | Lightweight Ruby library for inspecting PDF binary headers, counting /Type /Pag… |
-| 2026-10-19 12:14:15 | [twinshot](https://rubygems.org/gems/twinshot) | 1.2.2 | Oleg Orlov | MIT | Save and compare screenshots of the functionality of other applications you wan… |
+| 2026-10-19 12:39:37 | [ruby_llm-browser](https://rubygems.org/gems/ruby_llm-browser) | 0.3.0 | Andy Wang | MIT | An unofficial community extension for RubyLLM. It adds policy-bound, read-only… |
 
 ## Data source
 
