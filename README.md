@@ -9,23 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 20:21 UTC
+## Latest list — 2026-10-19 21:19 UTC
 
-New gems created between 2026-10-19 19:19 UTC and 2026-10-19 20:21 UTC.
+New gems created between 2026-10-19 20:21 UTC and 2026-10-19 21:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T20-21-01-365973Z.csv)
+[Full CSV](data/new-gems-2026-10-19T21-19-29-063609Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 19:30:50 | [carejobs](https://rubygems.org/gems/carejobs) | 1.0.0 | CareJobs.Now | MIT | Search open US healthcare jobs, see the hourly pay employers post, and look up… |
-| 2026-10-19 20:06:15 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 20:06:15 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 20:06:15 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 20:06:15 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 20:06:15 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 20:06:15 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 20:06:15 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 20:06:15 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.1 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
+| 2026-10-19 21:00:14 | [proto_service_mesh](https://rubygems.org/gems/proto_service_mesh) | 0.19.0 | Bryant Morrill, Paymentbox | MIT | Ruby library for the Proto Service Mesh API |
 
 ## Data source
 
