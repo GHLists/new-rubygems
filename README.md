@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 17:23 UTC
+## Latest list — 2026-10-19 18:20 UTC
 
-New gems created between 2026-10-19 16:20 UTC and 2026-10-19 17:23 UTC.
+New gems created between 2026-10-19 17:23 UTC and 2026-10-19 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T17-23-44-910817Z.csv)
+[Full CSV](data/new-gems-2026-10-19T18-20-36-487511Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 16:28:40 | [active_admin_filter_extensions](https://rubygems.org/gems/active_admin_filter_extensions) | 1.0.1 | Igor Fedoronchuk | MIT | Lets an Active Admin resource declare its index filter defaults and the policie… |
-| 2026-10-19 16:45:31 | [asterism-games](https://rubygems.org/gems/asterism-games) | 0.17.0 | Katsuhiko Kageyama | MIT | A framework for the server side of a game on an Asterism network: the host (tab… |
-| 2026-10-19 17:11:56 | [nbk2pdf](https://rubygems.org/gems/nbk2pdf) | 1.0.0 | Sergey Avseyev | GPL-3.0-or-later | Reads the `nbk` files a Kindle Scribe writes and renders them as vector PDFs, c… |
+| 2026-10-19 17:41:37 | [active_admin_filter_extensions](https://rubygems.org/gems/active_admin_filter_extensions) | 1.1.0 | Igor Fedoronchuk | MIT | Lets an Active Admin resource declare its index filter defaults and the policie… |
 
 ## Data source
 

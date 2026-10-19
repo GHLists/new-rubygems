@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-19T17:41:37.303Z,active_admin_filter_extensions,1.1.0,62,Igor Fedoronchuk,MIT,"Lets an Active Admin resource declare its index filter defaults and the policies that guard them - required windows, range caps, sanitizers and validators - and a :redirect mode that spells the effective filters into the URL."
