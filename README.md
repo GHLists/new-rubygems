@@ -9,19 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 03:19 UTC
+## Latest list — 2026-10-19 04:19 UTC
 
-New gems created between 2026-10-19 02:19 UTC and 2026-10-19 03:19 UTC.
+New gems created between 2026-10-19 03:19 UTC and 2026-10-19 04:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T03-19-04-204281Z.csv)
+[Full CSV](data/new-gems-2026-10-19T04-19-29-150681Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 03:12:40 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.5 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-19 03:12:40 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.5 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-19 03:12:40 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.5 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-19 03:12:40 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.5 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
-| 2026-10-19 03:12:40 | [mini_racer_rs](https://rubygems.org/gems/mini_racer_rs) | 1.0.5 | Andy Aragon | MIT | mini_racer_rs provides the same MiniRacer Ruby API as mini_racer 0.22.1 using R… |
+| 2026-10-19 03:59:48 | [spree_notification_providers](https://rubygems.org/gems/spree_notification_providers) | 0.1.0 | ONTODI | BSD-3-Clause | Lets each store configure Email, SMS and WhatsApp providers (MSG91, SMTP, Gupsh… |
+| 2026-10-19 04:00:04 | [spree_otp_auth](https://rubygems.org/gems/spree_otp_auth) | 0.2.0 | ONTODI | BSD-3-Clause | Provides mandatory login-gated checkout, passwordless customer authentication o… |
 
 ## Data source
 
