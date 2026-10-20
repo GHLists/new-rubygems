@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-20T16:30:42.372Z,activestorage-multi_node_disk,0.1.0,58,Ajaya Agrawalla,MIT,"Stores each file on the disk of the node that received it. Any node can read, check or delete it: the service looks on its own disk first, then asks the other nodes. No database needed."
+2026-10-20T16:32:37.678Z,tsrs,0.0.0,61,Marco Roth,MIT,Placeholder release reserving the name. The first real release follows from https://github.com/marcoroth/tsrs-ruby.
+2026-10-20T16:36:19.684Z,utilvo-edge-shield,1.1.0,58,Utilvo,MIT,"Open-source server firewall generator, CIDR/ASN threat intelligence feed (AS132203, AS45102, AS136907), Safe-Harbor bot classifier, and GA4 headless bot detector."
