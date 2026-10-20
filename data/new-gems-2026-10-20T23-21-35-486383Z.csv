@@ -1,0 +1,10 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-20T22:26:01.444Z,calmlens,0.1.1,58,CalmLens,MIT,"Server-side client for the CalmLens API: moderation, uploads, events, webhooks and CDN delivery."
+2026-10-20T22:34:07.745Z,sqrl-core,0.1.1,91,Daniel P. Clark,MIT,"A complete implementation of Steve Gibson's SQRL authentication protocol: EnScrypt, EnHash, the identity lock, S4 identity storage, the textual identity format, the client transaction state machine and a server-side protocol handler."
+2026-10-20T22:34:09.203Z,sqrl-rack,0.1.1,76,Daniel P. Clark,MIT,"Rack middleware serving the SQRL endpoint, status poll and CPS callback, a Sinatra extension with view helpers, the browser-side script and QR code rendering."
+2026-10-20T22:34:10.575Z,omniauth-sqrl,0.1.1,63,Daniel P. Clark,MIT,OmniAuth strategy for SQRL login
+2026-10-20T22:34:12.534Z,sqrl-rails,0.1.1,66,Daniel P. Clark,MIT,"SQRL login for Rails: engine, generator, ActiveRecord stores and Rails 8 Authentication support"
+2026-10-20T22:34:14.087Z,devise-sqrl,0.1.1,61,Daniel P. Clark,MIT,Devise module adding SQRL login (devise :sqrl_authenticatable)
+2026-10-20T22:34:15.448Z,sqrl-client,0.1.1,64,Daniel P. Clark,MIT,"Identity management, the full SQRL command set, CPS handoff, login-page discovery, a Capybara helper, a CLI and a server conformance suite."
+2026-10-20T22:47:17.96Z,ace-coworker,0.6.1,52,Michal Czyz,MIT,"ace-coworker composes the existing ace-assign lifecycle, ace-task ref resolution, and ace-hitl reporting for a prepared executor role. It owns the .ace-local/coworker/ run configuration and renders the executor brief."
+2026-10-20T23:21:35.258Z,synthient,1.0.0,0,Synthient,Apache-2.0,"IP and domain intelligence, account details, and real-time and bulk data feeds from the Synthient API."
