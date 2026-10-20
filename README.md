@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 09:20 UTC
+## Latest list — 2026-10-20 10:21 UTC
 
-New gems created between 2026-10-20 08:21 UTC and 2026-10-20 09:20 UTC.
+New gems created between 2026-10-20 09:20 UTC and 2026-10-20 10:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-20T09-20-11-720705Z.csv)
+[Full CSV](data/new-gems-2026-10-20T10-21-55-844949Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-20 08:57:49 | [shapelessai](https://rubygems.org/gems/shapelessai) | 0.1.0 | ShapelessAI | MIT | List connected social accounts, schedule, publish and cancel posts through the… |
-| 2026-10-20 09:04:14 | [durable_agent](https://rubygems.org/gems/durable_agent) | 0.1.0 | Mikkel Malmberg | MIT | Crash-safe, resumable agent conversations for Rails. Ships the pi-durable runti… |
-| 2026-10-20 09:14:02 | [rspec-core-parallel](https://rubygems.org/gems/rspec-core-parallel) | 0.1.0 | Alessandro Rodi | MIT | Adds `rspec --parallel` to rspec-core 3.13: the suite is loaded once, forked in… |
+| 2026-10-20 09:57:27 | [sendcloud_api](https://rubygems.org/gems/sendcloud_api) | 0.1.0 | PostCo | MIT | A small, explicit Ruby client for Sendcloud API v3 reads and writes, without au… |
 
 ## Data source
 
