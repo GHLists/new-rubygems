@@ -9,22 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 18:22 UTC
+## Latest list — 2026-10-20 19:22 UTC
 
-New gems created between 2026-10-20 17:19 UTC and 2026-10-20 18:22 UTC.
+New gems created between 2026-10-20 18:22 UTC and 2026-10-20 19:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-20T18-22-36-537363Z.csv)
+[Full CSV](data/new-gems-2026-10-20T19-22-14-591076Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-20 17:33:28 | [tsrs](https://rubygems.org/gems/tsrs) | 0.18.0 | Marco Roth | MIT; Apache-2.0 | Ruby bindings for tsrs, a drop-in replacement for the TypeScript 7 compiler and… |
-| 2026-10-20 17:33:28 | [tsrs](https://rubygems.org/gems/tsrs) | 0.18.0 | Marco Roth | MIT; Apache-2.0 | Ruby bindings for tsrs, a drop-in replacement for the TypeScript 7 compiler and… |
-| 2026-10-20 17:33:28 | [tsrs](https://rubygems.org/gems/tsrs) | 0.18.0 | Marco Roth | MIT; Apache-2.0 | Ruby bindings for tsrs, a drop-in replacement for the TypeScript 7 compiler and… |
-| 2026-10-20 17:33:28 | [tsrs](https://rubygems.org/gems/tsrs) | 0.18.0 | Marco Roth | MIT; Apache-2.0 | Ruby bindings for tsrs, a drop-in replacement for the TypeScript 7 compiler and… |
-| 2026-10-20 17:33:28 | [tsrs](https://rubygems.org/gems/tsrs) | 0.18.0 | Marco Roth | MIT; Apache-2.0 | Ruby bindings for tsrs, a drop-in replacement for the TypeScript 7 compiler and… |
-| 2026-10-20 17:33:28 | [tsrs](https://rubygems.org/gems/tsrs) | 0.18.0 | Marco Roth | MIT; Apache-2.0 | Ruby bindings for tsrs, a drop-in replacement for the TypeScript 7 compiler and… |
-| 2026-10-20 17:33:28 | [tsrs](https://rubygems.org/gems/tsrs) | 0.18.0 | Marco Roth | MIT; Apache-2.0 | Ruby bindings for tsrs, a drop-in replacement for the TypeScript 7 compiler and… |
-| 2026-10-20 17:37:28 | [querylane](https://rubygems.org/gems/querylane) | 0.1.0 | Ajaya Agrawalla | MIT | A Rails engine: server-parsed query language, interpretation chips, disjunctive… |
+| 2026-10-20 18:57:39 | [utilvo-apache-shield](https://rubygems.org/gems/utilvo-apache-shield) | 1.1.0 | Utilvo | MIT | Apache 2.4 mod_authz_core CIDR radix-tree, mod_remoteip & .htaccess cloud scrap… |
 
 ## Data source
 

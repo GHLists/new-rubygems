@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-20T18:57:39.17Z,utilvo-apache-shield,1.1.0,38,Utilvo,MIT,"Apache 2.4 mod_authz_core CIDR radix-tree, mod_remoteip & .htaccess cloud scraper firewall powered by Utilvo EdgeShield."
