@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-20T05:30:37.846Z,gemtris,1.0.0,76,TacoMilitary,,"Using the keys on your keyboard, manipulate a falling shape within a grid of cells in turn-based gameplay. Try to play for as long as possible without touching the top of the grid."
+2026-10-20T06:01:46.507Z,config-merge,7.1.14,40,Peter H. Boling,AGPL-3.0-only; PolyForm-Small-Business-1.0.0,🔧 Three-way configuration merging with declared per-format policies and named normalizers.
+2026-10-20T06:10:56.143Z,ast-crispr-yaml-psych,7.1.14,12,Peter H. Boling,AGPL-3.0-only; PolyForm-Small-Business-1.0.0,🧬 YAML structural owner selectors and edit helpers for ast-crispr.
