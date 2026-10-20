@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 20:22 UTC
+## Latest list — 2026-10-20 21:19 UTC
 
-New gems created between 2026-10-20 19:22 UTC and 2026-10-20 20:22 UTC.
+New gems created between 2026-10-20 20:22 UTC and 2026-10-20 21:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-20T20-22-23-581685Z.csv)
+[Full CSV](data/new-gems-2026-10-20T21-19-13-729049Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-20 20:13:30 | [proctolog](https://rubygems.org/gems/proctolog) | 0.1.1 | Gill Abarbanel |  | Runs on your Mac, reads the pull requests from GitHub, and walks you through ev… |
+| 2026-10-20 21:03:22 | [hailer](https://rubygems.org/gems/hailer) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A thin ActionMailer adapter for the standalone Hailer Rust service. Rails rende… |
+| 2026-10-20 21:03:22 | [hailer](https://rubygems.org/gems/hailer) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A thin ActionMailer adapter for the standalone Hailer Rust service. Rails rende… |
+| 2026-10-20 21:03:22 | [hailer](https://rubygems.org/gems/hailer) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A thin ActionMailer adapter for the standalone Hailer Rust service. Rails rende… |
+| 2026-10-20 21:03:22 | [hailer](https://rubygems.org/gems/hailer) | 0.1.0 | Abdelkader Boudih | BSD-3-Clause | A thin ActionMailer adapter for the standalone Hailer Rust service. Rails rende… |
 
 ## Data source
 
