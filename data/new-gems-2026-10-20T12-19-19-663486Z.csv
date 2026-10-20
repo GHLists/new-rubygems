@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-20T11:21:46.625Z,asterism-games,0.19.1,78,Katsuhiko Kageyama,MIT,"A framework for the server side of a game on an Asterism network: the host (tables exposed as Asterism objects, the state put and saved, who is there, time), the rooms of an Asterism console and the permanent tables next to them. A game subclasses AsterismGames::Game and AsterismGames::Remote and w…"
+2026-10-20T11:48:44.969Z,b4n1-web,0.16.0,46,Bani Montoya,BUSL-1.1,Ultra-lightweight headless browser with bundled binary for AI agents. Supports Light/JS/Render modes.
+2026-10-20T12:13:22.131Z,unione,1.1.3,0,UniOne,MIT,UniOne Web API client library for Ruby
+2026-10-20T12:13:33.406Z,unione-rails,1.1.3,0,UniOne,MIT,"UniOne Web API for Rails: API client, Action Mailer delivery method, webhooks"
+2026-10-20T12:16:15.454Z,rspec-core-parallel,0.2.0,0,Alessandro Rodi,MIT,"Adds `rspec --parallel` to rspec-core 3.13: the suite is loaded once, forked into one worker per CPU core, and groups are handed out longest first using the run times of the previous run. Formatters, --only-failures, --bisect and exit codes work as in a sequential run. Rails apps get a test databas…"
+2026-10-20T12:16:22.193Z,license_manager,0.1.0,0,LicenseManager,Unlicense,Ruby client for the LicenseManager API: products
