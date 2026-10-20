@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 00:22 UTC
+## Latest list — 2026-10-20 01:19 UTC
 
-New gems created between 2026-10-19 23:21 UTC and 2026-10-20 00:22 UTC.
+New gems created between 2026-10-20 00:22 UTC and 2026-10-20 01:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-20T00-22-04-002711Z.csv)
+[Full CSV](data/new-gems-2026-10-20T01-19-17-753968Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-20 00:13:23 | [intosql](https://rubygems.org/gems/intosql) | 0.2.1 | IntoSQL | MIT | Upload XLSX, XLS, ODS, CSV or JSON files and get SQL for PostgreSQL, MySQL, Mar… |
+| 2026-10-20 00:38:23 | [verifyanything](https://rubygems.org/gems/verifyanything) | 0.1.0 | OpenVerify contributors | MIT | VerifyAnything DRAFT VCP and Provider Contract wire SDK |
+| 2026-10-20 00:42:31 | [chime-egress-throttler](https://rubygems.org/gems/chime-egress-throttler) | 0.0.1 | X | MIT | This rubygem does not have a description or summary. |
 
 ## Data source
 
