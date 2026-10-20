@@ -9,23 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 23:21 UTC
+## Latest list — 2026-10-20 00:22 UTC
 
-New gems created between 2026-10-19 22:19 UTC and 2026-10-19 23:21 UTC.
+New gems created between 2026-10-19 23:21 UTC and 2026-10-20 00:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-19T23-21-23-096068Z.csv)
+[Full CSV](data/new-gems-2026-10-20T00-22-04-002711Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-19 22:25:36 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 22:25:36 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 22:25:36 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 22:25:36 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 22:25:36 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 22:25:36 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 22:25:36 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 22:25:36 | [stampeded](https://rubygems.org/gems/stampeded) | 0.3.2 | Abdelkader Boudih | BSD-3-Clause | Rails integration for Stampeded: an ActiveJob adapter, a worker that executes j… |
-| 2026-10-19 23:11:10 | [asterism-games](https://rubygems.org/gems/asterism-games) | 0.17.1 | Katsuhiko Kageyama | MIT | A framework for the server side of a game on an Asterism network: the host (tab… |
+| 2026-10-20 00:13:23 | [intosql](https://rubygems.org/gems/intosql) | 0.2.1 | IntoSQL | MIT | Upload XLSX, XLS, ODS, CSV or JSON files and get SQL for PostgreSQL, MySQL, Mar… |
 
 ## Data source
 
