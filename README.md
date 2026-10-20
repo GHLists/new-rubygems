@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 06:22 UTC
+## Latest list — 2026-10-20 09:20 UTC
 
-New gems created between 2026-10-20 05:20 UTC and 2026-10-20 06:22 UTC.
+New gems created between 2026-10-20 08:21 UTC and 2026-10-20 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-20T06-22-35-70028Z.csv)
+[Full CSV](data/new-gems-2026-10-20T09-20-11-720705Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-20 05:30:37 | [gemtris](https://rubygems.org/gems/gemtris) | 1.0.0 | TacoMilitary |  | Using the keys on your keyboard, manipulate a falling shape within a grid of ce… |
-| 2026-10-20 06:01:46 | [config-merge](https://rubygems.org/gems/config-merge) | 7.1.14 | Peter H. Boling | AGPL-3.0-only; PolyForm-Small… | 🔧 Three-way configuration merging with declared per-format policies and named n… |
-| 2026-10-20 06:10:56 | [ast-crispr-yaml-psych](https://rubygems.org/gems/ast-crispr-yaml-psych) | 7.1.14 | Peter H. Boling | AGPL-3.0-only; PolyForm-Small… | 🧬 YAML structural owner selectors and edit helpers for ast-crispr. |
+| 2026-10-20 08:57:49 | [shapelessai](https://rubygems.org/gems/shapelessai) | 0.1.0 | ShapelessAI | MIT | List connected social accounts, schedule, publish and cancel posts through the… |
+| 2026-10-20 09:04:14 | [durable_agent](https://rubygems.org/gems/durable_agent) | 0.1.0 | Mikkel Malmberg | MIT | Crash-safe, resumable agent conversations for Rails. Ships the pi-durable runti… |
+| 2026-10-20 09:14:02 | [rspec-core-parallel](https://rubygems.org/gems/rspec-core-parallel) | 0.1.0 | Alessandro Rodi | MIT | Adds `rspec --parallel` to rspec-core 3.13: the suite is loaded once, forked in… |
 
 ## Data source
 
