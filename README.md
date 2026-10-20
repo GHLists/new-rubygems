@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 10:21 UTC
+## Latest list — 2026-10-20 11:19 UTC
 
-New gems created between 2026-10-20 09:20 UTC and 2026-10-20 10:21 UTC.
+New gems created between 2026-10-20 10:21 UTC and 2026-10-20 11:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-20T10-21-55-844949Z.csv)
+[Full CSV](data/new-gems-2026-10-20T11-19-13-511334Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-20 09:57:27 | [sendcloud_api](https://rubygems.org/gems/sendcloud_api) | 0.1.0 | PostCo | MIT | A small, explicit Ruby client for Sendcloud API v3 reads and writes, without au… |
+| 2026-10-20 10:35:30 | [privatus-analytics-rails](https://rubygems.org/gems/privatus-analytics-rails) | 1.0.0 | Two Phase LLC | MIT | Adds the Privatus Analytics tracking script to your Rails views with a helper o… |
 
 ## Data source
 

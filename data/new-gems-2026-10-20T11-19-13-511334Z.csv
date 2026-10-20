@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-20T10:35:30.703Z,privatus-analytics-rails,1.0.0,55,Two Phase LLC,MIT,"Adds the Privatus Analytics tracking script to your Rails views with a helper or an optional Rack middleware. The script sets no cookies, so analytics does not need a consent banner by itself."
