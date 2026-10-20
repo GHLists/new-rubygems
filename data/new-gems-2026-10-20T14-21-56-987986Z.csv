@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-20T13:38:55.23Z,rspec-core-parallel,0.4.0,103,Alessandro Rodi,MIT,"Adds `rspec --parallel` to rspec-core 3.13: the suite is loaded once, forked into one worker per CPU core, and groups are handed out longest first using the run times of the previous run. Formatters, --only-failures, --bisect and exit codes work as in a sequential run. Rails apps get a test databas…"
+2026-10-20T13:46:34.737Z,turbodocx-sdk,0.9.0,46,TurboDocx,MIT,"Official Ruby SDK for TurboDocx — digital signatures (TurboSign), partner management (TurboPartner), quoting/CPQ (TurboQuote), document generation (Deliverable), and signature webhooks (TurboWebhooks)."
+2026-10-20T14:17:17.568Z,license_manager,0.1.1,1,LicenseManager,Unlicense,"Ruby client for the LicenseManager API: products, policies, customers, licenses, machines and releases."
+2026-10-20T14:20:49.045Z,ace-coworker,0.6.0,0,Michal Czyz,MIT,"ace-coworker composes the existing ace-assign lifecycle, ace-task ref resolution, and ace-hitl reporting for a prepared executor role. It owns the .ace-local/coworker/ run configuration and renders the executor brief."
