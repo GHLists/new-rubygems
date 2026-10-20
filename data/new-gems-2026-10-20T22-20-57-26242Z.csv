@@ -1,0 +1,10 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-20T21:48:35.812Z,rubocop-spellcheck,0.1.0,54,Daniel (dB.) Doubrovkine,MIT,"RuboCop spelling checks for Ruby comments, Markdown, and plain text, using offline dictionaries."
+2026-10-20T21:57:37.226Z,lowdata,0.1.0,36,maedi,,The repository pattern with data expressions + the usual query building
+2026-10-20T22:12:37.744Z,sqrl-core,0.1.0,1,Daniel P. Clark,MIT,"A complete implementation of Steve Gibson's SQRL authentication protocol: EnScrypt, EnHash, the identity lock, S4 identity storage, the textual identity format, the client transaction state machine and a server-side protocol handler."
+2026-10-20T22:12:48.152Z,sqrl-client,0.1.0,0,Daniel P. Clark,MIT,"Identity management, the full SQRL command set, CPS handoff, login-page discovery, a Capybara helper, a CLI and a server conformance suite."
+2026-10-20T22:12:59.336Z,sqrl-rack,0.1.0,2,Daniel P. Clark,MIT,"Rack middleware serving the SQRL endpoint, status poll and CPS callback, a Sinatra extension with view helpers, the browser-side script and QR code rendering."
+2026-10-20T22:13:08.943Z,omniauth-sqrl,0.1.0,0,Daniel P. Clark,MIT,OmniAuth strategy for SQRL login
+2026-10-20T22:13:19.662Z,sqrl-rails,0.1.0,0,Daniel P. Clark,MIT,"SQRL login for Rails: engine, generator, ActiveRecord stores and Rails 8 Authentication support"
+2026-10-20T22:13:29.213Z,devise-sqrl,0.1.0,0,Daniel P. Clark,MIT,Devise module adding SQRL login (devise :sqrl_authenticatable)
+2026-10-20T22:18:21.402Z,zelf-sdk,1.0.0,0,Zelf,Apache-2.0,Official Ruby client for the Zelf API.
