@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 14:21 UTC
+## Latest list — 2026-10-20 15:19 UTC
 
-New gems created between 2026-10-20 13:21 UTC and 2026-10-20 14:21 UTC.
+New gems created between 2026-10-20 14:21 UTC and 2026-10-20 15:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-20T14-21-56-987986Z.csv)
+[Full CSV](data/new-gems-2026-10-20T15-19-53-056588Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-20 13:38:55 | [rspec-core-parallel](https://rubygems.org/gems/rspec-core-parallel) | 0.4.0 | Alessandro Rodi | MIT | Adds `rspec --parallel` to rspec-core 3.13: the suite is loaded once, forked in… |
-| 2026-10-20 13:46:34 | [turbodocx-sdk](https://rubygems.org/gems/turbodocx-sdk) | 0.9.0 | TurboDocx | MIT | Official Ruby SDK for TurboDocx — digital signatures (TurboSign), partner manag… |
-| 2026-10-20 14:17:17 | [license_manager](https://rubygems.org/gems/license_manager) | 0.1.1 | LicenseManager | Unlicense | Ruby client for the LicenseManager API: products, policies, customers, licenses… |
-| 2026-10-20 14:20:49 | [ace-coworker](https://rubygems.org/gems/ace-coworker) | 0.6.0 | Michal Czyz | MIT | ace-coworker composes the existing ace-assign lifecycle, ace-task ref resolutio… |
+| 2026-10-20 14:24:53 | [calmlens](https://rubygems.org/gems/calmlens) | 0.1.0 | CalmLens | MIT | Server-side client for the CalmLens API: moderation, uploads, events, webhooks… |
 
 ## Data source
 
