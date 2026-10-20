@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-20T20:13:30.454Z,proctolog,0.1.1,4,Gill Abarbanel,,"Runs on your Mac, reads the pull requests from GitHub, and walks you through every decision their descriptions ask of you. What you answered becomes a handover for the agent."

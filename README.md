@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 19:22 UTC
+## Latest list — 2026-10-20 20:22 UTC
 
-New gems created between 2026-10-20 18:22 UTC and 2026-10-20 19:22 UTC.
+New gems created between 2026-10-20 19:22 UTC and 2026-10-20 20:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-20T19-22-14-591076Z.csv)
+[Full CSV](data/new-gems-2026-10-20T20-22-23-581685Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-20 18:57:39 | [utilvo-apache-shield](https://rubygems.org/gems/utilvo-apache-shield) | 1.1.0 | Utilvo | MIT | Apache 2.4 mod_authz_core CIDR radix-tree, mod_remoteip & .htaccess cloud scrap… |
+| 2026-10-20 20:13:30 | [proctolog](https://rubygems.org/gems/proctolog) | 0.1.1 | Gill Abarbanel |  | Runs on your Mac, reads the pull requests from GitHub, and walks you through ev… |
 
 ## Data source
 
