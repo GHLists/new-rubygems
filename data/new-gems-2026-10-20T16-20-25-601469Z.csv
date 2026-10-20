@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-20T15:26:18.61Z,nbk2pdf,1.0.1,95,Sergey Avseyev,GPL-3.0-or-later,"Reads the `nbk` files a Kindle Scribe writes and renders them as vector PDFs, complete with the ruled or squared background the notes were written on, and adds what was written on a PDF on the device to a copy of that PDF. Includes a reader for the signature container the device wraps its SQLite da…"
+2026-10-20T15:44:35.243Z,namedaemon,0.1.0,45,Krasen Slavov,MIT,"Client for the public NameDaemon REST layer (https://namedaemon.com): domain availability, brandability scores, two-word name ideas, extension costs, domain health and more. Standard library only, no API key needed."

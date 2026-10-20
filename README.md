@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 15:19 UTC
+## Latest list — 2026-10-20 16:20 UTC
 
-New gems created between 2026-10-20 14:21 UTC and 2026-10-20 15:19 UTC.
+New gems created between 2026-10-20 15:19 UTC and 2026-10-20 16:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-20T15-19-53-056588Z.csv)
+[Full CSV](data/new-gems-2026-10-20T16-20-25-601469Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-20 14:24:53 | [calmlens](https://rubygems.org/gems/calmlens) | 0.1.0 | CalmLens | MIT | Server-side client for the CalmLens API: moderation, uploads, events, webhooks… |
+| 2026-10-20 15:26:18 | [nbk2pdf](https://rubygems.org/gems/nbk2pdf) | 1.0.1 | Sergey Avseyev | GPL-3.0-or-later | Reads the `nbk` files a Kindle Scribe writes and renders them as vector PDFs, c… |
+| 2026-10-20 15:44:35 | [namedaemon](https://rubygems.org/gems/namedaemon) | 0.1.0 | Krasen Slavov | MIT | Client for the public NameDaemon REST layer (https://namedaemon.com): domain av… |
 
 ## Data source
 
