@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-20T03:36:44.19Z,asterism-games,0.18.0,87,Katsuhiko Kageyama,MIT,"A framework for the server side of a game on an Asterism network: the host (tables exposed as Asterism objects, the state put and saved, who is there, time), the rooms of an Asterism console and the permanent tables next to them. A game subclasses AsterismGames::Game and AsterismGames::Remote and w…"
