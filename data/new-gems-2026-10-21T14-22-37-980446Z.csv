@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-21T13:24:20.917Z,tincture,1.0.0,69,Andy Croll,MIT,"Parse hex, rgb() and hsl() colours into one value object, convert between them, and cast model attributes to it with `attribute :accent, :color`."
+2026-10-21T13:25:51.691Z,tincture-apca,1.0.0,65,Andy Croll,LicenseRef-apca-w3,"Adds APCA lightness contrast (Lc) to Tincture::Color, ported from apca-w3. Its licence restricts use to web content in support of WCAG."
+2026-10-21T13:33:47.815Z,wtr,0.1.0,52,Ariel Rzezak,MIT,"Create, switch between, and remove git worktrees from the terminal, with a zsh wrapper that cds into them."
+2026-10-21T13:58:54.21Z,jekyll-minify-flow,1.1.0,31,"gandaro, gundestrup",AGPL-3.0-or-later,A Jekyll plugin that uses the minify-html Rust crate to minify HTML files.
+2026-10-21T14:07:29.925Z,repolho,0.1.1,21,Eustáquio Rangel,MIT,"Repolho generates HTML reports from .rep.erb templates with support for nested groupings, page breaks, headers/footers, and statistics (sum, avg, min, max). Works with ActiveRecord::Result, Relation, or arrays of hashes."
