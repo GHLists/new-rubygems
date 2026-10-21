@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 09:19 UTC
+## Latest list — 2026-10-21 10:19 UTC
 
-New gems created between 2026-10-21 08:21 UTC and 2026-10-21 09:19 UTC.
+New gems created between 2026-10-21 09:19 UTC and 2026-10-21 10:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-21T09-19-51-818893Z.csv)
+[Full CSV](data/new-gems-2026-10-21T10-19-58-68093Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-21 09:14:21 | [active_scaffold_mcp](https://rubygems.org/gems/active_scaffold_mcp) | 0.1.1 | Sergio Cambra | MIT | An ActionMCP integration that generates MCP tools from ActiveScaffold configura… |
+| 2026-10-21 09:42:27 | [edgeway](https://rubygems.org/gems/edgeway) | 0.1.0 | Yuji Yaginuma | MIT | A library for Ruby compiled by Spinel to wasm on edge workers. |
 
 ## Data source
 

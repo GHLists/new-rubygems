@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-21T09:42:27.76Z,edgeway,0.1.0,56,Yuji Yaginuma,MIT,A library for Ruby compiled by Spinel to wasm on edge workers.
