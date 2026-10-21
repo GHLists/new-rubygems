@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-21T18:30:16.707Z,google-apis-deepreview_v1,0.1.0,72,Google LLC,Apache-2.0,"This is the simple REST client for Deep Review API V1. Simple REST clients are Ruby client libraries that provide access to Google services via their HTTP REST API endpoints. These libraries are generated and updated automatically based on the discovery documents published by the service, and they…"
+2026-10-21T18:38:46.288Z,pd4ml,1.0.0,68,PD4ML,Nonstandard,The full public PD4ML API in Ruby. PD4ML runs in a Java bridge process; the most recent PD4ML build is downloaded on first use.
+2026-10-21T19:13:30.27Z,api-sdk-rb,1.11.66,0,Widgetic,Nonstandard,API documentation for the Widgetic API Gateway
