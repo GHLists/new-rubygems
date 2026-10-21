@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-21T17:05:39.594Z,administratum,0.2.4,17,buffpojken,MIT,"Declare adminable resources in app/admin, get a Tailwind v4 CRUD UI with Devise login, custom fields, nested resources, custom actions and framework-agnostic JS islands."
+2026-10-21T17:06:55.097Z,tincture,1.1.0,20,Andy Croll,MIT,"Parse hex, rgb() and hsl() colours into one value object, convert between them, and cast model attributes to it with `attribute :accent, :color`."
+2026-10-21T17:17:55.465Z,tincture-apca,1.1.0,0,Andy Croll,LicenseRef-apca-w3,"Adds APCA lightness contrast (Lc) to Tincture::Color, ported from apca-w3. Its licence restricts use to web content in support of WCAG."
