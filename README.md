@@ -68,9 +68,6 @@ New gems created between 2026-10-21 00:20 UTC and 2026-10-21 01:19 UTC.
 | 2026-10-21 01:10:22 | [kiosk-aap-bridge](https://rubygems.org/gems/kiosk-aap-bridge) | 0.0.0 | Phil Pirozhkov | Apache-2.0 | This gem reserves the name for a planned Kiosk (https://kiosk.tech) integration… |
 | 2026-10-21 01:10:28 | [kiosk-hub](https://rubygems.org/gems/kiosk-hub) | 0.0.0 | Phil Pirozhkov | Apache-2.0 | This gem reserves the name for a planned Kiosk (https://kiosk.tech) integration… |
 
-> The latest activity list was capped by the RubyGems API, so some
-> gems in this window may be missing.
-
 ## Data source
 
 Data comes from the [RubyGems.org API](https://rubygems.org/api), operated by
