@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-21T05:26:44.767Z,respondo-graphql,0.1.0,59,shailendra Kumar,MIT,"RespondoGraphql standardizes the GraphQL-style responses your Rails controllers send: data, errors and extensions, built from one set of expressive helpers (render_ok, render_not_found, render_unprocessable, ...). Field errors become spec-compliant errors[] entries, message and meta live in extensi…"
