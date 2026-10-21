@@ -9,19 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 14:22 UTC
+## Latest list — 2026-10-21 15:22 UTC
 
-New gems created between 2026-10-21 13:20 UTC and 2026-10-21 14:22 UTC.
+New gems created between 2026-10-21 14:22 UTC and 2026-10-21 15:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-21T14-22-37-980446Z.csv)
+[Full CSV](data/new-gems-2026-10-21T15-22-24-004379Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-21 13:24:20 | [tincture](https://rubygems.org/gems/tincture) | 1.0.0 | Andy Croll | MIT | Parse hex, rgb() and hsl() colours into one value object, convert between them,… |
-| 2026-10-21 13:25:51 | [tincture-apca](https://rubygems.org/gems/tincture-apca) | 1.0.0 | Andy Croll | LicenseRef-apca-w3 | Adds APCA lightness contrast (Lc) to Tincture::Color, ported from apca-w3. Its… |
-| 2026-10-21 13:33:47 | [wtr](https://rubygems.org/gems/wtr) | 0.1.0 | Ariel Rzezak | MIT | Create, switch between, and remove git worktrees from the terminal, with a zsh… |
-| 2026-10-21 13:58:54 | [jekyll-minify-flow](https://rubygems.org/gems/jekyll-minify-flow) | 1.1.0 | gandaro, gundestrup | AGPL-3.0-or-later | A Jekyll plugin that uses the minify-html Rust crate to minify HTML files. |
-| 2026-10-21 14:07:29 | [repolho](https://rubygems.org/gems/repolho) | 0.1.1 | Eustáquio Rangel | MIT | Repolho generates HTML reports from .rep.erb templates with support for nested… |
+| 2026-10-21 14:42:00 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.1 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 14:42:00 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.1 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 14:42:00 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.1 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 14:42:00 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.1 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 14:42:00 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.1 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 14:42:00 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.1 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 14:42:00 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.1 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 14:42:00 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.1 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 14:46:11 | [chat_sdk-gitlab](https://rubygems.org/gems/chat_sdk-gitlab) | 1.2.0 | Quentin Rousseau | MIT | GitLab merge request and issue comment adapter for ChatSDK |
+| 2026-10-21 15:02:29 | [depfmt-lite](https://rubygems.org/gems/depfmt-lite) | 4 | depfmt | MIT | dependency formatting helper |
 
 ## Data source
 
