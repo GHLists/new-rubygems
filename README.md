@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 19:19 UTC
+## Latest list — 2026-10-21 20:20 UTC
 
-New gems created between 2026-10-21 18:19 UTC and 2026-10-21 19:19 UTC.
+New gems created between 2026-10-21 19:19 UTC and 2026-10-21 20:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-21T19-19-17-66281Z.csv)
+[Full CSV](data/new-gems-2026-10-21T20-20-21-728503Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-21 18:30:16 | [google-apis-deepreview_v1](https://rubygems.org/gems/google-apis-deepreview_v1) | 0.1.0 | Google LLC | Apache-2.0 | This is the simple REST client for Deep Review API V1. Simple REST clients are… |
-| 2026-10-21 18:38:46 | [pd4ml](https://rubygems.org/gems/pd4ml) | 1.0.0 | PD4ML | Nonstandard | The full public PD4ML API in Ruby. PD4ML runs in a Java bridge process; the mos… |
-| 2026-10-21 19:13:30 | [api-sdk-rb](https://rubygems.org/gems/api-sdk-rb) | 1.11.66 | Widgetic | Nonstandard | API documentation for the Widgetic API Gateway |
+| 2026-10-21 19:50:43 | [pd4ml](https://rubygems.org/gems/pd4ml) | 1.0.1 | PD4ML | Nonstandard | The full public PD4ML API in Ruby. PD4ML runs in a Java bridge process; the mos… |
+| 2026-10-21 20:07:55 | [tmux](https://rubygems.org/gems/tmux) | 0.1.0 | Nick deLannoy | MIT | tmux.rb compiles structured Ruby into deterministic tmux configuration and form… |
 
 ## Data source
 
