@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-21T12:12:01.163Z,varlock,1.23.0,2,akodkod,MIT,A small wrapper around the Varlock CLI with an optional Rails boot integration.
+2026-10-21T12:12:01.163Z,varlock,1.23.0,2,akodkod,MIT,A small wrapper around the Varlock CLI with an optional Rails boot integration.
+2026-10-21T12:16:18.851Z,repolho,0.1.0,0,Eustáquio Rangel,MIT,"Repolho generates HTML reports from .rep.erb templates with support for nested groupings, page breaks, headers/footers, and statistics (sum, avg, min, max). Works with ActiveRecord::Result, Relation, or arrays of hashes."
