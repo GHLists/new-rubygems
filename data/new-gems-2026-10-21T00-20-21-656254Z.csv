@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-21T00:06:17.571Z,appnigma-sdk,0.1.0,13,Appnigma,MIT,"The gem a customer's product installs to reach its Appnigma microserver: run its own functions and list them, read contacts, companies and deals in one shape, call any platform's API, connect end customers, and read its own guide."
