@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-21T07:42:35.912Z,rake-appraisal,0.1.0,47,Matijs van Zuijlen,MIT,"When you update your Gemfile, your appraisals need to be regenerated. This simple task makes sure you do not forget to do so."
+2026-10-21T08:18:12.467Z,signal-cli,0.14.9,0,Zacharias Knudsen,GPL-3.0-only,"Unofficial packaging of AsamK/signal-cli's native build, so a Ruby app can send and receive Signal messages without Java or Docker."
+2026-10-21T08:18:12.467Z,signal-cli,0.14.9,0,Zacharias Knudsen,GPL-3.0-only,"Unofficial packaging of AsamK/signal-cli's native build, so a Ruby app can send and receive Signal messages without Java or Docker."
