@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 06:19 UTC
+## Latest list — 2026-10-21 07:21 UTC
 
-New gems created between 2026-10-21 05:19 UTC and 2026-10-21 06:19 UTC.
+New gems created between 2026-10-21 06:19 UTC and 2026-10-21 07:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-21T06-19-34-731271Z.csv)
+[Full CSV](data/new-gems-2026-10-21T07-21-01-813283Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-21 05:26:44 | [respondo-graphql](https://rubygems.org/gems/respondo-graphql) | 0.1.0 | shailendra Kumar | MIT | RespondoGraphql standardizes the GraphQL-style responses your Rails controllers… |
+| 2026-10-21 07:16:27 | [trophy](https://rubygems.org/gems/trophy) | 1.26.1 | Trophy |  | The Trophy Ruby library provides convenient access to the Trophy API from Ruby. |
 
 ## Data source
 
