@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 17:20 UTC
+## Latest list — 2026-10-21 18:19 UTC
 
-New gems created between 2026-10-21 16:20 UTC and 2026-10-21 17:20 UTC.
+New gems created between 2026-10-21 17:20 UTC and 2026-10-21 18:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-21T17-20-16-851305Z.csv)
+[Full CSV](data/new-gems-2026-10-21T18-19-38-24939Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-21 17:05:39 | [administratum](https://rubygems.org/gems/administratum) | 0.2.4 | buffpojken | MIT | Declare adminable resources in app/admin, get a Tailwind v4 CRUD UI with Devise… |
-| 2026-10-21 17:06:55 | [tincture](https://rubygems.org/gems/tincture) | 1.1.0 | Andy Croll | MIT | Parse hex, rgb() and hsl() colours into one value object, convert between them,… |
-| 2026-10-21 17:17:55 | [tincture-apca](https://rubygems.org/gems/tincture-apca) | 1.1.0 | Andy Croll | LicenseRef-apca-w3 | Adds APCA lightness contrast (Lc) to Tincture::Color, ported from apca-w3. Its… |
+| 2026-10-21 17:24:59 | [rublurhash](https://rubygems.org/gems/rublurhash) | 0.0.1 | Kitaiti Makoto | MIT | Ruby binding for blurhash-core, a fast Rust implementation of BlurHash. |
 
 ## Data source
 
