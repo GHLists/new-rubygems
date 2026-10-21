@@ -9,15 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 10:19 UTC
+## Latest list — 2026-10-21 11:19 UTC
 
-New gems created between 2026-10-21 09:19 UTC and 2026-10-21 10:19 UTC.
+New gems created between 2026-10-21 10:19 UTC and 2026-10-21 11:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-21T10-19-58-68093Z.csv)
+[Full CSV](data/new-gems-2026-10-21T11-19-29-090616Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-21 09:42:27 | [edgeway](https://rubygems.org/gems/edgeway) | 0.1.0 | Yuji Yaginuma | MIT | A library for Ruby compiled by Spinel to wasm on edge workers. |
+| 2026-10-21 10:53:57 | [calcsheet](https://rubygems.org/gems/calcsheet) | 0.1.0 | Demetra Opinioni.net Srl | MIT | Calcsheet reads and writes CSV, XLSX and ODS spreadsheets as streams of rows, w… |
+| 2026-10-21 11:13:17 | [questdb](https://rubygems.org/gems/questdb) | 0.1.0 | QuestDB | Apache-2.0 | MRI Ruby bindings for pooled and standalone QuestDB Wire Protocol ingestion, qu… |
+| 2026-10-21 11:13:17 | [questdb](https://rubygems.org/gems/questdb) | 0.1.0 | QuestDB | Apache-2.0 | MRI Ruby bindings for pooled and standalone QuestDB Wire Protocol ingestion, qu… |
+| 2026-10-21 11:13:17 | [questdb](https://rubygems.org/gems/questdb) | 0.1.0 | QuestDB | Apache-2.0 | MRI Ruby bindings for pooled and standalone QuestDB Wire Protocol ingestion, qu… |
+| 2026-10-21 11:13:17 | [questdb](https://rubygems.org/gems/questdb) | 0.1.0 | QuestDB | Apache-2.0 | MRI Ruby bindings for pooled and standalone QuestDB Wire Protocol ingestion, qu… |
+| 2026-10-21 11:13:17 | [questdb](https://rubygems.org/gems/questdb) | 0.1.0 | QuestDB | Apache-2.0 | MRI Ruby bindings for pooled and standalone QuestDB Wire Protocol ingestion, qu… |
+| 2026-10-21 11:13:17 | [questdb](https://rubygems.org/gems/questdb) | 0.1.0 | QuestDB | Apache-2.0 | MRI Ruby bindings for pooled and standalone QuestDB Wire Protocol ingestion, qu… |
+| 2026-10-21 11:13:17 | [questdb](https://rubygems.org/gems/questdb) | 0.1.0 | QuestDB | Apache-2.0 | MRI Ruby bindings for pooled and standalone QuestDB Wire Protocol ingestion, qu… |
+| 2026-10-21 11:13:17 | [questdb](https://rubygems.org/gems/questdb) | 0.1.0 | QuestDB | Apache-2.0 | MRI Ruby bindings for pooled and standalone QuestDB Wire Protocol ingestion, qu… |
 
 ## Data source
 
