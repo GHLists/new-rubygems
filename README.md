@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 20:20 UTC
+## Latest list — 2026-10-21 21:21 UTC
 
-New gems created between 2026-10-21 19:19 UTC and 2026-10-21 20:20 UTC.
+New gems created between 2026-10-21 20:20 UTC and 2026-10-21 21:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-21T20-20-21-728503Z.csv)
+[Full CSV](data/new-gems-2026-10-21T21-21-35-440307Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-21 19:50:43 | [pd4ml](https://rubygems.org/gems/pd4ml) | 1.0.1 | PD4ML | Nonstandard | The full public PD4ML API in Ruby. PD4ML runs in a Java bridge process; the mos… |
-| 2026-10-21 20:07:55 | [tmux](https://rubygems.org/gems/tmux) | 0.1.0 | Nick deLannoy | MIT | tmux.rb compiles structured Ruby into deterministic tmux configuration and form… |
+| 2026-10-21 21:04:46 | [chat_sdk-gitlab](https://rubygems.org/gems/chat_sdk-gitlab) | 1.3.0 | Quentin Rousseau | MIT | GitLab merge request and issue comment adapter for ChatSDK |
+| 2026-10-21 21:11:52 | [license_patrol](https://rubygems.org/gems/license_patrol) | 1.1.0 | Ryan Collins, Daniil Kouznets… | MIT | LicensePatrol works with your package managers to find dependencies, detect the… |
 
 ## Data source
 
