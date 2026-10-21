@@ -9,16 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 21:21 UTC
+## Latest list — 2026-10-21 23:21 UTC
 
-New gems created between 2026-10-21 20:20 UTC and 2026-10-21 21:21 UTC.
+New gems created between 2026-10-21 22:21 UTC and 2026-10-21 23:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-21T21-21-35-440307Z.csv)
+[Full CSV](data/new-gems-2026-10-21T23-21-05-942358Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-21 21:04:46 | [chat_sdk-gitlab](https://rubygems.org/gems/chat_sdk-gitlab) | 1.3.0 | Quentin Rousseau | MIT | GitLab merge request and issue comment adapter for ChatSDK |
-| 2026-10-21 21:11:52 | [license_patrol](https://rubygems.org/gems/license_patrol) | 1.1.0 | Ryan Collins, Daniil Kouznets… | MIT | LicensePatrol works with your package managers to find dependencies, detect the… |
+| 2026-10-21 22:33:29 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.2 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 22:33:29 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.2 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 22:33:29 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.2 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 22:33:29 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.2 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 22:33:29 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.2 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 22:33:29 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.2 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 22:33:29 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.2 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
+| 2026-10-21 22:33:29 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.1.2 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
 
 ## Data source
 
