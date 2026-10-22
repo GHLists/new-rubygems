@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 11:20 UTC
+## Latest list — 2026-10-22 12:19 UTC
 
-New gems created between 2026-10-22 10:21 UTC and 2026-10-22 11:20 UTC.
+New gems created between 2026-10-22 11:20 UTC and 2026-10-22 12:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-22T11-20-56-562816Z.csv)
+[Full CSV](data/new-gems-2026-10-22T12-19-54-402266Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-22 10:29:24 | [calculator-on-ruby](https://rubygems.org/gems/calculator-on-ruby) | 1.0.0 | Isaiah | MIT | This is an executable script that can run any calculations in string form. |
+| 2026-10-22 12:07:16 | [ctx_cli](https://rubygems.org/gems/ctx_cli) | 0.1.0 | Gatework contributors | MIT | Shared configuration discovery, private initialization, terminal interaction an… |
 
 ## Data source
 

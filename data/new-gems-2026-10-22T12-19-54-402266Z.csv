@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-22T12:07:16.405Z,ctx_cli,0.1.0,23,Gatework contributors,MIT,"Shared configuration discovery, private initialization, terminal interaction and CLI orchestration without device or application dependencies."
