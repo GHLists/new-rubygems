@@ -9,22 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 09:22 UTC
+## Latest list — 2026-10-22 10:21 UTC
 
-New gems created between 2026-10-22 08:21 UTC and 2026-10-22 09:22 UTC.
+New gems created between 2026-10-22 09:22 UTC and 2026-10-22 10:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-22T09-22-41-479076Z.csv)
+[Full CSV](data/new-gems-2026-10-22T10-21-41-771074Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-22 08:24:52 | [chat_sdk-gitlab](https://rubygems.org/gems/chat_sdk-gitlab) | 1.4.0 | Quentin Rousseau | MIT | GitLab merge request and issue comment adapter for ChatSDK |
-| 2026-10-22 08:28:21 | [noresponse](https://rubygems.org/gems/noresponse) | 2.0.18 | NoResponse | Apache-2.0 | NoResponse signup and gateway risk assessment client for Ruby |
-| 2026-10-22 08:33:21 | [railwatch-server](https://rubygems.org/gems/railwatch-server) | 0.1.1 | Rebulk | AGPL-3.0-only | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
-| 2026-10-22 08:33:21 | [railwatch-server](https://rubygems.org/gems/railwatch-server) | 0.1.1 | Rebulk | AGPL-3.0-only | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
-| 2026-10-22 08:33:21 | [railwatch-server](https://rubygems.org/gems/railwatch-server) | 0.1.1 | Rebulk | AGPL-3.0-only | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
-| 2026-10-22 08:33:21 | [railwatch-server](https://rubygems.org/gems/railwatch-server) | 0.1.1 | Rebulk | AGPL-3.0-only | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
-| 2026-10-22 08:33:21 | [railwatch-server](https://rubygems.org/gems/railwatch-server) | 0.1.1 | Rebulk | AGPL-3.0-only | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
-| 2026-10-22 09:21:00 | [growwer](https://rubygems.org/gems/growwer) | 1.0.0 | Growwer Support | MIT | Official client for the Growwer API: orders, projects, the media catalogue, sel… |
+| 2026-10-22 09:24:04 | [noresponse](https://rubygems.org/gems/noresponse) | 2.0.19 | NoResponse | Apache-2.0 | NoResponse signup and gateway risk assessment client for Ruby |
+| 2026-10-22 09:42:23 | [growwer](https://rubygems.org/gems/growwer) | 1.0.1 | Growwer Support | MIT | Official client for the Growwer API: orders, projects, the media catalogue, sel… |
 
 ## Data source
 
