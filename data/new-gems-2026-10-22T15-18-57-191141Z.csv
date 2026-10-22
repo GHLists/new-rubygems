@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-22T15:12:14.397Z,acute,1.0.0,1,Alan Skorkin,MIT,"Plain-English date and time parsing, a successor to chronic"
+2026-10-22T15:15:27.97Z,nano_mcp,0.1.0,0,Julik Tarkhanov,MIT,"A Rack app serving MCP tools over stateless Streamable HTTP, per MCP revision 2026-07-28. No sessions, no streams, no dependencies."

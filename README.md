@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 13:18 UTC
+## Latest list — 2026-10-22 15:18 UTC
 
-New gems created between 2026-10-22 12:19 UTC and 2026-10-22 13:18 UTC.
+New gems created between 2026-10-22 14:18 UTC and 2026-10-22 15:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-22T13-18-48-599797Z.csv)
+[Full CSV](data/new-gems-2026-10-22T15-18-57-191141Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-22 12:26:39 | [repolho](https://rubygems.org/gems/repolho) | 0.1.2 | Eustáquio Rangel | MIT | Repolho generates HTML reports from .rep.erb templates with support for nested… |
+| 2026-10-22 15:12:14 | [acute](https://rubygems.org/gems/acute) | 1.0.0 | Alan Skorkin | MIT | Plain-English date and time parsing, a successor to chronic |
+| 2026-10-22 15:15:27 | [nano_mcp](https://rubygems.org/gems/nano_mcp) | 0.1.0 | Julik Tarkhanov | MIT | A Rack app serving MCP tools over stateless Streamable HTTP, per MCP revision 2… |
 
 ## Data source
 
