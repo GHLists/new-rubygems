@@ -1,0 +1,18 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-22T06:23:02.142Z,noresponse,2.0.17,60,NoResponse,Apache-2.0,NoResponse signup and gateway risk assessment client for Ruby
+2026-10-22T07:09:48.618Z,runapi-vidu,0.1.0,10,RunAPI,Apache-2.0,"Create image-to-video or reference-to-video tasks, retrieve their status, or use `run` to poll until completion. Validation runs on the RunAPI server."
+2026-10-22T07:09:48.651Z,runapi-qwen-2.1,0.1.0,14,RunAPI,Apache-2.0,"The Qwen 2.1 Ruby SDK is the language-specific package for Qwen 2.1 on RunAPI. Use this package for image generation, image editing, and creative production workflows when your application needs request bodies, task status lookup, and consistent RunAPI errors in Ruby."
+2026-10-22T07:09:49.027Z,runapi-heygen-video,0.1.0,13,RunAPI,Apache-2.0,Use `runapi-heygen-video` for HeyGen Video video tasks in Ruby.
+2026-10-22T07:14:07.066Z,corvus_regex_ecma262,0.1.3,0,endjin,Apache-2.0,"Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsuvy), over UTF-8 and UTF-16LE strings, with the corvus-regex-ecma262 Rust crate."
+2026-10-22T07:14:07.066Z,corvus_regex_ecma262,0.1.3,0,endjin,Apache-2.0,"Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsuvy), over UTF-8 and UTF-16LE strings, with the corvus-regex-ecma262 Rust crate."
+2026-10-22T07:14:07.066Z,corvus_regex_ecma262,0.1.3,0,endjin,Apache-2.0,"Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsuvy), over UTF-8 and UTF-16LE strings, with the corvus-regex-ecma262 Rust crate."
+2026-10-22T07:14:07.066Z,corvus_regex_ecma262,0.1.3,0,endjin,Apache-2.0,"Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsuvy), over UTF-8 and UTF-16LE strings, with the corvus-regex-ecma262 Rust crate."
+2026-10-22T07:14:07.066Z,corvus_regex_ecma262,0.1.3,0,endjin,Apache-2.0,"Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsuvy), over UTF-8 and UTF-16LE strings, with the corvus-regex-ecma262 Rust crate."
+2026-10-22T07:14:07.066Z,corvus_regex_ecma262,0.1.3,0,endjin,Apache-2.0,"Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsuvy), over UTF-8 and UTF-16LE strings, with the corvus-regex-ecma262 Rust crate."
+2026-10-22T07:14:07.066Z,corvus_regex_ecma262,0.1.3,0,endjin,Apache-2.0,"Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsuvy), over UTF-8 and UTF-16LE strings, with the corvus-regex-ecma262 Rust crate."
+2026-10-22T07:14:07.066Z,corvus_regex_ecma262,0.1.3,0,endjin,Apache-2.0,"Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsuvy), over UTF-8 and UTF-16LE strings, with the corvus-regex-ecma262 Rust crate."
+2026-10-22T07:14:13.745Z,railwatch-server,0.1.0,1,Rebulk,AGPL-3.0-only,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-10-22T07:14:13.745Z,railwatch-server,0.1.0,1,Rebulk,AGPL-3.0-only,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-10-22T07:14:13.745Z,railwatch-server,0.1.0,1,Rebulk,AGPL-3.0-only,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-10-22T07:14:13.745Z,railwatch-server,0.1.0,1,Rebulk,AGPL-3.0-only,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-10-22T07:14:13.745Z,railwatch-server,0.1.0,1,Rebulk,AGPL-3.0-only,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
