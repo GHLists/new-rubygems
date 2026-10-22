@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 03:21 UTC
+## Latest list — 2026-10-22 04:21 UTC
 
-New gems created between 2026-10-22 02:22 UTC and 2026-10-22 03:21 UTC.
+New gems created between 2026-10-22 03:21 UTC and 2026-10-22 04:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-22T03-21-47-330226Z.csv)
+[Full CSV](data/new-gems-2026-10-22T04-21-19-26374Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-22 02:23:40 | [longctx-bench](https://rubygems.org/gems/longctx-bench) | 0.1.1 | Alex Warren | MIT | Builds deterministic ~100k/200k token prompts, calls an OpenAI-compatible /v1/c… |
+| 2026-10-22 04:15:04 | [rails-query-command](https://rubygems.org/gems/rails-query-command) | 0.1.0 | Lázaro Nixon Amaral de Almeida | MIT | Adds the `bin/rails query` command from Rails main (rails/rails#57156) to apps… |
 
 ## Data source
 

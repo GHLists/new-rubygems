@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-22T04:15:04.634Z,rails-query-command,0.1.0,0,Lázaro Nixon Amaral de Almeida,MIT,"Adds the `bin/rails query` command from Rails main (rails/rails#57156) to apps running Rails 7.2, 8.0 and 8.1. Runs Active Record expressions or raw SQL against a read-only connection and prints structured JSON, with pagination and schema/model introspection."
