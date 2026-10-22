@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-22T20:21:39.938Z,optiaudit-rails,0.1.1,118,The Optimal Partner,MIT,"Rails client for OptiAudit, the audit and usage tracking service of The Optimal Partner. Controller macros, manual tracking, and Sidekiq, background thread or inline delivery that never breaks or slows down the request. Ruby counterpart of @theoptimalpartner/nestjs-optiaudit."
+2026-10-22T20:25:05.812Z,phone_preview,0.2.0,96,Tyler Schneider,MIT,"Starts a Rails app in development with an ngrok tunnel on one port, prints its public address and a QR code of it, and makes emailed links use that address."
+2026-10-22T20:46:33.047Z,haveapi-rust-client,0.30.0,61,Jakub Skokan,MIT,Generate self-contained async and blocking Rust clients from saved HaveAPI descriptions.
+2026-10-22T21:20:07.399Z,vue_uk,1.0.0,0,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Vue cinemas website API
