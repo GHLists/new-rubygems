@@ -9,18 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 21:20 UTC
+## Latest list — 2026-10-22 22:19 UTC
 
-New gems created between 2026-10-22 20:19 UTC and 2026-10-22 21:20 UTC.
+New gems created between 2026-10-22 21:20 UTC and 2026-10-22 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-22T21-20-23-139047Z.csv)
+[Full CSV](data/new-gems-2026-10-22T22-19-52-726185Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-22 20:21:39 | [optiaudit-rails](https://rubygems.org/gems/optiaudit-rails) | 0.1.1 | The Optimal Partner | MIT | Rails client for OptiAudit, the audit and usage tracking service of The Optimal… |
-| 2026-10-22 20:25:05 | [phone_preview](https://rubygems.org/gems/phone_preview) | 0.2.0 | Tyler Schneider | MIT | Starts a Rails app in development with an ngrok tunnel on one port, prints its… |
-| 2026-10-22 20:46:33 | [haveapi-rust-client](https://rubygems.org/gems/haveapi-rust-client) | 0.30.0 | Jakub Skokan | MIT | Generate self-contained async and blocking Rust clients from saved HaveAPI desc… |
-| 2026-10-22 21:20:07 | [vue_uk](https://rubygems.org/gems/vue_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Vue cinemas website API |
+| 2026-10-22 21:47:25 | [growwer](https://rubygems.org/gems/growwer) | 1.0.2 | Growwer Support | MIT | Official client for the Growwer API: orders, projects, the media catalogue, sel… |
+| 2026-10-22 21:53:32 | [curzon_uk](https://rubygems.org/gems/curzon_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Curzon Vista API |
+| 2026-10-22 21:53:32 | [curzon_uk](https://rubygems.org/gems/curzon_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Curzon Vista API |
+| 2026-10-22 21:53:32 | [curzon_uk](https://rubygems.org/gems/curzon_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Curzon Vista API |
+| 2026-10-22 21:53:32 | [curzon_uk](https://rubygems.org/gems/curzon_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Curzon Vista API |
+| 2026-10-22 21:53:32 | [curzon_uk](https://rubygems.org/gems/curzon_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Curzon Vista API |
+| 2026-10-22 22:03:00 | [luck_remover](https://rubygems.org/gems/luck_remover) | 0.2.0 | Tyler Schneider | MIT | LuckRemover stores goals that name a registered readout Stat, a target, a direc… |
+| 2026-10-22 22:04:08 | [administratum](https://rubygems.org/gems/administratum) | 0.3.0 | buffpojken | MIT | Declare adminable resources in app/admin, get a Tailwind v4 CRUD UI with Devise… |
 
 ## Data source
 
