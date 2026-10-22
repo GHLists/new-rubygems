@@ -9,23 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 16:19 UTC
+## Latest list — 2026-10-22 17:20 UTC
 
-New gems created between 2026-10-22 15:18 UTC and 2026-10-22 16:19 UTC.
+New gems created between 2026-10-22 16:19 UTC and 2026-10-22 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-22T16-19-56-869996Z.csv)
+[Full CSV](data/new-gems-2026-10-22T17-20-08-965503Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-22 16:05:08 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.2.0 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
-| 2026-10-22 16:05:08 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.2.0 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
-| 2026-10-22 16:05:08 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.2.0 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
-| 2026-10-22 16:05:08 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.2.0 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
-| 2026-10-22 16:05:08 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.2.0 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
-| 2026-10-22 16:05:08 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.2.0 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
-| 2026-10-22 16:05:08 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.2.0 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
-| 2026-10-22 16:05:08 | [corvus_regex_ecma262](https://rubygems.org/gems/corvus_regex_ecma262) | 0.2.0 | endjin | Apache-2.0 | Regular expressions that answer as JavaScript's RegExp does, every flag (dgimsu… |
-| 2026-10-22 16:09:00 | [readword](https://rubygems.org/gems/readword) | 0.1.1 | urbullet | MIT | Reads Word 97-2003 (.doc) and Word 2007+ (.docx) files without LibreOffice, Jav… |
+| 2026-10-22 16:37:52 | [pennylane-client](https://rubygems.org/gems/pennylane-client) | 0.1.0 | Hôtentic | MIT | Client Ruby de l'API Company v2 de Pennylane : dépôt de factures Factur-X, suiv… |
+| 2026-10-22 16:43:29 | [nano_mcp](https://rubygems.org/gems/nano_mcp) | 0.2.0 | Julik Tarkhanov | MIT | A Rack app serving MCP tools over stateless Streamable HTTP, per MCP revision 2… |
+| 2026-10-22 16:49:31 | [upstate-rails](https://rubygems.org/gems/upstate-rails) | 0.1.0 | Upstate | MIT | Adds a bearer-protected GET /upstate/health to a Rails app. Reports aggregate c… |
 
 ## Data source
 

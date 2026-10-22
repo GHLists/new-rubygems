@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-22T16:37:52.739Z,pennylane-client,0.1.0,86,Hôtentic,MIT,"Client Ruby de l'API Company v2 de Pennylane : dépôt de factures Factur-X, suivi des factures déposées et des paiements reçus."
+2026-10-22T16:43:29.031Z,nano_mcp,0.2.0,115,Julik Tarkhanov,MIT,"A Rack app serving MCP tools over stateless Streamable HTTP, per MCP revision 2026-07-28. No sessions, no streams, no dependencies."
+2026-10-22T16:49:31.866Z,upstate-rails,0.1.0,63,Upstate,MIT,"Adds a bearer-protected GET /upstate/health to a Rails app. Reports aggregate counts and fixed-bucket timings only: no params, paths, SQL, IPs, user agents, or job arguments."
