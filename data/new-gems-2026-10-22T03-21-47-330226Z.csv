@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-22T02:23:40.265Z,longctx-bench,0.1.1,121,Alex Warren,MIT,"Builds deterministic ~100k/200k token prompts, calls an OpenAI-compatible /v1/chat/completions endpoint and records status, latency, usage and errors. Intended for evaluating free-tier limits under long-context novel-continuation workloads."
