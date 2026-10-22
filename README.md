@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 12:19 UTC
+## Latest list — 2026-10-22 13:18 UTC
 
-New gems created between 2026-10-22 11:20 UTC and 2026-10-22 12:19 UTC.
+New gems created between 2026-10-22 12:19 UTC and 2026-10-22 13:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-22T12-19-54-402266Z.csv)
+[Full CSV](data/new-gems-2026-10-22T13-18-48-599797Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-22 12:07:16 | [ctx_cli](https://rubygems.org/gems/ctx_cli) | 0.1.0 | Gatework contributors | MIT | Shared configuration discovery, private initialization, terminal interaction an… |
+| 2026-10-22 12:26:39 | [repolho](https://rubygems.org/gems/repolho) | 0.1.2 | Eustáquio Rangel | MIT | Repolho generates HTML reports from .rep.erb templates with support for nested… |
 
 ## Data source
 
