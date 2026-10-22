@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 10:21 UTC
+## Latest list — 2026-10-22 11:20 UTC
 
-New gems created between 2026-10-22 09:22 UTC and 2026-10-22 10:21 UTC.
+New gems created between 2026-10-22 10:21 UTC and 2026-10-22 11:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-22T10-21-41-771074Z.csv)
+[Full CSV](data/new-gems-2026-10-22T11-20-56-562816Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-22 09:24:04 | [noresponse](https://rubygems.org/gems/noresponse) | 2.0.19 | NoResponse | Apache-2.0 | NoResponse signup and gateway risk assessment client for Ruby |
-| 2026-10-22 09:42:23 | [growwer](https://rubygems.org/gems/growwer) | 1.0.1 | Growwer Support | MIT | Official client for the Growwer API: orders, projects, the media catalogue, sel… |
+| 2026-10-22 10:29:24 | [calculator-on-ruby](https://rubygems.org/gems/calculator-on-ruby) | 1.0.0 | Isaiah | MIT | This is an executable script that can run any calculations in string form. |
 
 ## Data source
 
