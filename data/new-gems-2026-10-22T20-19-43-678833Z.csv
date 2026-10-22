@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-22T19:47:47.46Z,phone_preview,0.1.0,66,Tyler Schneider,MIT,"Starts a Rails app in development with an ngrok tunnel on one port, prints its public address and a QR code of it, and makes emailed links use that address."
+2026-10-22T20:05:38.601Z,postseed,0.1.0,18,Sagar Pinninti,MIT,"Postseed generates realistic seed data for PostgreSQL that never breaks a foreign key, a unique constraint or an enum, and is deterministic: the same schema, seed and version give identical output. It runs locally with a web Studio and a CLI. This gem bundles the engine and runs it with Node.js 20…"
