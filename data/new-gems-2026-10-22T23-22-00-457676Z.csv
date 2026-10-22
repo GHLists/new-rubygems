@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-22T22:28:20.676Z,coss,0.1.0,89,coss.com,MIT,"Every endpoint of the coss.com API, typed, with retries, idempotency keys and webhook verification."
+2026-10-22T22:52:31.845Z,pushizo,0.1.0,47,Pushizo,MIT,"Pushizo public API istemcisi: bildirim gönderme, kullanıcı/abonelik yönetimi, segment/şablon/kampanya ve webhook imza doğrulaması (Net::HTTP, bağımlılıksız)."
+2026-10-22T23:21:48.199Z,opencraw,0.1.0,0,opencraw,MIT,"Crawl with OpenCraw from Ruby, with no Node to install: the engine through its driver."
