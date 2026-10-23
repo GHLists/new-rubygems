@@ -9,18 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 04:20 UTC
+## Latest list — 2026-10-23 05:20 UTC
 
-New gems created between 2026-10-23 03:20 UTC and 2026-10-23 04:20 UTC.
+New gems created between 2026-10-23 04:20 UTC and 2026-10-23 05:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T04-20-37-495391Z.csv)
+[Full CSV](data/new-gems-2026-10-23T05-20-27-371947Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-23 04:01:35 | [acute](https://rubygems.org/gems/acute) | 1.0.1 | Alan Skorkin | MIT | Plain-English date and time parsing, a successor to chronic |
-| 2026-10-23 04:02:53 | [omoteura-core](https://rubygems.org/gems/omoteura-core) | 0.1.1 | KAIBYAKU K.K | MIT | Diagram file I/O, omoteura: link resolution and CLI for Omoteura |
-| 2026-10-23 04:02:54 | [omoteura-rspec](https://rubygems.org/gems/omoteura-rspec) | 0.1.1 | KAIBYAKU K.K | MIT | RSpec spec analysis and result formatter for Omoteura |
-| 2026-10-23 04:02:56 | [omoteura](https://rubygems.org/gems/omoteura) | 0.1.1 | KAIBYAKU K.K | MIT | Meta gem that installs omoteura-core and omoteura-rspec. |
+| 2026-10-23 04:47:06 | [noresponse](https://rubygems.org/gems/noresponse) | 2.1.1 | NoResponse | Apache-2.0 | NoResponse signup and gateway risk assessment client for Ruby |
+| 2026-10-23 04:52:02 | [redis_exchange](https://rubygems.org/gems/redis_exchange) | 0.3.0 | Shiningray | MIT | A reference central limit order book implemented with Redis data structures, a… |
 
 ## Data source
 
