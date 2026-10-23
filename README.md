@@ -9,20 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 22:22 UTC
+## Latest list — 2026-10-23 23:22 UTC
 
-New gems created between 2026-10-23 21:18 UTC and 2026-10-23 22:22 UTC.
+New gems created between 2026-10-23 22:22 UTC and 2026-10-23 23:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T22-22-14-039999Z.csv)
+[Full CSV](data/new-gems-2026-10-23T23-22-11-995591Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-23 21:22:08 | [steam_api_client](https://rubygems.org/gems/steam_api_client) | 0.10.0 | João Pedro | MIT | A ruby client to fetch from the public Steam Web API |
-| 2026-10-23 22:21:14 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.0 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
-| 2026-10-23 22:21:14 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.0 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
-| 2026-10-23 22:21:14 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.0 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
-| 2026-10-23 22:21:14 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.0 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
-| 2026-10-23 22:21:14 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.0 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
+| 2026-10-23 22:25:42 | [cpee-replay](https://rubygems.org/gems/cpee-replay) | 1.0.1 | Juergen eTM Mangler, Matthias… | GPL-3.0-or-later | see http://cpee.org |
+| 2026-10-23 23:08:43 | [balancetui](https://rubygems.org/gems/balancetui) | 0.1.0 | Balance contributors | MIT | Installs Balance and its native build dependencies on macOS and Linux. |
 
 ## Data source
 
