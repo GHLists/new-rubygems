@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 09:21 UTC
+## Latest list — 2026-10-23 10:20 UTC
 
-New gems created between 2026-10-23 08:21 UTC and 2026-10-23 09:21 UTC.
+New gems created between 2026-10-23 09:21 UTC and 2026-10-23 10:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T09-21-12-82767Z.csv)
+[Full CSV](data/new-gems-2026-10-23T10-20-17-386422Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-23 09:15:12 | [noresponse](https://rubygems.org/gems/noresponse) | 2.1.10 | NoResponse | Apache-2.0 | NoResponse signup and gateway risk assessment client for Ruby |
+| 2026-10-23 09:58:48 | [noresponse](https://rubygems.org/gems/noresponse) | 2.1.12 | NoResponse | Apache-2.0 | NoResponse signup and gateway risk assessment client for Ruby |
+| 2026-10-23 10:07:46 | [licentivo-launch](https://rubygems.org/gems/licentivo-launch) | 0.1.1 | Licentivo Launch contributors | MIT | Login, scoped secure sessions, verified offline recovery and feature guards for… |
+| 2026-10-23 10:07:46 | [licentivo-launch](https://rubygems.org/gems/licentivo-launch) | 0.1.1 | Licentivo Launch contributors | MIT | Login, scoped secure sessions, verified offline recovery and feature guards for… |
+| 2026-10-23 10:14:28 | [usend](https://rubygems.org/gems/usend) | 1.3.0 | usend | MIT | Send email, manage domains, templates, contacts, broadcasts and webhooks with u… |
 
 ## Data source
 
