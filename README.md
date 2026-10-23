@@ -9,15 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 19:19 UTC
+## Latest list — 2026-10-23 20:20 UTC
 
-New gems created between 2026-10-23 18:21 UTC and 2026-10-23 19:19 UTC.
+New gems created between 2026-10-23 19:19 UTC and 2026-10-23 20:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T19-19-10-936727Z.csv)
+[Full CSV](data/new-gems-2026-10-23T20-20-42-998648Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-23 19:17:53 | [plai_testr](https://rubygems.org/gems/plai_testr) | 0.1.1 | Aaron H | MIT | PlAI Testr mediates sessions of tabletop games between LLM agents running local… |
+| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
+| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
+| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
+| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
+| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
+| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
+| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
+| 2026-10-23 19:59:14 | [strongroom-rails](https://rubygems.org/gems/strongroom-rails) | 0.1.0 | Seuros | BSD-3-Clause | Rails adapter for strongroomd, a Postgres-first authentication kernel that acts… |
+| 2026-10-23 20:12:06 | [granita](https://rubygems.org/gems/granita) | 0.0.1 | Alexandre Terrasa | Apache-2.0 | Sorbet-compatible Ruby type checker, rewritten in Rust |
+| 2026-10-23 20:12:06 | [granita](https://rubygems.org/gems/granita) | 0.0.1 | Alexandre Terrasa | Apache-2.0 | Sorbet-compatible Ruby type checker, rewritten in Rust |
+| 2026-10-23 20:12:06 | [granita](https://rubygems.org/gems/granita) | 0.0.1 | Alexandre Terrasa | Apache-2.0 | Sorbet-compatible Ruby type checker, rewritten in Rust |
 
 ## Data source
 
