@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 12:19 UTC
+## Latest list — 2026-10-23 13:19 UTC
 
-New gems created between 2026-10-23 11:21 UTC and 2026-10-23 12:19 UTC.
+New gems created between 2026-10-23 12:19 UTC and 2026-10-23 13:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T12-19-31-653519Z.csv)
+[Full CSV](data/new-gems-2026-10-23T13-19-30-092159Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-23 12:10:40 | [uml-viewer](https://rubygems.org/gems/uml-viewer) | 0.1.2 | Robert Hopman | MIT; EPL-2.0 | uml-viewer scans a Ruby or Rails project with Prism and shows it as a UML diagr… |
-| 2026-10-23 12:12:41 | [noresponse](https://rubygems.org/gems/noresponse) | 2.1.15 | NoResponse | Apache-2.0 | NoResponse signup and gateway risk assessment client for Ruby |
+| 2026-10-23 13:08:04 | [noresponse](https://rubygems.org/gems/noresponse) | 3.0.1 | NoResponse | Apache-2.0 | NoResponse signup and gateway risk assessment client for Ruby |
+| 2026-10-23 13:15:53 | [optiaudit-rails](https://rubygems.org/gems/optiaudit-rails) | 0.2.0 | The Optimal Partner | MIT | Rails client for OptiAudit, the audit and usage tracking service of The Optimal… |
 
 ## Data source
 

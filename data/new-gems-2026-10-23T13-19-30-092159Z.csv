@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-23T13:08:04.015Z,noresponse,3.0.1,26,NoResponse,Apache-2.0,NoResponse signup and gateway risk assessment client for Ruby
+2026-10-23T13:15:53.17Z,optiaudit-rails,0.2.0,0,The Optimal Partner,MIT,"Rails client for OptiAudit, the audit and usage tracking service of The Optimal Partner. Controller macros, manual tracking, and Sidekiq, background thread or inline delivery that never breaks or slows down the request. Ruby counterpart of @theoptimalpartner/nestjs-optiaudit."
