@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 10:20 UTC
+## Latest list — 2026-10-23 11:21 UTC
 
-New gems created between 2026-10-23 09:21 UTC and 2026-10-23 10:20 UTC.
+New gems created between 2026-10-23 10:20 UTC and 2026-10-23 11:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T10-20-17-386422Z.csv)
+[Full CSV](data/new-gems-2026-10-23T11-21-53-267747Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-23 09:58:48 | [noresponse](https://rubygems.org/gems/noresponse) | 2.1.12 | NoResponse | Apache-2.0 | NoResponse signup and gateway risk assessment client for Ruby |
-| 2026-10-23 10:07:46 | [licentivo-launch](https://rubygems.org/gems/licentivo-launch) | 0.1.1 | Licentivo Launch contributors | MIT | Login, scoped secure sessions, verified offline recovery and feature guards for… |
-| 2026-10-23 10:07:46 | [licentivo-launch](https://rubygems.org/gems/licentivo-launch) | 0.1.1 | Licentivo Launch contributors | MIT | Login, scoped secure sessions, verified offline recovery and feature guards for… |
-| 2026-10-23 10:14:28 | [usend](https://rubygems.org/gems/usend) | 1.3.0 | usend | MIT | Send email, manage domains, templates, contacts, broadcasts and webhooks with u… |
+| 2026-10-23 11:07:13 | [uml-viewer](https://rubygems.org/gems/uml-viewer) | 0.1.1 | Robert Hopman | MIT; EPL-2.0 | uml-viewer scans a Ruby or Rails project with Prism and shows it as a UML diagr… |
 
 ## Data source
 

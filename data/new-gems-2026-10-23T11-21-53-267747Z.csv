@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-23T11:07:13.459Z,uml-viewer,0.1.1,44,Robert Hopman,MIT; EPL-2.0,"uml-viewer scans a Ruby or Rails project with Prism and shows it as a UML diagram in the browser. Red arrows show dependencies that break the Dependency Rule between Rails layers. Box colors show CRAP from a SimpleCov run. A right-click sends a command to a Claude Code session, which explains the c…"
