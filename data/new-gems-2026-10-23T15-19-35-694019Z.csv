@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-23T14:39:42.435Z,ctx_cli,0.2.1,112,Gatework contributors,MIT,"Shared configuration discovery, private initialization, terminal interaction and CLI orchestration without device or application dependencies."
+2026-10-23T14:48:13.11Z,triplepat-syntheticalert,0.1.0,63,Triple Pat,Apache-2.0,"Provides a time-based callback to drive a synthetic alert metric. Register it as a gauge, alert on the gauge, and route the alert to a Triple Pat check-in timer; if the check-ins stop, your alerting is broken."
+2026-10-23T14:57:44.112Z,growwer,1.1.0,51,Growwer Support,MIT,"Official client for the Growwer API: orders, projects, the media catalogue, seller medias and wallets."
+2026-10-23T15:15:00.526Z,noresponse,3.0.5,0,NoResponse,Apache-2.0,NoResponse signup and gateway risk assessment client for Ruby
