@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-22T23:29:07.662Z,vcr-log_unmatched_cassettes,0.0.1,94,Skye Shaw,MIT,Make finding and re-recording unmatched VCR cassettes easier by logging the test and unmatched cassette paths to a CSV
+2026-10-22T23:45:50.16Z,bulk_destroyer,0.1.0,65,Ramanan Neelakantan,MIT,"BulkDestroyer destroys a relation (and its dependent: :destroy tree) while firing every destroy callback on every record, but issues one SELECT per association per level and one DELETE per table per level instead of one DELETE per row. Works on any ActiveRecord adapter."
+2026-10-22T23:48:52.045Z,bynn-decisionnode,0.4.1,60,"Bynn Intelligence, Inc.",MIT,"A typed client for DecisionNode, a decision engine: ask truth, choice, score and number questions about any state, its images and its videos, and get calibrated answers back, with image uploads, sessions, the Batch API, retries, typed errors and the safety check result."
+2026-10-22T23:57:10.269Z,ctx_cli,0.2.0,62,Gatework contributors,MIT,"Shared configuration discovery, private initialization, terminal interaction and CLI orchestration without device or application dependencies."
+2026-10-23T00:02:59.689Z,ctx_runner,0.1.1,42,Gatework contributors,MIT,"Shared collection, evidence publication and controlled change workflows with explicit ownership and failure evidence."

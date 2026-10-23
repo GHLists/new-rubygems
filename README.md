@@ -9,17 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 23:22 UTC
+## Latest list — 2026-10-23 00:21 UTC
 
-New gems created between 2026-10-22 22:19 UTC and 2026-10-22 23:22 UTC.
+New gems created between 2026-10-22 23:22 UTC and 2026-10-23 00:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-22T23-22-00-457676Z.csv)
+[Full CSV](data/new-gems-2026-10-23T00-21-16-585234Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-22 22:28:20 | [coss](https://rubygems.org/gems/coss) | 0.1.0 | coss.com | MIT | Every endpoint of the coss.com API, typed, with retries, idempotency keys and w… |
-| 2026-10-22 22:52:31 | [pushizo](https://rubygems.org/gems/pushizo) | 0.1.0 | Pushizo | MIT | Pushizo public API istemcisi: bildirim gönderme, kullanıcı/abonelik yönetimi, s… |
-| 2026-10-22 23:21:48 | [opencraw](https://rubygems.org/gems/opencraw) | 0.1.0 | opencraw | MIT | Crawl with OpenCraw from Ruby, with no Node to install: the engine through its… |
+| 2026-10-22 23:29:07 | [vcr-log_unmatched_cassettes](https://rubygems.org/gems/vcr-log_unmatched_cassettes) | 0.0.1 | Skye Shaw | MIT | Make finding and re-recording unmatched VCR cassettes easier by logging the tes… |
+| 2026-10-22 23:45:50 | [bulk_destroyer](https://rubygems.org/gems/bulk_destroyer) | 0.1.0 | Ramanan Neelakantan | MIT | BulkDestroyer destroys a relation (and its dependent: :destroy tree) while firi… |
+| 2026-10-22 23:48:52 | [bynn-decisionnode](https://rubygems.org/gems/bynn-decisionnode) | 0.4.1 | Bynn Intelligence, Inc. | MIT | A typed client for DecisionNode, a decision engine: ask truth, choice, score an… |
+| 2026-10-22 23:57:10 | [ctx_cli](https://rubygems.org/gems/ctx_cli) | 0.2.0 | Gatework contributors | MIT | Shared configuration discovery, private initialization, terminal interaction an… |
+| 2026-10-23 00:02:59 | [ctx_runner](https://rubygems.org/gems/ctx_runner) | 0.1.1 | Gatework contributors | MIT | Shared collection, evidence publication and controlled change workflows with ex… |
 
 ## Data source
 
