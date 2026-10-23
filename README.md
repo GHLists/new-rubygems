@@ -9,19 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 00:21 UTC
+## Latest list — 2026-10-23 01:21 UTC
 
-New gems created between 2026-10-22 23:22 UTC and 2026-10-23 00:21 UTC.
+New gems created between 2026-10-23 00:21 UTC and 2026-10-23 01:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T00-21-16-585234Z.csv)
+[Full CSV](data/new-gems-2026-10-23T01-21-30-081169Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-22 23:29:07 | [vcr-log_unmatched_cassettes](https://rubygems.org/gems/vcr-log_unmatched_cassettes) | 0.0.1 | Skye Shaw | MIT | Make finding and re-recording unmatched VCR cassettes easier by logging the tes… |
-| 2026-10-22 23:45:50 | [bulk_destroyer](https://rubygems.org/gems/bulk_destroyer) | 0.1.0 | Ramanan Neelakantan | MIT | BulkDestroyer destroys a relation (and its dependent: :destroy tree) while firi… |
-| 2026-10-22 23:48:52 | [bynn-decisionnode](https://rubygems.org/gems/bynn-decisionnode) | 0.4.1 | Bynn Intelligence, Inc. | MIT | A typed client for DecisionNode, a decision engine: ask truth, choice, score an… |
-| 2026-10-22 23:57:10 | [ctx_cli](https://rubygems.org/gems/ctx_cli) | 0.2.0 | Gatework contributors | MIT | Shared configuration discovery, private initialization, terminal interaction an… |
-| 2026-10-23 00:02:59 | [ctx_runner](https://rubygems.org/gems/ctx_runner) | 0.1.1 | Gatework contributors | MIT | Shared collection, evidence publication and controlled change workflows with ex… |
+| 2026-10-23 00:23:17 | [readword](https://rubygems.org/gems/readword) | 0.2.0 | urbullet | MIT | Reads Word 97-2003 (.doc) and Word 2007+ (.docx) files without LibreOffice, Jav… |
+| 2026-10-23 00:48:47 | [luck_remover](https://rubygems.org/gems/luck_remover) | 0.2.1 | Tyler Schneider | MIT | LuckRemover stores goals that name a registered readout Stat, a target, a direc… |
 
 ## Data source
 
