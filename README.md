@@ -9,23 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 17:21 UTC
+## Latest list — 2026-10-23 18:21 UTC
 
-New gems created between 2026-10-23 16:21 UTC and 2026-10-23 17:21 UTC.
+New gems created between 2026-10-23 17:21 UTC and 2026-10-23 18:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T17-21-24-508233Z.csv)
+[Full CSV](data/new-gems-2026-10-23T18-21-02-824212Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-23 16:23:49 | [mergify-ci-core](https://rubygems.org/gems/mergify-ci-core) | 2026.10.8 | Mergify | LicenseRef-Mergify-Proprietary | The compiled session rspec-mergify and minitest-mergify run on: CI detection, t… |
-| 2026-10-23 16:23:49 | [mergify-ci-core](https://rubygems.org/gems/mergify-ci-core) | 2026.10.8 | Mergify | LicenseRef-Mergify-Proprietary | The compiled session rspec-mergify and minitest-mergify run on: CI detection, t… |
-| 2026-10-23 16:23:49 | [mergify-ci-core](https://rubygems.org/gems/mergify-ci-core) | 2026.10.8 | Mergify | LicenseRef-Mergify-Proprietary | The compiled session rspec-mergify and minitest-mergify run on: CI detection, t… |
-| 2026-10-23 16:23:49 | [mergify-ci-core](https://rubygems.org/gems/mergify-ci-core) | 2026.10.8 | Mergify | LicenseRef-Mergify-Proprietary | The compiled session rspec-mergify and minitest-mergify run on: CI detection, t… |
-| 2026-10-23 16:23:49 | [mergify-ci-core](https://rubygems.org/gems/mergify-ci-core) | 2026.10.8 | Mergify | LicenseRef-Mergify-Proprietary | The compiled session rspec-mergify and minitest-mergify run on: CI detection, t… |
-| 2026-10-23 16:23:49 | [mergify-ci-core](https://rubygems.org/gems/mergify-ci-core) | 2026.10.8 | Mergify | LicenseRef-Mergify-Proprietary | The compiled session rspec-mergify and minitest-mergify run on: CI detection, t… |
-| 2026-10-23 16:23:49 | [mergify-ci-core](https://rubygems.org/gems/mergify-ci-core) | 2026.10.8 | Mergify | LicenseRef-Mergify-Proprietary | The compiled session rspec-mergify and minitest-mergify run on: CI detection, t… |
-| 2026-10-23 16:23:49 | [mergify-ci-core](https://rubygems.org/gems/mergify-ci-core) | 2026.10.8 | Mergify | LicenseRef-Mergify-Proprietary | The compiled session rspec-mergify and minitest-mergify run on: CI detection, t… |
-| 2026-10-23 16:24:11 | [minitest-mergify](https://rubygems.org/gems/minitest-mergify) | 2026.10.8 | Mergify | LicenseRef-Mergify-Proprietary | Minitest integration for Mergify Test Engine: the run reported to CI Insights,… |
+| 2026-10-23 18:09:29 | [dontsleep](https://rubygems.org/gems/dontsleep) | 0.1.0 | Andreas Freier | MIT | Prevents macOS sleep — and the broken SSH sessions, builds and downloads that c… |
+| 2026-10-23 18:15:55 | [quack-ruby](https://rubygems.org/gems/quack-ruby) | 0.1.0 | Nico | MIT | Direct Quack protocol client for Ruby, powered by Rust |
+| 2026-10-23 18:15:55 | [quack-ruby](https://rubygems.org/gems/quack-ruby) | 0.1.0 | Nico | MIT | Direct Quack protocol client for Ruby, powered by Rust |
+| 2026-10-23 18:15:55 | [quack-ruby](https://rubygems.org/gems/quack-ruby) | 0.1.0 | Nico | MIT | Direct Quack protocol client for Ruby, powered by Rust |
+| 2026-10-23 18:15:55 | [quack-ruby](https://rubygems.org/gems/quack-ruby) | 0.1.0 | Nico | MIT | Direct Quack protocol client for Ruby, powered by Rust |
+| 2026-10-23 18:15:55 | [quack-ruby](https://rubygems.org/gems/quack-ruby) | 0.1.0 | Nico | MIT | Direct Quack protocol client for Ruby, powered by Rust |
+| 2026-10-23 18:18:57 | [activerecord-quack-adapter](https://rubygems.org/gems/activerecord-quack-adapter) | 0.1.0 | Nico | MIT | Direct Quack protocol adapter for Active Record |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-23T18:09:29.566Z,dontsleep,0.1.0,10,Andreas Freier,MIT,"Prevents macOS sleep — and the broken SSH sessions, builds and downloads that come with it — by nudging the cursor. macOS only."
+2026-10-23T18:15:55.421Z,quack-ruby,0.1.0,0,Nico,MIT,"Direct Quack protocol client for Ruby, powered by Rust"
+2026-10-23T18:15:55.421Z,quack-ruby,0.1.0,0,Nico,MIT,"Direct Quack protocol client for Ruby, powered by Rust"
+2026-10-23T18:15:55.421Z,quack-ruby,0.1.0,0,Nico,MIT,"Direct Quack protocol client for Ruby, powered by Rust"
+2026-10-23T18:15:55.421Z,quack-ruby,0.1.0,0,Nico,MIT,"Direct Quack protocol client for Ruby, powered by Rust"
+2026-10-23T18:15:55.421Z,quack-ruby,0.1.0,0,Nico,MIT,"Direct Quack protocol client for Ruby, powered by Rust"
+2026-10-23T18:18:57.738Z,activerecord-quack-adapter,0.1.0,0,Nico,MIT,Direct Quack protocol adapter for Active Record
