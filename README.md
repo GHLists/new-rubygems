@@ -9,21 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 18:21 UTC
+## Latest list — 2026-10-23 19:19 UTC
 
-New gems created between 2026-10-23 17:21 UTC and 2026-10-23 18:21 UTC.
+New gems created between 2026-10-23 18:21 UTC and 2026-10-23 19:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T18-21-02-824212Z.csv)
+[Full CSV](data/new-gems-2026-10-23T19-19-10-936727Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-23 18:09:29 | [dontsleep](https://rubygems.org/gems/dontsleep) | 0.1.0 | Andreas Freier | MIT | Prevents macOS sleep — and the broken SSH sessions, builds and downloads that c… |
-| 2026-10-23 18:15:55 | [quack-ruby](https://rubygems.org/gems/quack-ruby) | 0.1.0 | Nico | MIT | Direct Quack protocol client for Ruby, powered by Rust |
-| 2026-10-23 18:15:55 | [quack-ruby](https://rubygems.org/gems/quack-ruby) | 0.1.0 | Nico | MIT | Direct Quack protocol client for Ruby, powered by Rust |
-| 2026-10-23 18:15:55 | [quack-ruby](https://rubygems.org/gems/quack-ruby) | 0.1.0 | Nico | MIT | Direct Quack protocol client for Ruby, powered by Rust |
-| 2026-10-23 18:15:55 | [quack-ruby](https://rubygems.org/gems/quack-ruby) | 0.1.0 | Nico | MIT | Direct Quack protocol client for Ruby, powered by Rust |
-| 2026-10-23 18:15:55 | [quack-ruby](https://rubygems.org/gems/quack-ruby) | 0.1.0 | Nico | MIT | Direct Quack protocol client for Ruby, powered by Rust |
-| 2026-10-23 18:18:57 | [activerecord-quack-adapter](https://rubygems.org/gems/activerecord-quack-adapter) | 0.1.0 | Nico | MIT | Direct Quack protocol adapter for Active Record |
+| 2026-10-23 19:17:53 | [plai_testr](https://rubygems.org/gems/plai_testr) | 0.1.1 | Aaron H | MIT | PlAI Testr mediates sessions of tabletop games between LLM agents running local… |
 
 ## Data source
 

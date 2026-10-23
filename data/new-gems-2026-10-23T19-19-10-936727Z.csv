@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-23T19:17:53.852Z,plai_testr,0.1.1,0,Aaron H,MIT,"PlAI Testr mediates sessions of tabletop games between LLM agents running locally via Ollama. The game lists every legal move as a numbered menu and the model picks one. It records turn-by-turn transcripts with reasoning, checkpoints for resuming, and generates playtest reports to help game designe…"
