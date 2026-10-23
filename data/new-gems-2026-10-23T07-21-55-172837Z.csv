@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-23T06:27:30.378Z,ruby-object-framework,1.1.0,99,Gastón Caruso,Nonstandard,"Explicit application composition, scoped execution, Data Mapper persistence, HTTP and native gRPC, with an optional SQLite adapter."
+2026-10-23T07:01:23.214Z,noresponse,2.1.4,56,NoResponse,Apache-2.0,NoResponse signup and gateway risk assessment client for Ruby
