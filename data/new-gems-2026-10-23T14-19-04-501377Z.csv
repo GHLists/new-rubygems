@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-23T13:33:32.658Z,licentivo-launch,0.1.2,26,Licentivo Launch contributors,MIT,"Login, scoped secure sessions, verified offline recovery and feature guards for Licentivo Launch."
+2026-10-23T13:33:32.658Z,licentivo-launch,0.1.2,26,Licentivo Launch contributors,MIT,"Login, scoped secure sessions, verified offline recovery and feature guards for Licentivo Launch."
+2026-10-23T13:54:08.014Z,luck_remover,0.3.0,51,Tyler Schneider,MIT,"LuckRemover stores goals that name a registered readout Stat, a target, a direction and a period, and reports whether the current period met each one."
+2026-10-23T14:12:31.169Z,noresponse,3.0.3,3,NoResponse,Apache-2.0,NoResponse signup and gateway risk assessment client for Ruby
