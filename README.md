@@ -9,25 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 20:20 UTC
+## Latest list — 2026-10-23 22:22 UTC
 
-New gems created between 2026-10-23 19:19 UTC and 2026-10-23 20:20 UTC.
+New gems created between 2026-10-23 21:18 UTC and 2026-10-23 22:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T20-20-42-998648Z.csv)
+[Full CSV](data/new-gems-2026-10-23T22-22-14-039999Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
-| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
-| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
-| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
-| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
-| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
-| 2026-10-23 19:57:03 | [strongroomd](https://rubygems.org/gems/strongroomd) | 0.1.0 | Seuros | BSD-3-Clause | Prebuilt binaries of strongroomd, a Postgres-first authentication kernel that a… |
-| 2026-10-23 19:59:14 | [strongroom-rails](https://rubygems.org/gems/strongroom-rails) | 0.1.0 | Seuros | BSD-3-Clause | Rails adapter for strongroomd, a Postgres-first authentication kernel that acts… |
-| 2026-10-23 20:12:06 | [granita](https://rubygems.org/gems/granita) | 0.0.1 | Alexandre Terrasa | Apache-2.0 | Sorbet-compatible Ruby type checker, rewritten in Rust |
-| 2026-10-23 20:12:06 | [granita](https://rubygems.org/gems/granita) | 0.0.1 | Alexandre Terrasa | Apache-2.0 | Sorbet-compatible Ruby type checker, rewritten in Rust |
-| 2026-10-23 20:12:06 | [granita](https://rubygems.org/gems/granita) | 0.0.1 | Alexandre Terrasa | Apache-2.0 | Sorbet-compatible Ruby type checker, rewritten in Rust |
+| 2026-10-23 21:22:08 | [steam_api_client](https://rubygems.org/gems/steam_api_client) | 0.10.0 | João Pedro | MIT | A ruby client to fetch from the public Steam Web API |
+| 2026-10-23 22:21:14 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.0 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
+| 2026-10-23 22:21:14 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.0 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
+| 2026-10-23 22:21:14 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.0 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
+| 2026-10-23 22:21:14 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.0 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
+| 2026-10-23 22:21:14 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.0 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
 
 ## Data source
 
