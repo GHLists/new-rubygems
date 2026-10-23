@@ -9,18 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 15:19 UTC
+## Latest list — 2026-10-23 16:21 UTC
 
-New gems created between 2026-10-23 14:19 UTC and 2026-10-23 15:19 UTC.
+New gems created between 2026-10-23 15:19 UTC and 2026-10-23 16:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T15-19-35-694019Z.csv)
+[Full CSV](data/new-gems-2026-10-23T16-21-18-16832Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-23 14:39:42 | [ctx_cli](https://rubygems.org/gems/ctx_cli) | 0.2.1 | Gatework contributors | MIT | Shared configuration discovery, private initialization, terminal interaction an… |
-| 2026-10-23 14:48:13 | [triplepat-syntheticalert](https://rubygems.org/gems/triplepat-syntheticalert) | 0.1.0 | Triple Pat | Apache-2.0 | Provides a time-based callback to drive a synthetic alert metric. Register it a… |
-| 2026-10-23 14:57:44 | [growwer](https://rubygems.org/gems/growwer) | 1.1.0 | Growwer Support | MIT | Official client for the Growwer API: orders, projects, the media catalogue, sel… |
-| 2026-10-23 15:15:00 | [noresponse](https://rubygems.org/gems/noresponse) | 3.0.5 | NoResponse | Apache-2.0 | NoResponse signup and gateway risk assessment client for Ruby |
+| 2026-10-23 15:37:36 | [steam_api_client](https://rubygems.org/gems/steam_api_client) | 0.9.1 | João Pedro | MIT | A ruby client to fetch from the public Steam Web API |
+| 2026-10-23 15:43:18 | [luck_remover](https://rubygems.org/gems/luck_remover) | 0.4.0 | Tyler Schneider | MIT | LuckRemover stores goals that name a registered readout Stat, a target, a direc… |
+| 2026-10-23 15:46:07 | [k9o](https://rubygems.org/gems/k9o) | 1.0.0 | Kilimanjaro | Apache-2.0 | Idiomatic Ruby SDK — create_client + data DSL + projects + KError. snake_case +… |
+| 2026-10-23 15:46:07 | [k9o](https://rubygems.org/gems/k9o) | 1.0.0 | Kilimanjaro | Apache-2.0 | Idiomatic Ruby SDK — create_client + data DSL + projects + KError. snake_case +… |
+| 2026-10-23 15:46:07 | [k9o](https://rubygems.org/gems/k9o) | 1.0.0 | Kilimanjaro | Apache-2.0 | Idiomatic Ruby SDK — create_client + data DSL + projects + KError. snake_case +… |
 
 ## Data source
 
