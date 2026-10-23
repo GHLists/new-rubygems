@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-23T02:11:34.42Z,vcr-log_unmatched_cassettes,0.0.2,9,Skye Shaw,MIT,Make finding and re-recording unmatched VCR cassettes easier by logging the test and unmatched cassette paths to a CSV
