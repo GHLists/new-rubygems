@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-24T08:27:58.068Z,asciiunits,0.1.2,185,Ribose Inc.,BSD-2-Clause,"Checksummed parsanol PARG artifact, terminal tables and oracle-frozen conformance corpus for the unitsml(...) expression syntax of UnitsML. Runtime-agnostic: load the artifact with any Parsanol runtime (Ruby, Rust, wasm)."
+2026-10-24T08:55:57.347Z,pg-statistics-rails,0.2.0,55,Andrew Fader,MIT,"Adds create_statistics, drop_statistics, and statistics introspection to the Active Record PostgreSQL adapter, with reversible migration support and automatic schema.rb dumping so extended statistics survive db:schema:load."
+2026-10-24T09:03:08.839Z,claude_code_rails,0.1.1,64,Yoshitaro Miura,MIT,A tool that provides files for using Claude Code in Ruby on Rails applications.
