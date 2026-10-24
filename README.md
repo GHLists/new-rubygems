@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 14:21 UTC
+## Latest list — 2026-10-24 17:19 UTC
 
-New gems created between 2026-10-24 13:19 UTC and 2026-10-24 14:21 UTC.
+New gems created between 2026-10-24 16:19 UTC and 2026-10-24 17:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-24T14-21-48-302067Z.csv)
+[Full CSV](data/new-gems-2026-10-24T17-19-14-385686Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-24 13:52:54 | [lutaml-openapi](https://rubygems.org/gems/lutaml-openapi) | 0.1.0 | Ribose Inc. | BSD-2-Clause | Parse OpenAPI 3.0/3.1 documents into lossless LutaML model objects; the model l… |
-| 2026-10-24 14:04:57 | [metanorma-plugin-openapi](https://rubygems.org/gems/metanorma-plugin-openapi) | 0.1.0 | Ribose Inc. | BSD-2-Clause | Metanorma plugin rendering model-driven normative sections from OpenAPI documen… |
-| 2026-10-24 14:07:04 | [jekyll-geo-kit](https://rubygems.org/gems/jekyll-geo-kit) | 0.0.1 | Rahenda | MIT | Generates /<slug>.md companions for each post, declared via rel=alternate type=… |
+| 2026-10-24 17:03:39 | [dataforseo-ruby](https://rubygems.org/gems/dataforseo-ruby) | 0.3.1 | Anton Kopylov | MIT | A dependency-free Ruby client for DataForSEO Live endpoints: envelope checking,… |
 
 ## Data source
 

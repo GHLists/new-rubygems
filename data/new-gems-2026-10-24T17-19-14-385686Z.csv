@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-24T17:03:39.464Z,dataforseo-ruby,0.3.1,43,Anton Kopylov,MIT,"A dependency-free Ruby client for DataForSEO Live endpoints: envelope checking, typed errors, batching and a fake transport for tests."
