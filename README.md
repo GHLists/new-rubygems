@@ -9,19 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 05:19 UTC
+## Latest list — 2026-10-24 06:20 UTC
 
-New gems created between 2026-10-24 04:19 UTC and 2026-10-24 05:19 UTC.
+New gems created between 2026-10-24 05:19 UTC and 2026-10-24 06:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-24T05-19-53-707798Z.csv)
+[Full CSV](data/new-gems-2026-10-24T06-20-52-081678Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-24 05:02:43 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.2 | JP Camara | MIT | judgelint checks code against conventions you write as bullets in a README. It… |
-| 2026-10-24 05:02:43 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.2 | JP Camara | MIT | judgelint checks code against conventions you write as bullets in a README. It… |
-| 2026-10-24 05:02:43 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.2 | JP Camara | MIT | judgelint checks code against conventions you write as bullets in a README. It… |
-| 2026-10-24 05:02:43 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.2 | JP Camara | MIT | judgelint checks code against conventions you write as bullets in a README. It… |
-| 2026-10-24 05:02:43 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.2 | JP Camara | MIT | judgelint checks code against conventions you write as bullets in a README. It… |
+| 2026-10-24 05:36:28 | [asciiunits](https://rubygems.org/gems/asciiunits) | 0.1.1 | Ribose Inc. | BSD-2-Clause | Checksummed parsanol PARG artifact, terminal tables and oracle-frozen conforman… |
 
 ## Data source
 

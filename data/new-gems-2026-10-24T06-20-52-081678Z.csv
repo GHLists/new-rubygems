@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-24T05:36:28.752Z,asciiunits,0.1.1,133,Ribose Inc.,BSD-2-Clause,"Checksummed parsanol PARG artifact, terminal tables and oracle-frozen conformance corpus for the unitsml(...) expression syntax of UnitsML. Runtime-agnostic: load the artifact with any Parsanol runtime (Ruby, Rust, wasm)."
