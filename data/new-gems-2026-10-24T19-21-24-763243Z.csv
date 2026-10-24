@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-24T18:20:05.336Z,robots-audit,1.0.0,109,DeveloApps,MIT,"robots-audit fetches a site's robots.txt (following redirects), parses it per the robots exclusion protocol, and reports actionable findings: parse violations, orphan Disallow lines, missing wildcard User-agent coverage, missing sitemap declarations, unexpected HTTP statuses, and oversize files. Ze…"
