@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 19:21 UTC
+## Latest list — 2026-10-24 21:20 UTC
 
-New gems created between 2026-10-24 18:20 UTC and 2026-10-24 19:21 UTC.
+New gems created between 2026-10-24 20:20 UTC and 2026-10-24 21:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-24T19-21-24-763243Z.csv)
+[Full CSV](data/new-gems-2026-10-24T21-20-27-611145Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-24 18:20:05 | [robots-audit](https://rubygems.org/gems/robots-audit) | 1.0.0 | DeveloApps | MIT | robots-audit fetches a site's robots.txt (following redirects), parses it per t… |
+| 2026-10-24 21:18:40 | [log_shout](https://rubygems.org/gems/log_shout) | 0.1.1 | Matt Christen | MIT | Easy to configure ruby loggers. Multi-destination and configuration levels. |
 
 ## Data source
 

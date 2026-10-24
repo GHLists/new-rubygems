@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-24T21:18:40.791Z,log_shout,0.1.1,0,Matt Christen,MIT,Easy to configure ruby loggers. Multi-destination and configuration levels.
