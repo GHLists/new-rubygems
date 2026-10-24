@@ -1,0 +1,12 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-24T00:34:34.23Z,asciiunits,0.1.0,91,Ribose Inc.,BSD-2-Clause,"Checksummed parsanol PARG artifact, terminal tables and oracle-frozen conformance corpus for the unitsml(...) expression syntax of UnitsML. Runtime-agnostic: load the artifact with any Parsanol runtime (Ruby, Rust, wasm)."
+2026-10-24T00:38:26.146Z,octri-openapi-parser,0.1.2,24,Octri contributors,Apache-2.0,"Validate, parse, bundle and dereference Swagger 2.0 and OpenAPI 3.x documents with the bundled Octri Rust parser."
+2026-10-24T00:38:26.146Z,octri-openapi-parser,0.1.2,24,Octri contributors,Apache-2.0,"Validate, parse, bundle and dereference Swagger 2.0 and OpenAPI 3.x documents with the bundled Octri Rust parser."
+2026-10-24T00:38:26.146Z,octri-openapi-parser,0.1.2,24,Octri contributors,Apache-2.0,"Validate, parse, bundle and dereference Swagger 2.0 and OpenAPI 3.x documents with the bundled Octri Rust parser."
+2026-10-24T00:39:11.875Z,octri-spec-auditor,0.1.3,27,Octri contributors,Apache-2.0,Audit OpenAPI documents offline with the bundled Octri Rust Spec Auditor.
+2026-10-24T00:39:11.875Z,octri-spec-auditor,0.1.3,27,Octri contributors,Apache-2.0,Audit OpenAPI documents offline with the bundled Octri Rust Spec Auditor.
+2026-10-24T00:39:11.875Z,octri-spec-auditor,0.1.3,27,Octri contributors,Apache-2.0,Audit OpenAPI documents offline with the bundled Octri Rust Spec Auditor.
+2026-10-24T00:40:32.945Z,octri-spec-converter,0.1.3,29,Octri contributors,Apache-2.0,Convert API descriptions to OpenAPI offline with the bundled Octri Rust Spec Converter.
+2026-10-24T00:40:32.945Z,octri-spec-converter,0.1.3,29,Octri contributors,Apache-2.0,Convert API descriptions to OpenAPI offline with the bundled Octri Rust Spec Converter.
+2026-10-24T00:40:32.945Z,octri-spec-converter,0.1.3,29,Octri contributors,Apache-2.0,Convert API descriptions to OpenAPI offline with the bundled Octri Rust Spec Converter.
+2026-10-24T01:05:51.85Z,hotcell-remote,0.0.0,28,Ben Sheldon,MIT,Placeholder for Hot Cell Remote; the first release is coming soon.

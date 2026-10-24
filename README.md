@@ -9,16 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 23:22 UTC
+## Latest list — 2026-10-24 01:19 UTC
 
-New gems created between 2026-10-23 22:22 UTC and 2026-10-23 23:22 UTC.
+New gems created between 2026-10-24 00:19 UTC and 2026-10-24 01:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-23T23-22-11-995591Z.csv)
+[Full CSV](data/new-gems-2026-10-24T01-19-12-116486Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-23 22:25:42 | [cpee-replay](https://rubygems.org/gems/cpee-replay) | 1.0.1 | Juergen eTM Mangler, Matthias… | GPL-3.0-or-later | see http://cpee.org |
-| 2026-10-23 23:08:43 | [balancetui](https://rubygems.org/gems/balancetui) | 0.1.0 | Balance contributors | MIT | Installs Balance and its native build dependencies on macOS and Linux. |
+| 2026-10-24 00:34:34 | [asciiunits](https://rubygems.org/gems/asciiunits) | 0.1.0 | Ribose Inc. | BSD-2-Clause | Checksummed parsanol PARG artifact, terminal tables and oracle-frozen conforman… |
+| 2026-10-24 00:38:26 | [octri-openapi-parser](https://rubygems.org/gems/octri-openapi-parser) | 0.1.2 | Octri contributors | Apache-2.0 | Validate, parse, bundle and dereference Swagger 2.0 and OpenAPI 3.x documents w… |
+| 2026-10-24 00:38:26 | [octri-openapi-parser](https://rubygems.org/gems/octri-openapi-parser) | 0.1.2 | Octri contributors | Apache-2.0 | Validate, parse, bundle and dereference Swagger 2.0 and OpenAPI 3.x documents w… |
+| 2026-10-24 00:38:26 | [octri-openapi-parser](https://rubygems.org/gems/octri-openapi-parser) | 0.1.2 | Octri contributors | Apache-2.0 | Validate, parse, bundle and dereference Swagger 2.0 and OpenAPI 3.x documents w… |
+| 2026-10-24 00:39:11 | [octri-spec-auditor](https://rubygems.org/gems/octri-spec-auditor) | 0.1.3 | Octri contributors | Apache-2.0 | Audit OpenAPI documents offline with the bundled Octri Rust Spec Auditor. |
+| 2026-10-24 00:39:11 | [octri-spec-auditor](https://rubygems.org/gems/octri-spec-auditor) | 0.1.3 | Octri contributors | Apache-2.0 | Audit OpenAPI documents offline with the bundled Octri Rust Spec Auditor. |
+| 2026-10-24 00:39:11 | [octri-spec-auditor](https://rubygems.org/gems/octri-spec-auditor) | 0.1.3 | Octri contributors | Apache-2.0 | Audit OpenAPI documents offline with the bundled Octri Rust Spec Auditor. |
+| 2026-10-24 00:40:32 | [octri-spec-converter](https://rubygems.org/gems/octri-spec-converter) | 0.1.3 | Octri contributors | Apache-2.0 | Convert API descriptions to OpenAPI offline with the bundled Octri Rust Spec Co… |
+| 2026-10-24 00:40:32 | [octri-spec-converter](https://rubygems.org/gems/octri-spec-converter) | 0.1.3 | Octri contributors | Apache-2.0 | Convert API descriptions to OpenAPI offline with the bundled Octri Rust Spec Co… |
+| 2026-10-24 00:40:32 | [octri-spec-converter](https://rubygems.org/gems/octri-spec-converter) | 0.1.3 | Octri contributors | Apache-2.0 | Convert API descriptions to OpenAPI offline with the bundled Octri Rust Spec Co… |
+| 2026-10-24 01:05:51 | [hotcell-remote](https://rubygems.org/gems/hotcell-remote) | 0.0.0 | Ben Sheldon | MIT | Placeholder for Hot Cell Remote; the first release is coming soon. |
 
 ## Data source
 
