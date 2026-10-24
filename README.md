@@ -9,19 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 03:19 UTC
+## Latest list — 2026-10-24 04:19 UTC
 
-New gems created between 2026-10-24 02:19 UTC and 2026-10-24 03:19 UTC.
+New gems created between 2026-10-24 03:19 UTC and 2026-10-24 04:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-24T03-19-29-847694Z.csv)
+[Full CSV](data/new-gems-2026-10-24T04-19-14-371362Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-24 03:09:56 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.1 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
-| 2026-10-24 03:09:56 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.1 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
-| 2026-10-24 03:09:56 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.1 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
-| 2026-10-24 03:09:56 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.1 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
-| 2026-10-24 03:09:56 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.1 | JP Camara | MIT | judgelint checks files against conventions that only a reader can judge. Each r… |
+| 2026-10-24 04:02:12 | [claude_code_rails](https://rubygems.org/gems/claude_code_rails) | 0.1.0 | Yoshitaro Miura | MIT | A tool that provides files for using Claude Code in Ruby on Rails applications. |
 
 ## Data source
 
