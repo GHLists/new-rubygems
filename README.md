@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 10:18 UTC
+## Latest list — 2026-10-24 11:19 UTC
 
-New gems created between 2026-10-24 09:20 UTC and 2026-10-24 10:18 UTC.
+New gems created between 2026-10-24 10:18 UTC and 2026-10-24 11:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-24T10-18-51-014885Z.csv)
+[Full CSV](data/new-gems-2026-10-24T11-19-29-734212Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-24 09:36:12 | [bareruby-machine-raspberry_pi-pico](https://rubygems.org/gems/bareruby-machine-raspberry_pi-pico) | 0.1.0 | uproad | MIT | BareRuby machine implementation for Raspberry Pi Pico 1. |
-| 2026-10-24 09:36:14 | [bareruby-binding-raspberry_pi-pico_sdk](https://rubygems.org/gems/bareruby-binding-raspberry_pi-pico_sdk) | 0.1.0 | uproad | MIT | BareRuby SDK wrapper for Raspberry Pi Pico SDK. |
+| 2026-10-24 10:42:45 | [engine_map](https://rubygems.org/gems/engine_map) | 0.1.0 | Baden | MIT | Stylesheet :all helper, merged or independent importmaps, and namespaced Stimul… |
 
 ## Data source
 

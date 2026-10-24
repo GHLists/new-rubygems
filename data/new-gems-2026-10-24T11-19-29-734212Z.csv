@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-24T10:42:45.248Z,engine_map,0.1.0,87,Baden,MIT,"Stylesheet :all helper, merged or independent importmaps, and namespaced Stimulus controllers for Rails engines, on Propshaft or Sprockets, with an idempotent install generator that backs up what it edits."
