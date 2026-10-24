@@ -9,15 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 04:19 UTC
+## Latest list — 2026-10-24 05:19 UTC
 
-New gems created between 2026-10-24 03:19 UTC and 2026-10-24 04:19 UTC.
+New gems created between 2026-10-24 04:19 UTC and 2026-10-24 05:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-24T04-19-14-371362Z.csv)
+[Full CSV](data/new-gems-2026-10-24T05-19-53-707798Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-24 04:02:12 | [claude_code_rails](https://rubygems.org/gems/claude_code_rails) | 0.1.0 | Yoshitaro Miura | MIT | A tool that provides files for using Claude Code in Ruby on Rails applications. |
+| 2026-10-24 05:02:43 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.2 | JP Camara | MIT | judgelint checks code against conventions you write as bullets in a README. It… |
+| 2026-10-24 05:02:43 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.2 | JP Camara | MIT | judgelint checks code against conventions you write as bullets in a README. It… |
+| 2026-10-24 05:02:43 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.2 | JP Camara | MIT | judgelint checks code against conventions you write as bullets in a README. It… |
+| 2026-10-24 05:02:43 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.2 | JP Camara | MIT | judgelint checks code against conventions you write as bullets in a README. It… |
+| 2026-10-24 05:02:43 | [judgelint](https://rubygems.org/gems/judgelint) | 0.1.2 | JP Camara | MIT | judgelint checks code against conventions you write as bullets in a README. It… |
 
 ## Data source
 
