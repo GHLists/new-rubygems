@@ -9,15 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 17:19 UTC
+## Latest list — 2026-10-24 18:20 UTC
 
-New gems created between 2026-10-24 16:19 UTC and 2026-10-24 17:19 UTC.
+New gems created between 2026-10-24 17:19 UTC and 2026-10-24 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-24T17-19-14-385686Z.csv)
+[Full CSV](data/new-gems-2026-10-24T18-20-02-558241Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-24 17:03:39 | [dataforseo-ruby](https://rubygems.org/gems/dataforseo-ruby) | 0.3.1 | Anton Kopylov | MIT | A dependency-free Ruby client for DataForSEO Live endpoints: envelope checking,… |
+| 2026-10-24 18:10:50 | [csan](https://rubygems.org/gems/csan) | 0.8.0 | VERALVX | MIT; Apache-2.0 | Generate Cutter-Sanborn three-figure and Library of Congress cutter numbers fro… |
+| 2026-10-24 18:10:50 | [csan](https://rubygems.org/gems/csan) | 0.8.0 | VERALVX | MIT; Apache-2.0 | Generate Cutter-Sanborn three-figure and Library of Congress cutter numbers fro… |
+| 2026-10-24 18:10:50 | [csan](https://rubygems.org/gems/csan) | 0.8.0 | VERALVX | MIT; Apache-2.0 | Generate Cutter-Sanborn three-figure and Library of Congress cutter numbers fro… |
+| 2026-10-24 18:10:50 | [csan](https://rubygems.org/gems/csan) | 0.8.0 | VERALVX | MIT; Apache-2.0 | Generate Cutter-Sanborn three-figure and Library of Congress cutter numbers fro… |
+| 2026-10-24 18:10:50 | [csan](https://rubygems.org/gems/csan) | 0.8.0 | VERALVX | MIT; Apache-2.0 | Generate Cutter-Sanborn three-figure and Library of Congress cutter numbers fro… |
+| 2026-10-24 18:10:50 | [csan](https://rubygems.org/gems/csan) | 0.8.0 | VERALVX | MIT; Apache-2.0 | Generate Cutter-Sanborn three-figure and Library of Congress cutter numbers fro… |
+| 2026-10-24 18:10:50 | [csan](https://rubygems.org/gems/csan) | 0.8.0 | VERALVX | MIT; Apache-2.0 | Generate Cutter-Sanborn three-figure and Library of Congress cutter numbers fro… |
+| 2026-10-24 18:10:50 | [csan](https://rubygems.org/gems/csan) | 0.8.0 | VERALVX | MIT; Apache-2.0 | Generate Cutter-Sanborn three-figure and Library of Congress cutter numbers fro… |
+| 2026-10-24 18:10:50 | [csan](https://rubygems.org/gems/csan) | 0.8.0 | VERALVX | MIT; Apache-2.0 | Generate Cutter-Sanborn three-figure and Library of Congress cutter numbers fro… |
 
 ## Data source
 
