@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 06:20 UTC
+## Latest list — 2026-10-24 08:19 UTC
 
-New gems created between 2026-10-24 05:19 UTC and 2026-10-24 06:20 UTC.
+New gems created between 2026-10-24 07:18 UTC and 2026-10-24 08:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-24T06-20-52-081678Z.csv)
+[Full CSV](data/new-gems-2026-10-24T08-19-43-037817Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-24 05:36:28 | [asciiunits](https://rubygems.org/gems/asciiunits) | 0.1.1 | Ribose Inc. | BSD-2-Clause | Checksummed parsanol PARG artifact, terminal tables and oracle-frozen conforman… |
+| 2026-10-24 07:50:08 | [picoride](https://rubygems.org/gems/picoride) | 0.1.0 | youchan | MIT | A Integrated develop emvironment for PicoRuby ESP32 |
 
 ## Data source
 
