@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T14:17:00.147Z,walkabout,0.3.0,0,thoran,MIT,"Walk a directed acyclic graph in dependency order. A DAG built from edges, or from sequences, hands out the nodes whose predecessors are complete, singly or in batches, and refuses a graph with a cycle."
+2026-10-25T14:17:02.947Z,walkabout.rb,0.3.0,0,thoran,MIT,"Walk a directed acyclic graph in dependency order. A DAG built from edges, or from sequences, hands out the nodes whose predecessors are complete, singly or in batches, and refuses a graph with a cycle."
