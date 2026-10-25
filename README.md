@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 06:22 UTC
+## Latest list — 2026-10-25 07:20 UTC
 
-New gems created between 2026-10-25 05:20 UTC and 2026-10-25 06:22 UTC.
+New gems created between 2026-10-25 06:22 UTC and 2026-10-25 07:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-25T06-22-04-320092Z.csv)
+[Full CSV](data/new-gems-2026-10-25T07-20-02-900284Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-25 06:15:11 | [detention_clock](https://rubygems.org/gems/detention_clock) | 0.1.0 | George Green | MIT | Turns dock check-in and check-out times into billable detention hours and pay,… |
+| 2026-10-25 06:59:10 | [nextmail](https://rubygems.org/gems/nextmail) | 0.0.1 | Nextmail | Nonstandard | Send email and broadcasts, work with threads, drafts, labels, templates, rules,… |
 
 ## Data source
 

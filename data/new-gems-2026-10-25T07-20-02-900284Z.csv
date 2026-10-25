@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T06:59:10.943Z,nextmail,0.0.1,52,Nextmail,Nonstandard,"Send email and broadcasts, work with threads, drafts, labels, templates, rules, webhooks, tracking, contacts, audiences, sign-up forms, domains, suppressions, files, API keys, roles, members, mailbox imports and disposable inboxes from Ruby."
