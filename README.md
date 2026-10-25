@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 05:20 UTC
+## Latest list — 2026-10-25 06:22 UTC
 
-New gems created between 2026-10-25 04:20 UTC and 2026-10-25 05:20 UTC.
+New gems created between 2026-10-25 05:20 UTC and 2026-10-25 06:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-25T05-20-31-802856Z.csv)
+[Full CSV](data/new-gems-2026-10-25T06-22-04-320092Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-25 04:59:22 | [seatschart](https://rubygems.org/gems/seatschart) | 0.1.1 | SeatsChart | MIT | Official SeatsChart Ruby SDK for the SeatsChart seating API: seat maps, holds,… |
-| 2026-10-25 05:15:37 | [mapricot-api](https://rubygems.org/gems/mapricot-api) | 0.3.0 | Mapricot | MIT | Official client for the Mapricot API: geocoding, places, routing, and IP geoloc… |
+| 2026-10-25 06:15:11 | [detention_clock](https://rubygems.org/gems/detention_clock) | 0.1.0 | George Green | MIT | Turns dock check-in and check-out times into billable detention hours and pay,… |
 
 ## Data source
 

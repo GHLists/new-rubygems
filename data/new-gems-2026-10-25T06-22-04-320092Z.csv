@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T06:15:11.376Z,detention_clock,0.1.0,8,George Green,MIT,"Turns dock check-in and check-out times into billable detention hours and pay, with a free window, quarter-hour rounding and an optional cap."
