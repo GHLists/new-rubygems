@@ -9,15 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 21:20 UTC
+## Latest list — 2026-10-25 01:20 UTC
 
-New gems created between 2026-10-24 20:20 UTC and 2026-10-24 21:20 UTC.
+New gems created between 2026-10-25 00:21 UTC and 2026-10-25 01:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-24T21-20-27-611145Z.csv)
+[Full CSV](data/new-gems-2026-10-25T01-20-58-515968Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-24 21:18:40 | [log_shout](https://rubygems.org/gems/log_shout) | 0.1.1 | Matt Christen | MIT | Easy to configure ruby loggers. Multi-destination and configuration levels. |
+| 2026-10-25 00:35:24 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.0 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 00:35:24 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.0 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 00:35:24 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.0 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 00:35:24 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.0 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 00:35:24 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.0 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 00:35:24 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.0 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 00:35:24 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.0 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 01:05:49 | [mapricot-api](https://rubygems.org/gems/mapricot-api) | 0.2.0 | Mapricot | MIT | Official client for the Mapricot API: geocoding, places, routing, and IP geoloc… |
 
 ## Data source
 
