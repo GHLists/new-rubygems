@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 09:20 UTC
+## Latest list — 2026-10-25 10:20 UTC
 
-New gems created between 2026-10-25 08:20 UTC and 2026-10-25 09:20 UTC.
+New gems created between 2026-10-25 09:20 UTC and 2026-10-25 10:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-25T09-20-52-745404Z.csv)
+[Full CSV](data/new-gems-2026-10-25T10-20-09-577705Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-25 09:02:42 | [monq](https://rubygems.org/gems/monq) | 0.1.0 | Liu Xiang | MIT | Load user-authored Mongoid models and query MongoDB from a Pry REPL. |
+| 2026-10-25 09:46:37 | [lutaml-asyncapi](https://rubygems.org/gems/lutaml-asyncapi) | 0.1.0 | Ribose Inc. | BSD-2-Clause | Parse AsyncAPI 2.6/3.0/3.1 documents into lossless LutaML model objects; the mo… |
+| 2026-10-25 09:49:03 | [metanorma-plugin-openapi](https://rubygems.org/gems/metanorma-plugin-openapi) | 0.1.1 | Ribose Inc. | BSD-2-Clause | Metanorma plugin rendering model-driven normative sections from OpenAPI documen… |
+| 2026-10-25 10:03:10 | [lutaml-openapi](https://rubygems.org/gems/lutaml-openapi) | 0.1.1 | Ribose Inc. | BSD-2-Clause | Parse OpenAPI 3.0/3.1 documents into lossless LutaML model objects; the model l… |
 
 ## Data source
 
