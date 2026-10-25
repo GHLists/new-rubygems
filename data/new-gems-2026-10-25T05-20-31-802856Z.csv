@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T04:59:22.324Z,seatschart,0.1.1,67,SeatsChart,MIT,"Official SeatsChart Ruby SDK for the SeatsChart seating API: seat maps, holds, reservations and ticketing inventory, with automatic retries and idempotency keys."
+2026-10-25T05:15:37.934Z,mapricot-api,0.3.0,0,Mapricot,MIT,"Official client for the Mapricot API: geocoding, places, routing, and IP geolocation."
