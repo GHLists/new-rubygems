@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 07:20 UTC
+## Latest list — 2026-10-25 08:20 UTC
 
-New gems created between 2026-10-25 06:22 UTC and 2026-10-25 07:20 UTC.
+New gems created between 2026-10-25 07:20 UTC and 2026-10-25 08:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-25T07-20-02-900284Z.csv)
+[Full CSV](data/new-gems-2026-10-25T08-20-46-167438Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-25 06:59:10 | [nextmail](https://rubygems.org/gems/nextmail) | 0.0.1 | Nextmail | Nonstandard | Send email and broadcasts, work with threads, drafts, labels, templates, rules,… |
+| 2026-10-25 07:20:36 | [movoa](https://rubygems.org/gems/movoa) | 0.1.0 | Movoa (https://movoa.ai) | MIT | Unlimited AI video generator with sound: on paid plans the tenth take of a shot… |
 
 ## Data source
 
