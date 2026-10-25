@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T03:33:23.677Z,serqo,0.1.0,64,Serqo,MIT,A dependency-free HTTP client for the public Serqo Search API.
+2026-10-25T04:02:19.988Z,field_struct,0.15.0,47,Adrian Madrid,,"FieldStruct is a Ruby library for building Plain Old Ruby Objects with declared attributes that have enforced types, presence checks, and per-field validation. Each class collects its declarations into an inspectable Metadata object; types are pluggable via a registry that namespaces can extend or…"
+2026-10-25T04:02:33.297Z,actionable-rb,1.9.0,39,Adrian Madrid,MIT,Actionable encapsulates business logic as an ordered sequence of steps that return a single typed result. Pure-Ruby core (Rails transactions and validators are an optional adapter); inputs and outputs are typed via field_struct; full RBS signatures via Sord + YARD.
+2026-10-25T04:03:40.206Z,seatschart,0.1.0,29,SeatsChart,MIT,"Official SeatsChart Ruby SDK for the SeatsChart seating API: seat maps, holds, reservations and ticketing inventory, with automatic retries and idempotency keys."
