@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T22:14:05.044Z,infotable,1.4.1,0,Jakub Cieślar,MIT,"InfoTable provides server-side datatable functionality with filtering, sorting, searching, and pagination. Built with Hotwire, Stimulus, and Tailwind CSS for a modern, no-reload user experience."
