@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T19:57:09.725Z,unisender-ruby,0.1.1,60,Leonid Svyatov,MIT,A Ruby library for integrating with the UniSender API.
+2026-10-25T20:08:24.379Z,infotable,1.0.1,38,Jakub Cieślar,MIT,"InfoTable provides server-side datatable functionality with filtering, sorting, searching, and pagination. Built with Hotwire, Stimulus, and Tailwind CSS for a modern, no-reload user experience."
+2026-10-25T20:19:46.236Z,mapricot-api,0.6.0,0,Mapricot,MIT,"Official client for the Mapricot API: geocoding, places, routing, and IP geolocation."
