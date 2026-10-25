@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T10:32:15.481Z,has_public_record,0.1.0,57,Baden,MIT,has_public_record gives a model a random prefixed public id that grows in length as the table fills.
+2026-10-25T10:34:13.847Z,jekyll-privatus-analytics,1.0.0,61,Two Phase LLC,MIT,"Liquid tags for the Privatus Analytics tracking script, custom events and click maps, with optional automatic injection into every page. The script sets no cookies, so analytics does not need a consent banner by itself."
+2026-10-25T10:48:59.816Z,google-apis-displayvideo_v5,0.1.0,51,Google LLC,Apache-2.0,"This is the simple REST client for Display & Video 360 API V5. Simple REST clients are Ruby client libraries that provide access to Google services via their HTTP REST API endpoints. These libraries are generated and updated automatically based on the discovery documents published by the service, a…"

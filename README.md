@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 10:20 UTC
+## Latest list — 2026-10-25 11:20 UTC
 
-New gems created between 2026-10-25 09:20 UTC and 2026-10-25 10:20 UTC.
+New gems created between 2026-10-25 10:20 UTC and 2026-10-25 11:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-25T10-20-09-577705Z.csv)
+[Full CSV](data/new-gems-2026-10-25T11-20-02-006787Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-25 09:46:37 | [lutaml-asyncapi](https://rubygems.org/gems/lutaml-asyncapi) | 0.1.0 | Ribose Inc. | BSD-2-Clause | Parse AsyncAPI 2.6/3.0/3.1 documents into lossless LutaML model objects; the mo… |
-| 2026-10-25 09:49:03 | [metanorma-plugin-openapi](https://rubygems.org/gems/metanorma-plugin-openapi) | 0.1.1 | Ribose Inc. | BSD-2-Clause | Metanorma plugin rendering model-driven normative sections from OpenAPI documen… |
-| 2026-10-25 10:03:10 | [lutaml-openapi](https://rubygems.org/gems/lutaml-openapi) | 0.1.1 | Ribose Inc. | BSD-2-Clause | Parse OpenAPI 3.0/3.1 documents into lossless LutaML model objects; the model l… |
+| 2026-10-25 10:32:15 | [has_public_record](https://rubygems.org/gems/has_public_record) | 0.1.0 | Baden | MIT | has_public_record gives a model a random prefixed public id that grows in lengt… |
+| 2026-10-25 10:34:13 | [jekyll-privatus-analytics](https://rubygems.org/gems/jekyll-privatus-analytics) | 1.0.0 | Two Phase LLC | MIT | Liquid tags for the Privatus Analytics tracking script, custom events and click… |
+| 2026-10-25 10:48:59 | [google-apis-displayvideo_v5](https://rubygems.org/gems/google-apis-displayvideo_v5) | 0.1.0 | Google LLC | Apache-2.0 | This is the simple REST client for Display & Video 360 API V5. Simple REST clie… |
 
 ## Data source
 
