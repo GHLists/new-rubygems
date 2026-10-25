@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T21:04:42.074Z,band-mcp-server,1.0.0,32,Keith T. Garner,GPL-3.0-only,"A Model Context Protocol server, served over stdio, that lets MCP clients list bands and read, post, and comment on BAND posts through the BAND Open API."

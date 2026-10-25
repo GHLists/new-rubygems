@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 20:20 UTC
+## Latest list — 2026-10-25 21:19 UTC
 
-New gems created between 2026-10-25 19:19 UTC and 2026-10-25 20:20 UTC.
+New gems created between 2026-10-25 20:20 UTC and 2026-10-25 21:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-25T20-20-18-63016Z.csv)
+[Full CSV](data/new-gems-2026-10-25T21-19-38-141491Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-25 19:57:09 | [unisender-ruby](https://rubygems.org/gems/unisender-ruby) | 0.1.1 | Leonid Svyatov | MIT | A Ruby library for integrating with the UniSender API. |
-| 2026-10-25 20:08:24 | [infotable](https://rubygems.org/gems/infotable) | 1.0.1 | Jakub Cieślar | MIT | InfoTable provides server-side datatable functionality with filtering, sorting,… |
-| 2026-10-25 20:19:46 | [mapricot-api](https://rubygems.org/gems/mapricot-api) | 0.6.0 | Mapricot | MIT | Official client for the Mapricot API: geocoding, places, routing, and IP geoloc… |
+| 2026-10-25 21:04:42 | [band-mcp-server](https://rubygems.org/gems/band-mcp-server) | 1.0.0 | Keith T. Garner | GPL-3.0-only | A Model Context Protocol server, served over stdio, that lets MCP clients list… |
 
 ## Data source
 
