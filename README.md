@@ -9,16 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 18:20 UTC
+## Latest list — 2026-10-25 19:19 UTC
 
-New gems created between 2026-10-25 17:20 UTC and 2026-10-25 18:20 UTC.
+New gems created between 2026-10-25 18:20 UTC and 2026-10-25 19:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-25T18-20-36-999731Z.csv)
+[Full CSV](data/new-gems-2026-10-25T19-19-33-532704Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-25 17:41:56 | [probe5712](https://rubygems.org/gems/probe5712) | 0.2.1 | Probe |  | probe |
-| 2026-10-25 18:20:09 | [kettle-deps-floor](https://rubygems.org/gems/kettle-deps-floor) | 0.1.1 | Peter H. Boling | AGPL-3.0-only | 💎 Discover and raise RubyGems dependency floors in gemspecs and configured temp… |
+| 2026-10-25 18:46:04 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.2 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 18:46:04 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.2 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 18:46:04 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.2 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 18:46:04 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.2 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 18:46:04 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.2 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 18:46:04 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.2 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 18:46:04 | [rbcop](https://rubygems.org/gems/rbcop) | 0.1.2 | John Costa | MIT | A native reimplementation of RuboCop 1.91: same command line, configuration, of… |
+| 2026-10-25 18:56:49 | [kloudlite-sdk](https://rubygems.org/gems/kloudlite-sdk) | 0.2.1 | Kloudlite | Apache-2.0 | Kloudlite SDK for Ruby |
+| 2026-10-25 19:11:10 | [kavchat](https://rubygems.org/gems/kavchat) | 0.0.5 | maxsave | MIT | Sign identity tokens for the Kavchat widget and apps, verify ticket webhooks, a… |
 
 ## Data source
 
