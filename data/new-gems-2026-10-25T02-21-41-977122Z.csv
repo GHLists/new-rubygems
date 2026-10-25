@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T01:49:38.067Z,kettle-deps-floor,0.1.0,55,Peter H. Boling,AGPL-3.0-only,"💎 Discover and raise RubyGems dependency floors in gemspecs and configured template sources, with upgrade limits, dry-run reports, checks, and controlled commits."
+2026-10-25T02:15:28Z,rbcop,0.1.1,1,John Costa,MIT,"A native reimplementation of RuboCop 1.91: same command line, configuration, offenses, autocorrections and formatter output, run by the `rbcop` executable."
+2026-10-25T02:15:28Z,rbcop,0.1.1,1,John Costa,MIT,"A native reimplementation of RuboCop 1.91: same command line, configuration, offenses, autocorrections and formatter output, run by the `rbcop` executable."
+2026-10-25T02:15:28Z,rbcop,0.1.1,1,John Costa,MIT,"A native reimplementation of RuboCop 1.91: same command line, configuration, offenses, autocorrections and formatter output, run by the `rbcop` executable."
+2026-10-25T02:15:28Z,rbcop,0.1.1,1,John Costa,MIT,"A native reimplementation of RuboCop 1.91: same command line, configuration, offenses, autocorrections and formatter output, run by the `rbcop` executable."
+2026-10-25T02:15:28Z,rbcop,0.1.1,1,John Costa,MIT,"A native reimplementation of RuboCop 1.91: same command line, configuration, offenses, autocorrections and formatter output, run by the `rbcop` executable."
+2026-10-25T02:15:28Z,rbcop,0.1.1,1,John Costa,MIT,"A native reimplementation of RuboCop 1.91: same command line, configuration, offenses, autocorrections and formatter output, run by the `rbcop` executable."
+2026-10-25T02:15:28Z,rbcop,0.1.1,1,John Costa,MIT,"A native reimplementation of RuboCop 1.91: same command line, configuration, offenses, autocorrections and formatter output, run by the `rbcop` executable."
