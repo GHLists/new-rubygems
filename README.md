@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 08:20 UTC
+## Latest list — 2026-10-25 09:20 UTC
 
-New gems created between 2026-10-25 07:20 UTC and 2026-10-25 08:20 UTC.
+New gems created between 2026-10-25 08:20 UTC and 2026-10-25 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-25T08-20-46-167438Z.csv)
+[Full CSV](data/new-gems-2026-10-25T09-20-52-745404Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-25 07:20:36 | [movoa](https://rubygems.org/gems/movoa) | 0.1.0 | Movoa (https://movoa.ai) | MIT | Unlimited AI video generator with sound: on paid plans the tenth take of a shot… |
+| 2026-10-25 09:02:42 | [monq](https://rubygems.org/gems/monq) | 0.1.0 | Liu Xiang | MIT | Load user-authored Mongoid models and query MongoDB from a Pry REPL. |
 
 ## Data source
 
