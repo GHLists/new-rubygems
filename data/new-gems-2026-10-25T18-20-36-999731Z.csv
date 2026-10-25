@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T17:41:56.215Z,probe5712,0.2.1,89,Probe,,probe
+2026-10-25T18:20:09.684Z,kettle-deps-floor,0.1.1,0,Peter H. Boling,AGPL-3.0-only,"💎 Discover and raise RubyGems dependency floors in gemspecs and configured template sources, with upgrade limits, dry-run reports, checks, and controlled commits."

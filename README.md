@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 17:20 UTC
+## Latest list — 2026-10-25 18:20 UTC
 
-New gems created between 2026-10-25 16:18 UTC and 2026-10-25 17:20 UTC.
+New gems created between 2026-10-25 17:20 UTC and 2026-10-25 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-25T17-20-24-868657Z.csv)
+[Full CSV](data/new-gems-2026-10-25T18-20-36-999731Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-25 16:40:18 | [standard_pagination](https://rubygems.org/gems/standard_pagination) | 0.1.1 | Jaryl Sim | MIT | StandardPagination wraps pagy with one controller concern, one metadata shape,… |
+| 2026-10-25 17:41:56 | [probe5712](https://rubygems.org/gems/probe5712) | 0.2.1 | Probe |  | probe |
+| 2026-10-25 18:20:09 | [kettle-deps-floor](https://rubygems.org/gems/kettle-deps-floor) | 0.1.1 | Peter H. Boling | AGPL-3.0-only | 💎 Discover and raise RubyGems dependency floors in gemspecs and configured temp… |
 
 ## Data source
 
