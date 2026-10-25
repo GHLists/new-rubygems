@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 16:18 UTC
+## Latest list — 2026-10-25 17:20 UTC
 
-New gems created between 2026-10-25 15:19 UTC and 2026-10-25 16:18 UTC.
+New gems created between 2026-10-25 16:18 UTC and 2026-10-25 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-25T16-18-57-522039Z.csv)
+[Full CSV](data/new-gems-2026-10-25T17-20-24-868657Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-25 15:36:57 | [seatschart](https://rubygems.org/gems/seatschart) | 0.2.0 | SeatsChart | MIT | Official SeatsChart Ruby SDK for the SeatsChart seating API: seat maps, holds,… |
-| 2026-10-25 16:16:33 | [sealed_trail](https://rubygems.org/gems/sealed_trail) | 0.1.0 | Steadybyte | MIT | SealedTrail records create, update and destroy events on Active Record models w… |
-| 2026-10-25 16:18:36 | [mapricot-api](https://rubygems.org/gems/mapricot-api) | 0.4.0 | Mapricot | MIT | Official client for the Mapricot API: geocoding, places, routing, and IP geoloc… |
+| 2026-10-25 16:40:18 | [standard_pagination](https://rubygems.org/gems/standard_pagination) | 0.1.1 | Jaryl Sim | MIT | StandardPagination wraps pagy with one controller concern, one metadata shape,… |
 
 ## Data source
 

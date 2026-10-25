@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T16:40:18.42Z,standard_pagination,0.1.1,115,Jaryl Sim,MIT,"StandardPagination wraps pagy with one controller concern, one metadata shape, safe page-size handling, out-of-range error handling, deterministic tie-broken ordering, and an MCP list helper shared across Rails apps."
