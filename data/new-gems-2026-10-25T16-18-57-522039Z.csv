@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-25T15:36:57.963Z,seatschart,0.2.0,69,SeatsChart,MIT,"Official SeatsChart Ruby SDK for the SeatsChart seating API: seat maps, holds, reservations and ticketing inventory, with automatic retries and idempotency keys."
+2026-10-25T16:16:33.398Z,sealed_trail,0.1.0,0,Steadybyte,MIT,"SealedTrail records create, update and destroy events on Active Record models with before/after values, the acting user, request id and IP address, and redacts sensitive attributes by default. It helps Rails teams produce audit evidence for security reviews."
+2026-10-25T16:18:36.858Z,mapricot-api,0.4.0,0,Mapricot,MIT,"Official client for the Mapricot API: geocoding, places, routing, and IP geolocation."
