@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 22:21 UTC
+## Latest list — 2026-10-26 23:20 UTC
 
-New gems created between 2026-10-26 21:20 UTC and 2026-10-26 22:21 UTC.
+New gems created between 2026-10-26 22:21 UTC and 2026-10-26 23:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T22-21-25-022461Z.csv)
+[Full CSV](data/new-gems-2026-10-26T23-20-08-508764Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 21:36:52 | [latticerb](https://rubygems.org/gems/latticerb) | 0.3.0 | Tyler Klose | Apache-2.0 | Lattice generates deterministic pairwise/t-way covering arrays from a constrain… |
-| 2026-10-26 21:48:06 | [deacon-rails](https://rubygems.org/gems/deacon-rails) | 1.0.0 | Deacon | MIT | A view helper, deacon_widget_tag, that puts the Deacon chat widget on every pag… |
+| 2026-10-26 23:09:00 | [naijacloud-argus](https://rubygems.org/gems/naijacloud-argus) | 0.1.0 | Naija Cloud | MIT | The official Ruby SDK for Argus, Naijacloud's monitoring. Implements the Argus… |
 
 ## Data source
 

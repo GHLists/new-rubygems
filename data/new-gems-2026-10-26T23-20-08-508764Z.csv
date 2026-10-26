@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T23:09:00.862Z,naijacloud-argus,0.1.0,8,Naija Cloud,MIT,"The official Ruby SDK for Argus, Naijacloud's monitoring. Implements the Argus SDK contract argus.sdk/1, with Rack middleware and a Rails Railtie. No runtime dependencies: standard-library net/http, json and zlib only."
