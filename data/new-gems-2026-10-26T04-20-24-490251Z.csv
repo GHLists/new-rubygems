@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T03:22:59.058Z,netcdf,0.1.0,75,himotoyoshi,MIT,"A literal translation of the NetCDF C library into Ruby: every function under its own name, with libnetcdf's own documentation to read it by. Bulk data is passed through Ruby's MemoryView protocol: an array library's own memory is handed to libnetcdf, which reads or writes it where it lies, and arr…"
+2026-10-26T03:58:23.3Z,standard_pagination,0.2.0,75,Jaryl Sim,MIT,"StandardPagination wraps pagy with one controller concern, one metadata shape, safe page-size handling, out-of-range error handling, deterministic tie-broken ordering, and an MCP list helper shared across Rails apps."
+2026-10-26T04:08:44.464Z,yas_json,0.0.0,5,Nick Muerdter,MIT,Reserved for future publishing
