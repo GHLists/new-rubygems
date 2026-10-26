@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 00:19 UTC
+## Latest list — 2026-10-26 03:20 UTC
 
-New gems created between 2026-10-25 23:22 UTC and 2026-10-26 00:19 UTC.
+New gems created between 2026-10-26 02:19 UTC and 2026-10-26 03:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T00-19-26-239499Z.csv)
+[Full CSV](data/new-gems-2026-10-26T03-20-47-046173Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 00:10:45 | [standard_pagination](https://rubygems.org/gems/standard_pagination) | 0.1.2 | Jaryl Sim | MIT | StandardPagination wraps pagy with one controller concern, one metadata shape,… |
-| 2026-10-26 00:12:48 | [has_public_record](https://rubygems.org/gems/has_public_record) | 0.1.1 | Baden | MIT | has_public_record gives a model a random prefixed public id that grows in lengt… |
+| 2026-10-26 02:20:42 | [veragem](https://rubygems.org/gems/veragem) | 0.1.0 | veralvx | MIT; Apache-2.0 | A Bundler plugin that generates a Ruby 4.0+ gem with what `bundle gem` gives an… |
+| 2026-10-26 02:32:50 | [kloudlite-sdk](https://rubygems.org/gems/kloudlite-sdk) | 0.2.2 | Kloudlite | Apache-2.0 | Kloudlite SDK for Ruby |
 
 ## Data source
 

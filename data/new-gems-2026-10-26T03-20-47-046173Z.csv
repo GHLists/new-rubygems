@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T02:20:42.808Z,veragem,0.1.0,64,veralvx,MIT; Apache-2.0,"A Bundler plugin that generates a Ruby 4.0+ gem with what `bundle gem` gives and the rest: Steep and TypeProf, RuboCop and its extensions, Minitest with a 100% coverage gate and property tests, bundler-audit, Conventional Commits, a generated changelog, a Nix flake, and a release by Trusted Publish…"
+2026-10-26T02:32:50.707Z,kloudlite-sdk,0.2.2,104,Kloudlite,Apache-2.0,Kloudlite SDK for Ruby
