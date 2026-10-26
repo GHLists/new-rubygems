@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T16:45:05.515Z,latticerb,0.1.0,83,Tyler Klose,Apache-2.0,"Lattice generates deterministic pairwise/t-way covering arrays from a constrained schema of parameters and values. Use it as a library in test suites (RSpec, Minitest, Rails fixtures) or via the bundled `lattice` CLI. Output is row-for-row identical to the Python lattice-cli package for the same sc…"
+2026-10-26T16:47:49.338Z,shiplog,0.3.0,81,Trackberry,MIT,"A mountable Rails engine that turns GitHub issues, pull requests and commits into a customer-friendly roadmap and changelog, with LLM drafts approved by an admin."
+2026-10-26T17:00:37.019Z,unisender-ruby,0.2.0,32,Leonid Svyatov,MIT,A Ruby library for integrating with the UniSender API.
+2026-10-26T17:09:17.948Z,aimetadatacleaner-url-tools,0.1.0,11,wangneo276-lgtm,MIT,"Offline URL builder for AI Metadata Cleaner image, video, and PDF metadata pages. Not an official SDK."
