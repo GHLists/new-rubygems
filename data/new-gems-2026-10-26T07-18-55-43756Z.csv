@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T06:22:17.24Z,guard-boondoc,0.1.1,67,Joe Sharp,MIT,"guard-boondoc watches the files boondoc reads, as set in .boondoc.yml and .yardopts, and regenerates your markdown documentation when one of them changes."
+2026-10-26T06:49:50.943Z,metanorma-plugin-asyncapi,0.1.0,52,Ribose Inc.,BSD-2-Clause,"Render AsyncAPI documents as normative Metanorma sections: the [asyncapi,path=...] preprocessor and renderer over lutaml-asyncapi"
+2026-10-26T06:57:27.271Z,guard-status,0.1.0,40,Joe Sharp,MIT,"guard-status reads what your other Guard plugins recorded, such as RuboCop and RSpec JSON reports or small status files, and prints a single line summarizing them after every run."
+2026-10-26T07:04:36.623Z,yuno-proofreader,0.1.0,30,Sebastian Alsen,MIT,"Reviews your public web pages with an AI model (Gemini so far) for typos, grammar, HTML structure, SEO and differences between language versions, ranks your pages by importance and lists the suggested fixes in a Google Sheet for you to review."
