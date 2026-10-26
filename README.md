@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 04:20 UTC
+## Latest list — 2026-10-26 05:20 UTC
 
-New gems created between 2026-10-26 03:20 UTC and 2026-10-26 04:20 UTC.
+New gems created between 2026-10-26 04:20 UTC and 2026-10-26 05:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T04-20-24-490251Z.csv)
+[Full CSV](data/new-gems-2026-10-26T05-20-47-642699Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 03:22:59 | [netcdf](https://rubygems.org/gems/netcdf) | 0.1.0 | himotoyoshi | MIT | A literal translation of the NetCDF C library into Ruby: every function under i… |
-| 2026-10-26 03:58:23 | [standard_pagination](https://rubygems.org/gems/standard_pagination) | 0.2.0 | Jaryl Sim | MIT | StandardPagination wraps pagy with one controller concern, one metadata shape,… |
-| 2026-10-26 04:08:44 | [yas_json](https://rubygems.org/gems/yas_json) | 0.0.0 | Nick Muerdter | MIT | Reserved for future publishing |
+| 2026-10-26 04:32:11 | [kavchat](https://rubygems.org/gems/kavchat) | 0.0.6 | maxsave | MIT | Sign identity tokens for the Kavchat widget and apps, verify ticket webhooks, a… |
+| 2026-10-26 04:47:53 | [boondoc](https://rubygems.org/gems/boondoc) | 0.1.0 | Joe Sharp | MIT | boondoc reads YARD-style tags from Ruby source using Prism and writes plain Git… |
 
 ## Data source
 

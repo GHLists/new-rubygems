@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T04:32:11.915Z,kavchat,0.0.6,91,maxsave,MIT,"Sign identity tokens for the Kavchat widget and apps, verify ticket webhooks, and call the Kavchat Server API. No runtime dependencies."
+2026-10-26T04:47:53.147Z,boondoc,0.1.0,54,Joe Sharp,MIT,"boondoc reads YARD-style tags from Ruby source using Prism and writes plain GitHub-flavored markdown: one file per class or module, with working relative links, plus your README and guides stitched in. No HTML, no site to deploy and host."
