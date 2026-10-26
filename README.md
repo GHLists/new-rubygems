@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 08:18 UTC
+## Latest list — 2026-10-26 11:19 UTC
 
-New gems created between 2026-10-26 07:18 UTC and 2026-10-26 08:18 UTC.
+New gems created between 2026-10-26 10:21 UTC and 2026-10-26 11:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T08-18-47-013627Z.csv)
+[Full CSV](data/new-gems-2026-10-26T11-19-35-747308Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 07:34:53 | [jekyll-privatus-analytics](https://rubygems.org/gems/jekyll-privatus-analytics) | 1.0.1 | Two Phase LLC | MIT | Liquid tags for the Privatus Analytics tracking script, custom events and click… |
+| 2026-10-26 10:22:26 | [cashfree_pg](https://rubygems.org/gems/cashfree_pg) | 0.1.0 | Muballigh Faraz | MIT | A small, well-tested Ruby client for Cashfree Payment Gateway APIs: orders, pay… |
+| 2026-10-26 10:37:15 | [shiplog](https://rubygems.org/gems/shiplog) | 0.1.0 | Trackberry | MIT | A mountable Rails engine that turns GitHub issues, pull requests and commits in… |
 
 ## Data source
 
