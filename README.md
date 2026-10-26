@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 20:20 UTC
+## Latest list — 2026-10-26 21:20 UTC
 
-New gems created between 2026-10-26 19:18 UTC and 2026-10-26 20:20 UTC.
+New gems created between 2026-10-26 20:20 UTC and 2026-10-26 21:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T20-20-15-828236Z.csv)
+[Full CSV](data/new-gems-2026-10-26T21-20-55-988833Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 19:51:03 | [vblank](https://rubygems.org/gems/vblank) | 0.0.1 | James Cook | MIT | This gem holds the name vblank and contains no code. VBlank, a Ruby DSL for wri… |
+| 2026-10-26 20:34:51 | [latticerb](https://rubygems.org/gems/latticerb) | 0.2.0 | Tyler Klose | Apache-2.0 | Lattice generates deterministic pairwise/t-way covering arrays from a constrain… |
+| 2026-10-26 21:19:56 | [infotable](https://rubygems.org/gems/infotable) | 1.6.0 | Jakub Cieślar | MIT | InfoTable provides server-side datatable functionality with filtering, sorting,… |
 
 ## Data source
 

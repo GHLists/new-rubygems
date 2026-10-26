@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T20:34:51.732Z,latticerb,0.2.0,117,Tyler Klose,Apache-2.0,"Lattice generates deterministic pairwise/t-way covering arrays from a constrained schema of parameters and values. Use it as a library in test suites (RSpec, Minitest, Rails fixtures) or via the bundled `lattice` CLI. Output is row-for-row identical to the Python lattice-cli package for the same sc…"
+2026-10-26T21:19:56.467Z,infotable,1.6.0,0,Jakub Cieślar,MIT,"InfoTable provides server-side datatable functionality with filtering, sorting, searching, and pagination. Built with Hotwire, Stimulus, and Tailwind CSS for a modern, no-reload user experience."
