@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T15:26:52.678Z,rails2qdbd,0.1.0,60,fastcatch,MIT,"rails2qdbd reads db/schema.rb and app/models statically (no app boot, no database) and writes QuickDBD-syntax schema files for qdbd, the ER-diagram toolkit."

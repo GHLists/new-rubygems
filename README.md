@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 15:21 UTC
+## Latest list — 2026-10-26 16:22 UTC
 
-New gems created between 2026-10-26 14:19 UTC and 2026-10-26 15:21 UTC.
+New gems created between 2026-10-26 15:21 UTC and 2026-10-26 16:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T15-21-22-705745Z.csv)
+[Full CSV](data/new-gems-2026-10-26T16-22-21-477993Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 14:51:20 | [kiosk-kyc-proveli](https://rubygems.org/gems/kiosk-kyc-proveli) | 0.6.28 | Phil Pirozhkov | Apache-2.0 | kiosk-kyc-proveli implements Kiosk::KycProviders::Base against the Proveli anon… |
+| 2026-10-26 15:26:52 | [rails2qdbd](https://rubygems.org/gems/rails2qdbd) | 0.1.0 | fastcatch | MIT | rails2qdbd reads db/schema.rb and app/models statically (no app boot, no databa… |
 
 ## Data source
 
