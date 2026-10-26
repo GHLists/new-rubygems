@@ -9,16 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 12:21 UTC
+## Latest list — 2026-10-26 13:20 UTC
 
-New gems created between 2026-10-26 11:19 UTC and 2026-10-26 12:21 UTC.
+New gems created between 2026-10-26 12:21 UTC and 2026-10-26 13:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T12-21-32-077001Z.csv)
+[Full CSV](data/new-gems-2026-10-26T13-20-10-261239Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 11:39:24 | [trackberry-airports](https://rubygems.org/gems/trackberry-airports) | 0.1.1 | Édouard Brière | MIT; ODbL-1.0 | Every airport OurAirports lists with an IATA code, shipped inside the gem as a… |
-| 2026-10-26 11:46:07 | [shiplog](https://rubygems.org/gems/shiplog) | 0.1.1 | Trackberry | MIT | A mountable Rails engine that turns GitHub issues, pull requests and commits in… |
+| 2026-10-26 12:22:12 | [demo-vender](https://rubygems.org/gems/demo-vender) | 1.5.0 | Hassan Sattar | MIT | First demo project |
+| 2026-10-26 12:29:52 | [kavchat](https://rubygems.org/gems/kavchat) | 0.0.8 | maxsave | MIT | Sign identity tokens for the Kavchat widget and apps, verify ticket webhooks, a… |
+| 2026-10-26 12:31:22 | [export_kit](https://rubygems.org/gems/export_kit) | 0.1.0 | Łukasz Kerl | MIT | Builds streamed, size-bounded export artifacts with explicit schemas, safe CSV… |
+| 2026-10-26 12:37:10 | [snapshot_ui-rails](https://rubygems.org/gems/snapshot_ui-rails) | 0.5.0 | Tomaz Zlender | MIT | Rails integration for Snapshot UI — take snapshots of responses in tests and vi… |
+| 2026-10-26 12:57:21 | [auto-platform-guide](https://rubygems.org/gems/auto-platform-guide) | 0.1.0 | Mauricio Zaffari | MIT | Generator and spec helpers that turn doc comments and screenshots in system spe… |
 
 ## Data source
 

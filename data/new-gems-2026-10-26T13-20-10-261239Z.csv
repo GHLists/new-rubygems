@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T12:22:12.794Z,demo-vender,1.5.0,73,Hassan Sattar,MIT,First demo project
+2026-10-26T12:29:52.273Z,kavchat,0.0.8,132,maxsave,MIT,"Sign identity tokens for the Kavchat widget and apps, verify ticket webhooks, and call the Kavchat Server API. No runtime dependencies."
+2026-10-26T12:31:22.898Z,export_kit,0.1.0,62,Łukasz Kerl,MIT,"Builds streamed, size-bounded export artifacts with explicit schemas, safe CSV cells, structural validation and an optional Active Record adapter."
+2026-10-26T12:37:10.477Z,snapshot_ui-rails,0.5.0,56,Tomaz Zlender,MIT,Rails integration for Snapshot UI — take snapshots of responses in tests and view them in a browser.
+2026-10-26T12:57:21.098Z,auto-platform-guide,0.1.0,43,Mauricio Zaffari,MIT,"Generator and spec helpers that turn doc comments and screenshots in system specs into markdown platform guides, plus a markdown docs viewer for Rails admin apps."
