@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 18:20 UTC
+## Latest list — 2026-10-26 20:20 UTC
 
-New gems created between 2026-10-26 17:19 UTC and 2026-10-26 18:20 UTC.
+New gems created between 2026-10-26 19:18 UTC and 2026-10-26 20:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T18-20-17-32767Z.csv)
+[Full CSV](data/new-gems-2026-10-26T20-20-15-828236Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 17:25:50 | [rails2qdbd](https://rubygems.org/gems/rails2qdbd) | 0.1.1 | fastcatch | MIT | rails2qdbd reads db/schema.rb and app/models statically (no app boot, no databa… |
-| 2026-10-26 18:05:40 | [shiplog](https://rubygems.org/gems/shiplog) | 0.3.2 | Trackberry | MIT | A mountable Rails engine that turns GitHub issues, pull requests and commits in… |
-| 2026-10-26 18:16:52 | [kavchat](https://rubygems.org/gems/kavchat) | 0.0.9 | maxsave | MIT | Sign identity tokens for the Kavchat widget and apps, verify ticket webhooks, a… |
+| 2026-10-26 19:51:03 | [vblank](https://rubygems.org/gems/vblank) | 0.0.1 | James Cook | MIT | This gem holds the name vblank and contains no code. VBlank, a Ruby DSL for wri… |
 
 ## Data source
 
