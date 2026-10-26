@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 11:19 UTC
+## Latest list — 2026-10-26 12:21 UTC
 
-New gems created between 2026-10-26 10:21 UTC and 2026-10-26 11:19 UTC.
+New gems created between 2026-10-26 11:19 UTC and 2026-10-26 12:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T11-19-35-747308Z.csv)
+[Full CSV](data/new-gems-2026-10-26T12-21-32-077001Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 10:22:26 | [cashfree_pg](https://rubygems.org/gems/cashfree_pg) | 0.1.0 | Muballigh Faraz | MIT | A small, well-tested Ruby client for Cashfree Payment Gateway APIs: orders, pay… |
-| 2026-10-26 10:37:15 | [shiplog](https://rubygems.org/gems/shiplog) | 0.1.0 | Trackberry | MIT | A mountable Rails engine that turns GitHub issues, pull requests and commits in… |
+| 2026-10-26 11:39:24 | [trackberry-airports](https://rubygems.org/gems/trackberry-airports) | 0.1.1 | Édouard Brière | MIT; ODbL-1.0 | Every airport OurAirports lists with an IATA code, shipped inside the gem as a… |
+| 2026-10-26 11:46:07 | [shiplog](https://rubygems.org/gems/shiplog) | 0.1.1 | Trackberry | MIT | A mountable Rails engine that turns GitHub issues, pull requests and commits in… |
 
 ## Data source
 
