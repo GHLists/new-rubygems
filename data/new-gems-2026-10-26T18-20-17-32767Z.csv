@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T17:25:50.166Z,rails2qdbd,0.1.1,92,fastcatch,MIT,"rails2qdbd reads db/schema.rb and app/models statically (no app boot, no database) and writes QuickDBD-syntax schema files for qdbd, the ER-diagram toolkit."
+2026-10-26T18:05:40.257Z,shiplog,0.3.2,39,Trackberry,MIT,"A mountable Rails engine that turns GitHub issues, pull requests and commits into a customer-friendly roadmap and changelog, with LLM drafts approved by an admin."
+2026-10-26T18:16:52.469Z,kavchat,0.0.9,0,maxsave,MIT,"Sign identity tokens for the Kavchat widget and apps, verify ticket webhooks, and call the Kavchat Server API. No runtime dependencies."
