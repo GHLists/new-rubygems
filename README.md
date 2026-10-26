@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 21:20 UTC
+## Latest list — 2026-10-26 22:21 UTC
 
-New gems created between 2026-10-26 20:20 UTC and 2026-10-26 21:20 UTC.
+New gems created between 2026-10-26 21:20 UTC and 2026-10-26 22:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T21-20-55-988833Z.csv)
+[Full CSV](data/new-gems-2026-10-26T22-21-25-022461Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 20:34:51 | [latticerb](https://rubygems.org/gems/latticerb) | 0.2.0 | Tyler Klose | Apache-2.0 | Lattice generates deterministic pairwise/t-way covering arrays from a constrain… |
-| 2026-10-26 21:19:56 | [infotable](https://rubygems.org/gems/infotable) | 1.6.0 | Jakub Cieślar | MIT | InfoTable provides server-side datatable functionality with filtering, sorting,… |
+| 2026-10-26 21:36:52 | [latticerb](https://rubygems.org/gems/latticerb) | 0.3.0 | Tyler Klose | Apache-2.0 | Lattice generates deterministic pairwise/t-way covering arrays from a constrain… |
+| 2026-10-26 21:48:06 | [deacon-rails](https://rubygems.org/gems/deacon-rails) | 1.0.0 | Deacon | MIT | A view helper, deacon_widget_tag, that puts the Deacon chat widget on every pag… |
 
 ## Data source
 

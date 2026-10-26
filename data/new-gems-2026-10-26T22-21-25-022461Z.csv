@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T21:36:52.381Z,latticerb,0.3.0,122,Tyler Klose,Apache-2.0,"Lattice generates deterministic pairwise/t-way covering arrays from a constrained schema of parameters and values. Use it as a library in test suites (RSpec, Minitest, Rails fixtures) or via the bundled `lattice` CLI. Output is row-for-row identical to the Python lattice-cli package for the same sc…"
+2026-10-26T21:48:06.368Z,deacon-rails,1.0.0,49,Deacon,MIT,"A view helper, deacon_widget_tag, that puts the Deacon chat widget on every page of a Rails app from one line in the layout. Deacon is an AI support agent that answers questions from your own docs and content, and says when it doesn't know."
