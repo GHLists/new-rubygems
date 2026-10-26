@@ -9,19 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 13:20 UTC
+## Latest list — 2026-10-26 14:19 UTC
 
-New gems created between 2026-10-26 12:21 UTC and 2026-10-26 13:20 UTC.
+New gems created between 2026-10-26 13:20 UTC and 2026-10-26 14:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T13-20-10-261239Z.csv)
+[Full CSV](data/new-gems-2026-10-26T14-19-09-389545Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 12:22:12 | [demo-vender](https://rubygems.org/gems/demo-vender) | 1.5.0 | Hassan Sattar | MIT | First demo project |
-| 2026-10-26 12:29:52 | [kavchat](https://rubygems.org/gems/kavchat) | 0.0.8 | maxsave | MIT | Sign identity tokens for the Kavchat widget and apps, verify ticket webhooks, a… |
-| 2026-10-26 12:31:22 | [export_kit](https://rubygems.org/gems/export_kit) | 0.1.0 | Łukasz Kerl | MIT | Builds streamed, size-bounded export artifacts with explicit schemas, safe CSV… |
-| 2026-10-26 12:37:10 | [snapshot_ui-rails](https://rubygems.org/gems/snapshot_ui-rails) | 0.5.0 | Tomaz Zlender | MIT | Rails integration for Snapshot UI — take snapshots of responses in tests and vi… |
-| 2026-10-26 12:57:21 | [auto-platform-guide](https://rubygems.org/gems/auto-platform-guide) | 0.1.0 | Mauricio Zaffari | MIT | Generator and spec helpers that turn doc comments and screenshots in system spe… |
+| 2026-10-26 13:43:32 | [export_kit](https://rubygems.org/gems/export_kit) | 0.1.1 | Łukasz Kerl | MIT | Builds streamed, size-bounded export artifacts with explicit schemas, safe CSV… |
+| 2026-10-26 13:47:41 | [activeadmin-device_authorization](https://rubygems.org/gems/activeadmin-device_authorization) | 0.1.3 | Andrei Makarov | MIT | Configurable device authorization grant, ActiveAdmin consent UI, and short-live… |
+| 2026-10-26 13:53:09 | [shiplog](https://rubygems.org/gems/shiplog) | 0.2.0 | Trackberry | MIT | A mountable Rails engine that turns GitHub issues, pull requests and commits in… |
+| 2026-10-26 14:06:55 | [br_validators](https://rubygems.org/gems/br_validators) | 0.2.1 | Pedro Pedrassolli | MIT | Validação e formatação de documentos brasileiros sem dependências, com a regra… |
+| 2026-10-26 14:15:59 | [infer](https://rubygems.org/gems/infer) | 0.0.0 | Nishant Dania | MIT | Infer provides a consistent Ruby interface for interacting with multiple AI pro… |
 
 ## Data source
 
