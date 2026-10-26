@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T07:34:53.673Z,jekyll-privatus-analytics,1.0.1,62,Two Phase LLC,MIT,"Liquid tags for the Privatus Analytics tracking script, custom events and click maps, with optional automatic injection into every page. The script sets no cookies, so analytics does not need a consent banner by itself."

@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 07:18 UTC
+## Latest list — 2026-10-26 08:18 UTC
 
-New gems created between 2026-10-26 06:19 UTC and 2026-10-26 07:18 UTC.
+New gems created between 2026-10-26 07:18 UTC and 2026-10-26 08:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T07-18-55-43756Z.csv)
+[Full CSV](data/new-gems-2026-10-26T08-18-47-013627Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 06:22:17 | [guard-boondoc](https://rubygems.org/gems/guard-boondoc) | 0.1.1 | Joe Sharp | MIT | guard-boondoc watches the files boondoc reads, as set in .boondoc.yml and .yard… |
-| 2026-10-26 06:49:50 | [metanorma-plugin-asyncapi](https://rubygems.org/gems/metanorma-plugin-asyncapi) | 0.1.0 | Ribose Inc. | BSD-2-Clause | Render AsyncAPI documents as normative Metanorma sections: the [asyncapi,path=.… |
-| 2026-10-26 06:57:27 | [guard-status](https://rubygems.org/gems/guard-status) | 0.1.0 | Joe Sharp | MIT | guard-status reads what your other Guard plugins recorded, such as RuboCop and… |
-| 2026-10-26 07:04:36 | [yuno-proofreader](https://rubygems.org/gems/yuno-proofreader) | 0.1.0 | Sebastian Alsen | MIT | Reviews your public web pages with an AI model (Gemini so far) for typos, gramm… |
+| 2026-10-26 07:34:53 | [jekyll-privatus-analytics](https://rubygems.org/gems/jekyll-privatus-analytics) | 1.0.1 | Two Phase LLC | MIT | Liquid tags for the Privatus Analytics tracking script, custom events and click… |
 
 ## Data source
 
