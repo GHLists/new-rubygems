@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T05:36:28.972Z,kavchat,0.0.7,66,maxsave,MIT,"Sign identity tokens for the Kavchat widget and apps, verify ticket webhooks, and call the Kavchat Server API. No runtime dependencies."
+2026-10-26T05:54:53.073Z,guard-boondoc,0.1.0,50,Joe Sharp,MIT,"guard-boondoc watches the files boondoc reads, as set in .boondoc.yml and .yardopts, and regenerates your markdown documentation when one of them changes."

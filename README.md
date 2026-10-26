@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 05:20 UTC
+## Latest list — 2026-10-26 06:19 UTC
 
-New gems created between 2026-10-26 04:20 UTC and 2026-10-26 05:20 UTC.
+New gems created between 2026-10-26 05:20 UTC and 2026-10-26 06:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T05-20-47-642699Z.csv)
+[Full CSV](data/new-gems-2026-10-26T06-19-40-010969Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 04:32:11 | [kavchat](https://rubygems.org/gems/kavchat) | 0.0.6 | maxsave | MIT | Sign identity tokens for the Kavchat widget and apps, verify ticket webhooks, a… |
-| 2026-10-26 04:47:53 | [boondoc](https://rubygems.org/gems/boondoc) | 0.1.0 | Joe Sharp | MIT | boondoc reads YARD-style tags from Ruby source using Prism and writes plain Git… |
+| 2026-10-26 05:36:28 | [kavchat](https://rubygems.org/gems/kavchat) | 0.0.7 | maxsave | MIT | Sign identity tokens for the Kavchat widget and apps, verify ticket webhooks, a… |
+| 2026-10-26 05:54:53 | [guard-boondoc](https://rubygems.org/gems/guard-boondoc) | 0.1.0 | Joe Sharp | MIT | guard-boondoc watches the files boondoc reads, as set in .boondoc.yml and .yard… |
 
 ## Data source
 
