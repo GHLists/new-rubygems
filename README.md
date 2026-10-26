@@ -9,19 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 14:19 UTC
+## Latest list — 2026-10-26 15:21 UTC
 
-New gems created between 2026-10-26 13:20 UTC and 2026-10-26 14:19 UTC.
+New gems created between 2026-10-26 14:19 UTC and 2026-10-26 15:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T14-19-09-389545Z.csv)
+[Full CSV](data/new-gems-2026-10-26T15-21-22-705745Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 13:43:32 | [export_kit](https://rubygems.org/gems/export_kit) | 0.1.1 | Łukasz Kerl | MIT | Builds streamed, size-bounded export artifacts with explicit schemas, safe CSV… |
-| 2026-10-26 13:47:41 | [activeadmin-device_authorization](https://rubygems.org/gems/activeadmin-device_authorization) | 0.1.3 | Andrei Makarov | MIT | Configurable device authorization grant, ActiveAdmin consent UI, and short-live… |
-| 2026-10-26 13:53:09 | [shiplog](https://rubygems.org/gems/shiplog) | 0.2.0 | Trackberry | MIT | A mountable Rails engine that turns GitHub issues, pull requests and commits in… |
-| 2026-10-26 14:06:55 | [br_validators](https://rubygems.org/gems/br_validators) | 0.2.1 | Pedro Pedrassolli | MIT | Validação e formatação de documentos brasileiros sem dependências, com a regra… |
-| 2026-10-26 14:15:59 | [infer](https://rubygems.org/gems/infer) | 0.0.0 | Nishant Dania | MIT | Infer provides a consistent Ruby interface for interacting with multiple AI pro… |
+| 2026-10-26 14:51:20 | [kiosk-kyc-proveli](https://rubygems.org/gems/kiosk-kyc-proveli) | 0.6.28 | Phil Pirozhkov | Apache-2.0 | kiosk-kyc-proveli implements Kiosk::KycProviders::Base against the Proveli anon… |
 
 ## Data source
 

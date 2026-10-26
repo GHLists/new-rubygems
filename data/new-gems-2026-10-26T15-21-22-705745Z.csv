@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T14:51:20.143Z,kiosk-kyc-proveli,0.6.28,48,Phil Pirozhkov,Apache-2.0,"kiosk-kyc-proveli implements Kiosk::KycProviders::Base against the Proveli anonymizing KYC broker: it opens a verification at the broker's intake, and accepts only attestations the broker minted for this operator. Assign an instance to Kiosk.configuration.kyc_provider and kiosk-server serves reques…"
