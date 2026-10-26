@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T00:10:45.13Z,standard_pagination,0.1.2,6,Jaryl Sim,MIT,"StandardPagination wraps pagy with one controller concern, one metadata shape, safe page-size handling, out-of-range error handling, deterministic tie-broken ordering, and an MCP list helper shared across Rails apps."
+2026-10-26T00:12:48.226Z,has_public_record,0.1.1,1,Baden,MIT,has_public_record gives a model a random prefixed public id that grows in length as the table fills.

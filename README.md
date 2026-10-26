@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 23:22 UTC
+## Latest list — 2026-10-26 00:19 UTC
 
-New gems created between 2026-10-25 22:19 UTC and 2026-10-25 23:22 UTC.
+New gems created between 2026-10-25 23:22 UTC and 2026-10-26 00:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-25T23-22-00-869523Z.csv)
+[Full CSV](data/new-gems-2026-10-26T00-19-26-239499Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-25 22:33:22 | [mapricot-api](https://rubygems.org/gems/mapricot-api) | 0.7.0 | Mapricot | MIT | Official client for the Mapricot API: geocoding, places, routing, and IP geoloc… |
-| 2026-10-25 23:00:02 | [br_validators](https://rubygems.org/gems/br_validators) | 0.1.1 | Pedro Pedrassolli | MIT | Valida e formata CPF, CNPJ (inclusive alfanumérico), CNS, chave Pix e boleto. |
-| 2026-10-25 23:19:06 | [infotable](https://rubygems.org/gems/infotable) | 1.5.0 | Jakub Cieślar | MIT | InfoTable provides server-side datatable functionality with filtering, sorting,… |
+| 2026-10-26 00:10:45 | [standard_pagination](https://rubygems.org/gems/standard_pagination) | 0.1.2 | Jaryl Sim | MIT | StandardPagination wraps pagy with one controller concern, one metadata shape,… |
+| 2026-10-26 00:12:48 | [has_public_record](https://rubygems.org/gems/has_public_record) | 0.1.1 | Baden | MIT | has_public_record gives a model a random prefixed public id that grows in lengt… |
 
 ## Data source
 
