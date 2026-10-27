@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-27T15:57:56.365Z,ruby_wasm_ic_rack,0.1.0,33,graial,MIT,Use this gem to run rack and roda on the ruby.wasm build for Internet Computer.
+2026-10-27T16:05:47.156Z,ruby_wasm_ic_minimal,0.1.0,26,graial,MIT,This gem contains the four carried files required for running rack and roda on the minimal ruby.wasm build.
+2026-10-27T16:09:54.596Z,offline_protocol,0.31.0,11,"Offline Protocol, Inc.",AGPL-3.0-only,"BLE mesh and internet relay transports, with MLS end-to-end encryption (RFC 9420) applied automatically. Needs the native library for the platform, which this gem does not contain."
+2026-10-27T16:18:13.266Z,gitlab-banzai,0.0.0,0,GitLab,MIT,This version only reserves the name. Requiring it raises an error.
+2026-10-27T16:20:13.135Z,belay,0.1.0,0,Swakhar Dey,MIT,"Belay records every model and tool call as a Postgres row, so an AI workflow that crashes partway resumes from its last checkpoint instead of starting over."
+2026-10-27T16:20:31.659Z,gitlab-platform-database,0.0.0,0,GitLab,MIT,This version only reserves the name. Requiring it raises an error.
