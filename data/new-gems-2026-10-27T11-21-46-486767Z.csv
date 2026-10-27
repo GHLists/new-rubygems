@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-27T10:30:39.964Z,chicago_charter_bus_rental,1.0.0,63,nbkdevs,MIT,"Recommends the fewest vehicles for a Chicago group charter headcount using the Chicago Charter Bus Rental fleet seat sizes, with spare-seat counts and a late-additions headcount buffer. Library only, no dependencies."
+2026-10-27T10:31:01.309Z,turbo_luxury_stain_guide,1.0.0,67,Turbo Luxury Car Wash,MIT,"Look up how to treat coffee, grease, ink, blood, pet accidents, mud and other stains on fabric, leather, vinyl, plastic or carpet in a car, with supplies, what to avoid and when to call a professional."
+2026-10-27T10:56:14.116Z,jekyll-ai-chatbot,1.0.0,44,Asyntai,MIT,"Adds the Asyntai AI chatbot to every page of your Jekyll site. It answers visitor questions from your own content, in 80+ languages."
+2026-10-27T10:58:17.895Z,kodeco,0.1.0,40,Kodeco,,The kodeco command-line tool for Kodeco's API v2
