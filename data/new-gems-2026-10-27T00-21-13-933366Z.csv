@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-26T23:38:43.473Z,inertia_rails_ssr_cache,0.1.0,59,"Justin Gordon, ShakaCode",LicenseRef-InertiaRailsSsrCache,Warm explicitly registered public routes through the native Inertia SSR cache.
+2026-10-26T23:58:24.06Z,fanotify.rb,0.1.0,36,Matt Christen,MIT,"Native bindings for fanotify_init(2) and fanotify_mark(2), with Linux fanotify constants."

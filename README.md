@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 23:20 UTC
+## Latest list — 2026-10-27 00:21 UTC
 
-New gems created between 2026-10-26 22:21 UTC and 2026-10-26 23:20 UTC.
+New gems created between 2026-10-26 23:20 UTC and 2026-10-27 00:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-26T23-20-08-508764Z.csv)
+[Full CSV](data/new-gems-2026-10-27T00-21-13-933366Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-26 23:09:00 | [naijacloud-argus](https://rubygems.org/gems/naijacloud-argus) | 0.1.0 | Naija Cloud | MIT | The official Ruby SDK for Argus, Naijacloud's monitoring. Implements the Argus… |
+| 2026-10-26 23:38:43 | [inertia_rails_ssr_cache](https://rubygems.org/gems/inertia_rails_ssr_cache) | 0.1.0 | Justin Gordon, ShakaCode | LicenseRef-InertiaRailsSsrCac… | Warm explicitly registered public routes through the native Inertia SSR cache. |
+| 2026-10-26 23:58:24 | [fanotify.rb](https://rubygems.org/gems/fanotify.rb) | 0.1.0 | Matt Christen | MIT | Native bindings for fanotify_init(2) and fanotify_mark(2), with Linux fanotify… |
 
 ## Data source
 
