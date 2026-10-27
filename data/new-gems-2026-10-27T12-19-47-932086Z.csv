@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-27T11:24:24.101Z,kodeco,0.1.1,95,Kodeco,,The kodeco command-line tool for Kodeco's API v2
+2026-10-27T12:13:34.679Z,shiplog,0.4.0,1,Trackberry,MIT,"A mountable Rails engine that turns GitHub issues, pull requests and commits into a customer-friendly roadmap and changelog, with LLM drafts approved by an admin."
