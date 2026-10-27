@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-27T21:26:43.553Z,sharespace,0.1.1,68,paydaypay1,MIT,"Users can create shared spaces among other users. When working together, updates propogate to other users and cursors are visible. Similar to Figma or Google Suite collaboration."
+2026-10-27T21:31:18.194Z,switch-case-passbolt-sdk,0.1.1,53,Passbolt SA,AGPL-3.0-or-later,Passbolt SDK — Ruby bindings of the Rust SDK
+2026-10-27T22:06:42.267Z,octorail,1.0.0,3,Dmytro Bereza,MIT,"Octorail provides a strict, Trailblazer-like railway DSL (step, pass, failure, wrap, nested, switch, recover) that is compiled into a plain Ruby method when the operation is first used, so a call costs about as much as hand-written code. Optional tracing shows the path a call took."
