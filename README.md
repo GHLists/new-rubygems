@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 04:21 UTC
+## Latest list — 2026-10-27 06:19 UTC
 
-New gems created between 2026-10-27 03:21 UTC and 2026-10-27 04:21 UTC.
+New gems created between 2026-10-27 05:19 UTC and 2026-10-27 06:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-27T04-21-37-933225Z.csv)
+[Full CSV](data/new-gems-2026-10-27T06-19-10-788431Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-27 03:46:59 | [secupdater](https://rubygems.org/gems/secupdater) | 0.1.0 | Ben Anderson | MIT | A CLI tool to replace dependabot, powered by ecosystem audit reports |
-| 2026-10-27 03:47:10 | [recurrence_ui](https://rubygems.org/gems/recurrence_ui) | 0.1.0 | Katerina German | MIT | Provides ViewComponents and Stimulus controllers to build flexible event recurr… |
+| 2026-10-27 06:16:28 | [build-harness-71c270](https://rubygems.org/gems/build-harness-71c270) | 0.1.0 | fixture | MIT | Build-integrity fixture. Not a real library. |
 
 ## Data source
 
