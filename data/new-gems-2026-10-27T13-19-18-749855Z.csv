@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-27T12:42:31.24Z,ffi-cups2,0.4.0,56,"Hugo Marquez, Nathan Ehresman, Lars Kanis",MIT,Simple wrapper around libcups to give CUPS printing capabilities to Ruby apps.
+2026-10-27T13:02:47.585Z,win32api4ruby,0.2.2,31,Lars Kanis,MIT,Yet another win32 to ruby wrapper ==== To Install:
+2026-10-27T13:10:33.518Z,libcx320,0.1.5,12,Lars Kanis,MIT,Driver for Retransfer Printer CX-320. Usable per PCP05CT.DLL or LIBUSB.
