@@ -9,20 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 16:21 UTC
+## Latest list — 2026-10-27 17:20 UTC
 
-New gems created between 2026-10-27 15:19 UTC and 2026-10-27 16:21 UTC.
+New gems created between 2026-10-27 16:21 UTC and 2026-10-27 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-27T16-21-42-846184Z.csv)
+[Full CSV](data/new-gems-2026-10-27T17-20-44-811948Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-27 15:57:56 | [ruby_wasm_ic_rack](https://rubygems.org/gems/ruby_wasm_ic_rack) | 0.1.0 | graial | MIT | Use this gem to run rack and roda on the ruby.wasm build for Internet Computer. |
-| 2026-10-27 16:05:47 | [ruby_wasm_ic_minimal](https://rubygems.org/gems/ruby_wasm_ic_minimal) | 0.1.0 | graial | MIT | This gem contains the four carried files required for running rack and roda on… |
-| 2026-10-27 16:09:54 | [offline_protocol](https://rubygems.org/gems/offline_protocol) | 0.31.0 | Offline Protocol, Inc. | AGPL-3.0-only | BLE mesh and internet relay transports, with MLS end-to-end encryption (RFC 942… |
-| 2026-10-27 16:18:13 | [gitlab-banzai](https://rubygems.org/gems/gitlab-banzai) | 0.0.0 | GitLab | MIT | This version only reserves the name. Requiring it raises an error. |
-| 2026-10-27 16:20:13 | [belay](https://rubygems.org/gems/belay) | 0.1.0 | Swakhar Dey | MIT | Belay records every model and tool call as a Postgres row, so an AI workflow th… |
-| 2026-10-27 16:20:31 | [gitlab-platform-database](https://rubygems.org/gems/gitlab-platform-database) | 0.0.0 | GitLab | MIT | This version only reserves the name. Requiring it raises an error. |
+| 2026-10-27 16:21:57 | [gitlab-declarative_enum](https://rubygems.org/gems/gitlab-declarative_enum) | 0.0.0 | GitLab | MIT | This version only reserves the name. Requiring it raises an error. |
+| 2026-10-27 16:22:00 | [gitlab-platform-core](https://rubygems.org/gems/gitlab-platform-core) | 0.0.0 | GitLab | MIT | This version only reserves the name. Requiring it raises an error. |
+| 2026-10-27 16:48:50 | [fluent-plugin-opentelemetry-radiant](https://rubygems.org/gems/fluent-plugin-opentelemetry-radiant) | 0.1.0 | Radiant Logic, Inc. | Apache-2.0 | A fork of fluent-plugin-opentelemetry 0.4.0 that retains OTLP relay and input b… |
 
 ## Data source
 
