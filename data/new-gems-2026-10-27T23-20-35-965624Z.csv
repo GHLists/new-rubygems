@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-27T22:20:42.861Z,haveapi-typescript-client,0.31.1,80,Jakub Skokan,MIT,Generate typed TypeScript operations from saved HaveAPI schemas
+2026-10-27T22:43:34.187Z,qube_rails,0.2.0,59,Garrett Lancaster,MIT,"The code every Rails app's QuBe Sync integration shares: the webhook endpoint and its job, onboarding, the question routes and partial, and the Operation and ConnectionEvents bases. Your app keeps its own operations, its connection class and one initializer."
+2026-10-27T23:05:50.571Z,volucer-worker,0.1.0,27,Sailantis,MIT,"The Ruby end of volucer's worker protocol. The specification is `docs/worker-protocol.md` in sailantis/volucer; this gem implements it beside the PHP and Python SDKs. Includes a Rack adapter, CALL/RETURN and JOB support, an `[rpc]` client for applications that are not workers, and no runtime depend…"
