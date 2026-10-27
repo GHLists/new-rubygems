@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-27T14:39:37.579Z,ffi-cups2,0.5.0,76,"Hugo Marquez, Nathan Ehresman, Lars Kanis",MIT,Simple wrapper around libcups to give CUPS printing capabilities to Ruby apps.
+2026-10-27T15:02:18.911Z,usernames,0.1.3,17,rameerez,MIT,"Add correct, secure usernames to any Rails model with one line (`has_username`). Format rules that read like English (no symbols at the edges, no two in a row, not all digits), a bundled list of reserved names (admin, root, login, your own routes) matched the way impersonators actually type them (a…"

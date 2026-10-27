@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 14:20 UTC
+## Latest list — 2026-10-27 15:19 UTC
 
-New gems created between 2026-10-27 13:19 UTC and 2026-10-27 14:20 UTC.
+New gems created between 2026-10-27 14:20 UTC and 2026-10-27 15:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-27T14-20-43-010938Z.csv)
+[Full CSV](data/new-gems-2026-10-27T15-19-36-323391Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-27 13:22:13 | [mcc2_c_helper](https://rubygems.org/gems/mcc2_c_helper) | 0.1.2 | Lars Kanis | MIT | Some helper functions for fast image data processing. |
-| 2026-10-27 14:12:40 | [messengerr](https://rubygems.org/gems/messengerr) | 0.2.0 | Daiwick | MIT | Interactive CLI that renders {{placeholder}} messages against a CSV contact lis… |
+| 2026-10-27 14:39:37 | [ffi-cups2](https://rubygems.org/gems/ffi-cups2) | 0.5.0 | Hugo Marquez, Nathan Ehresman… | MIT | Simple wrapper around libcups to give CUPS printing capabilities to Ruby apps. |
+| 2026-10-27 15:02:18 | [usernames](https://rubygems.org/gems/usernames) | 0.1.3 | rameerez | MIT | Add correct, secure usernames to any Rails model with one line (`has_username`)… |
 
 ## Data source
 
