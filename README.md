@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 17:20 UTC
+## Latest list — 2026-10-27 18:19 UTC
 
-New gems created between 2026-10-27 16:21 UTC and 2026-10-27 17:20 UTC.
+New gems created between 2026-10-27 17:20 UTC and 2026-10-27 18:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-27T17-20-44-811948Z.csv)
+[Full CSV](data/new-gems-2026-10-27T18-19-14-56325Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-27 16:21:57 | [gitlab-declarative_enum](https://rubygems.org/gems/gitlab-declarative_enum) | 0.0.0 | GitLab | MIT | This version only reserves the name. Requiring it raises an error. |
-| 2026-10-27 16:22:00 | [gitlab-platform-core](https://rubygems.org/gems/gitlab-platform-core) | 0.0.0 | GitLab | MIT | This version only reserves the name. Requiring it raises an error. |
-| 2026-10-27 16:48:50 | [fluent-plugin-opentelemetry-radiant](https://rubygems.org/gems/fluent-plugin-opentelemetry-radiant) | 0.1.0 | Radiant Logic, Inc. | Apache-2.0 | A fork of fluent-plugin-opentelemetry 0.4.0 that retains OTLP relay and input b… |
+| 2026-10-27 17:36:59 | [spreedly-composer-sdk-server](https://rubygems.org/gems/spreedly-composer-sdk-server) | 1.0.0 | Spreedly | Apache-2.0 | Server-side SDK for integrating Spreedly Composer into Ruby applications |
+| 2026-10-27 18:11:20 | [haveapi-typescript-client](https://rubygems.org/gems/haveapi-typescript-client) | 0.31.0 | Jakub Skokan | MIT | Generate typed TypeScript operations from saved HaveAPI schemas |
+| 2026-10-27 18:18:05 | [normalmapai-url-tools](https://rubygems.org/gems/normalmapai-url-tools) | 0.1.0 | wangneo276-lgtm | MIT | Free normal map generator by NormalMapAI. Convert any photo into a normal map w… |
 
 ## Data source
 

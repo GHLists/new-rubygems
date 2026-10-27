@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-27T17:36:59.21Z,spreedly-composer-sdk-server,1.0.0,65,Spreedly,Apache-2.0,Server-side SDK for integrating Spreedly Composer into Ruby applications
+2026-10-27T18:11:20.307Z,haveapi-typescript-client,0.31.0,6,Jakub Skokan,MIT,Generate typed TypeScript operations from saved HaveAPI schemas
+2026-10-27T18:18:05.879Z,normalmapai-url-tools,0.1.0,0,wangneo276-lgtm,MIT,"Free normal map generator by NormalMapAI. Convert any photo into a normal map with live 3D preview — plus height, roughness, AO and more. Private in-browser; export for Unity, Unreal, Godot and Blender."
