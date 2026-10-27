@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-27T09:24:32.804Z,messengerr,0.1.0,69,Daiwick,MIT,"Interactive CLI that renders {{placeholder}} messages against a CSV contact list and dispatches through pluggable services scoped by delivery method (email, sms)."
+2026-10-27T09:34:39.43Z,miqat,0.0.0,58,Rémy Hannequin,MIT,"Reserves the name of Miqat, a library of high-precision Islamic prayer times built on Astronoby. This release contains no functionality."
+2026-10-27T09:47:59.206Z,lethe,0.1.0,54,KAIBYAKU K.K,MIT,"lethe finds every table and column that points at a model such as User, from foreign keys, associations and column names, and checks that each one has a declared policy for when that user leaves: destroy, scrub, keep or ignore. It reads the schema only and never touches your data."
