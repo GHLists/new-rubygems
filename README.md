@@ -9,17 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 18:19 UTC
+## Latest list — 2026-10-27 19:20 UTC
 
-New gems created between 2026-10-27 17:20 UTC and 2026-10-27 18:19 UTC.
+New gems created between 2026-10-27 18:19 UTC and 2026-10-27 19:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-27T18-19-14-56325Z.csv)
+[Full CSV](data/new-gems-2026-10-27T19-20-44-580597Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-27 17:36:59 | [spreedly-composer-sdk-server](https://rubygems.org/gems/spreedly-composer-sdk-server) | 1.0.0 | Spreedly | Apache-2.0 | Server-side SDK for integrating Spreedly Composer into Ruby applications |
-| 2026-10-27 18:11:20 | [haveapi-typescript-client](https://rubygems.org/gems/haveapi-typescript-client) | 0.31.0 | Jakub Skokan | MIT | Generate typed TypeScript operations from saved HaveAPI schemas |
-| 2026-10-27 18:18:05 | [normalmapai-url-tools](https://rubygems.org/gems/normalmapai-url-tools) | 0.1.0 | wangneo276-lgtm | MIT | Free normal map generator by NormalMapAI. Convert any photo into a normal map w… |
+| 2026-10-27 18:31:58 | [usernames](https://rubygems.org/gems/usernames) | 0.2.0 | rameerez | MIT | Add correct, secure usernames to any Rails model with one line (`has_username`)… |
+| 2026-10-27 18:36:32 | [deacon-rails](https://rubygems.org/gems/deacon-rails) | 1.1.0 | Deacon | MIT | A view helper, deacon_widget_tag, that puts the Deacon chat widget on every pag… |
+| 2026-10-27 18:58:51 | [fountainrb](https://rubygems.org/gems/fountainrb) | 1.0.0 | Distark | MIT | fountainrb is a dependency-free Ruby implementation of the Fountain screenplay… |
+| 2026-10-27 18:59:12 | [slipway-theme](https://rubygems.org/gems/slipway-theme) | 0.1.0 | Slipway contributors | MIT | An editorial, RTL-ready, agent-native Jekyll theme, verified by Seaworthy. |
+| 2026-10-27 19:15:52 | [rubocop-nathank](https://rubygems.org/gems/rubocop-nathank) | 1.0.0 | Nathan Kidd | MIT | House style, as a RuboCop plugin. |
 
 ## Data source
 
