@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 20:21 UTC
+## Latest list — 2026-10-27 21:21 UTC
 
-New gems created between 2026-10-27 19:20 UTC and 2026-10-27 20:21 UTC.
+New gems created between 2026-10-27 20:21 UTC and 2026-10-27 21:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-27T20-21-42-135525Z.csv)
+[Full CSV](data/new-gems-2026-10-27T21-21-21-769412Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-27 19:48:08 | [kitchen-incus](https://rubygems.org/gems/kitchen-incus) | 0.1.0 | Andrew Brossia | Apache-2.0 | Runs Test Kitchen instances as Incus containers or virtual machines, using the… |
-| 2026-10-27 20:14:39 | [bandsaw_basics](https://rubygems.org/gems/bandsaw_basics) | 0.1.0 | Stankotorg | MIT | Generic textbook band saw formulas |
+| 2026-10-27 20:53:10 | [long_thanh_sdk](https://rubygems.org/gems/long_thanh_sdk) | 0.1.0 | SWL Services | Nonstandard | Read-only client for published Long Thanh Imbiss menu, EUR prices, hours and co… |
+| 2026-10-27 21:20:24 | [sharespace](https://rubygems.org/gems/sharespace) | 0.1.0 | paydaypay1 | MIT | Users can create shared spaces among other users. When working together, update… |
 
 ## Data source
 
