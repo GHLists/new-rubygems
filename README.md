@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 06:19 UTC
+## Latest list — 2026-10-27 07:21 UTC
 
-New gems created between 2026-10-27 05:19 UTC and 2026-10-27 06:19 UTC.
+New gems created between 2026-10-27 06:19 UTC and 2026-10-27 07:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-27T06-19-10-788431Z.csv)
+[Full CSV](data/new-gems-2026-10-27T07-21-10-309233Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-27 06:16:28 | [build-harness-71c270](https://rubygems.org/gems/build-harness-71c270) | 0.1.0 | fixture | MIT | Build-integrity fixture. Not a real library. |
+| 2026-10-27 06:44:30 | [build-harness-71c270](https://rubygems.org/gems/build-harness-71c270) | 0.1.3 | fixture | MIT | Build-integrity fixture. Not a real library. |
 
 ## Data source
 
