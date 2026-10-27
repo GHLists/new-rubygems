@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 02:19 UTC
+## Latest list — 2026-10-27 04:21 UTC
 
-New gems created between 2026-10-27 01:19 UTC and 2026-10-27 02:19 UTC.
+New gems created between 2026-10-27 03:21 UTC and 2026-10-27 04:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-27T02-19-50-008316Z.csv)
+[Full CSV](data/new-gems-2026-10-27T04-21-37-933225Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-27 01:33:26 | [timecalc-cli](https://rubygems.org/gems/timecalc-cli) | 0.1.1 | Eli | MIT | TimeCalcは、カンマ区切りの時間帯、または標準入力から受け取る時間・分の一覧を合計するRuby製CLIです。 時刻は HH または HH:MM 形式で指… |
-| 2026-10-27 02:14:47 | [perfect_season_odds](https://rubygems.org/gems/perfect_season_odds) | 0.1.0 | 17-0 Game | MIT | Multiply per-game win probabilities, convert moneylines, and remove vig to esti… |
+| 2026-10-27 03:46:59 | [secupdater](https://rubygems.org/gems/secupdater) | 0.1.0 | Ben Anderson | MIT | A CLI tool to replace dependabot, powered by ecosystem audit reports |
+| 2026-10-27 03:47:10 | [recurrence_ui](https://rubygems.org/gems/recurrence_ui) | 0.1.0 | Katerina German | MIT | Provides ViewComponents and Stimulus controllers to build flexible event recurr… |
 
 ## Data source
 
