@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 01:19 UTC
+## Latest list — 2026-10-27 02:19 UTC
 
-New gems created between 2026-10-27 00:21 UTC and 2026-10-27 01:19 UTC.
+New gems created between 2026-10-27 01:19 UTC and 2026-10-27 02:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-27T01-19-58-422578Z.csv)
+[Full CSV](data/new-gems-2026-10-27T02-19-50-008316Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-27 01:13:47 | [sms_opener](https://rubygems.org/gems/sms_opener) | 0.1.0 | Scott Stubblebine | MIT | Inspired by letter_opener and letter_opener_web, sms_opener intercepts outgoing… |
-| 2026-10-27 01:13:48 | [timecalc-cli](https://rubygems.org/gems/timecalc-cli) | 0.1.0 | Eli | MIT | Calculate total duration from multiple time ranges. |
+| 2026-10-27 01:33:26 | [timecalc-cli](https://rubygems.org/gems/timecalc-cli) | 0.1.1 | Eli | MIT | TimeCalcは、カンマ区切りの時間帯、または標準入力から受け取る時間・分の一覧を合計するRuby製CLIです。 時刻は HH または HH:MM 形式で指… |
+| 2026-10-27 02:14:47 | [perfect_season_odds](https://rubygems.org/gems/perfect_season_odds) | 0.1.0 | 17-0 Game | MIT | Multiply per-game win probabilities, convert moneylines, and remove vig to esti… |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-27T01:33:26.088Z,timecalc-cli,0.1.1,68,Eli,MIT,"TimeCalcは、カンマ区切りの時間帯、または標準入力から受け取る時間・分の一覧を合計するRuby製CLIです。 時刻は HH または HH:MM 形式で指定でき、--hm オプションでは H または H.MM 形式の経過時間を行ごとに合計できます。 TimeCalc is a Ruby CLI for calculating totals from comma-separated time ranges or line-oriented hours-and-minutes input. Times can be specified in HH or HH:MM format, and t…"
+2026-10-27T02:14:47.458Z,perfect_season_odds,0.1.0,0,17-0 Game,MIT,"Multiply per-game win probabilities, convert moneylines, and remove vig to estimate the odds of an undefeated season. Companion to 17-0 Game."
