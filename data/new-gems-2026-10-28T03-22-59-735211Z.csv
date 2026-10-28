@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-28T02:28:52.142Z,share_space,0.2.0,82,paydaypay1,MIT,"Users can create shared spaces among other users. When working together, updates propogate to other users and cursors are visible. Similar to Figma or Google Suite collaboration."
+2026-10-28T03:15:05.7Z,jsonata,2.2.2.1,7,Jason Frey,MIT,"A Ruby port of jsonata-js, the reference implementation of JSONata - a lightweight query and transformation language for JSON data"
