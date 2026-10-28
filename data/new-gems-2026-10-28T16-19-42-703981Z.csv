@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-28T15:19:54.77Z,ruby_wasm_ic_installer,0.1.0,68,the ruby_wasm_builder authors,MIT,"The Installer for canisters packed by ruby_wasm_builder: reads an Application's Gemfile.lock, fetches its pure-Ruby gems and sends the ones a canister lacks through `icp canister call`, into /data, where a carried canister half loads them at the next boot. `setup` wires the canister half into an Ap…"
+2026-10-28T16:04:51.786Z,mailchannels-email-api,0.1.0,31,MailChannels Corporation,MIT,"Direct HTTPS client with API-key authentication, dry-run validation, explicit acceptance status, bounded I/O timeouts, and no automatic retries."
+2026-10-28T16:19:16.257Z,vallkey,0.1.0,0,Vallkey,MIT,Requests that carry a Vallkey ghost key go to Vallkey; nothing else is touched. Turn it on with RUBYOPT=-rvallkey/auto.
