@@ -9,16 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 18:21 UTC
+## Latest list — 2026-10-28 19:20 UTC
 
-New gems created between 2026-10-28 17:21 UTC and 2026-10-28 18:21 UTC.
+New gems created between 2026-10-28 18:21 UTC and 2026-10-28 19:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T18-21-03-496566Z.csv)
+[Full CSV](data/new-gems-2026-10-28T19-20-23-559107Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 18:05:24 | [ipscope](https://rubygems.org/gems/ipscope) | 1.0.0 | IPScope Engineering | MIT | Server-side Ruby SDK for IPScope providing single IP lookup, batch lookup, cons… |
-| 2026-10-28 18:20:27 | [macron-cms](https://rubygems.org/gems/macron-cms) | 1.0.0 | Leonid Medovyy | MIT | A flexible Rails CMS engine designed for building highly interactive content wi… |
+| 2026-10-28 18:22:54 | [guardian-ci](https://rubygems.org/gems/guardian-ci) | 2026.10.28.182143 | Jonathan PHILIPPE | MIT | Single Gemfile entry that bundles rubocop, brakeman, bundler-audit, ruby_audit,… |
+| 2026-10-28 18:51:26 | [upgrade_radar](https://rubygems.org/gems/upgrade_radar) | 0.1.0 | Samarth Kulkarni | MIT | Static and runtime analysis for Ruby/Rails deprecations and breaking changes. S… |
+| 2026-10-28 18:54:11 | [pglpg](https://rubygems.org/gems/pglpg) | 0.1.0 | Anton Fefilov | MIT | A Ruby library for labeled property graphs (ISO GQL model, PG-Schema / PG-Keys)… |
+| 2026-10-28 18:58:06 | [env-agent](https://rubygems.org/gems/env-agent) | 0.1.1 | Panos Dalitsouris | MIT | env-agent resolves the external repos a project depends on from per-machine .en… |
+| 2026-10-28 19:00:04 | [cva-ruby](https://rubygems.org/gems/cva-ruby) | 0.1.0 | Andrii Malyshko | MIT | This is a Ruby port of cva.style JS library. The CVA (Class Variance Authority)… |
 
 ## Data source
 
