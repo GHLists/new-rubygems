@@ -9,16 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 21:20 UTC
+## Latest list — 2026-10-28 22:19 UTC
 
-New gems created between 2026-10-28 20:18 UTC and 2026-10-28 21:20 UTC.
+New gems created between 2026-10-28 21:20 UTC and 2026-10-28 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T21-20-07-305297Z.csv)
+[Full CSV](data/new-gems-2026-10-28T22-19-44-374955Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 20:50:01 | [jekyll-trecs](https://rubygems.org/gems/jekyll-trecs) | 0.1 | Jesse Portnoy | AGPL-3.0-or-later | Provides a Liquid tag for embedding trecs supported formats in Jekyll sites. |
-| 2026-10-28 21:06:28 | [grex_ruby](https://rubygems.org/gems/grex_ruby) | 0.1.0 | Nelly Simkova | MIT | Ruby gem with bindings for Grex Rust library. |
+| 2026-10-28 21:52:34 | [burli](https://rubygems.org/gems/burli) | 0.1.1 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 21:52:34 | [burli](https://rubygems.org/gems/burli) | 0.1.1 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 21:52:34 | [burli](https://rubygems.org/gems/burli) | 0.1.1 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 21:52:34 | [burli](https://rubygems.org/gems/burli) | 0.1.1 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 21:52:34 | [burli](https://rubygems.org/gems/burli) | 0.1.1 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 21:52:34 | [burli](https://rubygems.org/gems/burli) | 0.1.1 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 21:52:34 | [burli](https://rubygems.org/gems/burli) | 0.1.1 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 21:52:34 | [burli](https://rubygems.org/gems/burli) | 0.1.1 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 22:16:20 | [outpunch-ruby](https://rubygems.org/gems/outpunch-ruby) | 0.5.0 | TechyCorp | MIT | Ruby bindings for the outpunch tunnel client |
+| 2026-10-28 22:16:22 | [outpunch-ruby-rack](https://rubygems.org/gems/outpunch-ruby-rack) | 0.5.0 | TechyCorp | MIT | Rack adapter for the outpunch reverse WebSocket tunnel |
+| 2026-10-28 22:16:24 | [outpunch-ruby-rails](https://rubygems.org/gems/outpunch-ruby-rails) | 0.5.0 | TechyCorp | MIT | Rails Engine adapter for the outpunch reverse WebSocket tunnel |
 
 ## Data source
 
