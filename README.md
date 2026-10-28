@@ -9,23 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 11:21 UTC
+## Latest list — 2026-10-28 12:20 UTC
 
-New gems created between 2026-10-28 10:20 UTC and 2026-10-28 11:21 UTC.
+New gems created between 2026-10-28 11:21 UTC and 2026-10-28 12:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T11-21-08-500668Z.csv)
+[Full CSV](data/new-gems-2026-10-28T12-20-01-698406Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
-| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
-| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
-| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
-| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
-| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
-| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
-| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
-| 2026-10-28 10:51:40 | [flagnetic](https://rubygems.org/gems/flagnetic) | 0.1.0 | Anatolii Zverev | Apache-2.0 | Evaluates Flagnetic rulesets locally with the same results as every other Flagn… |
+| 2026-10-28 12:01:13 | [flagnetic-openfeature](https://rubygems.org/gems/flagnetic-openfeature) | 0.1.0 | Anatolii Zverev | Apache-2.0 | Serves Flagnetic flags through the OpenFeature API, with exposures and aliases… |
 
 ## Data source
 
