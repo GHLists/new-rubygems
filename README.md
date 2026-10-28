@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 03:22 UTC
+## Latest list — 2026-10-28 05:18 UTC
 
-New gems created between 2026-10-28 02:21 UTC and 2026-10-28 03:22 UTC.
+New gems created between 2026-10-28 04:20 UTC and 2026-10-28 05:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T03-22-59-735211Z.csv)
+[Full CSV](data/new-gems-2026-10-28T05-18-40-029761Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 02:28:52 | [share_space](https://rubygems.org/gems/share_space) | 0.2.0 | paydaypay1 | MIT | Users can create shared spaces among other users. When working together, update… |
-| 2026-10-28 03:15:05 | [jsonata](https://rubygems.org/gems/jsonata) | 2.2.2.1 | Jason Frey | MIT | A Ruby port of jsonata-js, the reference implementation of JSONata - a lightwei… |
+| 2026-10-28 04:59:27 | [ruby-blinkstick](https://rubygems.org/gems/ruby-blinkstick) | 0.1.0 | Keith Bawden | MIT | Find, open and set the colour of BlinkStick Nano and Square USB LEDs from Ruby,… |
+| 2026-10-28 05:11:52 | [ruby_wasm_ic_minimal](https://rubygems.org/gems/ruby_wasm_ic_minimal) | 0.1.3 | graial | MIT | This gem contains the four carried files required for running rack and roda on… |
 
 ## Data source
 
