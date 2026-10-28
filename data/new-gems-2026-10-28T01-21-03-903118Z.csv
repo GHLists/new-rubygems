@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-28T00:26:20.213Z,signalhouse-sms,1.5.1,71,SignalHouse LLC,MIT,"Official Ruby SDK for the SignalHouse API. Provides a simple interface for sending SMS/MMS messages, managing phone numbers, 10DLC brand/campaign registration, billing, and more."
+2026-10-28T00:36:09.753Z,ruby_wasm_ic_minimal,0.1.2,100,graial,MIT,This gem contains the four carried files required for running rack and roda on the minimal ruby.wasm build.
+2026-10-28T00:46:42.159Z,ruby-blinkstick,0.0.1,56,Keith Bawden,MIT,"Drive BlinkStick Nano and Square USB LEDs from Ruby. Unofficial, and not affiliated with Agile Innovative. 0.0.1 is a placeholder that reserves the gem name."

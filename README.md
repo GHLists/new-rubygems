@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 00:18 UTC
+## Latest list — 2026-10-28 01:21 UTC
 
-New gems created between 2026-10-27 23:20 UTC and 2026-10-28 00:18 UTC.
+New gems created between 2026-10-28 00:18 UTC and 2026-10-28 01:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T00-18-40-643447Z.csv)
+[Full CSV](data/new-gems-2026-10-28T01-21-03-903118Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-27 23:34:06 | [share_space](https://rubygems.org/gems/share_space) | 0.1.0 | paydaypay1 | MIT | Users can create shared spaces among other users. When working together, update… |
-| 2026-10-27 23:44:53 | [ruby_wasm_ic_minimal](https://rubygems.org/gems/ruby_wasm_ic_minimal) | 0.1.1 | graial | MIT | This gem contains the four carried files required for running rack and roda on… |
-| 2026-10-27 23:45:47 | [ruby_wasm_ic_rack](https://rubygems.org/gems/ruby_wasm_ic_rack) | 0.1.1 | graial | MIT | Use this gem to run rack and roda on the ruby.wasm build for Internet Computer. |
+| 2026-10-28 00:26:20 | [signalhouse-sms](https://rubygems.org/gems/signalhouse-sms) | 1.5.1 | SignalHouse LLC | MIT | Official Ruby SDK for the SignalHouse API. Provides a simple interface for send… |
+| 2026-10-28 00:36:09 | [ruby_wasm_ic_minimal](https://rubygems.org/gems/ruby_wasm_ic_minimal) | 0.1.2 | graial | MIT | This gem contains the four carried files required for running rack and roda on… |
+| 2026-10-28 00:46:42 | [ruby-blinkstick](https://rubygems.org/gems/ruby-blinkstick) | 0.0.1 | Keith Bawden | MIT | Drive BlinkStick Nano and Square USB LEDs from Ruby. Unofficial, and not affili… |
 
 ## Data source
 
