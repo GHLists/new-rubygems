@@ -9,19 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 19:20 UTC
+## Latest list — 2026-10-28 20:18 UTC
 
-New gems created between 2026-10-28 18:21 UTC and 2026-10-28 19:20 UTC.
+New gems created between 2026-10-28 19:20 UTC and 2026-10-28 20:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T19-20-23-559107Z.csv)
+[Full CSV](data/new-gems-2026-10-28T20-18-29-660041Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 18:22:54 | [guardian-ci](https://rubygems.org/gems/guardian-ci) | 2026.10.28.182143 | Jonathan PHILIPPE | MIT | Single Gemfile entry that bundles rubocop, brakeman, bundler-audit, ruby_audit,… |
-| 2026-10-28 18:51:26 | [upgrade_radar](https://rubygems.org/gems/upgrade_radar) | 0.1.0 | Samarth Kulkarni | MIT | Static and runtime analysis for Ruby/Rails deprecations and breaking changes. S… |
-| 2026-10-28 18:54:11 | [pglpg](https://rubygems.org/gems/pglpg) | 0.1.0 | Anton Fefilov | MIT | A Ruby library for labeled property graphs (ISO GQL model, PG-Schema / PG-Keys)… |
-| 2026-10-28 18:58:06 | [env-agent](https://rubygems.org/gems/env-agent) | 0.1.1 | Panos Dalitsouris | MIT | env-agent resolves the external repos a project depends on from per-machine .en… |
-| 2026-10-28 19:00:04 | [cva-ruby](https://rubygems.org/gems/cva-ruby) | 0.1.0 | Andrii Malyshko | MIT | This is a Ruby port of cva.style JS library. The CVA (Class Variance Authority)… |
+| 2026-10-28 19:24:55 | [lokalise-vantage](https://rubygems.org/gems/lokalise-vantage) | 0.0.1 | Elijah S. Krukowski | BSD-3-Clause | A Ruby client for interacting with the Lokalise Vantage API. |
+| 2026-10-28 19:44:43 | [sequel-sqlformat](https://rubygems.org/gems/sequel-sqlformat) | 0.1.0 | Ryan Duryea | MIT | Adds Database#format_sql and Dataset#formatted_sql to Sequel. Formatting runs i… |
+| 2026-10-28 19:44:43 | [sequel-sqlformat](https://rubygems.org/gems/sequel-sqlformat) | 0.1.0 | Ryan Duryea | MIT | Adds Database#format_sql and Dataset#formatted_sql to Sequel. Formatting runs i… |
+| 2026-10-28 19:44:43 | [sequel-sqlformat](https://rubygems.org/gems/sequel-sqlformat) | 0.1.0 | Ryan Duryea | MIT | Adds Database#format_sql and Dataset#formatted_sql to Sequel. Formatting runs i… |
+| 2026-10-28 19:44:43 | [sequel-sqlformat](https://rubygems.org/gems/sequel-sqlformat) | 0.1.0 | Ryan Duryea | MIT | Adds Database#format_sql and Dataset#formatted_sql to Sequel. Formatting runs i… |
+| 2026-10-28 19:44:43 | [sequel-sqlformat](https://rubygems.org/gems/sequel-sqlformat) | 0.1.0 | Ryan Duryea | MIT | Adds Database#format_sql and Dataset#formatted_sql to Sequel. Formatting runs i… |
 
 ## Data source
 
