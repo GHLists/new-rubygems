@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-28T09:21:26.793Z,zizek,0.1.1,67,Waldemar Quevedo,Apache-2.0,"Zizek is a native property-based testing for Ruby, modeled on Hegel and Hypothesis. It explores generated examples, records every choice, shrinks the first failure to a minimal counterexample, and reports a reproduce blob that replays that exact example."
+2026-10-28T09:35:07.348Z,ruby-blinkstick,0.2.0,67,Keith Bawden,MIT,"Find, open and set the colour of BlinkStick Nano and Square USB LEDs from Ruby, on macOS and Linux. Lists attached sticks, opens one by serial, sets every LED from hex, r,g,b or CSS colour names, and turns them off. Nothing to install but the gem. Unofficial, and not affiliated with Agile Innovativ…"
+2026-10-28T09:50:07.588Z,enel-ruby-sdk,0.1.2,45,Danilo Josino,MIT,Unofficial Ruby SDK for the Enel X API. No runtime dependencies beyond the Ruby stdlib.
+2026-10-28T10:02:00.494Z,crap4ruby,0.1.0,22,Leonid Svyatov,MIT,Static Ruby method complexity and test coverage combined into CRAP scores and crapper-compatible snapshots.
