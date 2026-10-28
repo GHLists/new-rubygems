@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 23:20 UTC
+## Latest list — 2026-10-28 00:18 UTC
 
-New gems created between 2026-10-27 22:20 UTC and 2026-10-27 23:20 UTC.
+New gems created between 2026-10-27 23:20 UTC and 2026-10-28 00:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-27T23-20-35-965624Z.csv)
+[Full CSV](data/new-gems-2026-10-28T00-18-40-643447Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-27 22:20:42 | [haveapi-typescript-client](https://rubygems.org/gems/haveapi-typescript-client) | 0.31.1 | Jakub Skokan | MIT | Generate typed TypeScript operations from saved HaveAPI schemas |
-| 2026-10-27 22:43:34 | [qube_rails](https://rubygems.org/gems/qube_rails) | 0.2.0 | Garrett Lancaster | MIT | The code every Rails app's QuBe Sync integration shares: the webhook endpoint a… |
-| 2026-10-27 23:05:50 | [volucer-worker](https://rubygems.org/gems/volucer-worker) | 0.1.0 | Sailantis | MIT | The Ruby end of volucer's worker protocol. The specification is `docs/worker-pr… |
+| 2026-10-27 23:34:06 | [share_space](https://rubygems.org/gems/share_space) | 0.1.0 | paydaypay1 | MIT | Users can create shared spaces among other users. When working together, update… |
+| 2026-10-27 23:44:53 | [ruby_wasm_ic_minimal](https://rubygems.org/gems/ruby_wasm_ic_minimal) | 0.1.1 | graial | MIT | This gem contains the four carried files required for running rack and roda on… |
+| 2026-10-27 23:45:47 | [ruby_wasm_ic_rack](https://rubygems.org/gems/ruby_wasm_ic_rack) | 0.1.1 | graial | MIT | Use this gem to run rack and roda on the ruby.wasm build for Internet Computer. |
 
 ## Data source
 
