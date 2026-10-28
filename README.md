@@ -9,20 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 14:18 UTC
+## Latest list — 2026-10-28 15:18 UTC
 
-New gems created between 2026-10-28 13:20 UTC and 2026-10-28 14:18 UTC.
+New gems created between 2026-10-28 14:18 UTC and 2026-10-28 15:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T14-18-45-568897Z.csv)
+[Full CSV](data/new-gems-2026-10-28T15-18-57-724352Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 13:36:55 | [fluent-plugin-opentelemetry-radiant](https://rubygems.org/gems/fluent-plugin-opentelemetry-radiant) | 0.1.1 | Radiant Logic, Inc. | Apache-2.0 | A fork of fluent-plugin-opentelemetry 0.4.0 that retains OTLP relay and input b… |
-| 2026-10-28 13:41:53 | [reanimator](https://rubygems.org/gems/reanimator) | 0.1.0 | Valentino Stoll | MIT | Reanimator reads a repository, infers what "healthy" means for it, and proves t… |
-| 2026-10-28 13:46:37 | [graphql-mcp](https://rubygems.org/gems/graphql-mcp) | 0.1.0 | Andrew Kodkod | MIT | Build an MCP server from GraphQL schemas, providing tools and utilities to easi… |
-| 2026-10-28 13:48:30 | [crap4ruby](https://rubygems.org/gems/crap4ruby) | 0.1.1 | Leonid Svyatov | MIT | Static Ruby method complexity and test coverage combined into CRAP scores and c… |
-| 2026-10-28 13:58:33 | [mcc2](https://rubygems.org/gems/mcc2) | 1.5.0 | Lars Kanis | MIT | Layout editor and card printer GUI. |
-| 2026-10-28 14:11:13 | [fastlane-plugin-swiftshot](https://rubygems.org/gems/fastlane-plugin-swiftshot) | 0.1.0 | Lukas Anda | MIT | Runs the swiftshot CLI from a lane, in place of snapshot and screengrab. |
+| 2026-10-28 14:21:45 | [burli](https://rubygems.org/gems/burli) | 0.1.0 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 14:21:45 | [burli](https://rubygems.org/gems/burli) | 0.1.0 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 14:21:45 | [burli](https://rubygems.org/gems/burli) | 0.1.0 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 14:21:45 | [burli](https://rubygems.org/gems/burli) | 0.1.0 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 14:21:45 | [burli](https://rubygems.org/gems/burli) | 0.1.0 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 14:21:45 | [burli](https://rubygems.org/gems/burli) | 0.1.0 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 14:21:45 | [burli](https://rubygems.org/gems/burli) | 0.1.0 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 14:21:45 | [burli](https://rubygems.org/gems/burli) | 0.1.0 | Patrik Wenger | MIT | Memory-safe Brotli compression in Rust, with the API of the brotli gem |
+| 2026-10-28 14:25:48 | [packrat-rails](https://rubygems.org/gems/packrat-rails) | 0.1.0 | Packrat Labs | MIT | OpenTelemetry for Rails, configured to send to Packrat with one key |
+| 2026-10-28 14:33:36 | [crap4ruby](https://rubygems.org/gems/crap4ruby) | 0.2.0 | Leonid Svyatov | MIT | Static Ruby method complexity and test coverage combined into CRAP scores and c… |
+| 2026-10-28 15:04:19 | [sharp_style_rubocop](https://rubygems.org/gems/sharp_style_rubocop) | 0.1.0 | joe-sharp | MIT | RuboCop rules and plugin setup for Joe Sharp's Ruby projects, shared as a gem s… |
 
 ## Data source
 
