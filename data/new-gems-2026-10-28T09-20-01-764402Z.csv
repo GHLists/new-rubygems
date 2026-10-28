@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-28T08:46:48.466Z,sandcrawler,0.1.0,51,Yudai Takada,MIT,"Read-only flash acquisition and offline FAT12/16/32 recovery, including deleted files and text carving."
+2026-10-28T09:10:57.281Z,zizek,0.1.0,9,waldemar.quevedo@gmail.com,Apache-2.0,"Zizek is a native property-based testing for Ruby, modeled on Hegel and Hypothesis. It explores generated examples, records every choice, shrinks the first failure to a minimal counterexample, and reports a reproduce blob that replays that exact example."
+2026-10-28T09:17:32.116Z,haveapi-typescript-client,0.31.2,0,Jakub Skokan,MIT,Generate typed TypeScript operations from saved HaveAPI schemas

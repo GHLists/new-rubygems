@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 08:21 UTC
+## Latest list — 2026-10-28 09:20 UTC
 
-New gems created between 2026-10-28 07:20 UTC and 2026-10-28 08:21 UTC.
+New gems created between 2026-10-28 08:21 UTC and 2026-10-28 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T08-21-06-778696Z.csv)
+[Full CSV](data/new-gems-2026-10-28T09-20-01-764402Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 07:52:41 | [parkes-payment-icons](https://rubygems.org/gems/parkes-payment-icons) | 0.1.0 | Ben Caldwell | Apache-2.0 | Self-hosted payment method SVGs in six styles, packaged as a Rails asset engine… |
+| 2026-10-28 08:46:48 | [sandcrawler](https://rubygems.org/gems/sandcrawler) | 0.1.0 | Yudai Takada | MIT | Read-only flash acquisition and offline FAT12/16/32 recovery, including deleted… |
+| 2026-10-28 09:10:57 | [zizek](https://rubygems.org/gems/zizek) | 0.1.0 | waldemar.quevedo@gmail.com | Apache-2.0 | Zizek is a native property-based testing for Ruby, modeled on Hegel and Hypothe… |
+| 2026-10-28 09:17:32 | [haveapi-typescript-client](https://rubygems.org/gems/haveapi-typescript-client) | 0.31.2 | Jakub Skokan | MIT | Generate typed TypeScript operations from saved HaveAPI schemas |
 
 ## Data source
 
