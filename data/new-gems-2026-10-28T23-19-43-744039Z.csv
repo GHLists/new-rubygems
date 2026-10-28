@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-28T22:50:03.175Z,pink-house-sender-core,0.1.0,106,Ken C. Demanawa,MIT,"Sender Core provides provider-neutral message delivery contracts, routing, failover, resilience, state, and observability primitives for Ruby channel gems such as sms-sender and email-sender."
+2026-10-28T22:52:00.227Z,active_typed_params,0.1.0,47,Máximo Mussini,MIT,"Declare the keys and types a controller action accepts. Bad requests are rejected with a 400 that names the parameter, and each declaration is compiled into a single method, several times faster than params.permit."
+2026-10-28T23:01:29.686Z,pink-house-email-sender,0.1.0,47,Ken C. Demanawa,MIT,"Email Sender provides an email-oriented API backed by sender-core for provider-neutral delivery contracts, routing, failover, resilience, and observability."
