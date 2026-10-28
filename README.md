@@ -9,18 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 10:20 UTC
+## Latest list — 2026-10-28 11:21 UTC
 
-New gems created between 2026-10-28 09:20 UTC and 2026-10-28 10:20 UTC.
+New gems created between 2026-10-28 10:20 UTC and 2026-10-28 11:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T10-20-06-58802Z.csv)
+[Full CSV](data/new-gems-2026-10-28T11-21-08-500668Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 09:21:26 | [zizek](https://rubygems.org/gems/zizek) | 0.1.1 | Waldemar Quevedo | Apache-2.0 | Zizek is a native property-based testing for Ruby, modeled on Hegel and Hypothe… |
-| 2026-10-28 09:35:07 | [ruby-blinkstick](https://rubygems.org/gems/ruby-blinkstick) | 0.2.0 | Keith Bawden | MIT | Find, open and set the colour of BlinkStick Nano and Square USB LEDs from Ruby,… |
-| 2026-10-28 09:50:07 | [enel-ruby-sdk](https://rubygems.org/gems/enel-ruby-sdk) | 0.1.2 | Danilo Josino | MIT | Unofficial Ruby SDK for the Enel X API. No runtime dependencies beyond the Ruby… |
-| 2026-10-28 10:02:00 | [crap4ruby](https://rubygems.org/gems/crap4ruby) | 0.1.0 | Leonid Svyatov | MIT | Static Ruby method complexity and test coverage combined into CRAP scores and c… |
+| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
+| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
+| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
+| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
+| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
+| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
+| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
+| 2026-10-28 10:29:13 | [calcsheet-native](https://rubygems.org/gems/calcsheet-native) | 0.1.0 | Demetra Opinioni.net Srl | MIT | calcsheet-native reads CSV, XLSX and ODS for calcsheet with a Rust core that ru… |
+| 2026-10-28 10:51:40 | [flagnetic](https://rubygems.org/gems/flagnetic) | 0.1.0 | Anatolii Zverev | Apache-2.0 | Evaluates Flagnetic rulesets locally with the same results as every other Flagn… |
 
 ## Data source
 
