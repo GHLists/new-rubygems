@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 12:20 UTC
+## Latest list — 2026-10-28 13:20 UTC
 
-New gems created between 2026-10-28 11:21 UTC and 2026-10-28 12:20 UTC.
+New gems created between 2026-10-28 12:20 UTC and 2026-10-28 13:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T12-20-01-698406Z.csv)
+[Full CSV](data/new-gems-2026-10-28T13-20-01-760622Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 12:01:13 | [flagnetic-openfeature](https://rubygems.org/gems/flagnetic-openfeature) | 0.1.0 | Anatolii Zverev | Apache-2.0 | Serves Flagnetic flags through the OpenFeature API, with exposures and aliases… |
+| 2026-10-28 12:47:16 | [mercado_livre_api](https://rubygems.org/gems/mercado_livre_api) | 0.1.0 | marialuiza1324 | MIT | Ruby client for the Mercado Livre — OAuth authentication and endpoints for orde… |
+| 2026-10-28 13:16:58 | [s3_migration](https://rubygems.org/gems/s3_migration) | 0.1.0 | Max Kadel | MIT | Rake tasks and jobs that copy original files from a Valkyrie disk storage adapt… |
 
 ## Data source
 
