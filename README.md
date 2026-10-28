@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 07:20 UTC
+## Latest list — 2026-10-28 08:21 UTC
 
-New gems created between 2026-10-28 06:19 UTC and 2026-10-28 07:20 UTC.
+New gems created between 2026-10-28 07:20 UTC and 2026-10-28 08:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T07-20-57-928572Z.csv)
+[Full CSV](data/new-gems-2026-10-28T08-21-06-778696Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 06:34:33 | [pdftomd-url-tools](https://rubygems.org/gems/pdftomd-url-tools) | 0.1.0 | wangneo276-lgtm | MIT | Free in-browser pdf to md tool. Drop a text PDF, preview Markdown, copy or down… |
+| 2026-10-28 07:52:41 | [parkes-payment-icons](https://rubygems.org/gems/parkes-payment-icons) | 0.1.0 | Ben Caldwell | Apache-2.0 | Self-hosted payment method SVGs in six styles, packaged as a Rails asset engine… |
 
 ## Data source
 
