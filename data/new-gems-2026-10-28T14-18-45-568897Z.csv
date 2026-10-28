@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-28T13:36:55.114Z,fluent-plugin-opentelemetry-radiant,0.1.1,89,"Radiant Logic, Inc.",Apache-2.0,A fork of fluent-plugin-opentelemetry 0.4.0 that retains OTLP relay and input behavior while converting ordinary Fluentd records into batched OTLP log requests.
+2026-10-28T13:41:53.843Z,reanimator,0.1.0,54,Valentino Stoll,MIT,"Reanimator reads a repository, infers what ""healthy"" means for it, and proves that health without changing a single line of code. It classifies lifecycle intent, discovers a vitality contract from evidence, resolves an effective policy, and produces a read-only proof-of-life baseline - before any c…"
+2026-10-28T13:46:37.646Z,graphql-mcp,0.1.0,51,Andrew Kodkod,MIT,"Build an MCP server from GraphQL schemas, providing tools and utilities to easily construct and manage a modular, composable GraphQL server architecture."
+2026-10-28T13:48:30.739Z,crap4ruby,0.1.1,57,Leonid Svyatov,MIT,Static Ruby method complexity and test coverage combined into CRAP scores and crapper-compatible snapshots.
+2026-10-28T13:58:33.973Z,mcc2,1.5.0,35,Lars Kanis,MIT,Layout editor and card printer GUI.
+2026-10-28T14:11:13.751Z,fastlane-plugin-swiftshot,0.1.0,6,Lukas Anda,MIT,"Runs the swiftshot CLI from a lane, in place of snapshot and screengrab."
