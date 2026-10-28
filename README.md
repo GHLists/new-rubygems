@@ -9,20 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 20:18 UTC
+## Latest list — 2026-10-28 21:20 UTC
 
-New gems created between 2026-10-28 19:20 UTC and 2026-10-28 20:18 UTC.
+New gems created between 2026-10-28 20:18 UTC and 2026-10-28 21:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T20-18-29-660041Z.csv)
+[Full CSV](data/new-gems-2026-10-28T21-20-07-305297Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 19:24:55 | [lokalise-vantage](https://rubygems.org/gems/lokalise-vantage) | 0.0.1 | Elijah S. Krukowski | BSD-3-Clause | A Ruby client for interacting with the Lokalise Vantage API. |
-| 2026-10-28 19:44:43 | [sequel-sqlformat](https://rubygems.org/gems/sequel-sqlformat) | 0.1.0 | Ryan Duryea | MIT | Adds Database#format_sql and Dataset#formatted_sql to Sequel. Formatting runs i… |
-| 2026-10-28 19:44:43 | [sequel-sqlformat](https://rubygems.org/gems/sequel-sqlformat) | 0.1.0 | Ryan Duryea | MIT | Adds Database#format_sql and Dataset#formatted_sql to Sequel. Formatting runs i… |
-| 2026-10-28 19:44:43 | [sequel-sqlformat](https://rubygems.org/gems/sequel-sqlformat) | 0.1.0 | Ryan Duryea | MIT | Adds Database#format_sql and Dataset#formatted_sql to Sequel. Formatting runs i… |
-| 2026-10-28 19:44:43 | [sequel-sqlformat](https://rubygems.org/gems/sequel-sqlformat) | 0.1.0 | Ryan Duryea | MIT | Adds Database#format_sql and Dataset#formatted_sql to Sequel. Formatting runs i… |
-| 2026-10-28 19:44:43 | [sequel-sqlformat](https://rubygems.org/gems/sequel-sqlformat) | 0.1.0 | Ryan Duryea | MIT | Adds Database#format_sql and Dataset#formatted_sql to Sequel. Formatting runs i… |
+| 2026-10-28 20:50:01 | [jekyll-trecs](https://rubygems.org/gems/jekyll-trecs) | 0.1 | Jesse Portnoy | AGPL-3.0-or-later | Provides a Liquid tag for embedding trecs supported formats in Jekyll sites. |
+| 2026-10-28 21:06:28 | [grex_ruby](https://rubygems.org/gems/grex_ruby) | 0.1.0 | Nelly Simkova | MIT | Ruby gem with bindings for Grex Rust library. |
 
 ## Data source
 
