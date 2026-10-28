@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 05:18 UTC
+## Latest list — 2026-10-28 07:20 UTC
 
-New gems created between 2026-10-28 04:20 UTC and 2026-10-28 05:18 UTC.
+New gems created between 2026-10-28 06:19 UTC and 2026-10-28 07:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T05-18-40-029761Z.csv)
+[Full CSV](data/new-gems-2026-10-28T07-20-57-928572Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 04:59:27 | [ruby-blinkstick](https://rubygems.org/gems/ruby-blinkstick) | 0.1.0 | Keith Bawden | MIT | Find, open and set the colour of BlinkStick Nano and Square USB LEDs from Ruby,… |
-| 2026-10-28 05:11:52 | [ruby_wasm_ic_minimal](https://rubygems.org/gems/ruby_wasm_ic_minimal) | 0.1.3 | graial | MIT | This gem contains the four carried files required for running rack and roda on… |
+| 2026-10-28 06:34:33 | [pdftomd-url-tools](https://rubygems.org/gems/pdftomd-url-tools) | 0.1.0 | wangneo276-lgtm | MIT | Free in-browser pdf to md tool. Drop a text PDF, preview Markdown, copy or down… |
 
 ## Data source
 
