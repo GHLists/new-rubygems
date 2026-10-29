@@ -9,16 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 17:20 UTC
+## Latest list — 2026-10-29 18:20 UTC
 
-New gems created between 2026-10-29 16:19 UTC and 2026-10-29 17:20 UTC.
+New gems created between 2026-10-29 17:20 UTC and 2026-10-29 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T17-20-31-675724Z.csv)
+[Full CSV](data/new-gems-2026-10-29T18-20-53-206707Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-29 16:22:39 | [activejob-later](https://rubygems.org/gems/activejob-later) | 2026.10.29.162056 | Jonathan PHILIPPE | MIT | Run any method of any class in the background via Active Job |
-| 2026-10-29 16:35:37 | [solidus_meta](https://rubygems.org/gems/solidus_meta) | 1.1.1 | marialuiza1324 |  | Envia eventos para a Conversions API da Meta a partir de pedidos do Solidus. |
+| 2026-10-29 17:36:05 | [thunderoperation](https://rubygems.org/gems/thunderoperation) | 0.2.2 | Albert Alef |  | Operations engine: param, flow, steps, returns, adapters |
+| 2026-10-29 17:36:07 | [thunderchunk](https://rubygems.org/gems/thunderchunk) | 0.2.2 | Albert Alef |  | Manages a chunk: operations engine, surfaces, schema and migrations |
+| 2026-10-29 17:36:08 | [thunderwire](https://rubygems.org/gems/thunderwire) | 0.2.2 | Albert Alef |  | External of the thunderbolt ecosystem |
+| 2026-10-29 17:36:09 | [thunderspec](https://rubygems.org/gems/thunderspec) | 0.2.2 | Albert Alef |  | Specs of a chunk of the thunderbolt ecosystem, on RSpec |
+| 2026-10-29 17:36:10 | [thundercli](https://rubygems.org/gems/thundercli) | 0.2.2 | Albert Alef |  | The application: finds the chunks, reads the aggregate config and supervises th… |
+| 2026-10-29 17:44:35 | [lokalise-api-next](https://rubygems.org/gems/lokalise-api-next) | 0.0.2 | Elijah S. Krukowski | BSD-3-Clause | A Ruby client for interacting with the Lokalise API. |
 
 ## Data source
 
