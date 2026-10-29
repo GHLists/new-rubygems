@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 07:22 UTC
+## Latest list — 2026-10-29 08:21 UTC
 
-New gems created between 2026-10-29 06:20 UTC and 2026-10-29 07:22 UTC.
+New gems created between 2026-10-29 07:22 UTC and 2026-10-29 08:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T07-22-19-424143Z.csv)
+[Full CSV](data/new-gems-2026-10-29T08-21-59-713877Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-29 06:23:17 | [vcr-browser-proxy](https://rubygems.org/gems/vcr-browser-proxy) | 0.1.0 | Andrew Fader | MIT | A threaded MITM forward proxy for Capybara/Cuprite system tests. It re-issues e… |
-| 2026-10-29 06:43:27 | [bitgram](https://rubygems.org/gems/bitgram) | 0.1.0 | Yudai Takada | MIT | Render declarative bit-field diagrams as ASCII, Unicode, SVG, PNG, and JPEG. |
+| 2026-10-29 07:26:58 | [didit-sdk](https://rubygems.org/gems/didit-sdk) | 1.0.0 | Didit | MIT | The official Didit server-side library for Ruby: identity verification (KYC), b… |
+| 2026-10-29 08:02:25 | [macron-cms](https://rubygems.org/gems/macron-cms) | 3.0.0 | Leonid Medovyy | MIT | A flexible Rails CMS engine designed for building highly interactive content wi… |
 
 ## Data source
 

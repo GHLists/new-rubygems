@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-29T07:26:58.564Z,didit-sdk,1.0.0,66,Didit,MIT,"The official Didit server-side library for Ruby: identity verification (KYC), business verification (KYB), AML screening, liveness and face match, transaction monitoring, Travel Rule, webhooks and Didit customer Authentication."
+2026-10-29T08:02:25.512Z,macron-cms,3.0.0,42,Leonid Medovyy,MIT,"A flexible Rails CMS engine designed for building highly interactive content with a wp_loop-inspired data architecture, Hotwire and React/Three.js hydration, and an AI-friendly migration API."
