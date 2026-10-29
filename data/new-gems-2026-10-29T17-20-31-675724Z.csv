@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-29T16:22:39.995Z,activejob-later,2026.10.29.162056,67,Jonathan PHILIPPE,MIT,Run any method of any class in the background via Active Job
+2026-10-29T16:35:37.444Z,solidus_meta,1.1.1,80,marialuiza1324,,Envia eventos para a Conversions API da Meta a partir de pedidos do Solidus.
