@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 10:21 UTC
+## Latest list — 2026-10-29 11:20 UTC
 
-New gems created between 2026-10-29 09:20 UTC and 2026-10-29 10:21 UTC.
+New gems created between 2026-10-29 10:21 UTC and 2026-10-29 11:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T10-21-23-414712Z.csv)
+[Full CSV](data/new-gems-2026-10-29T11-20-27-110632Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-29 09:32:44 | [query_stash](https://rubygems.org/gems/query_stash) | 0.1.0 | Persona | MIT | Caches the results of allowlisted SELECT queries (and MongoDB finds) across req… |
-| 2026-10-29 09:33:48 | [blog_verification](https://rubygems.org/gems/blog_verification) | 1.0.0 | Ankitkumar Singh (thedevankit) | MIT | Verifies whether a submitted blog URL belongs to the claimed author, matches pu… |
-| 2026-10-29 10:03:18 | [env_bro](https://rubygems.org/gems/env_bro) | 0.1.0 | Ruby Dev SRL | MIT | A mountable Rails engine: team members with permission build a re-encrypted cre… |
-| 2026-10-29 10:04:25 | [wani](https://rubygems.org/gems/wani) | 0.1.10 | ledsun | MIT | Markdown presentations rendered by Ruby in the browser |
+| 2026-10-29 10:23:10 | [wasmo](https://rubygems.org/gems/wasmo) | 0.1.1 | conao3 | Apache-2.0 | wasmo runs a stateful AWS mock inside the test process. A Seahorse plugin repla… |
+| 2026-10-29 11:06:04 | [hibira-rails](https://rubygems.org/gems/hibira-rails) | 0.1.0 | Hibira | MIT | Sends Hotwire Turbo Stream broadcasts through Hibira, a hosted realtime service… |
+| 2026-10-29 11:11:52 | [freeswitch-esl-client](https://rubygems.org/gems/freeswitch-esl-client) | 0.1.0 | Michael | MIT | EventMachine-based client for the FreeSWITCH Event Socket Layer (mod_event_sock… |
 
 ## Data source
 
