@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 23:19 UTC
+## Latest list — 2026-10-29 00:19 UTC
 
-New gems created between 2026-10-28 22:19 UTC and 2026-10-28 23:19 UTC.
+New gems created between 2026-10-28 23:19 UTC and 2026-10-29 00:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-28T23-19-43-744039Z.csv)
+[Full CSV](data/new-gems-2026-10-29T00-19-15-120812Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 22:50:03 | [pink-house-sender-core](https://rubygems.org/gems/pink-house-sender-core) | 0.1.0 | Ken C. Demanawa | MIT | Sender Core provides provider-neutral message delivery contracts, routing, fail… |
-| 2026-10-28 22:52:00 | [active_typed_params](https://rubygems.org/gems/active_typed_params) | 0.1.0 | Máximo Mussini | MIT | Declare the keys and types a controller action accepts. Bad requests are reject… |
-| 2026-10-28 23:01:29 | [pink-house-email-sender](https://rubygems.org/gems/pink-house-email-sender) | 0.1.0 | Ken C. Demanawa | MIT | Email Sender provides an email-oriented API backed by sender-core for provider-… |
+| 2026-10-28 23:55:25 | [sharp_style_rubocop](https://rubygems.org/gems/sharp_style_rubocop) | 0.1.1 | joe-sharp | MIT | RuboCop rules and plugin setup for Joe Sharp's Ruby projects, shared as a gem s… |
 
 ## Data source
 

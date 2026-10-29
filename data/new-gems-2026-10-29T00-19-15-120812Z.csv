@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-28T23:55:25.33Z,sharp_style_rubocop,0.1.1,65,joe-sharp,MIT,"RuboCop rules and plugin setup for Joe Sharp's Ruby projects, shared as a gem so every project inherits the same style."
