@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-29T14:41:58.199Z,identisure-client,0.1.0,51,Identisure,MIT,"Synchronous Ruby client for Identisure, supporting BankID SE/NO, Freja, MitID, FTN, Vipps and document upload."
+2026-10-29T14:50:11.342Z,upload_d_n_d,0.9.0,45,Pierre Cherbero,MIT,"UploadDND provides a drag & drop upload interface for Rails apps, built on ActiveStorage, Stimulus and ViewComponent. It validates files server-side (MIME sniffing, size, count), supports temporary uploads for new records, and authorizes every request fail-closed through Pundit or CanCanCan."
