@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 04:20 UTC
+## Latest list — 2026-10-29 05:21 UTC
 
-New gems created between 2026-10-29 03:20 UTC and 2026-10-29 04:20 UTC.
+New gems created between 2026-10-29 04:20 UTC and 2026-10-29 05:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T04-20-34-505585Z.csv)
+[Full CSV](data/new-gems-2026-10-29T05-21-11-83421Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-29 03:48:28 | [index_now](https://rubygems.org/gems/index_now) | 0.1.0 | Anton Kopylov | MIT | Reads the app's own sitemap, announces every URL whose lastmod moved since it w… |
-| 2026-10-29 04:02:29 | [pink-house-sms-sender](https://rubygems.org/gems/pink-house-sms-sender) | 0.0.0 | Ken C. Demanawa | MIT | Agnostic SMS Sender provides a provider-neutral API for delivering SMS through… |
+| 2026-10-29 04:24:39 | [macron-cms](https://rubygems.org/gems/macron-cms) | 2.0.0 | Leonid Medovyy | MIT | A flexible Rails CMS engine designed for building highly interactive content wi… |
 
 ## Data source
 

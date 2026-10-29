@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-29T04:24:39.737Z,macron-cms,2.0.0,72,Leonid Medovyy,MIT,"A flexible Rails CMS engine designed for building highly interactive content with a wp_loop-inspired data architecture, Hotwire and React/Three.js hydration, and an AI-friendly migration API."
