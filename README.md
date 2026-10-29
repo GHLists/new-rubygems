@@ -9,19 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 19:21 UTC
+## Latest list — 2026-10-29 20:20 UTC
 
-New gems created between 2026-10-29 18:20 UTC and 2026-10-29 19:21 UTC.
+New gems created between 2026-10-29 19:21 UTC and 2026-10-29 20:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T19-21-47-400162Z.csv)
+[Full CSV](data/new-gems-2026-10-29T20-20-23-990353Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-29 18:27:32 | [crawlora-tiktok-mobile](https://rubygems.org/gems/crawlora-tiktok-mobile) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted TikTok Mobile API. Covers mobile feed, search… |
-| 2026-10-29 18:32:37 | [hawk-ruby](https://rubygems.org/gems/hawk-ruby) | 0.1.0 | Leonid Svyatov | MIT | A Ruby error catcher with optional framework integrations for Hawk. |
-| 2026-10-29 18:37:23 | [crawlora-kick](https://rubygems.org/gems/crawlora-kick) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted Kick API. Covers channels, livestreams, clips… |
-| 2026-10-29 18:37:25 | [crawlora-xiaohongshu](https://rubygems.org/gems/crawlora-xiaohongshu) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted Xiaohongshu API. Covers public explore feeds,… |
-| 2026-10-29 18:37:36 | [crawlora-rednote](https://rubygems.org/gems/crawlora-rednote) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted RedNote API. Covers public explore feeds, not… |
+| 2026-10-29 19:27:51 | [embed_sync](https://rubygems.org/gems/embed_sync) | 0.1.0 | Umair0092 | MIT | Declare which attributes an ActiveRecord model embeds, and EmbedSync regenerate… |
+| 2026-10-29 19:30:33 | [upload_d_n_d](https://rubygems.org/gems/upload_d_n_d) | 0.9.2 | Pierre Cherbero | MIT | UploadDND provides a drag & drop upload interface for Rails apps, built on Acti… |
+| 2026-10-29 19:38:06 | [hawk-ruby](https://rubygems.org/gems/hawk-ruby) | 0.1.1 | Leonid Svyatov | MIT | A Ruby error catcher with optional framework integrations for Hawk. |
 
 ## Data source
 

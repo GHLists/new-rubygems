@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-29T19:27:51.265Z,embed_sync,0.1.0,65,Umair0092,MIT,"Declare which attributes an ActiveRecord model embeds, and EmbedSync regenerates the vector in a background job whenever that text changes. Includes change detection, backfill and stale-record tasks, and pluggable providers."
+2026-10-29T19:30:33.041Z,upload_d_n_d,0.9.2,63,Pierre Cherbero,MIT,"UploadDND provides a drag & drop upload interface for Rails apps, built on ActiveStorage, Stimulus and ViewComponent. It validates files server-side (MIME sniffing, size, count), supports temporary uploads for new records, and authorizes every request fail-closed through Pundit or CanCanCan."
+2026-10-29T19:38:06.619Z,hawk-ruby,0.1.1,63,Leonid Svyatov,MIT,A Ruby error catcher with optional framework integrations for Hawk.
