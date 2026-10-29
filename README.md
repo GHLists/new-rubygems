@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 20:20 UTC
+## Latest list — 2026-10-29 21:20 UTC
 
-New gems created between 2026-10-29 19:21 UTC and 2026-10-29 20:20 UTC.
+New gems created between 2026-10-29 20:20 UTC and 2026-10-29 21:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T20-20-23-990353Z.csv)
+[Full CSV](data/new-gems-2026-10-29T21-20-41-904303Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-29 19:27:51 | [embed_sync](https://rubygems.org/gems/embed_sync) | 0.1.0 | Umair0092 | MIT | Declare which attributes an ActiveRecord model embeds, and EmbedSync regenerate… |
-| 2026-10-29 19:30:33 | [upload_d_n_d](https://rubygems.org/gems/upload_d_n_d) | 0.9.2 | Pierre Cherbero | MIT | UploadDND provides a drag & drop upload interface for Rails apps, built on Acti… |
-| 2026-10-29 19:38:06 | [hawk-ruby](https://rubygems.org/gems/hawk-ruby) | 0.1.1 | Leonid Svyatov | MIT | A Ruby error catcher with optional framework integrations for Hawk. |
+| 2026-10-29 20:52:42 | [gui_harness](https://rubygems.org/gems/gui_harness) | 0.1.0 | Mike Slinn | MIT | GUI automation harness for round-trip testing of real GUI applications. |
+| 2026-10-29 21:10:47 | [upload_d_n_d](https://rubygems.org/gems/upload_d_n_d) | 0.9.3 | Pierre Cherbero | MIT | UploadDND provides a drag & drop upload interface for Rails apps, built on Acti… |
 
 ## Data source
 

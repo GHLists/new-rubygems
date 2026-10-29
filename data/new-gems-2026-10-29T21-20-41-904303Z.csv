@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-29T20:52:42.69Z,gui_harness,0.1.0,44,Mike Slinn,MIT,GUI automation harness for round-trip testing of real GUI applications.
+2026-10-29T21:10:47.203Z,upload_d_n_d,0.9.3,12,Pierre Cherbero,MIT,"UploadDND provides a drag & drop upload interface for Rails apps, built on ActiveStorage, Stimulus and ViewComponent. It validates files server-side (MIME sniffing, size, count), supports temporary uploads for new records, and authorizes every request fail-closed through Pundit or CanCanCan."
