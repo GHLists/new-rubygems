@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 05:21 UTC
+## Latest list — 2026-10-29 07:22 UTC
 
-New gems created between 2026-10-29 04:20 UTC and 2026-10-29 05:21 UTC.
+New gems created between 2026-10-29 06:20 UTC and 2026-10-29 07:22 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T05-21-11-83421Z.csv)
+[Full CSV](data/new-gems-2026-10-29T07-22-19-424143Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-29 04:24:39 | [macron-cms](https://rubygems.org/gems/macron-cms) | 2.0.0 | Leonid Medovyy | MIT | A flexible Rails CMS engine designed for building highly interactive content wi… |
+| 2026-10-29 06:23:17 | [vcr-browser-proxy](https://rubygems.org/gems/vcr-browser-proxy) | 0.1.0 | Andrew Fader | MIT | A threaded MITM forward proxy for Capybara/Cuprite system tests. It re-issues e… |
+| 2026-10-29 06:43:27 | [bitgram](https://rubygems.org/gems/bitgram) | 0.1.0 | Yudai Takada | MIT | Render declarative bit-field diagrams as ASCII, Unicode, SVG, PNG, and JPEG. |
 
 ## Data source
 
