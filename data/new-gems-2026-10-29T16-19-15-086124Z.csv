@@ -1,0 +1,11 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-29T15:38:05.175Z,upload_d_n_d,0.9.1,53,Pierre Cherbero,MIT,"UploadDND provides a drag & drop upload interface for Rails apps, built on ActiveStorage, Stimulus and ViewComponent. It validates files server-side (MIME sniffing, size, count), supports temporary uploads for new records, and authorizes every request fail-closed through Pundit or CanCanCan."
+2026-10-29T15:39:22.821Z,contagorda-pay,0.1.0,57,Thadeu Esteves Jr,MIT,"Open a checkout, read and cancel subscriptions, verify the signed return and receive signed webhooks from the Pay broker. Standard library only: no runtime dependencies. Ruby 3.0 and up. Works in Rails, Sinatra, Hanami or plain Rack."
+2026-10-29T15:59:43.871Z,thunderfoundation,0.2.1,61,Albert Alef,,General helpers and types shared by thunderchunk and thunderbolt
+2026-10-29T15:59:45.187Z,thunderframe,0.2.1,52,Albert Alef,,Declares the shape of a result and renders entities into immutable Data
+2026-10-29T15:59:46.732Z,thunderoperation,0.2.1,47,Albert Alef,,"Operations engine: param, flow, steps, returns, adapters"
+2026-10-29T15:59:48.172Z,thunderchunk,0.2.1,42,Albert Alef,,"Manages a chunk: operations engine, surfaces, schema and migrations"
+2026-10-29T15:59:49.832Z,thunderwire,0.2.1,45,Albert Alef,,External of the thunderbolt ecosystem
+2026-10-29T15:59:51.204Z,thunderspec,0.2.1,48,Albert Alef,,"Specs of a chunk of the thunderbolt ecosystem, on RSpec"
+2026-10-29T15:59:52.559Z,thundercli,0.2.1,45,Albert Alef,,"The application: finds the chunks, reads the aggregate config and supervises the chunk processes"
+2026-10-29T16:18:41.931Z,guardian-ci,2026.10.29.161749,0,Jonathan PHILIPPE,MIT,"Single Gemfile entry that bundles rubocop, brakeman, bundler-audit, ruby_audit, reek, flog, flay, yard, yardstick, simplecov and undercover with the version pins used by the fluence-eu/ci-workflows reusables."
