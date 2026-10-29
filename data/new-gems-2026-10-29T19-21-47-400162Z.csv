@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-29T18:27:32.416Z,crawlora-tiktok-mobile,0.1.0,61,Crawlora,MIT,"Ruby client for Crawlora's hosted TikTok Mobile API. Covers mobile feed, search, video, creator, music, LIVE, and place endpoints across 63 endpoints."
+2026-10-29T18:32:37.651Z,hawk-ruby,0.1.0,60,Leonid Svyatov,MIT,A Ruby error catcher with optional framework integrations for Hawk.
+2026-10-29T18:37:23.582Z,crawlora-kick,0.1.0,62,Crawlora,MIT,"Ruby client for Crawlora's hosted Kick API. Covers channels, livestreams, clips, categories, search, and public mobile-app catalogues across 21 endpoints."
+2026-10-29T18:37:25.677Z,crawlora-xiaohongshu,0.1.0,60,Crawlora,MIT,"Ruby client for Crawlora's hosted Xiaohongshu API. Covers public explore feeds, note details, comments, and search suggestions across 4 endpoints."
+2026-10-29T18:37:36.955Z,crawlora-rednote,0.1.0,64,Crawlora,MIT,"Ruby client for Crawlora's hosted RedNote API. Covers public explore feeds, note details, comments, and search suggestions across 4 endpoints."

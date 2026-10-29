@@ -9,20 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 18:20 UTC
+## Latest list — 2026-10-29 19:21 UTC
 
-New gems created between 2026-10-29 17:20 UTC and 2026-10-29 18:20 UTC.
+New gems created between 2026-10-29 18:20 UTC and 2026-10-29 19:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T18-20-53-206707Z.csv)
+[Full CSV](data/new-gems-2026-10-29T19-21-47-400162Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-29 17:36:05 | [thunderoperation](https://rubygems.org/gems/thunderoperation) | 0.2.2 | Albert Alef |  | Operations engine: param, flow, steps, returns, adapters |
-| 2026-10-29 17:36:07 | [thunderchunk](https://rubygems.org/gems/thunderchunk) | 0.2.2 | Albert Alef |  | Manages a chunk: operations engine, surfaces, schema and migrations |
-| 2026-10-29 17:36:08 | [thunderwire](https://rubygems.org/gems/thunderwire) | 0.2.2 | Albert Alef |  | External of the thunderbolt ecosystem |
-| 2026-10-29 17:36:09 | [thunderspec](https://rubygems.org/gems/thunderspec) | 0.2.2 | Albert Alef |  | Specs of a chunk of the thunderbolt ecosystem, on RSpec |
-| 2026-10-29 17:36:10 | [thundercli](https://rubygems.org/gems/thundercli) | 0.2.2 | Albert Alef |  | The application: finds the chunks, reads the aggregate config and supervises th… |
-| 2026-10-29 17:44:35 | [lokalise-api-next](https://rubygems.org/gems/lokalise-api-next) | 0.0.2 | Elijah S. Krukowski | BSD-3-Clause | A Ruby client for interacting with the Lokalise API. |
+| 2026-10-29 18:27:32 | [crawlora-tiktok-mobile](https://rubygems.org/gems/crawlora-tiktok-mobile) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted TikTok Mobile API. Covers mobile feed, search… |
+| 2026-10-29 18:32:37 | [hawk-ruby](https://rubygems.org/gems/hawk-ruby) | 0.1.0 | Leonid Svyatov | MIT | A Ruby error catcher with optional framework integrations for Hawk. |
+| 2026-10-29 18:37:23 | [crawlora-kick](https://rubygems.org/gems/crawlora-kick) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted Kick API. Covers channels, livestreams, clips… |
+| 2026-10-29 18:37:25 | [crawlora-xiaohongshu](https://rubygems.org/gems/crawlora-xiaohongshu) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted Xiaohongshu API. Covers public explore feeds,… |
+| 2026-10-29 18:37:36 | [crawlora-rednote](https://rubygems.org/gems/crawlora-rednote) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted RedNote API. Covers public explore feeds, not… |
 
 ## Data source
 
