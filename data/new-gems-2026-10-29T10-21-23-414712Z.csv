@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-29T09:32:44.758Z,query_stash,0.1.0,61,Persona,MIT,"Caches the results of allowlisted SELECT queries (and MongoDB finds) across requests, below the ORM, with per-rule TTLs computed from the result."
+2026-10-29T09:33:48.821Z,blog_verification,1.0.0,65,Ankitkumar Singh (thedevankit),MIT,"Verifies whether a submitted blog URL belongs to the claimed author, matches publication date and quarter, meets minimum word length, and matches expected topic and summary metadata."
+2026-10-29T10:03:18.794Z,env_bro,0.1.0,24,Ruby Dev SRL,MIT,A mountable Rails engine: team members with permission build a re-encrypted credentials file with their changes and open a PR; reviewers upload the file and see a masked diff.
+2026-10-29T10:04:25.813Z,wani,0.1.10,51,ledsun,MIT,Markdown presentations rendered by Ruby in the browser
