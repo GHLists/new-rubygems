@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 00:19 UTC
+## Latest list — 2026-10-29 01:18 UTC
 
-New gems created between 2026-10-28 23:19 UTC and 2026-10-29 00:19 UTC.
+New gems created between 2026-10-29 00:19 UTC and 2026-10-29 01:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T00-19-15-120812Z.csv)
+[Full CSV](data/new-gems-2026-10-29T01-18-28-853097Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-28 23:55:25 | [sharp_style_rubocop](https://rubygems.org/gems/sharp_style_rubocop) | 0.1.1 | joe-sharp | MIT | RuboCop rules and plugin setup for Joe Sharp's Ruby projects, shared as a gem s… |
+| 2026-10-29 01:14:51 | [outpunch-ruby](https://rubygems.org/gems/outpunch-ruby) | 0.5.1 | TechyCorp | MIT | Ruby bindings for the outpunch tunnel client |
+| 2026-10-29 01:14:52 | [outpunch-ruby-rack](https://rubygems.org/gems/outpunch-ruby-rack) | 0.5.1 | TechyCorp | MIT | Rack adapter for the outpunch reverse WebSocket tunnel |
+| 2026-10-29 01:14:54 | [outpunch-ruby-rails](https://rubygems.org/gems/outpunch-ruby-rails) | 0.5.1 | TechyCorp | MIT | Rails Engine adapter for the outpunch reverse WebSocket tunnel |
 
 ## Data source
 
