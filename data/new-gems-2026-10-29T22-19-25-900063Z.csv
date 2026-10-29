@@ -1,0 +1,8 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-29T21:22:03.623Z,openvfs-rb,1.0.0,112,Nathan Kidd,MIT,A virtual filesystem for Ruby.
+2026-10-29T21:22:03.623Z,openvfs-rb,1.0.0,112,Nathan Kidd,MIT,A virtual filesystem for Ruby.
+2026-10-29T21:22:03.623Z,openvfs-rb,1.0.0,112,Nathan Kidd,MIT,A virtual filesystem for Ruby.
+2026-10-29T21:22:03.623Z,openvfs-rb,1.0.0,112,Nathan Kidd,MIT,A virtual filesystem for Ruby.
+2026-10-29T21:22:03.623Z,openvfs-rb,1.0.0,112,Nathan Kidd,MIT,A virtual filesystem for Ruby.
+2026-10-29T21:22:03.623Z,openvfs-rb,1.0.0,112,Nathan Kidd,MIT,A virtual filesystem for Ruby.
+2026-10-29T21:51:44.52Z,upload_d_n_d,0.9.4,63,Pierre Cherbero,MIT,"UploadDND provides a drag & drop upload interface for Rails apps, built on ActiveStorage, Stimulus and ViewComponent. It validates files server-side (MIME sniffing, size, count), supports temporary uploads for new records, and authorizes every request fail-closed through Pundit or CanCanCan."
