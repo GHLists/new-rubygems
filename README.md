@@ -9,15 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 12:21 UTC
+## Latest list — 2026-10-29 13:20 UTC
 
-New gems created between 2026-10-29 11:20 UTC and 2026-10-29 12:21 UTC.
+New gems created between 2026-10-29 12:21 UTC and 2026-10-29 13:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T12-21-08-916337Z.csv)
+[Full CSV](data/new-gems-2026-10-29T13-20-22-61916Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-29 11:53:52 | [task_progress](https://rubygems.org/gems/task_progress) | 0.0.1 | Julik Tarkhanov | MIT | Hierarchical progress tracking for task trees, in-process and across process bo… |
+| 2026-10-29 12:28:15 | [wani](https://rubygems.org/gems/wani) | 0.1.11 | ledsun | MIT | Markdown presentations rendered by Ruby in the browser |
+| 2026-10-29 12:31:51 | [laa-criminal-applications-datastore-api-client](https://rubygems.org/gems/laa-criminal-applications-datastore-api-client) | 1.3.0 | Jesus Laiz | MIT | Ruby client for the LAA Criminal Applications Datastore |
+| 2026-10-29 12:56:38 | [birthdaywebsite-url-tools](https://rubygems.org/gems/birthdaywebsite-url-tools) | 0.1.0 | wangneo276-lgtm | MIT | Birthday Website Maker helps you create a personalized birthday website with ph… |
+| 2026-10-29 13:16:55 | [rq4](https://rubygems.org/gems/rq4) | 0.9.0 | J.J. Green | MIT | Rack middleware implementing the RQ4 fingerprint |
+| 2026-10-29 13:17:29 | [solidus_meta](https://rubygems.org/gems/solidus_meta) | 1.0.0 | marialuiza1324 |  | Envia eventos para a Conversions API da Meta a partir de pedidos do Solidus. |
 
 ## Data source
 
