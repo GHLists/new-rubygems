@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-29T11:53:52.744Z,task_progress,0.0.1,49,Julik Tarkhanov,MIT,"Hierarchical progress tracking for task trees, in-process and across process boundaries"

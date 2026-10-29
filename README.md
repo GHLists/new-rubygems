@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 11:20 UTC
+## Latest list — 2026-10-29 12:21 UTC
 
-New gems created between 2026-10-29 10:21 UTC and 2026-10-29 11:20 UTC.
+New gems created between 2026-10-29 11:20 UTC and 2026-10-29 12:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T11-20-27-110632Z.csv)
+[Full CSV](data/new-gems-2026-10-29T12-21-08-916337Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-29 10:23:10 | [wasmo](https://rubygems.org/gems/wasmo) | 0.1.1 | conao3 | Apache-2.0 | wasmo runs a stateful AWS mock inside the test process. A Seahorse plugin repla… |
-| 2026-10-29 11:06:04 | [hibira-rails](https://rubygems.org/gems/hibira-rails) | 0.1.0 | Hibira | MIT | Sends Hotwire Turbo Stream broadcasts through Hibira, a hosted realtime service… |
-| 2026-10-29 11:11:52 | [freeswitch-esl-client](https://rubygems.org/gems/freeswitch-esl-client) | 0.1.0 | Michael | MIT | EventMachine-based client for the FreeSWITCH Event Socket Layer (mod_event_sock… |
+| 2026-10-29 11:53:52 | [task_progress](https://rubygems.org/gems/task_progress) | 0.0.1 | Julik Tarkhanov | MIT | Hierarchical progress tracking for task trees, in-process and across process bo… |
 
 ## Data source
 
