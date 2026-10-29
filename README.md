@@ -9,21 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 22:19 UTC
+## Latest list — 2026-10-29 23:21 UTC
 
-New gems created between 2026-10-29 21:20 UTC and 2026-10-29 22:19 UTC.
+New gems created between 2026-10-29 22:19 UTC and 2026-10-29 23:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-29T22-19-25-900063Z.csv)
+[Full CSV](data/new-gems-2026-10-29T23-21-31-492403Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-29 21:22:03 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.0.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-29 21:22:03 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.0.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-29 21:22:03 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.0.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-29 21:22:03 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.0.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-29 21:22:03 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.0.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-29 21:22:03 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.0.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-29 21:51:44 | [upload_d_n_d](https://rubygems.org/gems/upload_d_n_d) | 0.9.4 | Pierre Cherbero | MIT | UploadDND provides a drag & drop upload interface for Rails apps, built on Acti… |
+| 2026-10-29 22:49:49 | [infrawrench-bulk_instances](https://rubygems.org/gems/infrawrench-bulk_instances) | 1.0.0 | Infrawrench LLC | MIT | AWS EC2 instance attributes and pricing, with full history, from Infrawrench. |
+| 2026-10-29 22:55:12 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-29 22:55:12 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-29 22:55:12 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-29 22:55:12 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-29 22:55:12 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-29 22:55:12 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-29 22:58:41 | [lictor](https://rubygems.org/gems/lictor) | 0.4.0 | Gregory Epp | MIT | Carries out the decisions augure judged: handoff by default, everything trailed… |
+| 2026-10-29 22:58:42 | [lictor-mcp](https://rubygems.org/gems/lictor-mcp) | 0.1.0 | Gregory Epp | MIT | MCP tools over the lictor orchestrator: scan, plan, execute, validate_pack, bui… |
 
 ## Data source
 
