@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-30T22:47:00.947Z,student_gem,0.1.1,64,s0195920,,CRUD-приложение для управления базой данных студентов
+2026-10-30T22:48:41.485Z,solid_queue-coalesce,0.1.0,55,David Cristofaro,MIT,Lets many perform_later calls with the same key share one pending Solid Queue job.
+2026-10-30T23:00:34.618Z,even_better_specs,0.1.0,41,Glauco Custodio,MIT,Enforces https://evenbetterspecs.github.io with RuboCop. Ships its own CLI so it runs in projects that do not have rubocop in their Gemfile.
+2026-10-30T23:17:39.759Z,hostily-captcha,0.1.0,0,connect - Media & Teledienst,MIT,Verify the token of a submitted form against hostily Captcha. Net::HTTP only; optional Rails view helper and controller method.

@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 22:20 UTC
+## Latest list — 2026-10-30 23:21 UTC
 
-New gems created between 2026-10-30 21:21 UTC and 2026-10-30 22:20 UTC.
+New gems created between 2026-10-30 22:20 UTC and 2026-10-30 23:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-30T22-20-37-800971Z.csv)
+[Full CSV](data/new-gems-2026-10-30T23-21-20-756713Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-30 21:52:54 | [ace-wake](https://rubygems.org/gems/ace-wake) | 0.1.0 | Michal Czyz | MIT | Publishable asset package for the ace-wake Pi harness extension: /loop timers a… |
-| 2026-10-30 22:09:25 | [omniai-evals](https://rubygems.org/gems/omniai-evals) | 0.1.0 | Dean Singh | MIT | Datasets, boolean criteria, assertions, judges, reducers, and PHI-free scorecar… |
+| 2026-10-30 22:47:00 | [student_gem](https://rubygems.org/gems/student_gem) | 0.1.1 | s0195920 |  | CRUD-приложение для управления базой данных студентов |
+| 2026-10-30 22:48:41 | [solid_queue-coalesce](https://rubygems.org/gems/solid_queue-coalesce) | 0.1.0 | David Cristofaro | MIT | Lets many perform_later calls with the same key share one pending Solid Queue j… |
+| 2026-10-30 23:00:34 | [even_better_specs](https://rubygems.org/gems/even_better_specs) | 0.1.0 | Glauco Custodio | MIT | Enforces https://evenbetterspecs.github.io with RuboCop. Ships its own CLI so i… |
+| 2026-10-30 23:17:39 | [hostily-captcha](https://rubygems.org/gems/hostily-captcha) | 0.1.0 | connect - Media & Teledienst | MIT | Verify the token of a submitted form against hostily Captcha. Net::HTTP only; o… |
 
 ## Data source
 
