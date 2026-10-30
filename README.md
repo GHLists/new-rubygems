@@ -9,25 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 11:21 UTC
+## Latest list — 2026-10-30 13:21 UTC
 
-New gems created between 2026-10-30 10:21 UTC and 2026-10-30 11:21 UTC.
+New gems created between 2026-10-30 12:20 UTC and 2026-10-30 13:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-30T11-21-02-789184Z.csv)
+[Full CSV](data/new-gems-2026-10-30T13-21-33-35482Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 12:36:57 | [my-ruby-coding-agents](https://rubygems.org/gems/my-ruby-coding-agents) | 0.1.0 | Lucian Ghinda | MIT | Install shared Ruby and Rails coding agents and delegation instructions into a… |
+| 2026-10-30 12:56:04 | [infrawrench-bulk_instances](https://rubygems.org/gems/infrawrench-bulk_instances) | 1.1.0 | Infrawrench LLC | MIT | AWS instance attributes and pricing (EC2, RDS, ElastiCache and more), with full… |
+| 2026-10-30 13:17:22 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.0.0 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs and agent-readable… |
 
 ## Data source
 

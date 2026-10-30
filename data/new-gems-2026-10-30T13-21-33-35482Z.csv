@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-30T12:36:57.433Z,my-ruby-coding-agents,0.1.0,57,Lucian Ghinda,MIT,Install shared Ruby and Rails coding agents and delegation instructions into a project.
+2026-10-30T12:56:04.285Z,infrawrench-bulk_instances,1.1.0,49,Infrawrench LLC,MIT,"AWS instance attributes and pricing (EC2, RDS, ElastiCache and more), with full history, from Infrawrench."
+2026-10-30T13:17:22.289Z,jekyll-theme-modootoday,1.0.0,0,modootoday,MIT,"GitHub alerts, status badges, sectioned pages, install tabs and agent-readable Markdown twins for Jekyll and GitHub Pages, plus a checker (modootoday-check)."
