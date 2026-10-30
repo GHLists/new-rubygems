@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 03:20 UTC
+## Latest list — 2026-10-30 04:19 UTC
 
-New gems created between 2026-10-30 02:21 UTC and 2026-10-30 03:20 UTC.
+New gems created between 2026-10-30 03:20 UTC and 2026-10-30 04:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-30T03-20-58-467726Z.csv)
+[Full CSV](data/new-gems-2026-10-30T04-19-03-917201Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-30 02:41:09 | [wani](https://rubygems.org/gems/wani) | 0.1.13 | ledsun | MIT | Markdown presentations rendered by Ruby in the browser |
+| 2026-10-30 03:29:04 | [query_stash](https://rubygems.org/gems/query_stash) | 0.1.1 | Persona | MIT | Caches the results of allowlisted SELECT queries (and MongoDB finds) across req… |
+| 2026-10-30 03:47:53 | [algomaker](https://rubygems.org/gems/algomaker) | 0.1.0 | Tyler Schneider | MIT | Algomaker takes datasets a host app registers, and for an outcome the owner pic… |
 
 ## Data source
 

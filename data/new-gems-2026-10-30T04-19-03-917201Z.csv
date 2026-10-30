@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-30T03:29:04.25Z,query_stash,0.1.1,69,Persona,MIT,"Caches the results of allowlisted SELECT queries (and MongoDB finds) across requests, below the ORM, with per-rule TTLs computed from the result."
+2026-10-30T03:47:53.295Z,algomaker,0.1.0,53,Tyler Schneider,MIT,"Algomaker takes datasets a host app registers, and for an outcome the owner picks reports whether there are enough rows to train a model and which types of model suit it."
