@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-30T20:23:48.548Z,asciidown,0.1.0,64,Evgenii Zinner,MIT,"A lightweight, dependency-free Ruby service and CLI tool to translate AsciiDoc content into GitHub Flavored Markdown with support for YAML front matter, pipe tables, callouts, and Liquid tags."
+2026-10-30T21:07:30.02Z,jekyll-theme-modootoday,1.1.1,27,modootoday,MIT,"GitHub alerts, status badges, sectioned pages, install tabs and agent-readable Markdown twins for Jekyll and GitHub Pages, plus a checker (modootoday-check)."
+2026-10-30T21:15:00.457Z,devigner_icons,3.5.0,5,Devigner,MIT; CC-BY-4.0,Devigner Icons as an inline-SVG view helper for Rails and any other Ruby app. Built on Solar Icon Set and Iconsax.
+2026-10-30T21:20:27.156Z,student_gem,0.1.0,0,s0195920,,CRUD-приложение для управления базой данных студентов
