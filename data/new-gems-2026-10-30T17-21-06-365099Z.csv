@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-30T16:28:15.312Z,infrawrench-bulk_instances,1.2.0,77,Infrawrench LLC,MIT,"AWS instance attributes and pricing (EC2, RDS, ElastiCache and more), with full history, from Infrawrench."
+2026-10-30T16:45:16.281Z,tillbell,0.2.0,69,Pierre Filstroff,MIT,"Tillbell adds a Google Play processor to the Pay gem: server-side purchase verification, acknowledgment, real-time developer notifications and a paywall that talks to a Hotwire Native bridge component."
+2026-10-30T17:07:23.627Z,jekyll-theme-modootoday,1.1.0,25,modootoday,MIT,"GitHub alerts, status badges, sectioned pages, install tabs and agent-readable Markdown twins for Jekyll and GitHub Pages, plus a checker (modootoday-check)."
