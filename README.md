@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 19:19 UTC
+## Latest list — 2026-10-30 20:21 UTC
 
-New gems created between 2026-10-30 18:21 UTC and 2026-10-30 19:19 UTC.
+New gems created between 2026-10-30 19:19 UTC and 2026-10-30 20:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-30T19-19-17-150301Z.csv)
+[Full CSV](data/new-gems-2026-10-30T20-21-51-568118Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-30 18:25:45 | [tillbell](https://rubygems.org/gems/tillbell) | 0.3.0 | Pierre Filstroff | MIT | Tillbell adds a Google Play processor to the Pay gem: server-side purchase veri… |
-| 2026-10-30 18:37:07 | [zivalix](https://rubygems.org/gems/zivalix) | 0.0.2 | ZIVALIX Founders | ISC | Official reserved package for ZIVALIX Agency. Defensive registration. |
-| 2026-10-30 18:54:14 | [crawlora-wallapop](https://rubygems.org/gems/crawlora-wallapop) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted Wallapop API. Covers public listing search, c… |
+| 2026-10-30 19:33:21 | [zapsmtp](https://rubygems.org/gems/zapsmtp) | 0.1.0 | ZapSMTP | MIT | Send, receive and track email with ZapSMTP: every API operation, safe retries w… |
 
 ## Data source
 

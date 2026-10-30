@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-30T19:33:21.128Z,zapsmtp,0.1.0,111,ZapSMTP,MIT,"Send, receive and track email with ZapSMTP: every API operation, safe retries with idempotency keys, paging over every list, webhook signature verification and an ActionMailer delivery method. No dependencies beyond Ruby's standard library."
