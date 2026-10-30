@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-30T14:32:17.859Z,crawlora-bo3,0.1.0,62,Crawlora,MIT,"Ruby client for Crawlora's hosted BO3.gg API. Covers Counter-Strike and Valorant matches, teams, players, tournaments, rankings, news, and statistics across 28 endpoints."
+2026-10-30T14:43:19.934Z,fastlane-plugin-rustore_publish,0.3.1,56,Sergey Gorban,MIT,"Upload and publish Android applications (APK/AAB) to RuStore app store via the RuStore Public API on the public-api-m.rustore.ru domain, with the Russian Trusted Root CA bundled. Supports multi-file versions: AAB (Google/GMS) as main file + APK (Huawei/HMS) as secondary, staged rollouts, and full C…"
