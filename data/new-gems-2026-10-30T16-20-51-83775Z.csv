@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-30T15:33:41.305Z,laravel-cloud-rails,0.1.1,61,Laravel,MIT,"A feature-based integration for running Rails on Laravel Cloud, whose first capability is Managed Queues as an Active Job adapter."
+2026-10-30T15:36:35.128Z,upload_d_n_d,0.10.0,74,Pierre Cherbero,MIT,"UploadDND provides a drag & drop upload interface for Rails apps, built on ActiveStorage, Stimulus and ViewComponent. It validates files server-side (MIME sniffing, size, count), supports temporary uploads for new records, and authorizes every request fail-closed through Pundit or CanCanCan."

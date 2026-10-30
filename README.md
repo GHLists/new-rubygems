@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 15:19 UTC
+## Latest list — 2026-10-30 16:20 UTC
 
-New gems created between 2026-10-30 14:20 UTC and 2026-10-30 15:19 UTC.
+New gems created between 2026-10-30 15:19 UTC and 2026-10-30 16:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-30T15-19-52-367408Z.csv)
+[Full CSV](data/new-gems-2026-10-30T16-20-51-83775Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-30 14:32:17 | [crawlora-bo3](https://rubygems.org/gems/crawlora-bo3) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted BO3.gg API. Covers Counter-Strike and Valoran… |
-| 2026-10-30 14:43:19 | [fastlane-plugin-rustore_publish](https://rubygems.org/gems/fastlane-plugin-rustore_publish) | 0.3.1 | Sergey Gorban | MIT | Upload and publish Android applications (APK/AAB) to RuStore app store via the… |
+| 2026-10-30 15:33:41 | [laravel-cloud-rails](https://rubygems.org/gems/laravel-cloud-rails) | 0.1.1 | Laravel | MIT | A feature-based integration for running Rails on Laravel Cloud, whose first cap… |
+| 2026-10-30 15:36:35 | [upload_d_n_d](https://rubygems.org/gems/upload_d_n_d) | 0.10.0 | Pierre Cherbero | MIT | UploadDND provides a drag & drop upload interface for Rails apps, built on Acti… |
 
 ## Data source
 
