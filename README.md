@@ -9,16 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 09:21 UTC
+## Latest list — 2026-10-30 11:21 UTC
 
-New gems created between 2026-10-30 08:19 UTC and 2026-10-30 09:21 UTC.
+New gems created between 2026-10-30 10:21 UTC and 2026-10-30 11:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-30T09-21-34-702347Z.csv)
+[Full CSV](data/new-gems-2026-10-30T11-21-02-789184Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-30 08:20:27 | [hawk-ruby](https://rubygems.org/gems/hawk-ruby) | 0.1.2 | Leonid Svyatov | MIT | A Ruby error catcher with optional framework integrations for Hawk. |
-| 2026-10-30 08:22:37 | [fitv-freeimagetovideo](https://rubygems.org/gems/fitv-freeimagetovideo) | 0.1.0 | hanshs474 | MIT | Free image to video AI with no daily cap: your first clip needs no sign-up, the… |
+| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 10:57:56 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.2.0 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
 
 ## Data source
 
