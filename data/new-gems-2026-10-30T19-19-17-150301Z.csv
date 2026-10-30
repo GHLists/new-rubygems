@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-30T18:25:45.65Z,tillbell,0.3.0,82,Pierre Filstroff,MIT,"Tillbell adds a Google Play processor to the Pay gem: server-side purchase verification, acknowledgment, real-time developer notifications and a paywall that talks to a Hotwire Native bridge component."
+2026-10-30T18:37:07.819Z,zivalix,0.0.2,78,ZIVALIX Founders,ISC,Official reserved package for ZIVALIX Agency. Defensive registration.
+2026-10-30T18:54:14.248Z,crawlora-wallapop,0.1.0,45,Crawlora,MIT,"Ruby client for Crawlora's hosted Wallapop API. Covers public listing search, categories, filters, and item details across 5 endpoints."

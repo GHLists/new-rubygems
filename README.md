@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 17:21 UTC
+## Latest list — 2026-10-30 19:19 UTC
 
-New gems created between 2026-10-30 16:20 UTC and 2026-10-30 17:21 UTC.
+New gems created between 2026-10-30 18:21 UTC and 2026-10-30 19:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-30T17-21-06-365099Z.csv)
+[Full CSV](data/new-gems-2026-10-30T19-19-17-150301Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-30 16:28:15 | [infrawrench-bulk_instances](https://rubygems.org/gems/infrawrench-bulk_instances) | 1.2.0 | Infrawrench LLC | MIT | AWS instance attributes and pricing (EC2, RDS, ElastiCache and more), with full… |
-| 2026-10-30 16:45:16 | [tillbell](https://rubygems.org/gems/tillbell) | 0.2.0 | Pierre Filstroff | MIT | Tillbell adds a Google Play processor to the Pay gem: server-side purchase veri… |
-| 2026-10-30 17:07:23 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.1.0 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs and agent-readable… |
+| 2026-10-30 18:25:45 | [tillbell](https://rubygems.org/gems/tillbell) | 0.3.0 | Pierre Filstroff | MIT | Tillbell adds a Google Play processor to the Pay gem: server-side purchase veri… |
+| 2026-10-30 18:37:07 | [zivalix](https://rubygems.org/gems/zivalix) | 0.0.2 | ZIVALIX Founders | ISC | Official reserved package for ZIVALIX Agency. Defensive registration. |
+| 2026-10-30 18:54:14 | [crawlora-wallapop](https://rubygems.org/gems/crawlora-wallapop) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted Wallapop API. Covers public listing search, c… |
 
 ## Data source
 
