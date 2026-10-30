@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-30T06:28:31.19Z,oops-cli,0.1.0,67,ysb3996-blip,MIT,"oops records what your zsh or bash prints and copies the last command (or the last failed one) with its output to the clipboard as a code block, with secrets masked, ready to paste into chat, Slack or GitHub."
+2026-10-30T07:17:00.103Z,emoji_mixer,2.2.0,0,MattFor,MIT,Get the URL of a Google Emoji Kitchen image for two emojis.
