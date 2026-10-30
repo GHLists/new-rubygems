@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 08:19 UTC
+## Latest list — 2026-10-30 09:21 UTC
 
-New gems created between 2026-10-30 07:20 UTC and 2026-10-30 08:19 UTC.
+New gems created between 2026-10-30 08:19 UTC and 2026-10-30 09:21 UTC.
 
-[Full CSV](data/new-gems-2026-10-30T08-19-36-695554Z.csv)
+[Full CSV](data/new-gems-2026-10-30T09-21-34-702347Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-30 08:14:22 | [vigilia-probe](https://rubygems.org/gems/vigilia-probe) | 0.1.0 | Sinoia | MIT | Envoie au démarrage puis chaque jour, en tâche de fond, les versions de Ruby, O… |
+| 2026-10-30 08:20:27 | [hawk-ruby](https://rubygems.org/gems/hawk-ruby) | 0.1.2 | Leonid Svyatov | MIT | A Ruby error catcher with optional framework integrations for Hawk. |
+| 2026-10-30 08:22:37 | [fitv-freeimagetovideo](https://rubygems.org/gems/fitv-freeimagetovideo) | 0.1.0 | hanshs474 | MIT | Free image to video AI with no daily cap: your first clip needs no sign-up, the… |
 
 ## Data source
 
