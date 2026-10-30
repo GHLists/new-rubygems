@@ -9,26 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 02:21 UTC
+## Latest list — 2026-10-30 03:20 UTC
 
-New gems created between 2026-10-30 01:21 UTC and 2026-10-30 02:21 UTC.
+New gems created between 2026-10-30 02:21 UTC and 2026-10-30 03:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-30T02-21-52-381355Z.csv)
+[Full CSV](data/new-gems-2026-10-30T03-20-58-467726Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-30 01:24:37 | [lictor](https://rubygems.org/gems/lictor) | 0.4.1 | Gregory Epp | MIT | Carries out the decisions augure judged: handoff by default, everything trailed… |
-| 2026-10-30 02:13:13 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.3 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 02:13:13 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.3 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 02:13:13 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.3 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 02:13:13 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.3 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 02:13:13 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.3 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 02:13:13 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.3 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 02:13:13 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.3 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 02:13:13 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.3 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 02:13:13 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.3 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 02:13:13 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.3 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
-| 2026-10-30 02:13:13 | [openvfs-rb](https://rubygems.org/gems/openvfs-rb) | 1.1.3 | Nathan Kidd | MIT | A virtual filesystem for Ruby. |
+| 2026-10-30 02:41:09 | [wani](https://rubygems.org/gems/wani) | 0.1.13 | ledsun | MIT | Markdown presentations rendered by Ruby in the browser |
 
 ## Data source
 
