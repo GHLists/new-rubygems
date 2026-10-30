@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 07:20 UTC
+## Latest list — 2026-10-30 08:19 UTC
 
-New gems created between 2026-10-30 06:20 UTC and 2026-10-30 07:20 UTC.
+New gems created between 2026-10-30 07:20 UTC and 2026-10-30 08:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-30T07-20-06-799525Z.csv)
+[Full CSV](data/new-gems-2026-10-30T08-19-36-695554Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-30 06:28:31 | [oops-cli](https://rubygems.org/gems/oops-cli) | 0.1.0 | ysb3996-blip | MIT | oops records what your zsh or bash prints and copies the last command (or the l… |
-| 2026-10-30 07:17:00 | [emoji_mixer](https://rubygems.org/gems/emoji_mixer) | 2.2.0 | MattFor | MIT | Get the URL of a Google Emoji Kitchen image for two emojis. |
+| 2026-10-30 08:14:22 | [vigilia-probe](https://rubygems.org/gems/vigilia-probe) | 0.1.0 | Sinoia | MIT | Envoie au démarrage puis chaque jour, en tâche de fond, les versions de Ruby, O… |
 
 ## Data source
 

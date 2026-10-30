@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-30T08:14:22.719Z,vigilia-probe,0.1.0,0,Sinoia,MIT,"Envoie au démarrage puis chaque jour, en tâche de fond, les versions de Ruby, OpenSSL, Rails et des gems chargées, et des contrôles d'audit, à Vigilia, la veille de sécurité de Sinoia. Inerte sans configuration."
