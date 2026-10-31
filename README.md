@@ -9,20 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 21:18 UTC
+## Latest list — 2026-10-31 22:20 UTC
 
-New gems created between 2026-10-31 20:19 UTC and 2026-10-31 21:18 UTC.
+New gems created between 2026-10-31 21:18 UTC and 2026-10-31 22:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T21-18-27-010312Z.csv)
+[Full CSV](data/new-gems-2026-10-31T22-20-58-308486Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 21:02:20 | [release_flow](https://rubygems.org/gems/release_flow) | 0.1.1 | Dave Chmura | MIT | A next → release/<name> → main release flow on git and the GitHub CLI. Changelo… |
-| 2026-10-31 21:08:58 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.0 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
-| 2026-10-31 21:08:58 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.0 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
-| 2026-10-31 21:08:58 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.0 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
-| 2026-10-31 21:08:58 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.0 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
-| 2026-10-31 21:08:58 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.0 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
+| 2026-10-31 21:36:21 | [rails_server_hotkeys](https://rubygems.org/gems/rails_server_hotkeys) | 1.1.1 | Samuel Gavassi Pismel | MIT | Adds interactive hotkeys to the Rails development server: r to restart, c to cl… |
+| 2026-10-31 22:07:36 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.1 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
+| 2026-10-31 22:07:36 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.1 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
+| 2026-10-31 22:07:36 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.1 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
+| 2026-10-31 22:07:36 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.1 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
+| 2026-10-31 22:07:36 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.1 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
 
 ## Data source
 
