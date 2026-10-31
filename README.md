@@ -9,15 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 08:18 UTC
+## Latest list — 2026-10-31 09:20 UTC
 
-New gems created between 2026-10-31 07:18 UTC and 2026-10-31 08:18 UTC.
+New gems created between 2026-10-31 08:18 UTC and 2026-10-31 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T08-18-26-635298Z.csv)
+[Full CSV](data/new-gems-2026-10-31T09-20-51-124238Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 07:28:20 | [xsd_struct](https://rubygems.org/gems/xsd_struct) | 0.1.0 | Pat Allan | MIT NON-AI | Uses XSD schemas to turn an XML document into a collection of Ruby objects |
+| 2026-10-31 08:19:07 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.2.2 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs and agent-readable… |
+| 2026-10-31 09:00:23 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.0.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
+| 2026-10-31 09:00:23 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.0.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
+| 2026-10-31 09:00:23 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.0.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
+| 2026-10-31 09:00:23 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.0.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
+| 2026-10-31 09:00:23 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.0.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
 
 ## Data source
 
