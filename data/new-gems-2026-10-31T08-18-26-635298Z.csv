@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T07:28:20.501Z,xsd_struct,0.1.0,63,Pat Allan,MIT NON-AI,Uses XSD schemas to turn an XML document into a collection of Ruby objects

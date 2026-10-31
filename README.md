@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 06:20 UTC
+## Latest list — 2026-10-31 08:18 UTC
 
-New gems created between 2026-10-31 05:18 UTC and 2026-10-31 06:20 UTC.
+New gems created between 2026-10-31 07:18 UTC and 2026-10-31 08:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T06-20-44-174912Z.csv)
+[Full CSV](data/new-gems-2026-10-31T08-18-26-635298Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 05:23:14 | [fastlane-plugin-appforshare](https://rubygems.org/gems/fastlane-plugin-appforshare) | 1.0.0 | AppForShare | MIT | Fastlane action that uploads an .ipa or .apk to AppForShare (appforshare.io), w… |
-| 2026-10-31 05:59:09 | [relaton-api](https://rubygems.org/gems/relaton-api) | 3.0.0 | Ribose Inc. | BSD-2-Clause | Config-driven Relaton API server over a dataset directory. |
-| 2026-10-31 06:15:50 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.2.1 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs and agent-readable… |
+| 2026-10-31 07:28:20 | [xsd_struct](https://rubygems.org/gems/xsd_struct) | 0.1.0 | Pat Allan | MIT NON-AI | Uses XSD schemas to turn an XML document into a collection of Ruby objects |
 
 ## Data source
 
