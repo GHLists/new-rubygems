@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T21:02:20.455Z,release_flow,0.1.1,69,Dave Chmura,MIT,"A next → release/<name> → main release flow on git and the GitHub CLI. Changelog entries live in changelog.d/ so they never conflict; a release is named, cut to staging, reviewed, and shipped as exactly the commit staging ran, tagged with its notes."
+2026-10-31T21:08:58.999Z,cfsolve,0.1.0,9,Oliver Morgan,MIT,"Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engine, with isolated sessions and bounded execution."
+2026-10-31T21:08:58.999Z,cfsolve,0.1.0,9,Oliver Morgan,MIT,"Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engine, with isolated sessions and bounded execution."
+2026-10-31T21:08:58.999Z,cfsolve,0.1.0,9,Oliver Morgan,MIT,"Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engine, with isolated sessions and bounded execution."
+2026-10-31T21:08:58.999Z,cfsolve,0.1.0,9,Oliver Morgan,MIT,"Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engine, with isolated sessions and bounded execution."
+2026-10-31T21:08:58.999Z,cfsolve,0.1.0,9,Oliver Morgan,MIT,"Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engine, with isolated sessions and bounded execution."

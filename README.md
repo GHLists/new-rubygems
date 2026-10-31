@@ -9,15 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 20:19 UTC
+## Latest list — 2026-10-31 21:18 UTC
 
-New gems created between 2026-10-31 19:20 UTC and 2026-10-31 20:19 UTC.
+New gems created between 2026-10-31 20:19 UTC and 2026-10-31 21:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T20-19-31-680058Z.csv)
+[Full CSV](data/new-gems-2026-10-31T21-18-27-010312Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 20:08:08 | [mailcheckr](https://rubygems.org/gems/mailcheckr) | 0.1.0 | Kolawole Ezekiel, Ridwan Kasim | MIT | A Ruby SDK for creating and retrieving MailCheckr verifications. |
+| 2026-10-31 21:02:20 | [release_flow](https://rubygems.org/gems/release_flow) | 0.1.1 | Dave Chmura | MIT | A next → release/<name> → main release flow on git and the GitHub CLI. Changelo… |
+| 2026-10-31 21:08:58 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.0 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
+| 2026-10-31 21:08:58 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.0 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
+| 2026-10-31 21:08:58 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.0 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
+| 2026-10-31 21:08:58 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.0 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
+| 2026-10-31 21:08:58 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.0 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
 
 ## Data source
 
