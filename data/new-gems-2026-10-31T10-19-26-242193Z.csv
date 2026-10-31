@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T09:31:00.797Z,tillbell,0.4.0,115,Pierre Filstroff,MIT,"Tillbell adds a Google Play processor to the Pay gem: server-side purchase verification, acknowledgment, real-time developer notifications and a paywall that talks to a Hotwire Native bridge component."
+2026-10-31T10:10:30.196Z,condition_coverage,0.0.1,10,Jon Jagger,BSD-2-Clause,Placeholder release outlining the idea; see the README.
