@@ -9,20 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 17:19 UTC
+## Latest list — 2026-10-31 18:20 UTC
 
-New gems created between 2026-10-31 16:20 UTC and 2026-10-31 17:19 UTC.
+New gems created between 2026-10-31 17:19 UTC and 2026-10-31 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T17-19-41-157595Z.csv)
+[Full CSV](data/new-gems-2026-10-31T18-20-14-721876Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 16:48:57 | [tinydeskai](https://rubygems.org/gems/tinydeskai) | 0.1.0 | TinyDesk AI | MIT | TinyDesk AI is a Tiny Desk style concert video generator that turns one to five… |
-| 2026-10-31 16:50:34 | [ripeat](https://rubygems.org/gems/ripeat) | 0.0.0 | ripeat | MIT | Repeatable machine setup. Placeholder to reserve the name. |
-| 2026-10-31 16:53:54 | [condition_coverage](https://rubygems.org/gems/condition_coverage) | 0.0.5 | Jon Jagger | BSD-2-Clause | Records whether each operand of every &&, \|\|, and and or condition was seen bot… |
-| 2026-10-31 16:54:41 | [hospitalbagchecklist-url-tools](https://rubygems.org/gems/hospitalbagchecklist-url-tools) | 0.1.0 | wangneo276-lgtm | MIT | A free hospital bag checklist that tracks what you have, what to buy, what’s pa… |
-| 2026-10-31 16:57:10 | [everyman_uk](https://rubygems.org/gems/everyman_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Everyman cinemas website |
-| 2026-10-31 16:58:17 | [showcase_uk](https://rubygems.org/gems/showcase_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Showcase Cinemas UK website |
+| 2026-10-31 17:20:48 | [evalgate-sdk](https://rubygems.org/gems/evalgate-sdk) | 3.17.0 | EvalGate | MIT | Typed models, all public OpenAPI operations, scoped API authentication, paginat… |
+| 2026-10-31 18:13:18 | [calldata-lint](https://rubygems.org/gems/calldata-lint) | 1.0.0 | DeveloApps | MIT | calldata-lint checks structured call-data JSON records (AI voice-agent call exp… |
 
 ## Data source
 

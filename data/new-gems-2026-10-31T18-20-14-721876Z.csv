@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T17:20:48.644Z,evalgate-sdk,3.17.0,80,EvalGate,MIT,"Typed models, all public OpenAPI operations, scoped API authentication, pagination, structured errors, and idempotency for EvalGate."
+2026-10-31T18:13:18.382Z,calldata-lint,1.0.0,3,DeveloApps,MIT,"calldata-lint checks structured call-data JSON records (AI voice-agent call exports, telephony webhooks, CRM call logs) before they reach your systems. It verifies required fields (call_id, started_at, direction, from_number, to_number), field types, ISO-8601 timestamp validity and UTC normalizatio…"
