@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 04:19 UTC
+## Latest list — 2026-10-31 06:20 UTC
 
-New gems created between 2026-10-31 03:19 UTC and 2026-10-31 04:19 UTC.
+New gems created between 2026-10-31 05:18 UTC and 2026-10-31 06:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T04-19-00-129423Z.csv)
+[Full CSV](data/new-gems-2026-10-31T06-20-44-174912Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 03:25:53 | [metanorma-oiml](https://rubygems.org/gems/metanorma-oiml) | 0.1.1 | OIML | MIT | Metanorma for the OIML. |
-| 2026-10-31 03:51:49 | [praxo-core](https://rubygems.org/gems/praxo-core) | 0.1.0 | AxisVela | MIT | Native Ruby Core for the PRAXO-CORE agent framework: tools, policy, events, mem… |
-| 2026-10-31 03:53:10 | [hotstepper](https://rubygems.org/gems/hotstepper) | 0.1.0 | Alexa Grey | MIT | Hotstepper is a somewhat opinionated service object framework that connects dry… |
+| 2026-10-31 05:23:14 | [fastlane-plugin-appforshare](https://rubygems.org/gems/fastlane-plugin-appforshare) | 1.0.0 | AppForShare | MIT | Fastlane action that uploads an .ipa or .apk to AppForShare (appforshare.io), w… |
+| 2026-10-31 05:59:09 | [relaton-api](https://rubygems.org/gems/relaton-api) | 3.0.0 | Ribose Inc. | BSD-2-Clause | Config-driven Relaton API server over a dataset directory. |
+| 2026-10-31 06:15:50 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.2.1 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs and agent-readable… |
 
 ## Data source
 

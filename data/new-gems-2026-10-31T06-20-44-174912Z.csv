@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T05:23:14.861Z,fastlane-plugin-appforshare,1.0.0,80,AppForShare,MIT,"Fastlane action that uploads an .ipa or .apk to AppForShare (appforshare.io), waits for it to be ready, returns the install link and the store readiness status, and can fail the lane on readiness blockers."
+2026-10-31T05:59:09.786Z,relaton-api,3.0.0,77,Ribose Inc.,BSD-2-Clause,Config-driven Relaton API server over a dataset directory.
+2026-10-31T06:15:50.947Z,jekyll-theme-modootoday,1.2.1,0,modootoday,MIT,"GitHub alerts, status badges, sectioned pages, install tabs and agent-readable Markdown twins for Jekyll and GitHub Pages, plus a checker (modootoday-check)."
