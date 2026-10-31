@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 00:20 UTC
+## Latest list — 2026-10-31 01:18 UTC
 
-New gems created between 2026-10-30 23:21 UTC and 2026-10-31 00:20 UTC.
+New gems created between 2026-10-31 00:20 UTC and 2026-10-31 01:18 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T00-20-13-971323Z.csv)
+[Full CSV](data/new-gems-2026-10-31T01-18-59-134165Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 00:11:21 | [anway](https://rubygems.org/gems/anway) | 0.1.1 | Thadeu | MIT | Ruby and Rails client and worker for the Anway job server |
+| 2026-10-31 00:36:45 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.2.0 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs and agent-readable… |
 
 ## Data source
 
