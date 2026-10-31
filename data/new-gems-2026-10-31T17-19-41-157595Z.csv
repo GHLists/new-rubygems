@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T16:48:57.43Z,tinydeskai,0.1.0,55,TinyDesk AI,MIT,"TinyDesk AI is a Tiny Desk style concert video generator that turns one to five photos into a 15 second concert video. Upload a photo, get a band on stage with lip sync, instruments and camera moves. Built with Next.js, Nano Banana 2 and Seedance 2.0."
+2026-10-31T16:50:34.507Z,ripeat,0.0.0,53,ripeat,MIT,Repeatable machine setup. Placeholder to reserve the name.
+2026-10-31T16:53:54.81Z,condition_coverage,0.0.5,170,Jon Jagger,BSD-2-Clause,"Records whether each operand of every &&, ||, and and or condition was seen both true and false, and reports the gaps in the terminal and as HTML."
+2026-10-31T16:54:41.667Z,hospitalbagchecklist-url-tools,0.1.0,55,wangneo276-lgtm,MIT,"A free hospital bag checklist that tracks what you have, what to buy, what’s packed, what to ask your hospital and what to grab last. Saved on your device; print or PDF."
+2026-10-31T16:57:10.851Z,everyman_uk,1.0.0,60,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Everyman cinemas website
+2026-10-31T16:58:17.387Z,showcase_uk,1.0.0,59,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Showcase Cinemas UK website
