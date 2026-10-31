@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T18:26:41.402Z,zapsmtp,0.1.1,92,ZapSMTP,MIT,"Send, receive and track email with ZapSMTP: every API operation, safe retries with idempotency keys, paging over every list, webhook signature verification and an ActionMailer delivery method. No dependencies beyond Ruby's standard library."
+2026-10-31T18:27:02.136Z,yard-rspec-coverage,0.1.3,65,vdbijl,MIT,"A YARD plugin that embeds RSpec examples alongside method documentation, and reports public methods without specs"
+2026-10-31T18:29:44.627Z,light_uk,1.0.0,79,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Light cinemas website
