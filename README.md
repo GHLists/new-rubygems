@@ -9,20 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 22:20 UTC
+## Latest list — 2026-10-31 23:20 UTC
 
-New gems created between 2026-10-31 21:18 UTC and 2026-10-31 22:20 UTC.
+New gems created between 2026-10-31 22:20 UTC and 2026-10-31 23:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T22-20-58-308486Z.csv)
+[Full CSV](data/new-gems-2026-10-31T23-20-23-860808Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 21:36:21 | [rails_server_hotkeys](https://rubygems.org/gems/rails_server_hotkeys) | 1.1.1 | Samuel Gavassi Pismel | MIT | Adds interactive hotkeys to the Rails development server: r to restart, c to cl… |
-| 2026-10-31 22:07:36 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.1 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
-| 2026-10-31 22:07:36 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.1 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
-| 2026-10-31 22:07:36 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.1 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
-| 2026-10-31 22:07:36 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.1 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
-| 2026-10-31 22:07:36 | [cfsolve](https://rubygems.org/gems/cfsolve) | 0.1.1 | Oliver Morgan | MIT | Solve Turnstile widgets and Cloudflare challenge pages using a native Rust engi… |
+| 2026-10-31 22:38:02 | [lunixi-sdk](https://rubygems.org/gems/lunixi-sdk) | 0.1.2 | Lunixi | MIT | Ed25519 request signing, synchronized token caching, payment and fraud clients,… |
+| 2026-10-31 23:05:55 | [fast_rspec](https://rubygems.org/gems/fast_rspec) | 0.0.1 | developerz.ai | MIT | One gem line replaces rspec-rails, factory_bot, faker, vcr, webmock, database_c… |
 
 ## Data source
 
