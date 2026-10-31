@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 19:20 UTC
+## Latest list — 2026-10-31 20:19 UTC
 
-New gems created between 2026-10-31 18:20 UTC and 2026-10-31 19:20 UTC.
+New gems created between 2026-10-31 19:20 UTC and 2026-10-31 20:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T19-20-05-23963Z.csv)
+[Full CSV](data/new-gems-2026-10-31T20-19-31-680058Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 18:26:41 | [zapsmtp](https://rubygems.org/gems/zapsmtp) | 0.1.1 | ZapSMTP | MIT | Send, receive and track email with ZapSMTP: every API operation, safe retries w… |
-| 2026-10-31 18:27:02 | [yard-rspec-coverage](https://rubygems.org/gems/yard-rspec-coverage) | 0.1.3 | vdbijl | MIT | A YARD plugin that embeds RSpec examples alongside method documentation, and re… |
-| 2026-10-31 18:29:44 | [light_uk](https://rubygems.org/gems/light_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Light cinemas website |
+| 2026-10-31 20:08:08 | [mailcheckr](https://rubygems.org/gems/mailcheckr) | 0.1.0 | Kolawole Ezekiel, Ridwan Kasim | MIT | A Ruby SDK for creating and retrieving MailCheckr verifications. |
 
 ## Data source
 
