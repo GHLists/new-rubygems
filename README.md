@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 01:18 UTC
+## Latest list — 2026-10-31 02:19 UTC
 
-New gems created between 2026-10-31 00:20 UTC and 2026-10-31 01:18 UTC.
+New gems created between 2026-10-31 01:18 UTC and 2026-10-31 02:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T01-18-59-134165Z.csv)
+[Full CSV](data/new-gems-2026-10-31T02-19-52-445019Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 00:36:45 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.2.0 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs and agent-readable… |
+| 2026-10-31 01:19:21 | [5pm](https://rubygems.org/gems/5pm) | 0.1.0 | Stan Carver II | MIT | Ruby SDK for the 5pm API v2 |
+| 2026-10-31 01:20:17 | [5pm-mcp](https://rubygems.org/gems/5pm-mcp) | 0.1.0 | Stan Carver II | MIT | Least-privilege MCP adapter for the 5pm SDK |
+| 2026-10-31 01:51:36 | [rinru](https://rubygems.org/gems/rinru) | 0.1.3 |  |  | Rinru - Portable self-contained Rust engine. |
 
 ## Data source
 
