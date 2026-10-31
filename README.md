@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 10:19 UTC
+## Latest list — 2026-10-31 11:20 UTC
 
-New gems created between 2026-10-31 09:20 UTC and 2026-10-31 10:19 UTC.
+New gems created between 2026-10-31 10:19 UTC and 2026-10-31 11:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T10-19-26-242193Z.csv)
+[Full CSV](data/new-gems-2026-10-31T11-20-16-1223Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 09:31:00 | [tillbell](https://rubygems.org/gems/tillbell) | 0.4.0 | Pierre Filstroff | MIT | Tillbell adds a Google Play processor to the Pay gem: server-side purchase veri… |
-| 2026-10-31 10:10:30 | [condition_coverage](https://rubygems.org/gems/condition_coverage) | 0.0.1 | Jon Jagger | BSD-2-Clause | Placeholder release outlining the idea; see the README. |
+| 2026-10-31 10:35:24 | [win32ole-ffi](https://rubygems.org/gems/win32ole-ffi) | 0.1.0 | Eito Katagiri | Ruby; BSD-2-Clause | A WIN32OLE for Windows written in pure Ruby on top of Fiddle instead of a C ext… |
+| 2026-10-31 10:35:24 | [win32ole-ffi](https://rubygems.org/gems/win32ole-ffi) | 0.1.0 | Eito Katagiri | Ruby; BSD-2-Clause | A WIN32OLE for Windows written in pure Ruby on top of Fiddle instead of a C ext… |
+| 2026-10-31 10:44:07 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.2.3 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs, about 40 page layo… |
 
 ## Data source
 

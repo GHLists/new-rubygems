@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T10:35:24.465Z,win32ole-ffi,0.1.0,132,Eito Katagiri,Ruby; BSD-2-Clause,"A WIN32OLE for Windows written in pure Ruby on top of Fiddle instead of a C extension, so that it also runs on JRuby."
+2026-10-31T10:35:24.465Z,win32ole-ffi,0.1.0,132,Eito Katagiri,Ruby; BSD-2-Clause,"A WIN32OLE for Windows written in pure Ruby on top of Fiddle instead of a C extension, so that it also runs on JRuby."
+2026-10-31T10:44:07.571Z,jekyll-theme-modootoday,1.2.3,82,modootoday,MIT,"GitHub alerts, status badges, sectioned pages, install tabs, about 40 page layouts (blog, news, directory, marketing, documents), labels in 23 languages with RTL, and agent-readable Markdown twins for Jekyll and GitHub Pages, plus a checker (modootoday-check)."
