@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T13:50:20.976Z,smbcloud-email,1.1.0,25,Seto Elkahfi,MIT,"Send transactional email from a verified domain and read delivery status, powered by the shared Rust SDK and a native Magnus extension."
+2026-10-31T13:50:20.976Z,smbcloud-email,1.1.0,25,Seto Elkahfi,MIT,"Send transactional email from a verified domain and read delivery status, powered by the shared Rust SDK and a native Magnus extension."
+2026-10-31T13:50:20.976Z,smbcloud-email,1.1.0,25,Seto Elkahfi,MIT,"Send transactional email from a verified domain and read delivery status, powered by the shared Rust SDK and a native Magnus extension."
+2026-10-31T13:50:20.976Z,smbcloud-email,1.1.0,25,Seto Elkahfi,MIT,"Send transactional email from a verified domain and read delivery status, powered by the shared Rust SDK and a native Magnus extension."
+2026-10-31T13:50:20.976Z,smbcloud-email,1.1.0,25,Seto Elkahfi,MIT,"Send transactional email from a verified domain and read delivery status, powered by the shared Rust SDK and a native Magnus extension."
+2026-10-31T14:07:27.459Z,jekyll-theme-modootoday,1.4.0,40,modootoday,MIT,"GitHub alerts, status badges, sectioned pages, install tabs, about 40 page layouts (blog, news, directory, marketing, documents), labels in 23 languages with RTL, and agent-readable Markdown twins for Jekyll and GitHub Pages, plus a checker (modootoday-check)."
+2026-10-31T14:13:10.836Z,roma-storage-dbm,0.1.0,4,Tatsuya Sato,GPL-3.0-only,GDBM storage for ROMA. Set Roma::Storage::DbmStorage to STORAGE_CLASS in config.rb of ROMA.
+2026-10-31T14:13:21.371Z,roma-storage-sqlite3,0.1.0,6,Tatsuya Sato,GPL-3.0-only,SQLite3 storage for ROMA. Set Roma::Storage::SQLite3Storage to STORAGE_CLASS in config.rb of ROMA.

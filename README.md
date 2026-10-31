@@ -9,17 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 13:19 UTC
+## Latest list — 2026-10-31 14:19 UTC
 
-New gems created between 2026-10-31 12:19 UTC and 2026-10-31 13:19 UTC.
+New gems created between 2026-10-31 13:19 UTC and 2026-10-31 14:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T13-19-24-736941Z.csv)
+[Full CSV](data/new-gems-2026-10-31T14-19-07-442757Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 12:25:55 | [libsql-sequel](https://rubygems.org/gems/libsql-sequel) | 0.3.0 | Francesco Canessa | MIT | Sequel SQL, models, migrations, and transactions using the native libSQL Ruby d… |
-| 2026-10-31 12:34:39 | [ace-wake](https://rubygems.org/gems/ace-wake) | 0.2.0 | Michal Czyz | MIT | Publishable asset package for the ace-wake Pi harness extension: /loop timers a… |
-| 2026-10-31 12:53:04 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.3.0 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs, about 40 page layo… |
+| 2026-10-31 13:50:20 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.1.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
+| 2026-10-31 13:50:20 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.1.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
+| 2026-10-31 13:50:20 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.1.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
+| 2026-10-31 13:50:20 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.1.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
+| 2026-10-31 13:50:20 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.1.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
+| 2026-10-31 14:07:27 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.4.0 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs, about 40 page layo… |
+| 2026-10-31 14:13:10 | [roma-storage-dbm](https://rubygems.org/gems/roma-storage-dbm) | 0.1.0 | Tatsuya Sato | GPL-3.0-only | GDBM storage for ROMA. Set Roma::Storage::DbmStorage to STORAGE_CLASS in config… |
+| 2026-10-31 14:13:21 | [roma-storage-sqlite3](https://rubygems.org/gems/roma-storage-sqlite3) | 0.1.0 | Tatsuya Sato | GPL-3.0-only | SQLite3 storage for ROMA. Set Roma::Storage::SQLite3Storage to STORAGE_CLASS in… |
 
 ## Data source
 
