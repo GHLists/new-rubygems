@@ -9,22 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 14:19 UTC
+## Latest list — 2026-10-31 15:20 UTC
 
-New gems created between 2026-10-31 13:19 UTC and 2026-10-31 14:19 UTC.
+New gems created between 2026-10-31 14:19 UTC and 2026-10-31 15:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T14-19-07-442757Z.csv)
+[Full CSV](data/new-gems-2026-10-31T15-20-17-036397Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 13:50:20 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.1.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
-| 2026-10-31 13:50:20 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.1.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
-| 2026-10-31 13:50:20 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.1.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
-| 2026-10-31 13:50:20 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.1.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
-| 2026-10-31 13:50:20 | [smbcloud-email](https://rubygems.org/gems/smbcloud-email) | 1.1.0 | Seto Elkahfi | MIT | Send transactional email from a verified domain and read delivery status, power… |
-| 2026-10-31 14:07:27 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.4.0 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs, about 40 page layo… |
-| 2026-10-31 14:13:10 | [roma-storage-dbm](https://rubygems.org/gems/roma-storage-dbm) | 0.1.0 | Tatsuya Sato | GPL-3.0-only | GDBM storage for ROMA. Set Roma::Storage::DbmStorage to STORAGE_CLASS in config… |
-| 2026-10-31 14:13:21 | [roma-storage-sqlite3](https://rubygems.org/gems/roma-storage-sqlite3) | 0.1.0 | Tatsuya Sato | GPL-3.0-only | SQLite3 storage for ROMA. Set Roma::Storage::SQLite3Storage to STORAGE_CLASS in… |
+| 2026-10-31 14:29:04 | [fastlane-plugin-appforshare](https://rubygems.org/gems/fastlane-plugin-appforshare) | 1.1.0 | AppForShare | MIT | Fastlane action that uploads an .ipa or .apk to AppForShare (appforshare.io), w… |
+| 2026-10-31 14:35:57 | [bazicalculator-url-tools](https://rubygems.org/gems/bazicalculator-url-tools) | 0.1.0 | wangneo276-lgtm | MIT | Free BaZi calculator: Four Pillars, Day Master, Ten Gods, Five Elements and Luc… |
+| 2026-10-31 15:01:08 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.4.1 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs, about 40 page layo… |
+| 2026-10-31 15:15:21 | [belt-connect](https://rubygems.org/gems/belt-connect) | 0.2.0 | Stowzilla | MIT | Belt plugin that scaffolds Amazon Connect (Connect Customer) into your app: a C… |
+| 2026-10-31 15:16:27 | [railst](https://rubygems.org/gems/railst) | 0.2.1 | Valirc-cpu | MIT | Standalone developer interface and scaffolding tool for combining Rails 8 and p… |
 
 ## Data source
 
