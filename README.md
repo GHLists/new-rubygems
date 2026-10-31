@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 03:19 UTC
+## Latest list — 2026-10-31 04:19 UTC
 
-New gems created between 2026-10-31 02:19 UTC and 2026-10-31 03:19 UTC.
+New gems created between 2026-10-31 03:19 UTC and 2026-10-31 04:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T03-19-44-102338Z.csv)
+[Full CSV](data/new-gems-2026-10-31T04-19-00-129423Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 02:28:37 | [metanorma-oiml](https://rubygems.org/gems/metanorma-oiml) | 0.1.0 | OIML | MIT | OIML NISO STS toolkit: Metanorma presentation XML → OIML STS XML transformer, v… |
+| 2026-10-31 03:25:53 | [metanorma-oiml](https://rubygems.org/gems/metanorma-oiml) | 0.1.1 | OIML | MIT | Metanorma for the OIML. |
+| 2026-10-31 03:51:49 | [praxo-core](https://rubygems.org/gems/praxo-core) | 0.1.0 | AxisVela | MIT | Native Ruby Core for the PRAXO-CORE agent framework: tools, policy, events, mem… |
+| 2026-10-31 03:53:10 | [hotstepper](https://rubygems.org/gems/hotstepper) | 0.1.0 | Alexa Grey | MIT | Hotstepper is a somewhat opinionated service object framework that connects dry… |
 
 ## Data source
 

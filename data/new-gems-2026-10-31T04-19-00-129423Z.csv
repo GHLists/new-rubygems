@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T03:25:53.825Z,metanorma-oiml,0.1.1,137,OIML,MIT,Metanorma for the OIML.
+2026-10-31T03:51:49.426Z,praxo-core,0.1.0,54,AxisVela,MIT,"Native Ruby Core for the PRAXO-CORE agent framework: tools, policy, events, memory, context, middleware, checkpoints, and an agent loop."
+2026-10-31T03:53:10.325Z,hotstepper,0.1.0,52,Alexa Grey,MIT,Hotstepper is a somewhat opinionated service object framework that connects dry-initializer with dry-system operations for use in Rails.
