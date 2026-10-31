@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T15:30:15.836Z,railst,0.2.2,171,Valirc-cpu,MIT,Standalone developer interface and scaffolding tool for combining Rails 8 and pure Rust
+2026-10-31T15:47:56.538Z,libsql-sequel,0.3.1,69,Francesco Canessa,MIT,"Sequel SQL, models, migrations, and transactions using the native libSQL Ruby driver."
+2026-10-31T16:12:40.128Z,condition_coverage,0.0.4,12,Jon Jagger,BSD-2-Clause,"Records whether each operand of every &&, ||, and and or condition was seen both true and false, and reports the gaps in the terminal and as HTML."

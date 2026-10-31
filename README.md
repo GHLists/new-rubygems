@@ -9,19 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 15:20 UTC
+## Latest list — 2026-10-31 16:20 UTC
 
-New gems created between 2026-10-31 14:19 UTC and 2026-10-31 15:20 UTC.
+New gems created between 2026-10-31 15:20 UTC and 2026-10-31 16:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T15-20-17-036397Z.csv)
+[Full CSV](data/new-gems-2026-10-31T16-20-29-84484Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 14:29:04 | [fastlane-plugin-appforshare](https://rubygems.org/gems/fastlane-plugin-appforshare) | 1.1.0 | AppForShare | MIT | Fastlane action that uploads an .ipa or .apk to AppForShare (appforshare.io), w… |
-| 2026-10-31 14:35:57 | [bazicalculator-url-tools](https://rubygems.org/gems/bazicalculator-url-tools) | 0.1.0 | wangneo276-lgtm | MIT | Free BaZi calculator: Four Pillars, Day Master, Ten Gods, Five Elements and Luc… |
-| 2026-10-31 15:01:08 | [jekyll-theme-modootoday](https://rubygems.org/gems/jekyll-theme-modootoday) | 1.4.1 | modootoday | MIT | GitHub alerts, status badges, sectioned pages, install tabs, about 40 page layo… |
-| 2026-10-31 15:15:21 | [belt-connect](https://rubygems.org/gems/belt-connect) | 0.2.0 | Stowzilla | MIT | Belt plugin that scaffolds Amazon Connect (Connect Customer) into your app: a C… |
-| 2026-10-31 15:16:27 | [railst](https://rubygems.org/gems/railst) | 0.2.1 | Valirc-cpu | MIT | Standalone developer interface and scaffolding tool for combining Rails 8 and p… |
+| 2026-10-31 15:30:15 | [railst](https://rubygems.org/gems/railst) | 0.2.2 | Valirc-cpu | MIT | Standalone developer interface and scaffolding tool for combining Rails 8 and p… |
+| 2026-10-31 15:47:56 | [libsql-sequel](https://rubygems.org/gems/libsql-sequel) | 0.3.1 | Francesco Canessa | MIT | Sequel SQL, models, migrations, and transactions using the native libSQL Ruby d… |
+| 2026-10-31 16:12:40 | [condition_coverage](https://rubygems.org/gems/condition_coverage) | 0.0.4 | Jon Jagger | BSD-2-Clause | Records whether each operand of every &&, \|\|, and and or condition was seen bot… |
 
 ## Data source
 
