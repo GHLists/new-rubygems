@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 02:19 UTC
+## Latest list — 2026-10-31 03:19 UTC
 
-New gems created between 2026-10-31 01:18 UTC and 2026-10-31 02:19 UTC.
+New gems created between 2026-10-31 02:19 UTC and 2026-10-31 03:19 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T02-19-52-445019Z.csv)
+[Full CSV](data/new-gems-2026-10-31T03-19-44-102338Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 01:19:21 | [5pm](https://rubygems.org/gems/5pm) | 0.1.0 | Stan Carver II | MIT | Ruby SDK for the 5pm API v2 |
-| 2026-10-31 01:20:17 | [5pm-mcp](https://rubygems.org/gems/5pm-mcp) | 0.1.0 | Stan Carver II | MIT | Least-privilege MCP adapter for the 5pm SDK |
-| 2026-10-31 01:51:36 | [rinru](https://rubygems.org/gems/rinru) | 0.1.3 |  |  | Rinru - Portable self-contained Rust engine. |
+| 2026-10-31 02:28:37 | [metanorma-oiml](https://rubygems.org/gems/metanorma-oiml) | 0.1.0 | OIML | MIT | OIML NISO STS toolkit: Metanorma presentation XML → OIML STS XML transformer, v… |
 
 ## Data source
 

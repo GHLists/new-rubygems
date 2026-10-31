@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-10-31T02:28:37.224Z,metanorma-oiml,0.1.0,62,OIML,MIT,"OIML NISO STS toolkit: Metanorma presentation XML → OIML STS XML transformer, validator, and Schematron rules per OIML X 999:2026."
