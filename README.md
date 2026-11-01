@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 18:20 UTC
+## Latest list — 2026-11-01 19:18 UTC
 
-New gems created between 2026-11-01 17:19 UTC and 2026-11-01 18:20 UTC.
+New gems created between 2026-11-01 18:20 UTC and 2026-11-01 19:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-01T18-20-09-971202Z.csv)
+[Full CSV](data/new-gems-2026-11-01T19-18-26-882939Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-01 17:44:21 | [everlights](https://rubygems.org/gems/everlights) | 0.1.0 | Ricky Chilcott | MIT | Control EverLights permanent lights over the LAN: show colors, manage sequences… |
-| 2026-11-01 17:57:35 | [princecharles_uk](https://rubygems.org/gems/princecharles_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Prince Charles Cinema website |
-| 2026-11-01 18:06:35 | [depot_uk](https://rubygems.org/gems/depot_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Depot cinema in Lewes |
-| 2026-11-01 18:09:11 | [merlin_uk](https://rubygems.org/gems/merlin_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Merlin Cinemas website |
+| 2026-11-01 18:28:48 | [squishling-apple_fm](https://rubygems.org/gems/squishling-apple_fm) | 0.1.0 | Michael Carroll | Apache-2.0 | A Squishling adapter that runs Ruby LLM calls on the Apple Foundation Models on… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-01T18:28:48.825Z,squishling-apple_fm,0.1.0,68,Michael Carroll,Apache-2.0,"A Squishling adapter that runs Ruby LLM calls on the Apple Foundation Models on-device model built into macOS 26 and later (Apple Intelligence): no API key, no network, no cost. Meant for trying Squishling and developing against it locally, then running production on a hosted model. Strict structur…"
