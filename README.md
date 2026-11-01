@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 23:20 UTC
+## Latest list — 2026-11-01 03:20 UTC
 
-New gems created between 2026-10-31 22:20 UTC and 2026-10-31 23:20 UTC.
+New gems created between 2026-11-01 02:19 UTC and 2026-11-01 03:20 UTC.
 
-[Full CSV](data/new-gems-2026-10-31T23-20-23-860808Z.csv)
+[Full CSV](data/new-gems-2026-11-01T03-20-07-27432Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-10-31 22:38:02 | [lunixi-sdk](https://rubygems.org/gems/lunixi-sdk) | 0.1.2 | Lunixi | MIT | Ed25519 request signing, synchronized token caching, payment and fraud clients,… |
-| 2026-10-31 23:05:55 | [fast_rspec](https://rubygems.org/gems/fast_rspec) | 0.0.1 | developerz.ai | MIT | One gem line replaces rspec-rails, factory_bot, faker, vcr, webmock, database_c… |
+| 2026-11-01 02:19:56 | [strutil-core](https://rubygems.org/gems/strutil-core) | 1.0.0 | Mark Tillman | MIT | Lightweight string manipulation helpers: slug, truncate, normalize. |
+| 2026-11-01 02:38:28 | [esp_flash](https://rubygems.org/gems/esp_flash) | 0.1.0 | Yuhei Okazaki | MIT AND (Apache-2.0 OR MIT) | A ROM loader client (with Espressif's flasher stub) and a serial monitor for th… |
 
 ## Data source
 

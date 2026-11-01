@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-01T02:19:56.95Z,strutil-core,1.0.0,81,Mark Tillman,MIT,"Lightweight string manipulation helpers: slug, truncate, normalize."
+2026-11-01T02:38:28.572Z,esp_flash,0.1.0,72,Yuhei Okazaki,MIT AND (Apache-2.0 OR MIT),"A ROM loader client (with Espressif's flasher stub) and a serial monitor for the ESP32 family, in plain Ruby: no esptool, no Python, no C extension, no other gem."
