@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 22:19 UTC
+## Latest list — 2026-11-01 23:20 UTC
 
-New gems created between 2026-11-01 21:19 UTC and 2026-11-01 22:19 UTC.
+New gems created between 2026-11-01 22:19 UTC and 2026-11-01 23:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-01T22-19-38-189281Z.csv)
+[Full CSV](data/new-gems-2026-11-01T23-20-32-931152Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-01 21:29:50 | [apender](https://rubygems.org/gems/apender) | 0.2.0 | Nicolau | MIT | Apender is a lightweight Ruby CLI tool that appends content to files, replaces… |
+| 2026-11-01 22:45:04 | [agdirlabs-email](https://rubygems.org/gems/agdirlabs-email) | 0.1.0 | Agdir AS | MIT | Send transactional email, manage sending domains and webhooks, and verify signe… |
 
 ## Data source
 

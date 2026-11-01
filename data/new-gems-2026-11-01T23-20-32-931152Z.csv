@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-01T22:45:04.947Z,agdirlabs-email,0.1.0,62,Agdir AS,MIT,"Send transactional email, manage sending domains and webhooks, and verify signed webhook events with the Agdir Email API. Includes an ActionMailer / mail gem delivery method. No runtime dependencies."
