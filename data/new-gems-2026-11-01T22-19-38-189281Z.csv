@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-01T21:29:50.615Z,apender,0.2.0,107,Nicolau,MIT,"Apender is a lightweight Ruby CLI tool that appends content to files, replaces specific lines, and adds text to existing lines."

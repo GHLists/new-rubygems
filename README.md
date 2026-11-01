@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 21:19 UTC
+## Latest list — 2026-11-01 22:19 UTC
 
-New gems created between 2026-11-01 20:18 UTC and 2026-11-01 21:19 UTC.
+New gems created between 2026-11-01 21:19 UTC and 2026-11-01 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-01T21-19-38-211923Z.csv)
+[Full CSV](data/new-gems-2026-11-01T22-19-38-189281Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-01 20:21:46 | [zevauth](https://rubygems.org/gems/zevauth) | 0.1.0 | ZevOp Inc. | MIT | Verifies ZevAuth session tokens (RS256, keys fetched and rotated for you), read… |
-| 2026-11-01 21:12:24 | [swarmkit-client](https://rubygems.org/gems/swarmkit-client) | 0.1.0 | Artyom B | Apache-2.0 | Typed requests, responses and streams for all SwarmKit services over verified T… |
+| 2026-11-01 21:29:50 | [apender](https://rubygems.org/gems/apender) | 0.2.0 | Nicolau | MIT | Apender is a lightweight Ruby CLI tool that appends content to files, replaces… |
 
 ## Data source
 
