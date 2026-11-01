@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 09:20 UTC
+## Latest list — 2026-11-01 10:20 UTC
 
-New gems created between 2026-11-01 08:19 UTC and 2026-11-01 09:20 UTC.
+New gems created between 2026-11-01 09:20 UTC and 2026-11-01 10:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-01T09-20-46-105535Z.csv)
+[Full CSV](data/new-gems-2026-11-01T10-20-40-816339Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-01 08:22:55 | [llm-evals](https://rubygems.org/gems/llm-evals) | 0.4.0 | Konstantin Gredeskoul | MIT | Run multi-case evaluation suites against datasets using any model available thr… |
+| 2026-11-01 09:36:06 | [macs-shoaibs-pro17](https://rubygems.org/gems/macs-shoaibs-pro17) | 90002.1 | Shoaib | MIT | A simple gem for demonstration purposes |
 
 ## Data source
 
