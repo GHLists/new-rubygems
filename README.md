@@ -9,23 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 11:20 UTC
+## Latest list — 2026-11-01 12:19 UTC
 
-New gems created between 2026-11-01 10:20 UTC and 2026-11-01 11:20 UTC.
+New gems created between 2026-11-01 11:20 UTC and 2026-11-01 12:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-01T11-20-41-849539Z.csv)
+[Full CSV](data/new-gems-2026-11-01T12-19-11-612963Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-01 10:49:45 | [macs-shoaibs-pro17](https://rubygems.org/gems/macs-shoaibs-pro17) | 90002.2 | Shoaib | MIT | A Ruby utility package published on RubyGems. |
-| 2026-11-01 11:01:01 | [jmespath-ruby](https://rubygems.org/gems/jmespath-ruby) | 0.1.0 | Leonid Svyatov | MIT | Search structured Ruby data with reusable JMESPath expressions. |
-| 2026-11-01 11:14:28 | [deadline_machines](https://rubygems.org/gems/deadline_machines) | 0.1.1 | Abdelkader Boudih | MIT | A monotonic deadline token that derives child budgets, cancels down its tree, a… |
-| 2026-11-01 11:15:09 | [probabilistic_machines](https://rubygems.org/gems/probabilistic_machines) | 0.1.1 | Abdelkader Boudih | MIT | HyperLogLog, Count-Min Sketch, t-digest, cuckoo filter and Space-Saving top-k,… |
-| 2026-11-01 11:15:09 | [probabilistic_machines](https://rubygems.org/gems/probabilistic_machines) | 0.1.1 | Abdelkader Boudih | MIT | HyperLogLog, Count-Min Sketch, t-digest, cuckoo filter and Space-Saving top-k,… |
-| 2026-11-01 11:15:09 | [probabilistic_machines](https://rubygems.org/gems/probabilistic_machines) | 0.1.1 | Abdelkader Boudih | MIT | HyperLogLog, Count-Min Sketch, t-digest, cuckoo filter and Space-Saving top-k,… |
-| 2026-11-01 11:15:09 | [probabilistic_machines](https://rubygems.org/gems/probabilistic_machines) | 0.1.1 | Abdelkader Boudih | MIT | HyperLogLog, Count-Min Sketch, t-digest, cuckoo filter and Space-Saving top-k,… |
-| 2026-11-01 11:15:09 | [probabilistic_machines](https://rubygems.org/gems/probabilistic_machines) | 0.1.1 | Abdelkader Boudih | MIT | HyperLogLog, Count-Min Sketch, t-digest, cuckoo filter and Space-Saving top-k,… |
-| 2026-11-01 11:15:09 | [probabilistic_machines](https://rubygems.org/gems/probabilistic_machines) | 0.1.1 | Abdelkader Boudih | MIT | HyperLogLog, Count-Min Sketch, t-digest, cuckoo filter and Space-Saving top-k,… |
+| 2026-11-01 12:01:08 | [ffi-shout](https://rubygems.org/gems/ffi-shout) | 0.1.0 | Roel van Dijk | MIT | Ruby FFI wrapper around libshout for streaming to Icecast servers. |
+| 2026-11-01 12:02:17 | [merge_machines](https://rubygems.org/gems/merge_machines) | 0.2.0 | Abdelkader Boudih | MIT | Counters, a last-writer-wins register, grow-only and observed-remove sets, and… |
+| 2026-11-01 12:02:17 | [merge_machines](https://rubygems.org/gems/merge_machines) | 0.2.0 | Abdelkader Boudih | MIT | Counters, a last-writer-wins register, grow-only and observed-remove sets, and… |
+| 2026-11-01 12:02:17 | [merge_machines](https://rubygems.org/gems/merge_machines) | 0.2.0 | Abdelkader Boudih | MIT | Counters, a last-writer-wins register, grow-only and observed-remove sets, and… |
+| 2026-11-01 12:02:17 | [merge_machines](https://rubygems.org/gems/merge_machines) | 0.2.0 | Abdelkader Boudih | MIT | Counters, a last-writer-wins register, grow-only and observed-remove sets, and… |
+| 2026-11-01 12:02:17 | [merge_machines](https://rubygems.org/gems/merge_machines) | 0.2.0 | Abdelkader Boudih | MIT | Counters, a last-writer-wins register, grow-only and observed-remove sets, and… |
+| 2026-11-01 12:02:17 | [merge_machines](https://rubygems.org/gems/merge_machines) | 0.2.0 | Abdelkader Boudih | MIT | Counters, a last-writer-wins register, grow-only and observed-remove sets, and… |
 
 ## Data source
 
