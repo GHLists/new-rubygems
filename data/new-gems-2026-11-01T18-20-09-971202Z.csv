@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-01T17:44:21.366Z,everlights,0.1.0,57,Ricky Chilcott,MIT,"Control EverLights permanent lights over the LAN: show colors, manage sequences, and schedule shows ahead on the bridge's calendar. Unofficial; stdlib only."
+2026-11-01T17:57:35.607Z,princecharles_uk,1.0.0,56,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Prince Charles Cinema website
+2026-11-01T18:06:35.162Z,depot_uk,1.0.0,31,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Depot cinema in Lewes
+2026-11-01T18:09:11.747Z,merlin_uk,1.0.0,24,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Merlin Cinemas website
