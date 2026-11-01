@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 03:20 UTC
+## Latest list — 2026-11-01 04:20 UTC
 
-New gems created between 2026-11-01 02:19 UTC and 2026-11-01 03:20 UTC.
+New gems created between 2026-11-01 03:20 UTC and 2026-11-01 04:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-01T03-20-07-27432Z.csv)
+[Full CSV](data/new-gems-2026-11-01T04-20-15-729869Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-01 02:19:56 | [strutil-core](https://rubygems.org/gems/strutil-core) | 1.0.0 | Mark Tillman | MIT | Lightweight string manipulation helpers: slug, truncate, normalize. |
-| 2026-11-01 02:38:28 | [esp_flash](https://rubygems.org/gems/esp_flash) | 0.1.0 | Yuhei Okazaki | MIT AND (Apache-2.0 OR MIT) | A ROM loader client (with Espressif's flasher stub) and a serial monitor for th… |
+| 2026-11-01 03:38:11 | [roma-storage-groonga](https://rubygems.org/gems/roma-storage-groonga) | 0.1.0 | Tatsuya Sato |  | Groonga Storage for Roma Server. |
+| 2026-11-01 03:41:24 | [relaton-api](https://rubygems.org/gems/relaton-api) | 3.0.1 | Ribose Inc. | BSD-2-Clause | Config-driven Relaton API server over a dataset directory. |
+| 2026-11-01 04:05:04 | [strutil-core](https://rubygems.org/gems/strutil-core) | 1.0.1 | Mark Tillman | MIT | Lightweight string manipulation helpers: slug, truncate, normalize. |
 
 ## Data source
 

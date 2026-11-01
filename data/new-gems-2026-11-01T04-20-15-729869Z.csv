@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-01T03:38:11.594Z,roma-storage-groonga,0.1.0,62,Tatsuya Sato,,Groonga Storage for Roma Server.
+2026-11-01T03:41:24.051Z,relaton-api,3.0.1,112,Ribose Inc.,BSD-2-Clause,Config-driven Relaton API server over a dataset directory.
+2026-11-01T04:05:04.618Z,strutil-core,1.0.1,74,Mark Tillman,MIT,"Lightweight string manipulation helpers: slug, truncate, normalize."
