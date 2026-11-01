@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-01T20:21:46.082Z,zevauth,0.1.0,75,ZevOp Inc.,MIT,"Verifies ZevAuth session tokens (RS256, keys fetched and rotated for you), reads who is signed in from a bearer token or the session-bridge cookie, calls the ZevAuth backend API with your secret key, and checks webhook signatures. Includes Rack middleware and an optional Rails engine."
+2026-11-01T21:12:24.537Z,swarmkit-client,0.1.0,9,Artyom B,Apache-2.0,"Typed requests, responses and streams for all SwarmKit services over verified TLS."
