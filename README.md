@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 19:18 UTC
+## Latest list — 2026-11-01 20:18 UTC
 
-New gems created between 2026-11-01 18:20 UTC and 2026-11-01 19:18 UTC.
+New gems created between 2026-11-01 19:18 UTC and 2026-11-01 20:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-01T19-18-26-882939Z.csv)
+[Full CSV](data/new-gems-2026-11-01T20-18-31-757892Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-01 18:28:48 | [squishling-apple_fm](https://rubygems.org/gems/squishling-apple_fm) | 0.1.0 | Michael Carroll | Apache-2.0 | A Squishling adapter that runs Ruby LLM calls on the Apple Foundation Models on… |
+| 2026-11-01 20:04:49 | [apender](https://rubygems.org/gems/apender) | 0.1.0 | Nicolau | MIT | Add content on the next line of a file |
 
 ## Data source
 
