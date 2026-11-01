@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 08:19 UTC
+## Latest list — 2026-11-01 09:20 UTC
 
-New gems created between 2026-11-01 07:20 UTC and 2026-11-01 08:19 UTC.
+New gems created between 2026-11-01 08:19 UTC and 2026-11-01 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-01T08-19-41-121625Z.csv)
+[Full CSV](data/new-gems-2026-11-01T09-20-46-105535Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-01 07:38:11 | [slimx](https://rubygems.org/gems/slimx) | 0.1.1 | Clément Joubert | MIT | A Slim template engine rewritten from scratch, without Temple: same HTML as Sli… |
+| 2026-11-01 08:22:55 | [llm-evals](https://rubygems.org/gems/llm-evals) | 0.4.0 | Konstantin Gredeskoul | MIT | Run multi-case evaluation suites against datasets using any model available thr… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-01T08:22:55.992Z,llm-evals,0.4.0,144,Konstantin Gredeskoul,MIT,"Run multi-case evaluation suites against datasets using any model available through OpenRouter or the direct Jev adapter. Write an adapter that calls your application and a Scorer that measures the outcomes you care about. Compare models, or track how prompt and parameter changes affect results. Co…"
