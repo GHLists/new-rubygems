@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 05:21 UTC
+## Latest list — 2026-11-02 07:20 UTC
 
-New gems created between 2026-11-02 04:19 UTC and 2026-11-02 05:21 UTC.
+New gems created between 2026-11-02 06:18 UTC and 2026-11-02 07:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-02T05-21-13-612287Z.csv)
+[Full CSV](data/new-gems-2026-11-02T07-20-14-232369Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-02 04:56:13 | [amath](https://rubygems.org/gems/amath) | 0.1.0 | Ribose Inc. | BSD-2-Clause | AsciiMath parser that runs a compiled Parsanol grammar artifact and returns a p… |
+| 2026-11-02 06:48:50 | [fengshuibedroom-url-tools](https://rubygems.org/gems/fengshuibedroom-url-tools) | 0.1.0 | wangneo276-lgtm | MIT | Upload a bedroom photo for an AI feng shui bedroom check: bed position, door li… |
 
 ## Data source
 
