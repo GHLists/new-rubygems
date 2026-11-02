@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 14:18 UTC
+## Latest list — 2026-11-02 15:21 UTC
 
-New gems created between 2026-11-02 13:20 UTC and 2026-11-02 14:18 UTC.
+New gems created between 2026-11-02 14:18 UTC and 2026-11-02 15:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-02T14-18-53-007904Z.csv)
+[Full CSV](data/new-gems-2026-11-02T15-21-27-229871Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-02 14:11:20 | [prawnx](https://rubygems.org/gems/prawnx) | 0.1.0 | Clément Joubert | Nonstandard; GPL-2.0-only; GP… | Prawn's API, rewritten for speed: same pages, lighter files |
+| 2026-11-02 14:30:46 | [prawnx](https://rubygems.org/gems/prawnx) | 0.1.1 | Clément Joubert | Nonstandard; GPL-2.0-only; GP… | Prawn's API, rewritten for speed: same pages, lighter files |
 
 ## Data source
 
