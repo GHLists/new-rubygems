@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-02T20:32:57.106Z,madmin_inertia,0.1.0,63,Seth Horsley,MIT,Inertia + React rendering for Madmin resources
+2026-11-02T20:56:52.025Z,path_coverage,0.0.2,43,Jon Jagger,BSD-2-Clause,"Records which paths each condition and each method took, and reports the paths never taken in the terminal and as HTML."
+2026-11-02T21:06:04.501Z,prawnx,0.1.2,31,Clément Joubert,Nonstandard; GPL-2.0-only; GPL-3.0-only,"Prawn's API, rewritten for speed: same pages, lighter files"
+2026-11-02T21:10:17.956Z,mtncloud-cli,1.0.0,10,"Joshua Ukpozi, Joseph Henry, MTN Cloud",MIT,Cloud application management & orchestration CLI for MTN Cloud. Easily manage and orchestrate VMs on private or public infrastructure and containerized architectures.
