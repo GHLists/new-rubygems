@@ -9,15 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 08:19 UTC
+## Latest list — 2026-11-02 09:21 UTC
 
-New gems created between 2026-11-02 07:20 UTC and 2026-11-02 08:19 UTC.
+New gems created between 2026-11-02 08:19 UTC and 2026-11-02 09:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-02T08-19-33-688165Z.csv)
+[Full CSV](data/new-gems-2026-11-02T09-21-23-223104Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-02 08:14:59 | [respondo-grpc](https://rubygems.org/gems/respondo-grpc) | 1.0.0 | shailendra Kumar | Apache-2.0 | RespondoGrpc standardizes the responses your gRPC services send. Every rpc can… |
+| 2026-11-02 08:31:47 | [rogue_machines](https://rubygems.org/gems/rogue_machines) | 0.1.2 | Abdelkader Boudih | MIT | Fault injection for chaos engineering: arms a named experiment that makes a dep… |
+| 2026-11-02 08:31:47 | [rogue_machines](https://rubygems.org/gems/rogue_machines) | 0.1.2 | Abdelkader Boudih | MIT | Fault injection for chaos engineering: arms a named experiment that makes a dep… |
+| 2026-11-02 08:31:47 | [rogue_machines](https://rubygems.org/gems/rogue_machines) | 0.1.2 | Abdelkader Boudih | MIT | Fault injection for chaos engineering: arms a named experiment that makes a dep… |
+| 2026-11-02 08:31:47 | [rogue_machines](https://rubygems.org/gems/rogue_machines) | 0.1.2 | Abdelkader Boudih | MIT | Fault injection for chaos engineering: arms a named experiment that makes a dep… |
+| 2026-11-02 08:31:47 | [rogue_machines](https://rubygems.org/gems/rogue_machines) | 0.1.2 | Abdelkader Boudih | MIT | Fault injection for chaos engineering: arms a named experiment that makes a dep… |
+| 2026-11-02 08:31:47 | [rogue_machines](https://rubygems.org/gems/rogue_machines) | 0.1.2 | Abdelkader Boudih | MIT | Fault injection for chaos engineering: arms a named experiment that makes a dep… |
+| 2026-11-02 09:07:39 | [watershed_uk](https://rubygems.org/gems/watershed_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Watershed cinema in Bristol |
+| 2026-11-02 09:07:55 | [gft_uk](https://rubygems.org/gems/gft_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Glasgow Film Theatre website |
+| 2026-11-02 09:09:28 | [rio_uk](https://rubygems.org/gems/rio_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the Rio Cinema website |
+| 2026-11-02 09:12:49 | [png-alpha-benchmark-toolkit](https://rubygems.org/gems/png-alpha-benchmark-toolkit) | 1.0.2 | Islam Gamal | MIT | Open-source engineering benchmark suite evaluating lossless PNG (ISO/IEC 15948)… |
+| 2026-11-02 09:14:39 | [shoaib-unity](https://rubygems.org/gems/shoaib-unity) | 1.0.1 | Shoaib | MIT | A simple gem for demonstration purposes |
+| 2026-11-02 09:16:46 | [wtw_uk](https://rubygems.org/gems/wtw_uk) | 1.0.0 | Andy Croll | AGPL; MIT | Pull movie & cinema information from the WTW Cinemas website |
 
 ## Data source
 
