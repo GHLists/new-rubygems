@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-02T04:56:13.128Z,amath,0.1.0,53,Ribose Inc.,BSD-2-Clause,AsciiMath parser that runs a compiled Parsanol grammar artifact and returns a parse tree. Used by Plurimath.
