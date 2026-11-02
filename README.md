@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 00:18 UTC
+## Latest list — 2026-11-02 02:20 UTC
 
-New gems created between 2026-11-01 23:20 UTC and 2026-11-02 00:18 UTC.
+New gems created between 2026-11-02 01:18 UTC and 2026-11-02 02:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-02T00-18-19-476079Z.csv)
+[Full CSV](data/new-gems-2026-11-02T02-20-21-468273Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-01 23:48:28 | [everlights](https://rubygems.org/gems/everlights) | 0.1.1 | Ricky Chilcott | MIT | Control EverLights permanent lights over the LAN: show colors, manage sequences… |
+| 2026-11-02 01:53:48 | [trevol](https://rubygems.org/gems/trevol) | 0.1.0 | Joshua Montclair (Trevol) | MIT | Cliente de la API de Trevol: Idempotency-Key automática, reintentos con espera… |
 
 ## Data source
 

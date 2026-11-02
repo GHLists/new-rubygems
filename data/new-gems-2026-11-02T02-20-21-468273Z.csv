@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-02T01:53:48.356Z,trevol,0.1.0,45,Joshua Montclair (Trevol),MIT,"Cliente de la API de Trevol: Idempotency-Key automática, reintentos con espera creciente, errores tipados, entorno deducido de la llave, paginación con iteradores, descargas de PDF/XML/ZIP y verificación de webhooks (Standard Webhooks)."
