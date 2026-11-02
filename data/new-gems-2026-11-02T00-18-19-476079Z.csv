@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-01T23:48:28.898Z,everlights,0.1.1,71,Ricky Chilcott,MIT,"Control EverLights permanent lights over the LAN: show colors, manage sequences, and schedule shows ahead on the bridge's calendar. Unofficial; stdlib only."
