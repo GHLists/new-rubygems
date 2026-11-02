@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 12:20 UTC
+## Latest list — 2026-11-02 14:18 UTC
 
-New gems created between 2026-11-02 11:19 UTC and 2026-11-02 12:20 UTC.
+New gems created between 2026-11-02 13:20 UTC and 2026-11-02 14:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-02T12-20-25-558638Z.csv)
+[Full CSV](data/new-gems-2026-11-02T14-18-53-007904Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-02 11:41:52 | [permissify-rb](https://rubygems.org/gems/permissify-rb) | 0.5.0 | StockLive | MIT | Permissify answers `actor.can?(:action, resource)` by evaluating small named fa… |
+| 2026-11-02 14:11:20 | [prawnx](https://rubygems.org/gems/prawnx) | 0.1.0 | Clément Joubert | Nonstandard; GPL-2.0-only; GP… | Prawn's API, rewritten for speed: same pages, lighter files |
 
 ## Data source
 
