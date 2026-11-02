@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-02T15:24:15.294Z,gitlab-diff,0.0.0,61,GitLab,MIT,This version only reserves the name. Requiring it raises an error.
+2026-11-02T15:25:15.613Z,openfeature-otel-hook,0.1.3,61,OpenFeature Contributors,Apache-2.0,Traces and metrics hooks that emit OpenTelemetry signals for OpenFeature flag evaluations
+2026-11-02T16:18:20.28Z,gitlab-git2,0.0.0,0,GitLab,MIT,This version only reserves the name. Requiring it raises an error.
