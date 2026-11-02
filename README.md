@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 11:19 UTC
+## Latest list — 2026-11-02 12:20 UTC
 
-New gems created between 2026-11-02 10:20 UTC and 2026-11-02 11:19 UTC.
+New gems created between 2026-11-02 11:19 UTC and 2026-11-02 12:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-02T11-19-46-488918Z.csv)
+[Full CSV](data/new-gems-2026-11-02T12-20-25-558638Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-02 11:08:00 | [recapi](https://rubygems.org/gems/recapi) | 0.1.3 | recapi | MIT | Ruby client for the recapi recommendation API: per-user history, event batching… |
+| 2026-11-02 11:41:52 | [permissify-rb](https://rubygems.org/gems/permissify-rb) | 0.5.0 | StockLive | MIT | Permissify answers `actor.can?(:action, resource)` by evaluating small named fa… |
 
 ## Data source
 

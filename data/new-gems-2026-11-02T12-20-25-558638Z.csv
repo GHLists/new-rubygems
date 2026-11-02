@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-02T11:41:52.57Z,permissify-rb,0.5.0,58,StockLive,MIT,"Permissify answers `actor.can?(:action, resource)` by evaluating small named facts and permissions registered at boot, and returns a structured Decision. The core depends only on the Ruby standard library; Rails and Predicate are optional adapters loaded when their host constants are available. API…"
