@@ -9,17 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 16:20 UTC
+## Latest list — 2026-11-02 17:20 UTC
 
-New gems created between 2026-11-02 15:21 UTC and 2026-11-02 16:20 UTC.
+New gems created between 2026-11-02 16:20 UTC and 2026-11-02 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-02T16-20-18-949819Z.csv)
+[Full CSV](data/new-gems-2026-11-02T17-20-29-261747Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-02 15:24:15 | [gitlab-diff](https://rubygems.org/gems/gitlab-diff) | 0.0.0 | GitLab | MIT | This version only reserves the name. Requiring it raises an error. |
-| 2026-11-02 15:25:15 | [openfeature-otel-hook](https://rubygems.org/gems/openfeature-otel-hook) | 0.1.3 | OpenFeature Contributors | Apache-2.0 | Traces and metrics hooks that emit OpenTelemetry signals for OpenFeature flag e… |
-| 2026-11-02 16:18:20 | [gitlab-git2](https://rubygems.org/gems/gitlab-git2) | 0.0.0 | GitLab | MIT | This version only reserves the name. Requiring it raises an error. |
+| 2026-11-02 16:39:31 | [rails-atlas](https://rubygems.org/gems/rails-atlas) | 0.1.0 | Bosse Schumacher | MIT | Analyze Rails models, associations, dependencies, and architecture through CLI… |
+| 2026-11-02 16:50:02 | [actionmodelcontext](https://rubygems.org/gems/actionmodelcontext) | 2026.11.02.161253 | Jonathan PHILIPPE | MIT | Tools, resources and prompts as plain Ruby classes under app/mcp, discovered by… |
+| 2026-11-02 16:54:27 | [typemap](https://rubygems.org/gems/typemap) | 0.1.0 | Martin Vysny | MIT | Typemap maps a Hash — a parsed TOML, JSON or YAML file — onto an ordinary Ruby… |
+| 2026-11-02 17:01:35 | [invoist](https://rubygems.org/gems/invoist) | 1.0.0 | Invoist | MIT | Send Invoist an invoice, receipt or bill and get its details back as data: send… |
+| 2026-11-02 17:03:50 | [verify_human](https://rubygems.org/gems/verify_human) | 0.1.5 | Marc Köhlbrugge | MIT | verify_human class macro, human_verification_tag view helper, and a Turbo-safe… |
+| 2026-11-02 17:09:28 | [apiverve_currencyrate](https://rubygems.org/gems/apiverve_currencyrate) | 1.2.4 | APIVerve | MIT | Currency Rate returns one currency's live value in US dollars or any other base… |
 
 ## Data source
 
