@@ -1,0 +1,13 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-02T09:26:42.745Z,spektrix_uk,1.0.1,76,Andy Croll,AGPL; MIT,Pull movie & cinema information from UK independent cinemas that use Spektrix
+2026-11-02T09:26:47.176Z,scott_uk,1.0.1,85,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Scott Cinemas website
+2026-11-02T09:27:14.367Z,rio_uk,1.0.1,84,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Rio Cinema website
+2026-11-02T09:27:54.175Z,omniplex_uk,1.0.1,80,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Omniplex Cinemas website
+2026-11-02T09:29:08.988Z,merlin_uk,1.0.1,85,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Merlin Cinemas website
+2026-11-02T09:29:48.396Z,gft_uk,1.0.1,75,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Glasgow Film Theatre website
+2026-11-02T09:30:36.702Z,watershed_uk,1.0.1,80,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Watershed cinema in Bristol
+2026-11-02T09:31:35.793Z,depot_uk,1.0.1,83,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Depot cinema in Lewes
+2026-11-02T09:41:41.529Z,reel_uk,1.0.1,66,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Reel Cinemas website
+2026-11-02T09:42:05.142Z,wtw_uk,1.0.1,74,Andy Croll,AGPL; MIT,Pull movie & cinema information from the WTW Cinemas website
+2026-11-02T09:43:03.165Z,princecharles_uk,1.0.1,68,Andy Croll,AGPL; MIT,Pull movie & cinema information from the Prince Charles Cinema website
+2026-11-02T10:19:47.03Z,intercom-react-native-example-e2e-tests,1.0.1,0,Shoaib,MIT,A simple gem for demonstration purposes
