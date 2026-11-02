@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 07:20 UTC
+## Latest list — 2026-11-02 08:19 UTC
 
-New gems created between 2026-11-02 06:18 UTC and 2026-11-02 07:20 UTC.
+New gems created between 2026-11-02 07:20 UTC and 2026-11-02 08:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-02T07-20-14-232369Z.csv)
+[Full CSV](data/new-gems-2026-11-02T08-19-33-688165Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-02 06:48:50 | [fengshuibedroom-url-tools](https://rubygems.org/gems/fengshuibedroom-url-tools) | 0.1.0 | wangneo276-lgtm | MIT | Upload a bedroom photo for an AI feng shui bedroom check: bed position, door li… |
+| 2026-11-02 08:14:59 | [respondo-grpc](https://rubygems.org/gems/respondo-grpc) | 1.0.0 | shailendra Kumar | Apache-2.0 | RespondoGrpc standardizes the responses your gRPC services send. Every rpc can… |
 
 ## Data source
 

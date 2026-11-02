@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-02T08:14:59.253Z,respondo-grpc,1.0.0,0,shailendra Kumar,Apache-2.0,"RespondoGrpc standardizes the responses your gRPC services send. Every rpc can return one protobuf envelope (respondo.v1.Response: success, message, data, errors, meta), built from the same expressive helpers as its siblings (render_grpc_ok, render_grpc_not_found, render_grpc_unprocessable, ...). F…"
