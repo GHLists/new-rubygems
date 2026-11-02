@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 21:20 UTC
+## Latest list — 2026-11-02 22:19 UTC
 
-New gems created between 2026-11-02 20:20 UTC and 2026-11-02 21:20 UTC.
+New gems created between 2026-11-02 21:20 UTC and 2026-11-02 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-02T21-20-01-861877Z.csv)
+[Full CSV](data/new-gems-2026-11-02T22-19-41-856939Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-02 20:32:57 | [madmin_inertia](https://rubygems.org/gems/madmin_inertia) | 0.1.0 | Seth Horsley | MIT | Inertia + React rendering for Madmin resources |
-| 2026-11-02 20:56:52 | [path_coverage](https://rubygems.org/gems/path_coverage) | 0.0.2 | Jon Jagger | BSD-2-Clause | Records which paths each condition and each method took, and reports the paths… |
-| 2026-11-02 21:06:04 | [prawnx](https://rubygems.org/gems/prawnx) | 0.1.2 | Clément Joubert | Nonstandard; GPL-2.0-only; GP… | Prawn's API, rewritten for speed: same pages, lighter files |
-| 2026-11-02 21:10:17 | [mtncloud-cli](https://rubygems.org/gems/mtncloud-cli) | 1.0.0 | Joshua Ukpozi, Joseph Henry,… | MIT | Cloud application management & orchestration CLI for MTN Cloud. Easily manage a… |
+| 2026-11-02 21:27:17 | [nokodown](https://rubygems.org/gems/nokodown) | 0.1.0 | SerpApi | Apache-2.0 | Extracts the main content of articles, listings, product pages, docs and every… |
+| 2026-11-02 21:49:24 | [ecoportal-scim](https://rubygems.org/gems/ecoportal-scim) | 0.1.0 | Oscar Segura | MIT | Ruby client implementation for ecoPortal SCIM |
+| 2026-11-02 21:49:31 | [mtncloud-cli](https://rubygems.org/gems/mtncloud-cli) | 1.0.2 | Joseph Henry, Joshua Ukpozi,… | MIT | Cloud application management & orchestration CLI for MTN Cloud. Easily manage a… |
 
 ## Data source
 

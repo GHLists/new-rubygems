@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-02T21:27:17.488Z,nokodown,0.1.0,62,SerpApi,Apache-2.0,"Extracts the main content of articles, listings, product pages, docs and every other kind of web page as Markdown, with Readability-style metadata. Built on Nokolexbor."
+2026-11-02T21:49:24.91Z,ecoportal-scim,0.1.0,55,Oscar Segura,MIT,Ruby client implementation for ecoPortal SCIM
+2026-11-02T21:49:31.648Z,mtncloud-cli,1.0.2,116,"Joseph Henry, Joshua Ukpozi, MTN Cloud",MIT,Cloud application management & orchestration CLI for MTN Cloud. Easily manage and orchestrate VMs on private or public infrastructure and containerized architectures.
