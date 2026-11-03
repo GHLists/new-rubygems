@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-03T21:46:02.06Z,rexpat,0.8.0,59,"吉田正人, gemmaro",MIT; Ruby,This is a XML parser library binding (Ruby's C API extension) using the Expat C library.
