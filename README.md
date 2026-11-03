@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 22:20 UTC
+## Latest list — 2026-11-03 23:19 UTC
 
-New gems created between 2026-11-03 21:18 UTC and 2026-11-03 22:20 UTC.
+New gems created between 2026-11-03 22:20 UTC and 2026-11-03 23:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-03T22-20-27-865213Z.csv)
+[Full CSV](data/new-gems-2026-11-03T23-19-01-381098Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-03 21:46:02 | [rexpat](https://rubygems.org/gems/rexpat) | 0.8.0 | 吉田正人, gemmaro | MIT; Ruby | This is a XML parser library binding (Ruby's C API extension) using the Expat C… |
+| 2026-11-03 23:00:21 | [coolbelt](https://rubygems.org/gems/coolbelt) | 0.1.0 | Anton Katunin | MIT | A personal collection of useful extensions for Ruby and Rails |
 
 ## Data source
 
