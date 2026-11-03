@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 08:20 UTC
+## Latest list — 2026-11-03 09:21 UTC
 
-New gems created between 2026-11-03 07:21 UTC and 2026-11-03 08:20 UTC.
+New gems created between 2026-11-03 08:20 UTC and 2026-11-03 09:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-03T08-20-51-732737Z.csv)
+[Full CSV](data/new-gems-2026-11-03T09-21-49-184046Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-03 07:39:08 | [sorbet_typed-generic_bounds](https://rubygems.org/gems/sorbet_typed-generic_bounds) | 0.1.0 | Richard Kramer | GPL-3.0-or-later | Runtime access to the bounds of Sorbet generics. |
-| 2026-11-03 08:08:49 | [hemant_awesome_gem](https://rubygems.org/gems/hemant_awesome_gem) | 0.1.0 | Hemant Jha | MIT | A longer description explaining features and usage in detail. |
+| 2026-11-03 08:48:50 | [brida-frida-hooks](https://rubygems.org/gems/brida-frida-hooks) | 1.0.1 | Shoaib | MIT | A simple gem for demonstration purposes |
 
 ## Data source
 
