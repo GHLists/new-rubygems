@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-03T18:20:41.734Z,coworkingview,0.1.0,72,CoworkingView,MIT,"Ruby client for the public CoworkingView API (https://api.coworkingview.com). It reads the CoworkingView Price Index — median, 25th and 75th percentile prices by city and product, with the sample size beside every figure — and searches the coworking catalogue. No API key. The Price Index is CC BY 4…"
+2026-11-03T18:56:09.781Z,onc_certification_g31_test_kit,1.0.0,38,Inferno Team,Apache-2.0,ONC Certification (g)(31) Coverage Requirements Discovery API Test Kit
