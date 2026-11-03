@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-03T07:09:26.092Z,kosa8,0.1.2,17,kosa8,MIT,"Typed client for the kosa8 daemon: sandboxes, run/exec streams, snapshots, fork, best-of-N explore and checkpoints shared with the kosa8 CLI. No dependencies."

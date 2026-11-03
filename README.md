@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 06:19 UTC
+## Latest list — 2026-11-03 07:21 UTC
 
-New gems created between 2026-11-03 05:20 UTC and 2026-11-03 06:19 UTC.
+New gems created between 2026-11-03 06:19 UTC and 2026-11-03 07:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-03T06-19-48-232739Z.csv)
+[Full CSV](data/new-gems-2026-11-03T07-21-38-512573Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-03 06:00:09 | [kosa8](https://rubygems.org/gems/kosa8) | 0.1.0 | kosa8 | MIT | Typed client for the kosa8 daemon: sandboxes, run/exec streams, snapshots, fork… |
+| 2026-11-03 07:09:26 | [kosa8](https://rubygems.org/gems/kosa8) | 0.1.2 | kosa8 | MIT | Typed client for the kosa8 daemon: sandboxes, run/exec streams, snapshots, fork… |
 
 ## Data source
 
