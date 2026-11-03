@@ -9,26 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 02:19 UTC
+## Latest list — 2026-11-03 03:19 UTC
 
-New gems created between 2026-11-03 01:19 UTC and 2026-11-03 02:19 UTC.
+New gems created between 2026-11-03 02:19 UTC and 2026-11-03 03:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-03T02-19-32-438267Z.csv)
+[Full CSV](data/new-gems-2026-11-03T03-19-06-769377Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-03 01:28:07 | [soup3](https://rubygems.org/gems/soup3) | 1.0.0 | Nathan Kidd | Apache-2.0 | libsoup 3 for Ruby, defined from its GObject Introspection typelib at require t… |
-| 2026-11-03 01:28:40 | [glycin](https://rubygems.org/gems/glycin) | 1.0.0 | Nathan Kidd | Apache-2.0 | Glycin, sandboxed image loading for GNOME, for Ruby. Defined from its GObject I… |
-| 2026-11-03 01:29:31 | [gudev](https://rubygems.org/gems/gudev) | 1.0.0 | Nathan Kidd | Apache-2.0 | GUdev, GLib bindings for libudev device enumeration, for Ruby. Defined from its… |
-| 2026-11-03 01:31:54 | [polkit](https://rubygems.org/gems/polkit) | 1.0.0 | Nathan Kidd | Apache-2.0 | Polkit, asking whether an unprivileged process may do a privileged thing, for R… |
-| 2026-11-03 01:32:55 | [flatpak](https://rubygems.org/gems/flatpak) | 1.0.0 | Nathan Kidd | Apache-2.0 | Libflatpak, querying and managing Flatpak installations, for Ruby. Defined from… |
-| 2026-11-03 01:33:40 | [libgweather](https://rubygems.org/gems/libgweather) | 1.0.0 | Nathan Kidd | Apache-2.0 | Libgweather, locations and weather for GNOME, for Ruby. Defined from its GObjec… |
-| 2026-11-03 01:35:21 | [libshumate](https://rubygems.org/gems/libshumate) | 1.0.0 | Nathan Kidd | Apache-2.0 | Libshumate, the GTK4 map widget, for Ruby. Defined from its GObject Introspecti… |
-| 2026-11-03 01:35:56 | [libspelling](https://rubygems.org/gems/libspelling) | 1.0.0 | Nathan Kidd | Apache-2.0 | libspelling for Ruby -- the spell checker GNOME Text Editor and Builder use: di… |
-| 2026-11-03 01:36:32 | [gnome_desktop](https://rubygems.org/gems/gnome_desktop) | 1.0.0 | Nathan Kidd | Apache-2.0 | The GNOME Utility Library: thumbnails, idle monitoring and desktop metadata, fo… |
-| 2026-11-03 01:37:08 | [gstreamer_pbutils](https://rubygems.org/gems/gstreamer_pbutils) | 1.0.0 | Nathan Kidd | Apache-2.0 | GStreamer Base Utils: discoverer, encoding profiles and codec descriptions, for… |
-| 2026-11-03 01:37:51 | [gstreamer_play](https://rubygems.org/gems/gstreamer_play) | 1.0.0 | Nathan Kidd | Apache-2.0 | GstPlay for Ruby, defined from its GObject Introspection typelib at require tim… |
-| 2026-11-03 01:42:56 | [goa-rb](https://rubygems.org/gems/goa-rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | GNOME Online Accounts, the user's configured accounts and their credentials, fo… |
+| 2026-11-03 02:30:08 | [workout_menu](https://rubygems.org/gems/workout_menu) | 0.1.0 | T-REX1996 | MIT | workout_menu suggests a workout menu by body part and place, so you can decide… |
+| 2026-11-03 03:07:23 | [ashpd](https://rubygems.org/gems/ashpd) | 0.1.1 | Nathan Kidd | Apache-2.0 | The XDG desktop portals for Ruby, over the ashpd crate. Screenshots, file choos… |
+| 2026-11-03 03:07:23 | [ashpd](https://rubygems.org/gems/ashpd) | 0.1.1 | Nathan Kidd | Apache-2.0 | The XDG desktop portals for Ruby, over the ashpd crate. Screenshots, file choos… |
+| 2026-11-03 03:07:23 | [ashpd](https://rubygems.org/gems/ashpd) | 0.1.1 | Nathan Kidd | Apache-2.0 | The XDG desktop portals for Ruby, over the ashpd crate. Screenshots, file choos… |
+| 2026-11-03 03:07:23 | [ashpd](https://rubygems.org/gems/ashpd) | 0.1.1 | Nathan Kidd | Apache-2.0 | The XDG desktop portals for Ruby, over the ashpd crate. Screenshots, file choos… |
+| 2026-11-03 03:07:23 | [ashpd](https://rubygems.org/gems/ashpd) | 0.1.1 | Nathan Kidd | Apache-2.0 | The XDG desktop portals for Ruby, over the ashpd crate. Screenshots, file choos… |
+| 2026-11-03 03:07:23 | [ashpd](https://rubygems.org/gems/ashpd) | 0.1.1 | Nathan Kidd | Apache-2.0 | The XDG desktop portals for Ruby, over the ashpd crate. Screenshots, file choos… |
+| 2026-11-03 03:07:23 | [ashpd](https://rubygems.org/gems/ashpd) | 0.1.1 | Nathan Kidd | Apache-2.0 | The XDG desktop portals for Ruby, over the ashpd crate. Screenshots, file choos… |
+| 2026-11-03 03:07:23 | [ashpd](https://rubygems.org/gems/ashpd) | 0.1.1 | Nathan Kidd | Apache-2.0 | The XDG desktop portals for Ruby, over the ashpd crate. Screenshots, file choos… |
+| 2026-11-03 03:07:23 | [ashpd](https://rubygems.org/gems/ashpd) | 0.1.1 | Nathan Kidd | Apache-2.0 | The XDG desktop portals for Ruby, over the ashpd crate. Screenshots, file choos… |
+| 2026-11-03 03:16:38 | [libglycin-gtk4](https://rubygems.org/gems/libglycin-gtk4) | 1.0.0 | Nathan Kidd | Apache-2.0 | The GTK4 integration for glycin, turning a decoded image into a GdkTexture, for… |
+| 2026-11-03 03:16:54 | [tsparql](https://rubygems.org/gems/tsparql) | 1.0.0 | Nathan Kidd | Apache-2.0 | TinySPARQL, the RDF store and SPARQL endpoint GNOME indexes content with, for R… |
+| 2026-11-03 03:17:11 | [gcr-rb](https://rubygems.org/gems/gcr-rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | GCR, handling certificates, keys and the PKCS#11 modules they live in, for Ruby… |
+| 2026-11-03 03:17:30 | [edataserver](https://rubygems.org/gems/edataserver) | 1.0.0 | Nathan Kidd | Apache-2.0 | Evolution Data Server, the address books and calendars GNOME applications share… |
+| 2026-11-03 03:17:41 | [libgtop](https://rubygems.org/gems/libgtop) | 1.0.0 | Nathan Kidd | Apache-2.0 | Libgtop, reading process and system statistics portably, for Ruby. Defined from… |
+| 2026-11-03 03:17:52 | [geocode-glib](https://rubygems.org/gems/geocode-glib) | 1.0.0 | Nathan Kidd | Apache-2.0 | Geocode-glib, forward and reverse geocoding over Nominatim, for Ruby. Defined f… |
+| 2026-11-03 03:18:06 | [udisks](https://rubygems.org/gems/udisks) | 1.0.0 | Nathan Kidd | Apache-2.0 | UDisks, enumerating and managing block devices over D-Bus, for Ruby. Defined fr… |
+| 2026-11-03 03:18:17 | [appstream](https://rubygems.org/gems/appstream) | 1.0.0 | Nathan Kidd | Apache-2.0 | AppStream, the software metadata catalogue software centres are built on, for R… |
+| 2026-11-03 03:18:30 | [colord](https://rubygems.org/gems/colord) | 1.0.0 | Nathan Kidd | Apache-2.0 | Colord, colour device and ICC profile management, for Ruby. Defined from its GO… |
+| 2026-11-03 03:18:44 | [ibus](https://rubygems.org/gems/ibus) | 1.0.0 | Nathan Kidd | Apache-2.0 | IBus, the input method framework, for Ruby. Defined from its GObject Introspect… |
+| 2026-11-03 03:19:00 | [webkit-web-process-extension](https://rubygems.org/gems/webkit-web-process-extension) | 1.0.0 | Nathan Kidd | Apache-2.0 | The WebKit 6.0 web process extension API, for Ruby. Defined from its GObject In… |
 
 ## Data source
 
