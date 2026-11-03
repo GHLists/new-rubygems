@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-03T13:17:29.857Z,astroturf,0.1.0,0,Jeff Lunt,MIT,Astroturf generates combinatorial synthetic data graphs in memory from declarative YAML matrix specifications.

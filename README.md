@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 11:18 UTC
+## Latest list — 2026-11-03 13:19 UTC
 
-New gems created between 2026-11-03 10:20 UTC and 2026-11-03 11:18 UTC.
+New gems created between 2026-11-03 12:21 UTC and 2026-11-03 13:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-03T11-18-59-538119Z.csv)
+[Full CSV](data/new-gems-2026-11-03T13-19-06-522051Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-03 10:22:39 | [uae-gold-calculator](https://rubygems.org/gems/uae-gold-calculator) | 1.0.0 | UAE Gold Prices | MIT | Price gold in AED from today's 24K rate: 24/22/21/18/14K per gram, tola and tro… |
+| 2026-11-03 13:17:29 | [astroturf](https://rubygems.org/gems/astroturf) | 0.1.0 | Jeff Lunt | MIT | Astroturf generates combinatorial synthetic data graphs in memory from declarat… |
 
 ## Data source
 
