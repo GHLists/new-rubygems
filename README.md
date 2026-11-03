@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 07:21 UTC
+## Latest list — 2026-11-03 08:20 UTC
 
-New gems created between 2026-11-03 06:19 UTC and 2026-11-03 07:21 UTC.
+New gems created between 2026-11-03 07:21 UTC and 2026-11-03 08:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-03T07-21-38-512573Z.csv)
+[Full CSV](data/new-gems-2026-11-03T08-20-51-732737Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-03 07:09:26 | [kosa8](https://rubygems.org/gems/kosa8) | 0.1.2 | kosa8 | MIT | Typed client for the kosa8 daemon: sandboxes, run/exec streams, snapshots, fork… |
+| 2026-11-03 07:39:08 | [sorbet_typed-generic_bounds](https://rubygems.org/gems/sorbet_typed-generic_bounds) | 0.1.0 | Richard Kramer | GPL-3.0-or-later | Runtime access to the bounds of Sorbet generics. |
+| 2026-11-03 08:08:49 | [hemant_awesome_gem](https://rubygems.org/gems/hemant_awesome_gem) | 0.1.0 | Hemant Jha | MIT | A longer description explaining features and usage in detail. |
 
 ## Data source
 
