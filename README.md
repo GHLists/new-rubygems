@@ -9,19 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 16:20 UTC
+## Latest list — 2026-11-03 17:20 UTC
 
-New gems created between 2026-11-03 15:18 UTC and 2026-11-03 16:20 UTC.
+New gems created between 2026-11-03 16:20 UTC and 2026-11-03 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-03T16-20-43-136377Z.csv)
+[Full CSV](data/new-gems-2026-11-03T17-20-22-193871Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-03 15:54:51 | [w002yardprobe](https://rubygems.org/gems/w002yardprobe) | 0.0.3 | w002-research | MIT | Minimal probe gem used to verify YARD doc generation behavior on documentation… |
-| 2026-11-03 15:54:55 | [videoupscaler](https://rubygems.org/gems/videoupscaler) | 0.1.0 | VideoUpscaler Team | MIT | Official Ruby SDK for VideoUpscaler (https://videoupscaler.co): 4K AI Video Ups… |
-| 2026-11-03 15:54:57 | [ai_video_upscaler](https://rubygems.org/gems/ai_video_upscaler) | 0.1.0 | VideoUpscaler Team | MIT | Official Ruby SDK for VideoUpscaler (https://videoupscaler.co): 4K AI Video Ups… |
-| 2026-11-03 15:54:59 | [videoupscaler_mcp](https://rubygems.org/gems/videoupscaler_mcp) | 0.1.0 | VideoUpscaler Team | MIT | Official Ruby SDK for VideoUpscaler (https://videoupscaler.co): 4K AI Video Ups… |
-| 2026-11-03 16:04:18 | [static_encrypt](https://rubygems.org/gems/static_encrypt) | 0.1.0 | Daniël de Vries | MIT | Encrypts a file with AES-256-GCM (PBKDF2-SHA256 key derivation) and wraps it in… |
+| 2026-11-03 16:29:04 | [flashvsr_4k](https://rubygems.org/gems/flashvsr_4k) | 0.1.0 | VideoUpscaler Team | MIT | Official Ruby SDK for VideoUpscaler (https://videoupscaler.co): 4K AI Video Ups… |
+| 2026-11-03 16:29:05 | [n8n_videoupscaler](https://rubygems.org/gems/n8n_videoupscaler) | 0.1.0 | VideoUpscaler Team | MIT | Official Ruby SDK for VideoUpscaler (https://videoupscaler.co): 4K AI Video Ups… |
+| 2026-11-03 16:38:43 | [flezha](https://rubygems.org/gems/flezha) | 0.1.0 | Flezha contributors | Apache-2.0 | Author Flezha relays in Ruby: flow and steps classes over the same shared kerne… |
+| 2026-11-03 16:38:43 | [flezha](https://rubygems.org/gems/flezha) | 0.1.0 | Flezha contributors | Apache-2.0 | Author Flezha relays in Ruby: flow and steps classes over the same shared kerne… |
+| 2026-11-03 16:38:43 | [flezha](https://rubygems.org/gems/flezha) | 0.1.0 | Flezha contributors | Apache-2.0 | Author Flezha relays in Ruby: flow and steps classes over the same shared kerne… |
+| 2026-11-03 16:38:43 | [flezha](https://rubygems.org/gems/flezha) | 0.1.0 | Flezha contributors | Apache-2.0 | Author Flezha relays in Ruby: flow and steps classes over the same shared kerne… |
+| 2026-11-03 16:38:43 | [flezha](https://rubygems.org/gems/flezha) | 0.1.0 | Flezha contributors | Apache-2.0 | Author Flezha relays in Ruby: flow and steps classes over the same shared kerne… |
+| 2026-11-03 16:55:17 | [video_frame_interpolation](https://rubygems.org/gems/video_frame_interpolation) | 0.1.0 | VideoUpscaler AI | MIT | Official Ruby SDK for VideoUpscaler (https://videoupscaler.co) — 4K AI Video Up… |
+| 2026-11-03 16:55:18 | [ai_video_denoiser](https://rubygems.org/gems/ai_video_denoiser) | 0.1.0 | VideoUpscaler AI | MIT | Official Ruby SDK for VideoUpscaler (https://videoupscaler.co) — 4K AI Video Up… |
+| 2026-11-03 16:55:20 | [batch_video_upscaler](https://rubygems.org/gems/batch_video_upscaler) | 0.1.0 | VideoUpscaler AI | MIT | Official Ruby SDK for VideoUpscaler (https://videoupscaler.co) — 4K AI Video Up… |
+| 2026-11-03 17:16:33 | [w002yardprobe](https://rubygems.org/gems/w002yardprobe) | 0.0.5 | w002-research | MIT | Minimal probe gem used to verify YARD doc generation behavior on documentation… |
 
 ## Data source
 
