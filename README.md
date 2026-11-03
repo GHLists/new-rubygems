@@ -9,23 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 15:18 UTC
+## Latest list — 2026-11-03 16:20 UTC
 
-New gems created between 2026-11-03 14:19 UTC and 2026-11-03 15:18 UTC.
+New gems created between 2026-11-03 15:18 UTC and 2026-11-03 16:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-03T15-18-48-375886Z.csv)
+[Full CSV](data/new-gems-2026-11-03T16-20-43-136377Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-03 14:38:46 | [libglycin-gtk4](https://rubygems.org/gems/libglycin-gtk4) | 1.0.1 | Nathan Kidd | Apache-2.0 | The GTK4 integration for glycin, turning a decoded image into a GdkTexture, for… |
-| 2026-11-03 14:38:58 | [geocode-glib](https://rubygems.org/gems/geocode-glib) | 1.0.1 | Nathan Kidd | Apache-2.0 | Geocode-glib, forward and reverse geocoding over Nominatim, for Ruby. Defined f… |
-| 2026-11-03 14:39:10 | [packagekit-glib](https://rubygems.org/gems/packagekit-glib) | 1.0.1 | Nathan Kidd | Apache-2.0 | PackageKit, distribution-agnostic package management over D-Bus, for Ruby. Defi… |
-| 2026-11-03 14:39:25 | [webkit-web-process-extension](https://rubygems.org/gems/webkit-web-process-extension) | 1.0.1 | Nathan Kidd | Apache-2.0 | The WebKit 6.0 web process extension API, for Ruby. Defined from its GObject In… |
-| 2026-11-03 14:39:36 | [gnome-autoar](https://rubygems.org/gems/gnome-autoar) | 1.0.1 | Nathan Kidd | Apache-2.0 | Gnome-autoar, extracting and compressing archives, for Ruby. Defined from its G… |
-| 2026-11-03 14:40:31 | [upower-glib](https://rubygems.org/gems/upower-glib) | 1.0.1 | Nathan Kidd | Apache-2.0 | UPower, battery and power device state, for Ruby. Defined from its GObject Intr… |
-| 2026-11-03 14:42:04 | [lostcoords-ui](https://rubygems.org/gems/lostcoords-ui) | 0.4.1 | Lost Coordinates | MIT | ActionView UI components with Tailwind CSS and Stimulus. |
-| 2026-11-03 14:58:19 | [graphql_tag_rbs](https://rubygems.org/gems/graphql_tag_rbs) | 0.1.1 | indigolain | MIT | Reads the operation list exported by graphql_tag_pluck and a GraphQL schema, an… |
-| 2026-11-03 15:11:13 | [polyglot_routes](https://rubygems.org/gems/polyglot_routes) | 0.1.0 | Bruno Costanzo | MIT | Wrap your routes in `localized` and get one translated route per locale, locale… |
+| 2026-11-03 15:54:51 | [w002yardprobe](https://rubygems.org/gems/w002yardprobe) | 0.0.3 | w002-research | MIT | Minimal probe gem used to verify YARD doc generation behavior on documentation… |
+| 2026-11-03 15:54:55 | [videoupscaler](https://rubygems.org/gems/videoupscaler) | 0.1.0 | VideoUpscaler Team | MIT | Official Ruby SDK for VideoUpscaler (https://videoupscaler.co): 4K AI Video Ups… |
+| 2026-11-03 15:54:57 | [ai_video_upscaler](https://rubygems.org/gems/ai_video_upscaler) | 0.1.0 | VideoUpscaler Team | MIT | Official Ruby SDK for VideoUpscaler (https://videoupscaler.co): 4K AI Video Ups… |
+| 2026-11-03 15:54:59 | [videoupscaler_mcp](https://rubygems.org/gems/videoupscaler_mcp) | 0.1.0 | VideoUpscaler Team | MIT | Official Ruby SDK for VideoUpscaler (https://videoupscaler.co): 4K AI Video Ups… |
+| 2026-11-03 16:04:18 | [static_encrypt](https://rubygems.org/gems/static_encrypt) | 0.1.0 | Daniël de Vries | MIT | Encrypts a file with AES-256-GCM (PBKDF2-SHA256 key derivation) and wraps it in… |
 
 ## Data source
 
