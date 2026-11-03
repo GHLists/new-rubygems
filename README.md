@@ -9,24 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 23:19 UTC
+## Latest list — 2026-11-03 00:20 UTC
 
-New gems created between 2026-11-02 22:19 UTC and 2026-11-02 23:19 UTC.
+New gems created between 2026-11-02 23:19 UTC and 2026-11-03 00:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-02T23-19-53-425463Z.csv)
+[Full CSV](data/new-gems-2026-11-03T00-20-50-538962Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-02 22:59:02 | [raims](https://rubygems.org/gems/raims) | 0.1.1 | Raims | MIT | Use the Raims public API from Ruby applications with resource services, cursor… |
-| 2026-11-02 23:10:26 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
-| 2026-11-02 23:10:26 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
-| 2026-11-02 23:10:26 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
-| 2026-11-02 23:10:26 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
-| 2026-11-02 23:10:26 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
-| 2026-11-02 23:10:26 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
-| 2026-11-02 23:10:26 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
-| 2026-11-02 23:10:26 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
-| 2026-11-02 23:10:26 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.0 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
+| 2026-11-03 00:05:13 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.1 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
+| 2026-11-03 00:05:13 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.1 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
+| 2026-11-03 00:05:13 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.1 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
+| 2026-11-03 00:05:13 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.1 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
+| 2026-11-03 00:05:13 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.1 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
+| 2026-11-03 00:05:13 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.1 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
+| 2026-11-03 00:05:13 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.1 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
+| 2026-11-03 00:05:13 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.1 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
+| 2026-11-03 00:05:13 | [oo7-rb](https://rubygems.org/gems/oo7-rb) | 1.0.1 | Nathan Kidd | Apache-2.0 | The freedesktop Secret Service for Ruby, over the oo7 crate. Keyrings, items, a… |
+| 2026-11-03 00:07:58 | [cue_dsl](https://rubygems.org/gems/cue_dsl) | 1.0.0 | Nicola Bernardini | MIT | Define live-electronics cues in Ruby; emit a Pure Data [text sequence] stream o… |
 
 ## Data source
 
