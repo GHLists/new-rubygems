@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-03T10:22:39.458Z,uae-gold-calculator,1.0.0,68,UAE Gold Prices,MIT,"Price gold in AED from today's 24K rate: 24/22/21/18/14K per gram, tola and troy ounce, making charges (per gram, percent or fixed), 5% VAT and zakat against the 85 g nisab. Accepts Arabic-Indic digits and Arabic unit names. Library + CLI, no dependencies."

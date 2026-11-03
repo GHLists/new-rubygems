@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 10:20 UTC
+## Latest list — 2026-11-03 11:18 UTC
 
-New gems created between 2026-11-03 09:21 UTC and 2026-11-03 10:20 UTC.
+New gems created between 2026-11-03 10:20 UTC and 2026-11-03 11:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-03T10-20-01-858477Z.csv)
+[Full CSV](data/new-gems-2026-11-03T11-18-59-538119Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-03 09:33:18 | [laa-criminal-legal-aid-schemas](https://rubygems.org/gems/laa-criminal-legal-aid-schemas) | 1.8.4 | LAA Crime Apps Team | MIT | Shared, versioned JSON schemas, validators and dry-struct types for LAA Crimina… |
+| 2026-11-03 10:22:39 | [uae-gold-calculator](https://rubygems.org/gems/uae-gold-calculator) | 1.0.0 | UAE Gold Prices | MIT | Price gold in AED from today's 24K rate: 24/22/21/18/14K per gram, tola and tro… |
 
 ## Data source
 
