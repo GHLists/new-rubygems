@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-03T09:33:18.179Z,laa-criminal-legal-aid-schemas,1.8.4,62,LAA Crime Apps Team,MIT,"Shared, versioned JSON schemas, validators and dry-struct types for LAA Criminal Legal Aid applications and the messages exchanged with the criminal-applications datastore."

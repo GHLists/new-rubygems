@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 09:21 UTC
+## Latest list — 2026-11-03 10:20 UTC
 
-New gems created between 2026-11-03 08:20 UTC and 2026-11-03 09:21 UTC.
+New gems created between 2026-11-03 09:21 UTC and 2026-11-03 10:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-03T09-21-49-184046Z.csv)
+[Full CSV](data/new-gems-2026-11-03T10-20-01-858477Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-03 08:48:50 | [brida-frida-hooks](https://rubygems.org/gems/brida-frida-hooks) | 1.0.1 | Shoaib | MIT | A simple gem for demonstration purposes |
+| 2026-11-03 09:33:18 | [laa-criminal-legal-aid-schemas](https://rubygems.org/gems/laa-criminal-legal-aid-schemas) | 1.8.4 | LAA Crime Apps Team | MIT | Shared, versioned JSON schemas, validators and dry-struct types for LAA Crimina… |
 
 ## Data source
 
