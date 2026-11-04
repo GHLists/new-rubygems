@@ -1,0 +1,11 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T18:59:27.887Z,pbwire,0.1.5,77,jinganix,Apache-2.0,"A FileDescriptorSet becomes the schema at runtime; messages go to/from wire bytes with no generated code, through a C extension over the pbwire core."
+2026-11-04T19:05:02.06Z,yard-inline-rbs,0.1.0,20,yard-inline-rbs contributors,MIT,YARD plugin: use inline RBS type annotations in documentation
+2026-11-04T19:07:12.209Z,pigeonhole-db,1.1.0,11,Matt Tanous,MIT,"An embedded, single-file, wide-column store: BigTable's data model, SQLite's deployment model."
+2026-11-04T19:07:12.209Z,pigeonhole-db,1.1.0,11,Matt Tanous,MIT,"An embedded, single-file, wide-column store: BigTable's data model, SQLite's deployment model."
+2026-11-04T19:07:12.209Z,pigeonhole-db,1.1.0,11,Matt Tanous,MIT,"An embedded, single-file, wide-column store: BigTable's data model, SQLite's deployment model."
+2026-11-04T19:07:12.209Z,pigeonhole-db,1.1.0,11,Matt Tanous,MIT,"An embedded, single-file, wide-column store: BigTable's data model, SQLite's deployment model."
+2026-11-04T19:07:12.209Z,pigeonhole-db,1.1.0,11,Matt Tanous,MIT,"An embedded, single-file, wide-column store: BigTable's data model, SQLite's deployment model."
+2026-11-04T19:07:12.209Z,pigeonhole-db,1.1.0,11,Matt Tanous,MIT,"An embedded, single-file, wide-column store: BigTable's data model, SQLite's deployment model."
+2026-11-04T19:07:12.209Z,pigeonhole-db,1.1.0,11,Matt Tanous,MIT,"An embedded, single-file, wide-column store: BigTable's data model, SQLite's deployment model."
+2026-11-04T19:07:12.209Z,pigeonhole-db,1.1.0,11,Matt Tanous,MIT,"An embedded, single-file, wide-column store: BigTable's data model, SQLite's deployment model."
