@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T22:39:45.444Z,cloudflare-tunnel,0.1.1,63,"Paulo Fidalgo, Ethos Link",MIT,"Supervise host-installed cloudflared with Rails configuration, quiet retries, secure token handling, and end-to-end diagnostics."
