@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T03:22:47.248Z,rubocop-prose,0.1.0,75,Daniel (dB.) Doubrovkine,MIT,"Format-aware RuboCop cops for Markdown and plain text, with source-preserving corrections."

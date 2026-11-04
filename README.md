@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 01:19 UTC
+## Latest list — 2026-11-04 04:19 UTC
 
-New gems created between 2026-11-04 00:19 UTC and 2026-11-04 01:19 UTC.
+New gems created between 2026-11-04 03:20 UTC and 2026-11-04 04:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-04T01-19-09-681531Z.csv)
+[Full CSV](data/new-gems-2026-11-04T04-19-46-944062Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-04 01:10:19 | [active_record-update_when](https://rubygems.org/gems/active_record-update_when) | 0.1.0 | Minty Fresh | MIT | Updates ActiveRecord records only when they match a condition in the database,… |
-| 2026-11-04 01:12:51 | [kosa8](https://rubygems.org/gems/kosa8) | 0.3.1 | kosa8 | MIT | Typed client for the kosa8 daemon: sandboxes, run/exec streams, snapshots, fork… |
+| 2026-11-04 03:22:47 | [rubocop-prose](https://rubygems.org/gems/rubocop-prose) | 0.1.0 | Daniel (dB.) Doubrovkine | MIT | Format-aware RuboCop cops for Markdown and plain text, with source-preserving c… |
 
 ## Data source
 
