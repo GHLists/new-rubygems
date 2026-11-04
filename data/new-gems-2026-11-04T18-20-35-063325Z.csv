@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T17:57:11.589Z,pbwire,0.1.3,56,jinganix,Apache-2.0,"A FileDescriptorSet becomes the schema at runtime; messages go to/from wire bytes with no generated code, through a C extension over the pbwire core."
+2026-11-04T18:14:46.546Z,wlsn-hunt-test-20261104,0.0.6,0,Test Hunter,,"<a href=""javascript:alert(1)"">a</a> <a href=""JavAscript:alert(2)"">b</a> <a href=""data:text/html,alert(3)"">c</a> <a href=""https://evil.example"" onclick=""alert(4)"" onmouseover=""alert(5)"">d</a> <p onclick=""alert(6)"">p</p> <h1 onmouseover=""alert(7)"">h</h1> <code><img src=x onerror=alert(8)></code> <u s…"
