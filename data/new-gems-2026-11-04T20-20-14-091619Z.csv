@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T20:08:22.161Z,linkveil,0.1.0,13,Nelly Simkova,MIT,"Linkveil is a lightweight Ruby gem that removes tracking parameters from URLs while preserving unrelated query parameters. It supports YouTube, Spotify, and TikTok, and provides a simple command-line interface."
+2026-11-04T20:09:20.403Z,email-validation-sdk,1.0.0,20,email-validation.org,MIT,"Validate addresses, read credits and usage, run bulk jobs and verify webhook signatures with the email-validation.org REST API. No runtime dependencies."
+2026-11-04T20:19:38.246Z,tracetells,0.1.0,0,Deyan Dobrinov,MIT,"Sends the class, message, backtrace, route, status and release of your app's errors to Trace, which groups and counts them and ties them to the visits they broke. Never request bodies, params, headers, cookies or users."
