@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 10:20 UTC
+## Latest list — 2026-11-04 12:19 UTC
 
-New gems created between 2026-11-04 09:20 UTC and 2026-11-04 10:20 UTC.
+New gems created between 2026-11-04 10:20 UTC and 2026-11-04 12:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-04T10-20-26-758405Z.csv)
+[Full CSV](data/new-gems-2026-11-04T12-19-45-680893Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-04 09:52:56 | [relfile](https://rubygems.org/gems/relfile) | 0.0.0 | eoi | MIT | A simple hello world gem |
+| 2026-11-04 11:13:16 | [wordcloud-art-svg](https://rubygems.org/gems/wordcloud-art-svg) | 0.1.0 | Wordcloud.art | MIT | A small offline Ruby command that lays out weighted words in a collision-free S… |
+| 2026-11-04 12:16:10 | [cloudflare-tunnel](https://rubygems.org/gems/cloudflare-tunnel) | 0.1.0 | Paulo Fidalgo, Ethos Link | MIT | Supervise host-installed cloudflared with Rails configuration, quiet retries, s… |
 
 ## Data source
 

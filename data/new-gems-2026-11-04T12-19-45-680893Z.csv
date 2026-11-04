@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T11:13:16.252Z,wordcloud-art-svg,0.1.0,70,Wordcloud.art,MIT,A small offline Ruby command that lays out weighted words in a collision-free SVG word cloud.
+2026-11-04T12:16:10.014Z,cloudflare-tunnel,0.1.0,0,"Paulo Fidalgo, Ethos Link",MIT,"Supervise host-installed cloudflared with Rails configuration, quiet retries, secure token handling, and end-to-end diagnostics."
