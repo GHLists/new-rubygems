@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 15:21 UTC
+## Latest list — 2026-11-04 16:21 UTC
 
-New gems created between 2026-11-04 14:19 UTC and 2026-11-04 15:21 UTC.
+New gems created between 2026-11-04 15:21 UTC and 2026-11-04 16:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-04T15-21-50-969145Z.csv)
+[Full CSV](data/new-gems-2026-11-04T16-21-20-80018Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-04 14:27:08 | [pbwire](https://rubygems.org/gems/pbwire) | 0.1.1 | jinganix | Apache-2.0 | A FileDescriptorSet becomes the schema at runtime; messages go to/from wire byt… |
-| 2026-11-04 14:32:40 | [forest_admin_datasource_intercom](https://rubygems.org/gems/forest_admin_datasource_intercom) | 1.49.0 | Forest Admin | Apache-2.0 | Surface Intercom conversations, tickets, contacts and companies as Forest Admin… |
+| 2026-11-04 15:37:04 | [traveling-ruby](https://rubygems.org/gems/traveling-ruby) | 0.1.0 | Yousaf Nabi | MIT | Builds self-contained packages of a Ruby app for each platform Traveling Ruby s… |
+| 2026-11-04 15:50:21 | [pbwire](https://rubygems.org/gems/pbwire) | 0.1.2 | jinganix | Apache-2.0 | A FileDescriptorSet becomes the schema at runtime; messages go to/from wire byt… |
+| 2026-11-04 16:17:01 | [fraction-royalty-calc](https://rubygems.org/gems/fraction-royalty-calc) | 1.0.0 | Fraction Royalty | MIT | Tiny calculator helpers for Fraction Royalty (fractionroyalty.com) oil & gas mi… |
 
 ## Data source
 

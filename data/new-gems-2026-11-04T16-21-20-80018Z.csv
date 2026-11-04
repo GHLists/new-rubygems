@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T15:37:04.807Z,traveling-ruby,0.1.0,58,Yousaf Nabi,MIT,"Builds self-contained packages of a Ruby app for each platform Traveling Ruby supports: the app, its gems, the prebuilt native extensions they need and a portable Ruby, behind a launcher script. No Ruby is needed to run them."
+2026-11-04T15:50:21.418Z,pbwire,0.1.2,60,jinganix,Apache-2.0,"A FileDescriptorSet becomes the schema at runtime; messages go to/from wire bytes with no generated code, through a C extension over the pbwire core."
+2026-11-04T16:17:01.067Z,fraction-royalty-calc,1.0.0,0,Fraction Royalty,MIT,Tiny calculator helpers for Fraction Royalty (fractionroyalty.com) oil & gas mineral interest math.
