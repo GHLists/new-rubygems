@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T01:10:19.426Z,active_record-update_when,0.1.0,14,Minty Fresh,MIT,"Updates ActiveRecord records only when they match a condition in the database, atomically, as part of the UPDATE statement."
+2026-11-04T01:12:51.477Z,kosa8,0.3.1,4,kosa8,MIT,"Typed client for the kosa8 daemon: sandboxes, run/exec streams, snapshots, fork, best-of-N explore and checkpoints shared with the kosa8 CLI. No dependencies."
