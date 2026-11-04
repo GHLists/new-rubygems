@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-03T23:54:54.638Z,active_record-where_exists,0.1.0,52,Minty Fresh,MIT,"Adds where.exists and where.not_exists to ActiveRecord relations, filtering records by the existence of associated records."
+2026-11-03T23:55:23.86Z,active_record-virtual_joins,0.1.0,48,Minty Fresh,MIT,"Joins a list of hashes to the records of an ActiveRecord relation as a virtual table, selecting its values onto the records."
+2026-11-03T23:55:48.746Z,active_record-with_ordinality,0.1.0,46,Minty Fresh,MIT,"Joins lists of values to ActiveRecord relations with their ordinal positions, and orders relations by them with in_order_of."
