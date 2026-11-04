@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 13:19 UTC
+## Latest list — 2026-11-04 14:19 UTC
 
-New gems created between 2026-11-04 12:19 UTC and 2026-11-04 13:19 UTC.
+New gems created between 2026-11-04 13:19 UTC and 2026-11-04 14:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-04T13-19-03-127505Z.csv)
+[Full CSV](data/new-gems-2026-11-04T14-19-45-756175Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-04 13:04:30 | [sitegoose](https://rubygems.org/gems/sitegoose) | 0.3.3 | steviec87 | MIT | Rack middleware and a Railtie: a firewall with rate limits, shared blocks, atta… |
+| 2026-11-04 13:24:32 | [numo-gsl-integration](https://rubygems.org/gems/numo-gsl-integration) | 0.1.0 | Takahiro SATOH | GPL-3.0-or-later | Provides GNU Scientific Library numerical integration routines under Numo::GSL:… |
+| 2026-11-04 13:27:45 | [minitest_openapi_examples](https://rubygems.org/gems/minitest_openapi_examples) | 0.2.0 | Galiia Fattakhova | MIT | Captures request and response examples from Rails Minitest integration tests, r… |
 
 ## Data source
 

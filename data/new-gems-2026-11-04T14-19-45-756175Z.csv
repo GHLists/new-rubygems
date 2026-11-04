@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T13:24:32.494Z,numo-gsl-integration,0.1.0,71,Takahiro SATOH,GPL-3.0-or-later,Provides GNU Scientific Library numerical integration routines under Numo::GSL::Integration.
+2026-11-04T13:27:45.979Z,minitest_openapi_examples,0.2.0,60,Galiia Fattakhova,MIT,"Captures request and response examples from Rails Minitest integration tests, redacts unstable values, and writes the examples into an existing OpenAPI spec."
