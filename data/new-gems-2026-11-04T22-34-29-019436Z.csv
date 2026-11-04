@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T21:34:25.357Z,monic,0.0.0,81,The monic authors,Apache-2.0,The Ruby client for monic. Not released yet. See https://monic.sh.
+2026-11-04T22:17:03.806Z,ethos-gemkit,0.1.0,30,Ethos Link,MIT,"Common Ruby gem tasks, conditional Rails linting, package validation and release verification."
+2026-11-04T22:24:03.675Z,browserx,2.0.0,14,"Nando Vieira, Level UP Solutions",MIT,"A drop-in replacement for the browser gem: the same Browser API and require paths, answering nearly twice as fast with half the allocations."
+2026-11-04T22:26:59.97Z,gretelx,1.1.0,7,Level UP Solutions,MIT,"One class of plain Ruby methods per namespace, a trail derived from the controller and the routes when a view says nothing, mistakes raised when the class loads, and the trail returned as data for your own components."

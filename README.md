@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 21:22 UTC
+## Latest list — 2026-11-04 22:34 UTC
 
-New gems created between 2026-11-04 20:20 UTC and 2026-11-04 21:22 UTC.
+New gems created between 2026-11-04 21:22 UTC and 2026-11-04 22:34 UTC.
 
-[Full CSV](data/new-gems-2026-11-04T21-22-17-519012Z.csv)
+[Full CSV](data/new-gems-2026-11-04T22-34-29-019436Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-04 20:36:06 | [smstunnel](https://rubygems.org/gems/smstunnel) | 1.0.0 | Narcis Bodea | MIT | The SMSTunnel client for Ruby: send texts and sign-in codes, look up their stat… |
-| 2026-11-04 20:52:18 | [sonatype-policy-demo](https://rubygems.org/gems/sonatype-policy-demo) | 1.3.0 | Sonatype |  | A demo package for testing Sonatype policy functionality |
+| 2026-11-04 21:34:25 | [monic](https://rubygems.org/gems/monic) | 0.0.0 | The monic authors | Apache-2.0 | The Ruby client for monic. Not released yet. See https://monic.sh. |
+| 2026-11-04 22:17:03 | [ethos-gemkit](https://rubygems.org/gems/ethos-gemkit) | 0.1.0 | Ethos Link | MIT | Common Ruby gem tasks, conditional Rails linting, package validation and releas… |
+| 2026-11-04 22:24:03 | [browserx](https://rubygems.org/gems/browserx) | 2.0.0 | Nando Vieira, Level UP Soluti… | MIT | A drop-in replacement for the browser gem: the same Browser API and require pat… |
+| 2026-11-04 22:26:59 | [gretelx](https://rubygems.org/gems/gretelx) | 1.1.0 | Level UP Solutions | MIT | One class of plain Ruby methods per namespace, a trail derived from the control… |
 
 ## Data source
 
