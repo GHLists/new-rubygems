@@ -9,17 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 16:21 UTC
+## Latest list — 2026-11-04 17:20 UTC
 
-New gems created between 2026-11-04 15:21 UTC and 2026-11-04 16:21 UTC.
+New gems created between 2026-11-04 16:21 UTC and 2026-11-04 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-04T16-21-20-80018Z.csv)
+[Full CSV](data/new-gems-2026-11-04T17-20-33-106485Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-04 15:37:04 | [traveling-ruby](https://rubygems.org/gems/traveling-ruby) | 0.1.0 | Yousaf Nabi | MIT | Builds self-contained packages of a Ruby app for each platform Traveling Ruby s… |
-| 2026-11-04 15:50:21 | [pbwire](https://rubygems.org/gems/pbwire) | 0.1.2 | jinganix | Apache-2.0 | A FileDescriptorSet becomes the schema at runtime; messages go to/from wire byt… |
-| 2026-11-04 16:17:01 | [fraction-royalty-calc](https://rubygems.org/gems/fraction-royalty-calc) | 1.0.0 | Fraction Royalty | MIT | Tiny calculator helpers for Fraction Royalty (fractionroyalty.com) oil & gas mi… |
+| 2026-11-04 16:51:33 | [browserx](https://rubygems.org/gems/browserx) | 1.0.0 | Nando Vieira, Level UP Soluti… | MIT | A drop-in replacement for the browser gem: the same Browser API and require pat… |
+| 2026-11-04 16:51:52 | [gretelx](https://rubygems.org/gems/gretelx) | 1.0.0 | Level UP Solutions | MIT | One class of plain Ruby methods per namespace, a trail derived from the control… |
+| 2026-11-04 17:00:38 | [poli_page-rails](https://rubygems.org/gems/poli_page-rails) | 0.13.0 | Poli Page | MIT | Rails engine + controller concern + ActiveSupport::Notifications bridge over th… |
+| 2026-11-04 17:07:17 | [cubed-monitoring](https://rubygems.org/gems/cubed-monitoring) | 1.1.1 | Cubed Solutions | MIT | Track multi-step application workflows with Cubed Process Monitoring |
+| 2026-11-04 17:12:43 | [sursolver](https://rubygems.org/gems/sursolver) | 0.1.0 | SurSolver | MIT | Solve reCAPTCHA v3, Cloudflare Turnstile, Cloudflare Challenge (cf_clearance),… |
+| 2026-11-04 17:16:30 | [inboxcabin](https://rubygems.org/gems/inboxcabin) | 0.1.0 | InboxCabin | MIT | Placeholder gem linking to InboxCabin virtual mailbox product. |
 
 ## Data source
 

@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T16:51:33.484Z,browserx,1.0.0,46,"Nando Vieira, Level UP Solutions",MIT,"A drop-in replacement for the browser gem: the same Browser API and require paths, answering nearly twice as fast with half the allocations."
+2026-11-04T16:51:52.591Z,gretelx,1.0.0,39,Level UP Solutions,MIT,"One class of plain Ruby methods per namespace, a trail derived from the controller and the routes when a view says nothing, mistakes raised when the class loads, and the trail returned as data for your own components."
+2026-11-04T17:00:38.692Z,poli_page-rails,0.13.0,34,Poli Page,MIT,"Rails engine + controller concern + ActiveSupport::Notifications bridge over the official poli-page Ruby SDK. Lazy-memoised PoliPage.client, RFC 5987 Content-Disposition handling, opt-out notifications instrumentation, and a rails generate poli_page:install generator that writes config/initializers…"
+2026-11-04T17:07:17.412Z,cubed-monitoring,1.1.1,31,Cubed Solutions,MIT,Track multi-step application workflows with Cubed Process Monitoring
+2026-11-04T17:12:43.995Z,sursolver,0.1.0,4,SurSolver,MIT,"Solve reCAPTCHA v3, Cloudflare Turnstile, Cloudflare Challenge (cf_clearance), GeeTest, DataDome, AWS WAF, Akamai, Kasada and image captchas from Ruby with one call. Standard library only."
+2026-11-04T17:16:30.656Z,inboxcabin,0.1.0,0,InboxCabin,MIT,Placeholder gem linking to InboxCabin virtual mailbox product.
