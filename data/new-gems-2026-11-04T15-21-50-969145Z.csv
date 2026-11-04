@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T14:27:08.615Z,pbwire,0.1.1,73,jinganix,Apache-2.0,"A FileDescriptorSet becomes the schema at runtime; messages go to/from wire bytes with no generated code, through a C extension over the pbwire core."
+2026-11-04T14:32:40.68Z,forest_admin_datasource_intercom,1.49.0,67,Forest Admin,Apache-2.0,"Surface Intercom conversations, tickets, contacts and companies as Forest Admin collections."

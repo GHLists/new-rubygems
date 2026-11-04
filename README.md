@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 14:19 UTC
+## Latest list — 2026-11-04 15:21 UTC
 
-New gems created between 2026-11-04 13:19 UTC and 2026-11-04 14:19 UTC.
+New gems created between 2026-11-04 14:19 UTC and 2026-11-04 15:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-04T14-19-45-756175Z.csv)
+[Full CSV](data/new-gems-2026-11-04T15-21-50-969145Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-04 13:24:32 | [numo-gsl-integration](https://rubygems.org/gems/numo-gsl-integration) | 0.1.0 | Takahiro SATOH | GPL-3.0-or-later | Provides GNU Scientific Library numerical integration routines under Numo::GSL:… |
-| 2026-11-04 13:27:45 | [minitest_openapi_examples](https://rubygems.org/gems/minitest_openapi_examples) | 0.2.0 | Galiia Fattakhova | MIT | Captures request and response examples from Rails Minitest integration tests, r… |
+| 2026-11-04 14:27:08 | [pbwire](https://rubygems.org/gems/pbwire) | 0.1.1 | jinganix | Apache-2.0 | A FileDescriptorSet becomes the schema at runtime; messages go to/from wire byt… |
+| 2026-11-04 14:32:40 | [forest_admin_datasource_intercom](https://rubygems.org/gems/forest_admin_datasource_intercom) | 1.49.0 | Forest Admin | Apache-2.0 | Surface Intercom conversations, tickets, contacts and companies as Forest Admin… |
 
 ## Data source
 
