@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 09:20 UTC
+## Latest list — 2026-11-04 10:20 UTC
 
-New gems created between 2026-11-04 08:19 UTC and 2026-11-04 09:20 UTC.
+New gems created between 2026-11-04 09:20 UTC and 2026-11-04 10:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-04T09-20-59-641004Z.csv)
+[Full CSV](data/new-gems-2026-11-04T10-20-26-758405Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-04 08:45:29 | [solid_queue-rate_limit](https://rubygems.org/gems/solid_queue-rate_limit) | 0.1.0 | David Cristofaro | MIT | Adds limits_rate to Active Job classes on Solid Queue. Workers admit a class's… |
-| 2026-11-04 08:47:09 | [pagesift](https://rubygems.org/gems/pagesift) | 1.1.0 | YOLOW92 | AGPL-3.0-only | Calls the libpagesift C ABI through fiddle. Bundles the native library for x86_… |
+| 2026-11-04 09:52:56 | [relfile](https://rubygems.org/gems/relfile) | 0.0.0 | eoi | MIT | A simple hello world gem |
 
 ## Data source
 
