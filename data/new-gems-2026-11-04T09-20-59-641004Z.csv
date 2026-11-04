@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T08:45:29.869Z,solid_queue-rate_limit,0.1.0,52,David Cristofaro,MIT,"Adds limits_rate to Active Job classes on Solid Queue. Workers admit a class's jobs no faster than the declared rate, and over-limit jobs wait as scheduled jobs without taking a worker thread."
+2026-11-04T08:47:09.331Z,pagesift,1.1.0,51,YOLOW92,AGPL-3.0-only,"Calls the libpagesift C ABI through fiddle. Bundles the native library for x86_64-linux, aarch64-linux and arm64-darwin."

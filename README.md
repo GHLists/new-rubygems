@@ -9,21 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 08:19 UTC
+## Latest list — 2026-11-04 09:20 UTC
 
-New gems created between 2026-11-04 07:19 UTC and 2026-11-04 08:19 UTC.
+New gems created between 2026-11-04 08:19 UTC and 2026-11-04 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-04T08-19-50-475418Z.csv)
+[Full CSV](data/new-gems-2026-11-04T09-20-59-641004Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-04 07:28:54 | [crawlora-lolesports](https://rubygems.org/gems/crawlora-lolesports) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted LoL Esports API. Covers leagues, schedules, l… |
-| 2026-11-04 07:35:38 | [flezha](https://rubygems.org/gems/flezha) | 0.1.1 | Flezha contributors | Apache-2.0 | Author Flezha relays in Ruby: flow and steps classes over the same shared kerne… |
-| 2026-11-04 07:35:38 | [flezha](https://rubygems.org/gems/flezha) | 0.1.1 | Flezha contributors | Apache-2.0 | Author Flezha relays in Ruby: flow and steps classes over the same shared kerne… |
-| 2026-11-04 07:35:38 | [flezha](https://rubygems.org/gems/flezha) | 0.1.1 | Flezha contributors | Apache-2.0 | Author Flezha relays in Ruby: flow and steps classes over the same shared kerne… |
-| 2026-11-04 07:35:38 | [flezha](https://rubygems.org/gems/flezha) | 0.1.1 | Flezha contributors | Apache-2.0 | Author Flezha relays in Ruby: flow and steps classes over the same shared kerne… |
-| 2026-11-04 07:35:38 | [flezha](https://rubygems.org/gems/flezha) | 0.1.1 | Flezha contributors | Apache-2.0 | Author Flezha relays in Ruby: flow and steps classes over the same shared kerne… |
-| 2026-11-04 07:54:32 | [crawlora-vlr](https://rubygems.org/gems/crawlora-vlr) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted VLR.gg API. Covers Valorant matches, events,… |
+| 2026-11-04 08:45:29 | [solid_queue-rate_limit](https://rubygems.org/gems/solid_queue-rate_limit) | 0.1.0 | David Cristofaro | MIT | Adds limits_rate to Active Job classes on Solid Queue. Workers admit a class's… |
+| 2026-11-04 08:47:09 | [pagesift](https://rubygems.org/gems/pagesift) | 1.1.0 | YOLOW92 | AGPL-3.0-only | Calls the libpagesift C ABI through fiddle. Bundles the native library for x86_… |
 
 ## Data source
 
