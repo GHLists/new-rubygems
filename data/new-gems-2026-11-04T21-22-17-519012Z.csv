@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T20:36:06.462Z,smstunnel,1.0.0,64,Narcis Bodea,MIT,"The SMSTunnel client for Ruby: send texts and sign-in codes, look up their status, list your phones, read the texts your phone received. Standard library only, typed errors, idempotency keys for safe retries. For Rails: an install generator (initializer and credentials), an Active Job that never se…"
+2026-11-04T20:52:18.637Z,sonatype-policy-demo,1.3.0,58,Sonatype,,A demo package for testing Sonatype policy functionality

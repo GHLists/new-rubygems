@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 20:20 UTC
+## Latest list — 2026-11-04 21:22 UTC
 
-New gems created between 2026-11-04 19:21 UTC and 2026-11-04 20:20 UTC.
+New gems created between 2026-11-04 20:20 UTC and 2026-11-04 21:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-04T20-20-14-091619Z.csv)
+[Full CSV](data/new-gems-2026-11-04T21-22-17-519012Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-04 20:08:22 | [linkveil](https://rubygems.org/gems/linkveil) | 0.1.0 | Nelly Simkova | MIT | Linkveil is a lightweight Ruby gem that removes tracking parameters from URLs w… |
-| 2026-11-04 20:09:20 | [email-validation-sdk](https://rubygems.org/gems/email-validation-sdk) | 1.0.0 | email-validation.org | MIT | Validate addresses, read credits and usage, run bulk jobs and verify webhook si… |
-| 2026-11-04 20:19:38 | [tracetells](https://rubygems.org/gems/tracetells) | 0.1.0 | Deyan Dobrinov | MIT | Sends the class, message, backtrace, route, status and release of your app's er… |
+| 2026-11-04 20:36:06 | [smstunnel](https://rubygems.org/gems/smstunnel) | 1.0.0 | Narcis Bodea | MIT | The SMSTunnel client for Ruby: send texts and sign-in codes, look up their stat… |
+| 2026-11-04 20:52:18 | [sonatype-policy-demo](https://rubygems.org/gems/sonatype-policy-demo) | 1.3.0 | Sonatype |  | A demo package for testing Sonatype policy functionality |
 
 ## Data source
 
