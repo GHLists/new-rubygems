@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-04T13:04:30.21Z,sitegoose,0.3.3,24,steviec87,MIT,"Rack middleware and a Railtie: a firewall with rate limits, shared blocks, attack patterns and a browser check; error monitoring (Rails.error, Sidekiq); server speed per route; crawler counts; server-side events, leads and audit log; feature flags and maintenance mode; and the gems, settings and ma…"
