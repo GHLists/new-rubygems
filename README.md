@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 09:19 UTC
+## Latest list — 2026-11-05 10:20 UTC
 
-New gems created between 2026-11-05 08:20 UTC and 2026-11-05 09:19 UTC.
+New gems created between 2026-11-05 09:19 UTC and 2026-11-05 10:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-05T09-19-04-700917Z.csv)
+[Full CSV](data/new-gems-2026-11-05T10-20-12-664464Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-05 08:46:15 | [social_login_buttons](https://rubygems.org/gems/social_login_buttons) | 0.1.0 | Dico (AI-Dico) | MIT | Render Kakao, NAVER, Apple and Google buttons with HTML identical to the compan… |
+| 2026-11-05 09:26:09 | [rubybikes](https://rubygems.org/gems/rubybikes) | 0.3.0 | Eduardo Mucelli Rezende Olive… | AGPL-3.0 | Bike-sharing stations and vehicles through native Ruby provider clients, with a… |
 
 ## Data source
 

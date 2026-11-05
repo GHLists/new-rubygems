@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-05T09:26:09.779Z,rubybikes,0.3.0,65,Eduardo Mucelli Rezende Oliveira,AGPL-3.0,"Bike-sharing stations and vehicles through native Ruby provider clients, with a catalog derived from PyBikes."
