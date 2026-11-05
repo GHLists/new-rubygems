@@ -9,25 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 03:21 UTC
+## Latest list — 2026-11-05 04:18 UTC
 
-New gems created between 2026-11-05 02:19 UTC and 2026-11-05 03:21 UTC.
+New gems created between 2026-11-05 03:21 UTC and 2026-11-05 04:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-05T03-21-11-94325Z.csv)
+[Full CSV](data/new-gems-2026-11-05T04-18-52-294915Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-05 02:21:32 | [valgrind](https://rubygems.org/gems/valgrind) | 0.0.1 | Max Bernstein | MIT | Thin Ruby bindings for the callgrind client request macros: start/stop instrume… |
-| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
-| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
-| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
-| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
-| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
-| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
-| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
-| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
-| 2026-11-05 02:56:16 | [logstash-filter-ipinfo-db-zuin](https://rubygems.org/gems/logstash-filter-ipinfo-db-zuin) | 0.3.0 | ZUIN RD | Apache-2.0 | This gem is a Logstash plugin required to be installed on top of the Logstash c… |
-| 2026-11-05 03:21:08 | [zruby](https://rubygems.org/gems/zruby) | 0.0.0 | Aaron Patterson | MIT | zruby is a cool gem |
+| 2026-11-05 03:28:58 | [logstash-filter-ipinfo-db-zuin](https://rubygems.org/gems/logstash-filter-ipinfo-db-zuin) | 0.4.0 | ZUIN RD | Apache-2.0 | This gem is a Logstash plugin required to be installed on top of the Logstash c… |
+| 2026-11-05 04:01:50 | [numo-gsl-integration](https://rubygems.org/gems/numo-gsl-integration) | 0.2.0 | Takahiro SATOH | GPL-3.0-or-later | Provides GNU Scientific Library numerical integration routines under Numo::GSL:… |
 
 ## Data source
 
