@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-05T13:50:23.276Z,sie-analysis,0.1.1,60,Standout AB,,"Income statements, account movements and budget analysis for SIE exports"
+2026-11-05T14:13:27.431Z,cycode-epmon-canary,1.0.0,2,Cycode,MIT,"Harmless package flagged by Cycode EPMON on purpose, so you can verify the install is protected"
