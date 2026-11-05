@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 10:20 UTC
+## Latest list — 2026-11-05 11:19 UTC
 
-New gems created between 2026-11-05 09:19 UTC and 2026-11-05 10:20 UTC.
+New gems created between 2026-11-05 10:20 UTC and 2026-11-05 11:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-05T10-20-12-664464Z.csv)
+[Full CSV](data/new-gems-2026-11-05T11-19-24-464755Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-05 09:26:09 | [rubybikes](https://rubygems.org/gems/rubybikes) | 0.3.0 | Eduardo Mucelli Rezende Olive… | AGPL-3.0 | Bike-sharing stations and vehicles through native Ruby provider clients, with a… |
+| 2026-11-05 10:32:01 | [super_slim](https://rubygems.org/gems/super_slim) | 2.0.0 | Level UP Solutions | MIT | A Slim template engine rewritten from scratch, without Temple: same HTML as Sli… |
+| 2026-11-05 10:37:39 | [ethos-gemkit](https://rubygems.org/gems/ethos-gemkit) | 0.3.0 | Ethos Link | MIT | Common Ruby gem tasks, conditional Rails linting, package validation and releas… |
+| 2026-11-05 11:03:47 | [nova_ta](https://rubygems.org/gems/nova_ta) | 0.1.2 | Rick-29 | MIT | Ruby bindings (via UniFFI) for the nova-ta Rust crate. |
 
 ## Data source
 

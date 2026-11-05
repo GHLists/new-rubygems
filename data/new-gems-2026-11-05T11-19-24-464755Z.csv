@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-05T10:32:01.775Z,super_slim,2.0.0,58,Level UP Solutions,MIT,"A Slim template engine rewritten from scratch, without Temple: same HTML as Slim 5, faster compilation and rendering with fewer allocations, a formatter that cannot change a page, a linter with HTML and accessibility rules, and a RuboCop plugin for the Ruby inside templates."
+2026-11-05T10:37:39.644Z,ethos-gemkit,0.3.0,79,Ethos Link,MIT,"Common Ruby gem tasks, conditional Rails linting, package validation and release verification."
+2026-11-05T11:03:47.877Z,nova_ta,0.1.2,17,Rick-29,MIT,Ruby bindings (via UniFFI) for the nova-ta Rust crate.
