@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 21:19 UTC
+## Latest list — 2026-11-05 22:19 UTC
 
-New gems created between 2026-11-05 20:20 UTC and 2026-11-05 21:19 UTC.
+New gems created between 2026-11-05 21:19 UTC and 2026-11-05 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-05T21-19-58-778075Z.csv)
+[Full CSV](data/new-gems-2026-11-05T22-19-54-762625Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-05 20:27:04 | [ndb-rails](https://rubygems.org/gems/ndb-rails) | 0.1.0 | thadeu | MIT | Ndb::Record, a lazy Relation, validations, blobs and a Rails railtie on top of… |
-| 2026-11-05 20:50:09 | [ldown](https://rubygems.org/gems/ldown) | 0.0.1 | gemmaro |  | This is a Markdown parser and converter library using the lowdown C library. It… |
+| 2026-11-05 21:39:44 | [vagrant-xapi](https://rubygems.org/gems/vagrant-xapi) | 0.0.1 | Exonet B.V. | MIT | Reserves the name vagrant-xapi for Exonet B.V. This version contains no Vagrant… |
+| 2026-11-05 21:51:26 | [shipit-csv-validator](https://rubygems.org/gems/shipit-csv-validator) | 0.1.0 | Shipit Software | MIT | Check UTF-8 CSV for quoting, header and row width problems with precise diagnos… |
 
 ## Data source
 
