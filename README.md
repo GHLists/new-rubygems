@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 00:21 UTC
+## Latest list — 2026-11-05 01:20 UTC
 
-New gems created between 2026-11-04 23:20 UTC and 2026-11-05 00:21 UTC.
+New gems created between 2026-11-05 00:21 UTC and 2026-11-05 01:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-05T00-21-25-287184Z.csv)
+[Full CSV](data/new-gems-2026-11-05T01-20-27-986966Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-04 23:31:22 | [ethos-gemkit](https://rubygems.org/gems/ethos-gemkit) | 0.2.0 | Ethos Link | MIT | Common Ruby gem tasks, conditional Rails linting, package validation and releas… |
-| 2026-11-04 23:59:26 | [cloudflare-tunnel](https://rubygems.org/gems/cloudflare-tunnel) | 0.1.2 | Paulo Fidalgo, Ethos Link | MIT | Supervise host-installed cloudflared with Rails configuration, quiet retries, s… |
-| 2026-11-05 00:14:10 | [pbwire](https://rubygems.org/gems/pbwire) | 0.1.7 | jinganix | Apache-2.0 | A FileDescriptorSet becomes the schema at runtime; messages go to/from wire byt… |
+| 2026-11-05 00:28:33 | [chime-ext-galileo-codes](https://rubygems.org/gems/chime-ext-galileo-codes) | 0.0.1 | X | MIT | This rubygem does not have a description or summary. |
+| 2026-11-05 00:28:34 | [chime-ext-merchant-name](https://rubygems.org/gems/chime-ext-merchant-name) | 0.0.1 | X | MIT | This rubygem does not have a description or summary. |
+| 2026-11-05 01:02:17 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.0 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
+| 2026-11-05 01:09:49 | [ethos-gemkit](https://rubygems.org/gems/ethos-gemkit) | 0.2.1 | Ethos Link | MIT | Common Ruby gem tasks, conditional Rails linting, package validation and releas… |
 
 ## Data source
 
