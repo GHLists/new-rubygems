@@ -9,15 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 05:21 UTC
+## Latest list — 2026-11-05 06:22 UTC
 
-New gems created between 2026-11-05 04:18 UTC and 2026-11-05 05:21 UTC.
+New gems created between 2026-11-05 05:21 UTC and 2026-11-05 06:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-05T05-21-18-018843Z.csv)
+[Full CSV](data/new-gems-2026-11-05T06-22-13-487153Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-05 05:08:25 | [ruby-lsp-view_component](https://rubygems.org/gems/ruby-lsp-view_component) | 0.2.0 | Daniel Retamal | MIT | Adds a CodeLens to ViewComponent classes that jumps to their templates |
+| 2026-11-05 05:50:45 | [calx](https://rubygems.org/gems/calx) | 0.1.0 | Zac | MIT | Reads CSV, TSV, xlsx, xlsm, xlsb, xls and ods files row by row through a native… |
+| 2026-11-05 05:50:45 | [calx](https://rubygems.org/gems/calx) | 0.1.0 | Zac | MIT | Reads CSV, TSV, xlsx, xlsm, xlsb, xls and ods files row by row through a native… |
+| 2026-11-05 05:50:45 | [calx](https://rubygems.org/gems/calx) | 0.1.0 | Zac | MIT | Reads CSV, TSV, xlsx, xlsm, xlsb, xls and ods files row by row through a native… |
+| 2026-11-05 05:50:45 | [calx](https://rubygems.org/gems/calx) | 0.1.0 | Zac | MIT | Reads CSV, TSV, xlsx, xlsm, xlsb, xls and ods files row by row through a native… |
+| 2026-11-05 05:50:45 | [calx](https://rubygems.org/gems/calx) | 0.1.0 | Zac | MIT | Reads CSV, TSV, xlsx, xlsm, xlsb, xls and ods files row by row through a native… |
+| 2026-11-05 05:50:45 | [calx](https://rubygems.org/gems/calx) | 0.1.0 | Zac | MIT | Reads CSV, TSV, xlsx, xlsm, xlsb, xls and ods files row by row through a native… |
+| 2026-11-05 05:50:45 | [calx](https://rubygems.org/gems/calx) | 0.1.0 | Zac | MIT | Reads CSV, TSV, xlsx, xlsm, xlsb, xls and ods files row by row through a native… |
+| 2026-11-05 05:50:45 | [calx](https://rubygems.org/gems/calx) | 0.1.0 | Zac | MIT | Reads CSV, TSV, xlsx, xlsm, xlsb, xls and ods files row by row through a native… |
+| 2026-11-05 05:50:45 | [calx](https://rubygems.org/gems/calx) | 0.1.0 | Zac | MIT | Reads CSV, TSV, xlsx, xlsm, xlsb, xls and ods files row by row through a native… |
 
 ## Data source
 
