@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 20:20 UTC
+## Latest list — 2026-11-05 21:19 UTC
 
-New gems created between 2026-11-05 19:19 UTC and 2026-11-05 20:20 UTC.
+New gems created between 2026-11-05 20:20 UTC and 2026-11-05 21:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-05T20-20-45-638601Z.csv)
+[Full CSV](data/new-gems-2026-11-05T21-19-58-778075Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-05 20:03:24 | [ndb](https://rubygems.org/gems/ndb) | 0.1.0 | thadeu | MIT | Ndb::Client talks HTTP to ndb over a unix socket or TCP: collections, documents… |
-| 2026-11-05 20:06:40 | [rivulet-rspec](https://rubygems.org/gems/rivulet-rspec) | 0.1.3 | Vladimir Dombrovskiy <vold@fa… | Apache-2.0 | Rivulet RSpec helpers |
-| 2026-11-05 20:19:48 | [aws-sdk-accountaccessruntime](https://rubygems.org/gems/aws-sdk-accountaccessruntime) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Account Access Runtime. This gem is part of the AWS S… |
+| 2026-11-05 20:27:04 | [ndb-rails](https://rubygems.org/gems/ndb-rails) | 0.1.0 | thadeu | MIT | Ndb::Record, a lazy Relation, validations, blobs and a Rails railtie on top of… |
+| 2026-11-05 20:50:09 | [ldown](https://rubygems.org/gems/ldown) | 0.0.1 | gemmaro |  | This is a Markdown parser and converter library using the lowdown C library. It… |
 
 ## Data source
 
