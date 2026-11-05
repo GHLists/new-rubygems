@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 04:18 UTC
+## Latest list — 2026-11-05 05:21 UTC
 
-New gems created between 2026-11-05 03:21 UTC and 2026-11-05 04:18 UTC.
+New gems created between 2026-11-05 04:18 UTC and 2026-11-05 05:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-05T04-18-52-294915Z.csv)
+[Full CSV](data/new-gems-2026-11-05T05-21-18-018843Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-05 03:28:58 | [logstash-filter-ipinfo-db-zuin](https://rubygems.org/gems/logstash-filter-ipinfo-db-zuin) | 0.4.0 | ZUIN RD | Apache-2.0 | This gem is a Logstash plugin required to be installed on top of the Logstash c… |
-| 2026-11-05 04:01:50 | [numo-gsl-integration](https://rubygems.org/gems/numo-gsl-integration) | 0.2.0 | Takahiro SATOH | GPL-3.0-or-later | Provides GNU Scientific Library numerical integration routines under Numo::GSL:… |
+| 2026-11-05 05:08:25 | [ruby-lsp-view_component](https://rubygems.org/gems/ruby-lsp-view_component) | 0.2.0 | Daniel Retamal | MIT | Adds a CodeLens to ViewComponent classes that jumps to their templates |
 
 ## Data source
 

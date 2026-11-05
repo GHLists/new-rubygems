@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-05T05:08:25.674Z,ruby-lsp-view_component,0.2.0,20,Daniel Retamal,MIT,Adds a CodeLens to ViewComponent classes that jumps to their templates
