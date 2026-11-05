@@ -9,21 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 02:19 UTC
+## Latest list — 2026-11-05 03:21 UTC
 
-New gems created between 2026-11-05 01:20 UTC and 2026-11-05 02:19 UTC.
+New gems created between 2026-11-05 02:19 UTC and 2026-11-05 03:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-05T02-19-23-534934Z.csv)
+[Full CSV](data/new-gems-2026-11-05T03-21-11-94325Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-05 01:44:51 | [shrine-bunny](https://rubygems.org/gems/shrine-bunny) | 0.1.0 | doutatsu | MIT | Shrine storage for Bunny Storage, built on its S3-compatible API, with URLs tha… |
-| 2026-11-05 01:57:39 | [railtrail](https://rubygems.org/gems/railtrail) | 0.0.0 | John Hawthorn | MIT | placeholder |
-| 2026-11-05 02:00:18 | [catamount](https://rubygems.org/gems/catamount) | 0.0.0 | John Hawthorn | MIT | placeholder |
-| 2026-11-05 02:10:23 | [maxtest1123123123](https://rubygems.org/gems/maxtest1123123123) | 0.0.0 | Max Bernstein | MIT | placeholder |
-| 2026-11-05 02:11:18 | [maxtest1123123121233](https://rubygems.org/gems/maxtest1123123121233) | 0.0.0 | Max Bernstein | MIT | placeholder |
-| 2026-11-05 02:14:34 | [asmr](https://rubygems.org/gems/asmr) | 0.0.1 | Max Bernstein | MIT | placeholder |
-| 2026-11-05 02:18:47 | [valgrind](https://rubygems.org/gems/valgrind) | 0.0.0 | Max Bernstein | MIT | placeholder |
+| 2026-11-05 02:21:32 | [valgrind](https://rubygems.org/gems/valgrind) | 0.0.1 | Max Bernstein | MIT | Thin Ruby bindings for the callgrind client request macros: start/stop instrume… |
+| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
+| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
+| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
+| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
+| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
+| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
+| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
+| 2026-11-05 02:31:23 | [svgpng](https://rubygems.org/gems/svgpng) | 0.1.1 | Ribose Inc. |  | Explicit-input SVG to PNG rendering boundary |
+| 2026-11-05 02:56:16 | [logstash-filter-ipinfo-db-zuin](https://rubygems.org/gems/logstash-filter-ipinfo-db-zuin) | 0.3.0 | ZUIN RD | Apache-2.0 | This gem is a Logstash plugin required to be installed on top of the Logstash c… |
+| 2026-11-05 03:21:08 | [zruby](https://rubygems.org/gems/zruby) | 0.0.0 | Aaron Patterson | MIT | zruby is a cool gem |
 
 ## Data source
 
