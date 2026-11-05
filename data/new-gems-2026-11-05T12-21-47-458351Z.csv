@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-05T11:57:06.615Z,super_slim,2.1.0,57,Level UP Solutions,MIT,"A Slim template engine rewritten from scratch, without Temple: same HTML as Slim 5, faster compilation and rendering with fewer allocations, a formatter that cannot change a page, a linter with HTML and accessibility rules, and a RuboCop plugin for the Ruby inside templates."

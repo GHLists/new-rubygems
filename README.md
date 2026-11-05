@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 11:19 UTC
+## Latest list — 2026-11-05 12:21 UTC
 
-New gems created between 2026-11-05 10:20 UTC and 2026-11-05 11:19 UTC.
+New gems created between 2026-11-05 11:19 UTC and 2026-11-05 12:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-05T11-19-24-464755Z.csv)
+[Full CSV](data/new-gems-2026-11-05T12-21-47-458351Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-05 10:32:01 | [super_slim](https://rubygems.org/gems/super_slim) | 2.0.0 | Level UP Solutions | MIT | A Slim template engine rewritten from scratch, without Temple: same HTML as Sli… |
-| 2026-11-05 10:37:39 | [ethos-gemkit](https://rubygems.org/gems/ethos-gemkit) | 0.3.0 | Ethos Link | MIT | Common Ruby gem tasks, conditional Rails linting, package validation and releas… |
-| 2026-11-05 11:03:47 | [nova_ta](https://rubygems.org/gems/nova_ta) | 0.1.2 | Rick-29 | MIT | Ruby bindings (via UniFFI) for the nova-ta Rust crate. |
+| 2026-11-05 11:57:06 | [super_slim](https://rubygems.org/gems/super_slim) | 2.1.0 | Level UP Solutions | MIT | A Slim template engine rewritten from scratch, without Temple: same HTML as Sli… |
 
 ## Data source
 
