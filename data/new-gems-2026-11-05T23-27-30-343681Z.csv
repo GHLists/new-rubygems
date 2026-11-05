@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-05T22:32:04.704Z,ndb,0.1.1,79,thadeu,MIT,"Ndb::Client talks HTTP to ndb over a unix socket or TCP: collections, documents with versions, queries, aggregates, watch streams and blobs. Stdlib only, no runtime dependencies. The daemon decides every query semantic."
+2026-11-05T22:32:05.638Z,ndb-rails,0.1.1,80,thadeu,MIT,"Ndb::Record, a lazy Relation, validations, blobs and a Rails railtie on top of the ndb client gem. The gem only builds JSON; the daemon decides every query semantic."
+2026-11-05T22:39:23.277Z,webcrawlerapi,0.1.1,79,WebcrawlerAPI,MIT,"Crawl and scrape websites, convert pages to markdown and run AI agents with WebcrawlerAPI."
