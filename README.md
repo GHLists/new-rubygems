@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 17:21 UTC
+## Latest list — 2026-11-05 18:21 UTC
 
-New gems created between 2026-11-05 16:19 UTC and 2026-11-05 17:21 UTC.
+New gems created between 2026-11-05 17:21 UTC and 2026-11-05 18:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-05T17-21-10-678635Z.csv)
+[Full CSV](data/new-gems-2026-11-05T18-21-52-369623Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-05 16:23:09 | [caset](https://rubygems.org/gems/caset) | 1.0.0 | Matthrew | AGPL-3.0-or-later | 这是一个块实践；集成 casetdown，提供 cm/cml 命令对 Markdown 文档做形式化执行与生成 |
-| 2026-11-05 16:40:14 | [ruby-lsp-view_component](https://rubygems.org/gems/ruby-lsp-view_component) | 0.3.0 | Daniel Retamal | MIT | Adds a CodeLens to ViewComponent classes that jumps to their templates |
+| 2026-11-05 17:44:12 | [sealed_id](https://rubygems.org/gems/sealed_id) | 0.1.0 | Tamiru Hailu | MIT | Encrypts integer primary keys into UUID-shaped tokens for URLs, and refuses raw… |
+| 2026-11-05 17:59:57 | [xitdb](https://rubygems.org/gems/xitdb) | 0.1.0 | Leonid Svyatov | MIT | Transactional collections, portable xitdb storage, and an explicit Ruby value p… |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-05T17:44:12.049Z,sealed_id,0.1.0,58,Tamiru Hailu,MIT,"Encrypts integer primary keys into UUID-shaped tokens for URLs, and refuses raw ids from requests."
+2026-11-05T17:59:57.936Z,xitdb,0.1.0,36,Leonid Svyatov,MIT,"Transactional collections, portable xitdb storage, and an explicit Ruby value profile."
