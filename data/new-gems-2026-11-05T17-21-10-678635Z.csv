@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-05T16:23:09.845Z,caset,1.0.0,79,Matthrew,AGPL-3.0-or-later,这是一个块实践；集成 casetdown，提供 cm/cml 命令对 Markdown 文档做形式化执行与生成
+2026-11-05T16:40:14.098Z,ruby-lsp-view_component,0.3.0,92,Daniel Retamal,MIT,Adds a CodeLens to ViewComponent classes that jumps to their templates
