@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 17:19 UTC
+## Latest list — 2026-11-06 18:19 UTC
 
-New gems created between 2026-11-06 16:20 UTC and 2026-11-06 17:19 UTC.
+New gems created between 2026-11-06 17:19 UTC and 2026-11-06 18:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-06T17-19-08-494919Z.csv)
+[Full CSV](data/new-gems-2026-11-06T18-19-27-769897Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-06 16:37:37 | [redis-cloud-auth](https://rubygems.org/gems/redis-cloud-auth) | 0.1.1 | GitLab | MIT | Pluggable credentials providers (Microsoft Entra, Amazon ElastiCache IAM, ...)… |
-| 2026-11-06 17:09:17 | [grpc-dc](https://rubygems.org/gems/grpc-dc) | 0.39.0 | John Davis | Apache-2.0 | Generated, stdlib-only gRPC clients and servers for Ruby speaking the gRPC wire… |
-| 2026-11-06 17:09:18 | [kafka-grpc](https://rubygems.org/gems/kafka-grpc) | 0.39.0 | John Davis | Apache-2.0 | Kafka over gRPC — generated grpcdc.kafka.v1 clients (produce/consume/groups/top… |
-| 2026-11-06 17:11:50 | [eventbus-grpc](https://rubygems.org/gems/eventbus-grpc) | 0.39.0 | John Davis | Apache-2.0 | Event bus over gRPC — generated grpcdc.events.v1 publish/subscribe clients over… |
+| 2026-11-06 18:04:31 | [lepus-saga](https://rubygems.org/gems/lepus-saga) | 0.3.0 | Marcos G. Zimmermann | MIT | Linear sagas with persisted executions, step attempts, retries, compensations a… |
+| 2026-11-06 18:07:03 | [lepus-saga-sequel](https://rubygems.org/gems/lepus-saga-sequel) | 0.3.0 | Marcos G. Zimmermann | MIT | Keeps lepus-saga executions and step attempts in Sequel models (PostgreSQL, MyS… |
+| 2026-11-06 18:07:43 | [lepus-saga-active_record](https://rubygems.org/gems/lepus-saga-active_record) | 0.3.0 | Marcos G. Zimmermann | MIT | Keeps lepus-saga executions and step attempts in ActiveRecord tables (PostgreSQ… |
 
 ## Data source
 
