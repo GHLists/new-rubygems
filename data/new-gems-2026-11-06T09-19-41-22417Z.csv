@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T08:54:11.628Z,super-slim,3.1.1,61,Level UP Solutions,MIT,"A Slim template engine rewritten from scratch, without Temple: same HTML as Slim 5, faster compilation and rendering with fewer allocations, a formatter that cannot change a page, a linter with HTML and accessibility rules, and a RuboCop plugin for the Ruby inside templates."
+2026-11-06T09:15:11.459Z,sie-analysis,1.1.0,0,Standout AB,,"Income statements, account movements and budget analysis for SIE exports"
