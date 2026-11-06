@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T20:43:43.416Z,aws-sdk-accountaccessruntime,1.1.0,75,Amazon Web Services,Apache-2.0,Official AWS Ruby gem for Account Access Runtime. This gem is part of the AWS SDK for Ruby.
+2026-11-06T20:48:48.066Z,emissaoja,0.1.0,47,BINOBO LTDA,MIT,"Cliente oficial (SDK) em Ruby da API do emissaoja (https://emissaoja.com.br): emita NFS-e nacional, a nota fiscal de serviço eletrônica, no Emissor Nacional (nfse.gov.br) com o CNPJ e a senha do portal, sem certificado digital, para MEI e empresas do Simples Nacional. Conecta a empresa, cadastra to…"
+2026-11-06T20:59:12.693Z,lepus-saga,0.3.1,46,Marcos G. Zimmermann,MIT,"Linear sagas with persisted executions, step attempts, retries, compensations and a stuck-execution healer, driven by Lepus/RabbitMQ. Storage is pluggable: lepus-saga-active_record provides ActiveRecord."
+2026-11-06T21:01:43.764Z,lepus-saga-active_record,0.3.1,37,Marcos G. Zimmermann,MIT,"Keeps lepus-saga executions and step attempts in ActiveRecord tables (PostgreSQL, MySQL/MariaDB, SQLite), with a Rails generator for the migration"
+2026-11-06T21:03:00.106Z,lepus-saga-sequel,0.3.1,28,Marcos G. Zimmermann,MIT,"Keeps lepus-saga executions and step attempts in Sequel models (PostgreSQL, MySQL/MariaDB, SQLite), with migrations for the tables"
