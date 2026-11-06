@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 10:19 UTC
+## Latest list — 2026-11-06 11:19 UTC
 
-New gems created between 2026-11-06 09:19 UTC and 2026-11-06 10:19 UTC.
+New gems created between 2026-11-06 10:19 UTC and 2026-11-06 11:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-06T10-19-40-686523Z.csv)
+[Full CSV](data/new-gems-2026-11-06T11-19-48-985414Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-06 09:21:42 | [redis-cloud-auth](https://rubygems.org/gems/redis-cloud-auth) | 0.1.0 | GitLab | MIT | Pluggable credentials providers (Microsoft Entra, Amazon ElastiCache IAM, ...)… |
-| 2026-11-06 09:28:28 | [erupt-sdk](https://rubygems.org/gems/erupt-sdk) | 0.1.0 | YuePeng | Apache-2.0 | An erupt cloud node: declare models in Ruby, the erupt server renders the admin… |
+| 2026-11-06 10:28:01 | [orbital_ui](https://rubygems.org/gems/orbital_ui) | 0.3.1 | KUY.io Inc. | MIT | Orbital is a themable set of ViewComponents built with the ORB template languag… |
+| 2026-11-06 10:52:43 | [gamba](https://rubygems.org/gems/gamba) | 2.0.1 | Level UP Solutions | Nonstandard; GPL-2.0-only; GP… | A drop-in replacement for prawn, prawn-table and prawn-svg: the same API and th… |
+| 2026-11-06 10:52:57 | [agentry](https://rubygems.org/gems/agentry) | 3.1.0 | Nando Vieira, Level UP Soluti… | MIT | A drop-in replacement for the browser gem: the same Browser API and require pat… |
+| 2026-11-06 10:53:57 | [crumbly](https://rubygems.org/gems/crumbly) | 2.1.0 | Level UP Solutions | MIT | Each level of a breadcrumb trail is a Ruby method that names its parent. When a… |
 
 ## Data source
 

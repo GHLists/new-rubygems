@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T10:28:01.206Z,orbital_ui,0.3.1,68,KUY.io Inc.,MIT,"Orbital is a themable set of ViewComponents built with the ORB template language and Tailwind CSS, with bundled styles, Stimulus controllers and icons."
+2026-11-06T10:52:43.631Z,gamba,2.0.1,54,Level UP Solutions,Nonstandard; GPL-2.0-only; GPL-3.0-only; MIT,"A drop-in replacement for prawn, prawn-table and prawn-svg: the same API and the same pages as Prawn 2.5, written faster, with fewer allocations and lighter files."
+2026-11-06T10:52:57.4Z,agentry,3.1.0,56,"Nando Vieira, Level UP Solutions",MIT,"A drop-in replacement for the browser gem: the same Browser API and require paths, answering nearly twice as fast with half the allocations."
+2026-11-06T10:53:57.141Z,crumbly,2.1.0,56,Level UP Solutions,MIT,"Each level of a breadcrumb trail is a Ruby method that names its parent. When a view names no crumb, Crumbly works the trail out from the controller and the routes, and one test checks every trail in the app. The trail comes back as data, so your layout writes the HTML."
