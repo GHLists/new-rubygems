@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 19:20 UTC
+## Latest list — 2026-11-06 20:20 UTC
 
-New gems created between 2026-11-06 18:19 UTC and 2026-11-06 19:20 UTC.
+New gems created between 2026-11-06 19:20 UTC and 2026-11-06 20:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-06T19-20-18-598281Z.csv)
+[Full CSV](data/new-gems-2026-11-06T20-20-55-391121Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-06 19:18:56 | [crumbly](https://rubygems.org/gems/crumbly) | 2.2.0 | Level UP Solutions | MIT | Each level of a breadcrumb trail is a Ruby method that names its parent. When a… |
-| 2026-11-06 19:20:10 | [brainiac-featureparity](https://rubygems.org/gems/brainiac-featureparity) | 0.1.0 | Andy Davis | MIT | FeatureParity integration for Brainiac — starts the agent picked for a requirem… |
+| 2026-11-06 20:02:06 | [ndb](https://rubygems.org/gems/ndb) | 0.3.0 | thadeu | MIT | Ndb::Client talks HTTP to ndb over a unix socket or TCP: collections, documents… |
+| 2026-11-06 20:02:07 | [ndb-rails](https://rubygems.org/gems/ndb-rails) | 0.3.0 | thadeu | MIT | Ndb::Record, a lazy Relation, validations, blobs and a Rails railtie on top of… |
 
 ## Data source
 

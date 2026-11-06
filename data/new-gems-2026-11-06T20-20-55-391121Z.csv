@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T20:02:06.602Z,ndb,0.3.0,39,thadeu,MIT,"Ndb::Client talks HTTP to ndb over a unix socket or TCP: collections, documents with versions, queries, aggregates, watch streams and blobs. Stdlib only, no runtime dependencies. The daemon decides every query semantic."
+2026-11-06T20:02:07.673Z,ndb-rails,0.3.0,71,thadeu,MIT,"Ndb::Record, a lazy Relation, validations, blobs and a Rails railtie on top of the ndb client gem. The gem only builds JSON; the daemon decides every query semantic."
