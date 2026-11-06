@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 16:20 UTC
+## Latest list — 2026-11-06 17:19 UTC
 
-New gems created between 2026-11-06 15:20 UTC and 2026-11-06 16:20 UTC.
+New gems created between 2026-11-06 16:20 UTC and 2026-11-06 17:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-06T16-20-56-352966Z.csv)
+[Full CSV](data/new-gems-2026-11-06T17-19-08-494919Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-06 16:00:32 | [ndb](https://rubygems.org/gems/ndb) | 0.2.2 | thadeu | MIT | Ndb::Client talks HTTP to ndb over a unix socket or TCP: collections, documents… |
-| 2026-11-06 16:00:33 | [ndb-rails](https://rubygems.org/gems/ndb-rails) | 0.2.2 | thadeu | MIT | Ndb::Record, a lazy Relation, validations, blobs and a Rails railtie on top of… |
-| 2026-11-06 16:04:07 | [eventbus-grpc](https://rubygems.org/gems/eventbus-grpc) | 0.38.0 | John Davis | Apache-2.0 | Event bus over gRPC — generated grpcdc.events.v1 publish/subscribe clients over… |
+| 2026-11-06 16:37:37 | [redis-cloud-auth](https://rubygems.org/gems/redis-cloud-auth) | 0.1.1 | GitLab | MIT | Pluggable credentials providers (Microsoft Entra, Amazon ElastiCache IAM, ...)… |
+| 2026-11-06 17:09:17 | [grpc-dc](https://rubygems.org/gems/grpc-dc) | 0.39.0 | John Davis | Apache-2.0 | Generated, stdlib-only gRPC clients and servers for Ruby speaking the gRPC wire… |
+| 2026-11-06 17:09:18 | [kafka-grpc](https://rubygems.org/gems/kafka-grpc) | 0.39.0 | John Davis | Apache-2.0 | Kafka over gRPC — generated grpcdc.kafka.v1 clients (produce/consume/groups/top… |
+| 2026-11-06 17:11:50 | [eventbus-grpc](https://rubygems.org/gems/eventbus-grpc) | 0.39.0 | John Davis | Apache-2.0 | Event bus over gRPC — generated grpcdc.events.v1 publish/subscribe clients over… |
 
 ## Data source
 

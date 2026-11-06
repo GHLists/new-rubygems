@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T16:37:37.845Z,redis-cloud-auth,0.1.1,93,GitLab,MIT,"Pluggable credentials providers (Microsoft Entra, Amazon ElastiCache IAM, ...) that authenticate Redis connections with short-lived tokens, plus a redis-client middleware that re-authenticates long-lived connections before the token expires."
+2026-11-06T17:09:17.322Z,grpc-dc,0.39.0,14,John Davis,Apache-2.0,"Generated, stdlib-only gRPC clients and servers for Ruby speaking the gRPC wire protocol over a WebRTC DataChannel. No grpc library underneath. Kafka stubs ship separately in the kafka-grpc gem."
+2026-11-06T17:09:18.651Z,kafka-grpc,0.39.0,15,John Davis,Apache-2.0,"Kafka over gRPC — generated grpcdc.kafka.v1 clients (produce/consume/groups/topics) speaking gRPC over WebRTC DataChannels, via the grpc-dc runtime (Ruby)."
+2026-11-06T17:11:50.87Z,eventbus-grpc,0.39.0,17,John Davis,Apache-2.0,"Event bus over gRPC — generated grpcdc.events.v1 publish/subscribe clients over WebRTC DataChannels, via the grpc-dc runtime (Ruby)."
