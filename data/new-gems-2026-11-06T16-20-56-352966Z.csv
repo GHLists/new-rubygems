@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T16:00:32.68Z,ndb,0.2.2,41,thadeu,MIT,"Ndb::Client talks HTTP to ndb over a unix socket or TCP: collections, documents with versions, queries, aggregates, watch streams and blobs. Stdlib only, no runtime dependencies. The daemon decides every query semantic."
+2026-11-06T16:00:33.533Z,ndb-rails,0.2.2,81,thadeu,MIT,"Ndb::Record, a lazy Relation, validations, blobs and a Rails railtie on top of the ndb client gem. The gem only builds JSON; the daemon decides every query semantic."
+2026-11-06T16:04:07.371Z,eventbus-grpc,0.38.0,31,John Davis,Apache-2.0,"Event bus over gRPC — generated grpcdc.events.v1 publish/subscribe clients over WebRTC DataChannels, via the grpc-dc runtime (Ruby)."
