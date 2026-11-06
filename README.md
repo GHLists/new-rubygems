@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 03:19 UTC
+## Latest list — 2026-11-06 04:20 UTC
 
-New gems created between 2026-11-06 02:21 UTC and 2026-11-06 03:19 UTC.
+New gems created between 2026-11-06 03:19 UTC and 2026-11-06 04:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-06T03-19-56-245049Z.csv)
+[Full CSV](data/new-gems-2026-11-06T04-20-36-810539Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-06 02:32:01 | [vitalrix](https://rubygems.org/gems/vitalrix) | 0.1.0 | VitalRix | MIT | Configures the official OpenTelemetry Ruby SDK to export traces, metrics and lo… |
-| 2026-11-06 03:11:36 | [logstash-filter-ipinfo-db-zuin](https://rubygems.org/gems/logstash-filter-ipinfo-db-zuin) | 0.5.0 | ZUIN RD | Apache-2.0 | This gem is a Logstash plugin required to be installed on top of the Logstash c… |
+| 2026-11-06 03:37:00 | [ndb](https://rubygems.org/gems/ndb) | 0.1.2 | thadeu | MIT | Ndb::Client talks HTTP to ndb over a unix socket or TCP: collections, documents… |
+| 2026-11-06 03:37:01 | [ndb-rails](https://rubygems.org/gems/ndb-rails) | 0.1.2 | thadeu | MIT | Ndb::Record, a lazy Relation, validations, blobs and a Rails railtie on top of… |
 
 ## Data source
 
