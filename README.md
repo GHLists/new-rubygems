@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 05:21 UTC
+## Latest list — 2026-11-06 06:19 UTC
 
-New gems created between 2026-11-06 04:20 UTC and 2026-11-06 05:21 UTC.
+New gems created between 2026-11-06 05:21 UTC and 2026-11-06 06:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-06T05-21-01-688761Z.csv)
+[Full CSV](data/new-gems-2026-11-06T06-19-15-65217Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-06 04:35:04 | [rails-cloudflare-origin](https://rubygems.org/gems/rails-cloudflare-origin) | 0.1.0 | Kokorono | MIT | A Rack middleware, installed by a Railtie at the top of the stack, that require… |
-| 2026-11-06 05:10:03 | [fstui](https://rubygems.org/gems/fstui) | 0.5.5 | sarahemm | MIT | Full screen text UI library |
-| 2026-11-06 05:10:21 | [ruby-bofomatic](https://rubygems.org/gems/ruby-bofomatic) | 0.1.0 | sen | MIT | Gem for reading and writing data from BoF-O-Matic using the REST API. |
+| 2026-11-06 06:14:56 | [super-slim](https://rubygems.org/gems/super-slim) | 3.1.0 | Level UP Solutions | MIT | A Slim template engine rewritten from scratch, without Temple: same HTML as Sli… |
+| 2026-11-06 06:18:35 | [fstui](https://rubygems.org/gems/fstui) | 0.5.6 | sarahemm | MIT | Full screen text UI library |
 
 ## Data source
 
