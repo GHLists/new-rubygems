@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T07:31:51.638Z,property_dossier,1.0.0,66,NovAsia Estate,MIT,"Offline, dependency-free Ruby library and CLI. Explicit manifest requirements, revision chains, expiry checks, SHA-256 verification and escaped HTML/JSON reports. Does not authenticate documents or determine legal title."

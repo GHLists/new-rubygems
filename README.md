@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 06:19 UTC
+## Latest list — 2026-11-06 08:20 UTC
 
-New gems created between 2026-11-06 05:21 UTC and 2026-11-06 06:19 UTC.
+New gems created between 2026-11-06 07:18 UTC and 2026-11-06 08:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-06T06-19-15-65217Z.csv)
+[Full CSV](data/new-gems-2026-11-06T08-20-55-351586Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-06 06:14:56 | [super-slim](https://rubygems.org/gems/super-slim) | 3.1.0 | Level UP Solutions | MIT | A Slim template engine rewritten from scratch, without Temple: same HTML as Sli… |
-| 2026-11-06 06:18:35 | [fstui](https://rubygems.org/gems/fstui) | 0.5.6 | sarahemm | MIT | Full screen text UI library |
+| 2026-11-06 07:31:51 | [property_dossier](https://rubygems.org/gems/property_dossier) | 1.0.0 | NovAsia Estate | MIT | Offline, dependency-free Ruby library and CLI. Explicit manifest requirements,… |
 
 ## Data source
 
