@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 14:22 UTC
+## Latest list — 2026-11-06 15:20 UTC
 
-New gems created between 2026-11-06 13:20 UTC and 2026-11-06 14:22 UTC.
+New gems created between 2026-11-06 14:22 UTC and 2026-11-06 15:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-06T14-22-18-620462Z.csv)
+[Full CSV](data/new-gems-2026-11-06T15-20-37-10169Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-06 13:47:40 | [super-slim](https://rubygems.org/gems/super-slim) | 3.2.1 | Level UP Solutions | MIT | A Slim template engine written from scratch, without Temple. It renders the sam… |
+| 2026-11-06 15:10:58 | [ndb](https://rubygems.org/gems/ndb) | 0.2.0 | thadeu | MIT | Ndb::Client talks HTTP to ndb over a unix socket or TCP: collections, documents… |
+| 2026-11-06 15:10:59 | [ndb-rails](https://rubygems.org/gems/ndb-rails) | 0.2.0 | thadeu | MIT | Ndb::Record, a lazy Relation, validations, blobs and a Rails railtie on top of… |
 
 ## Data source
 
