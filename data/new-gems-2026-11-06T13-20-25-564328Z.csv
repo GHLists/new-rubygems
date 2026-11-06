@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T12:59:42.895Z,huntapi,0.1.0,31,HuntAPI,MIT,"Download video and audio from public media URLs, or extract their metadata, with one async REST API."
+2026-11-06T13:00:47.763Z,piloterr,0.1.0,32,Piloterr,MIT,"Scrape 300+ websites (Amazon, LinkedIn, Google, Zillow, Crunchbase…) as structured JSON with one API."
+2026-11-06T13:01:04.434Z,autom,0.1.0,32,Autom,MIT,"Google, Bing and Brave search results as structured JSON — web, maps, news, shopping, images, jobs and AI Mode."
+2026-11-06T13:03:42.257Z,capturekitdev,0.1.0,30,CaptureKit,MIT,"Capture websites as PNG, JPEG, WebP or PDF, extract their content, or analyse them with AI."
+2026-11-06T13:03:44.212Z,veille,0.1.0,33,Veille,MIT,"Validate emails, domains, IPs, VAT numbers and IBANs in milliseconds to block fake sign-ups, bots and fraud."
+2026-11-06T13:03:46.231Z,chartquery,0.1.0,34,ChartQuery,MIT,"Generate chart images, diagrams, barcodes, QR codes and thermal labels on demand. PNG, SVG or PDF output."
+2026-11-06T13:03:48.571Z,browsersolver,0.1.0,28,BrowserSolver,MIT,"Unlock, render, crawl and screenshot any website — anti-bot bypass and technology detection through one API."
+2026-11-06T13:03:50.771Z,asindotdev,0.1.0,28,Asin,MIT,"Track Amazon prices and products with a scheduled watchlist, price history, offers and alerts."
