@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 09:19 UTC
+## Latest list — 2026-11-06 10:19 UTC
 
-New gems created between 2026-11-06 08:20 UTC and 2026-11-06 09:19 UTC.
+New gems created between 2026-11-06 09:19 UTC and 2026-11-06 10:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-06T09-19-41-22417Z.csv)
+[Full CSV](data/new-gems-2026-11-06T10-19-40-686523Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-06 08:54:11 | [super-slim](https://rubygems.org/gems/super-slim) | 3.1.1 | Level UP Solutions | MIT | A Slim template engine rewritten from scratch, without Temple: same HTML as Sli… |
-| 2026-11-06 09:15:11 | [sie-analysis](https://rubygems.org/gems/sie-analysis) | 1.1.0 | Standout AB |  | Income statements, account movements and budget analysis for SIE exports |
+| 2026-11-06 09:21:42 | [redis-cloud-auth](https://rubygems.org/gems/redis-cloud-auth) | 0.1.0 | GitLab | MIT | Pluggable credentials providers (Microsoft Entra, Amazon ElastiCache IAM, ...)… |
+| 2026-11-06 09:28:28 | [erupt-sdk](https://rubygems.org/gems/erupt-sdk) | 0.1.0 | YuePeng | Apache-2.0 | An erupt cloud node: declare models in Ruby, the erupt server renders the admin… |
 
 ## Data source
 

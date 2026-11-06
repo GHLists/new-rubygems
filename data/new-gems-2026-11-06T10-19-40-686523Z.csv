@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T09:21:42.023Z,redis-cloud-auth,0.1.0,77,GitLab,MIT,"Pluggable credentials providers (Microsoft Entra, Amazon ElastiCache IAM, ...) that authenticate Redis connections with short-lived tokens, plus a redis-client middleware that re-authenticates long-lived connections before the token expires."
+2026-11-06T09:28:28.671Z,erupt-sdk,0.1.0,67,YuePeng,Apache-2.0,"An erupt cloud node: declare models in Ruby, the erupt server renders the admin UI. Rack compatible, with a built-in HTTP server; no runtime dependencies."
