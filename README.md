@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 18:19 UTC
+## Latest list — 2026-11-06 19:20 UTC
 
-New gems created between 2026-11-06 17:19 UTC and 2026-11-06 18:19 UTC.
+New gems created between 2026-11-06 18:19 UTC and 2026-11-06 19:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-06T18-19-27-769897Z.csv)
+[Full CSV](data/new-gems-2026-11-06T19-20-18-598281Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-06 18:04:31 | [lepus-saga](https://rubygems.org/gems/lepus-saga) | 0.3.0 | Marcos G. Zimmermann | MIT | Linear sagas with persisted executions, step attempts, retries, compensations a… |
-| 2026-11-06 18:07:03 | [lepus-saga-sequel](https://rubygems.org/gems/lepus-saga-sequel) | 0.3.0 | Marcos G. Zimmermann | MIT | Keeps lepus-saga executions and step attempts in Sequel models (PostgreSQL, MyS… |
-| 2026-11-06 18:07:43 | [lepus-saga-active_record](https://rubygems.org/gems/lepus-saga-active_record) | 0.3.0 | Marcos G. Zimmermann | MIT | Keeps lepus-saga executions and step attempts in ActiveRecord tables (PostgreSQ… |
+| 2026-11-06 19:18:56 | [crumbly](https://rubygems.org/gems/crumbly) | 2.2.0 | Level UP Solutions | MIT | Each level of a breadcrumb trail is a Ruby method that names its parent. When a… |
+| 2026-11-06 19:20:10 | [brainiac-featureparity](https://rubygems.org/gems/brainiac-featureparity) | 0.1.0 | Andy Davis | MIT | FeatureParity integration for Brainiac — starts the agent picked for a requirem… |
 
 ## Data source
 

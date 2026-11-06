@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T19:18:56.758Z,crumbly,2.2.0,0,Level UP Solutions,MIT,"Each level of a breadcrumb trail is a Ruby method that names its parent. When a view names no crumb, Crumbly works the trail out from the controller and the routes, and one test checks every trail in the app. The trail comes back as data, so your layout writes the HTML."
+2026-11-06T19:20:10.996Z,brainiac-featureparity,0.1.0,0,Andy Davis,MIT,"FeatureParity integration for Brainiac — starts the agent picked for a requirement, answers comments that tag it, writes missing tests, and reworks rejected proposals. Verifies FeatureParity's signed deliveries."
