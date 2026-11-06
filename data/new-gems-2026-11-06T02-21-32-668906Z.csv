@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T01:39:04.373Z,grpc-dc,0.38.0,80,John Davis,Apache-2.0,"Generated, stdlib-only gRPC clients and servers for Ruby speaking the gRPC wire protocol over a WebRTC DataChannel. No grpc library underneath. Kafka stubs ship separately in the kafka-grpc gem."
+2026-11-06T01:39:05.711Z,kafka-grpc,0.38.0,102,John Davis,Apache-2.0,"Kafka over gRPC — generated grpcdc.kafka.v1 clients (produce/consume/groups/topics) speaking gRPC over WebRTC DataChannels, via the grpc-dc runtime (Ruby)."
