@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-06T04:35:04.344Z,rails-cloudflare-origin,0.1.0,67,Kokorono,MIT,"A Rack middleware, installed by a Railtie at the top of the stack, that requires a Cloudflare-added origin secret, strips client IP headers a visitor can forge, and sets the client IP from CF-Connecting-IP."
+2026-11-06T05:10:03.719Z,fstui,0.5.5,3,sarahemm,MIT,Full screen text UI library
+2026-11-06T05:10:21.817Z,ruby-bofomatic,0.1.0,10,sen,MIT,Gem for reading and writing data from BoF-O-Matic using the REST API.
