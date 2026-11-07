@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 02:20 UTC
+## Latest list — 2026-11-07 04:20 UTC
 
-New gems created between 2026-11-07 01:18 UTC and 2026-11-07 02:20 UTC.
+New gems created between 2026-11-07 03:19 UTC and 2026-11-07 04:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-07T02-20-18-173023Z.csv)
+[Full CSV](data/new-gems-2026-11-07T04-20-25-335599Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-07 01:33:23 | [chemomer](https://rubygems.org/gems/chemomer) | 0.1.0.1 | Ribose Inc. | MIT | Chemomer drives the native chemomer engine — the Rust InChI port gated by the s… |
+| 2026-11-07 03:22:13 | [lutaml-graphviz](https://rubygems.org/gems/lutaml-graphviz) | 0.1.0 | Ribose Inc. | MIT | Renders LutaML (LML) documents as Graphviz diagrams. Owns the ruby-graphviz dep… |
+| 2026-11-07 03:25:56 | [chemomer](https://rubygems.org/gems/chemomer) | 0.1.0.2 | Ribose Inc. | MIT | Chemomer drives the native chemomer engine — the Rust InChI port gated by the s… |
+| 2026-11-07 03:39:20 | [lutaml-vformat](https://rubygems.org/gems/lutaml-vformat) | 0.1.0 | Ribose Inc. | BSD-2-Clause | Parses and serializes the vObject wire format used by vCard and iCalendar: BEGI… |
+| 2026-11-07 04:04:11 | [keystone_ui-app](https://rubygems.org/gems/keystone_ui-app) | 0.1.0 | Tyler Schneider | MIT | A companion engine for keystone_ui that draws a layout's page frame for desktop… |
 
 ## Data source
 
