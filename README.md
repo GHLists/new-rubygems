@@ -9,18 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 19:19 UTC
+## Latest list — 2026-11-07 20:19 UTC
 
-New gems created between 2026-11-07 18:20 UTC and 2026-11-07 19:19 UTC.
+New gems created between 2026-11-07 19:19 UTC and 2026-11-07 20:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-07T19-19-51-27652Z.csv)
+[Full CSV](data/new-gems-2026-11-07T20-19-31-972811Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-07 18:29:14 | [skyward-core](https://rubygems.org/gems/skyward-core) | 0.1.0 | Jake Bottrall | MIT | The plumbing Skyward API and Skyward ORM share: the namespace, the skyward comm… |
-| 2026-11-07 18:29:15 | [skyward-api](https://rubygems.org/gems/skyward-api) | 0.1.0 | Jake Bottrall | MIT | A small, fast web framework where an endpoint is a method, typed with RBS. |
-| 2026-11-07 18:29:17 | [skyward-orm](https://rubygems.org/gems/skyward-orm) | 0.1.0 | Jake Bottrall | MIT | A small, fast ORM where a class is a table and its rows are values, typed with… |
-| 2026-11-07 18:29:18 | [skyward](https://rubygems.org/gems/skyward) | 0.1.0 | Jake Bottrall | MIT | Skyward API and Skyward ORM: typed Ruby apps where an endpoint is a method and… |
+| 2026-11-07 19:52:35 | [keystone_ui-app](https://rubygems.org/gems/keystone_ui-app) | 0.2.0 | Tyler Schneider | MIT | A companion engine for keystone_ui that draws a layout's page frame for desktop… |
+| 2026-11-07 20:09:34 | [typed_env](https://rubygems.org/gems/typed_env) | 1.0.0 | Dmitry Arkhipov | MIT | TypedEnv provides a clean DSL for managing environment variables with type coer… |
 
 ## Data source
 
