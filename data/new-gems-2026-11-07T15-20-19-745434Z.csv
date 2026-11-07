@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-07T14:44:38.634Z,glance-widgets-sdk,1.0.0,69,Glance Widgets,MIT,SDK for generating Glance Widgets API responses
+2026-11-07T15:06:20.939Z,mp,0.1.3,38,takkanm,MIT,Markdown を全画面プレゼンテーションにするツール(ターミナル / Web 埋め込み対応)
