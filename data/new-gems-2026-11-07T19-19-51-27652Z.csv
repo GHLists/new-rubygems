@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-07T18:29:14.487Z,skyward-core,0.1.0,79,Jake Bottrall,MIT,"The plumbing Skyward API and Skyward ORM share: the namespace, the skyward command and RBS loading."
+2026-11-07T18:29:15.584Z,skyward-api,0.1.0,68,Jake Bottrall,MIT,"A small, fast web framework where an endpoint is a method, typed with RBS."
+2026-11-07T18:29:17.039Z,skyward-orm,0.1.0,69,Jake Bottrall,MIT,"A small, fast ORM where a class is a table and its rows are values, typed with RBS."
+2026-11-07T18:29:18.147Z,skyward,0.1.0,67,Jake Bottrall,MIT,Skyward API and Skyward ORM: typed Ruby apps where an endpoint is a method and a row is a value.
