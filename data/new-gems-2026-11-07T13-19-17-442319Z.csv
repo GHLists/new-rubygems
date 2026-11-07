@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-07T12:59:47.563Z,bugwatch-sdk,0.1.0,45,ROOMY AI LLC,MIT,Capture exceptions and messages from Ruby apps to Bugwatch. Stdlib only.
+2026-11-07T12:59:47.659Z,celerite,0.1.0,26,ShiningRay,MIT,"Celerite is a native (Crystal) engine for Bundler workflows: compact-index resolution, lockfiles, checksummed installs, and the public Bundler Ruby API via a compatibility bridge. Differential-tested against Bundler 4.0.24 and 2.7.2."
