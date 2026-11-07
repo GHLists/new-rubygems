@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 16:20 UTC
+## Latest list — 2026-11-07 18:20 UTC
 
-New gems created between 2026-11-07 15:20 UTC and 2026-11-07 16:20 UTC.
+New gems created between 2026-11-07 17:19 UTC and 2026-11-07 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-07T16-20-08-583274Z.csv)
+[Full CSV](data/new-gems-2026-11-07T18-20-04-089235Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-07 15:52:11 | [macos.rb](https://rubygems.org/gems/macos.rb) | 0.50.0 | thoran | MIT | Work with macOS from Ruby: network interfaces and hardware ports, the system's… |
+| 2026-11-07 18:10:35 | [steadfast](https://rubygems.org/gems/steadfast) | 0.0.1 | Sharon Rosner | MIT | Steadfast: modern metaprogramming for Ruby |
 
 ## Data source
 
