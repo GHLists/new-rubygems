@@ -9,23 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 07:19 UTC
+## Latest list — 2026-11-07 09:19 UTC
 
-New gems created between 2026-11-07 06:20 UTC and 2026-11-07 07:19 UTC.
+New gems created between 2026-11-07 08:21 UTC and 2026-11-07 09:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-07T07-19-03-954631Z.csv)
+[Full CSV](data/new-gems-2026-11-07T09-19-56-814158Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-07 06:38:20 | [oxcop](https://rubygems.org/gems/oxcop) | 0.1.0 | Teddy Liu | MIT | oxcop reads your .rubocop.yml, accepts RuboCop's command-line options and print… |
-| 2026-11-07 06:38:20 | [oxcop](https://rubygems.org/gems/oxcop) | 0.1.0 | Teddy Liu | MIT | oxcop reads your .rubocop.yml, accepts RuboCop's command-line options and print… |
-| 2026-11-07 06:38:20 | [oxcop](https://rubygems.org/gems/oxcop) | 0.1.0 | Teddy Liu | MIT | oxcop reads your .rubocop.yml, accepts RuboCop's command-line options and print… |
-| 2026-11-07 06:38:20 | [oxcop](https://rubygems.org/gems/oxcop) | 0.1.0 | Teddy Liu | MIT | oxcop reads your .rubocop.yml, accepts RuboCop's command-line options and print… |
-| 2026-11-07 06:38:37 | [oxtree](https://rubygems.org/gems/oxtree) | 0.1.0 | Teddy Liu | MIT | oxtree formats Ruby and ERB exactly as syntax_tree 6.3.0 and w_syntax_tree-erb… |
-| 2026-11-07 06:38:37 | [oxtree](https://rubygems.org/gems/oxtree) | 0.1.0 | Teddy Liu | MIT | oxtree formats Ruby and ERB exactly as syntax_tree 6.3.0 and w_syntax_tree-erb… |
-| 2026-11-07 06:38:37 | [oxtree](https://rubygems.org/gems/oxtree) | 0.1.0 | Teddy Liu | MIT | oxtree formats Ruby and ERB exactly as syntax_tree 6.3.0 and w_syntax_tree-erb… |
-| 2026-11-07 06:38:37 | [oxtree](https://rubygems.org/gems/oxtree) | 0.1.0 | Teddy Liu | MIT | oxtree formats Ruby and ERB exactly as syntax_tree 6.3.0 and w_syntax_tree-erb… |
-| 2026-11-07 07:00:37 | [notebooklm](https://rubygems.org/gems/notebooklm) | 4.7.0 | Roomi Fields | MIT | Google ships no public API for the consumer NotebookLM. This gem does not own a… |
+| 2026-11-07 08:36:15 | [openproject_vk_id](https://rubygems.org/gems/openproject_vk_id) | 1.1.2 | NODMaster | GPL-3.0 | Adds VK ID-specific flow on top of existing OpenID Connect provider |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-07T08:36:15.126Z,openproject_vk_id,1.1.2,66,NODMaster,GPL-3.0,Adds VK ID-specific flow on top of existing OpenID Connect provider
