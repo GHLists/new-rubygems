@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 20:19 UTC
+## Latest list — 2026-11-07 21:19 UTC
 
-New gems created between 2026-11-07 19:19 UTC and 2026-11-07 20:19 UTC.
+New gems created between 2026-11-07 20:19 UTC and 2026-11-07 21:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-07T20-19-31-972811Z.csv)
+[Full CSV](data/new-gems-2026-11-07T21-19-08-15677Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-07 19:52:35 | [keystone_ui-app](https://rubygems.org/gems/keystone_ui-app) | 0.2.0 | Tyler Schneider | MIT | A companion engine for keystone_ui that draws a layout's page frame for desktop… |
-| 2026-11-07 20:09:34 | [typed_env](https://rubygems.org/gems/typed_env) | 1.0.0 | Dmitry Arkhipov | MIT | TypedEnv provides a clean DSL for managing environment variables with type coer… |
+| 2026-11-07 20:54:55 | [rspec-osc7501](https://rubygems.org/gems/rspec-osc7501) | 0.1.0 | Brian Cosgrove | Apache-2.0 | Reports RSpec suite progress and outcomes through OSC 7501. |
+| 2026-11-07 21:05:00 | [flagbearer](https://rubygems.org/gems/flagbearer) | 0.1.0 | Flagbearer | MIT | Check Flagbearer feature flags locally on the server: rules stream in, checks n… |
 
 ## Data source
 
