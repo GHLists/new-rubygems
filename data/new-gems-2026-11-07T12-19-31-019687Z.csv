@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-07T12:06:53.795Z,tensaku,0.0.1,19,David Afonso,MIT,"Tensaku lets you click text on a Rails page in development and write the change back to the ERB template, the locale YAML or the Markdown source, or leave notes on elements and areas that a coding agent reads with the exact file and line. Built on Herb through ReActionView. Development only."
