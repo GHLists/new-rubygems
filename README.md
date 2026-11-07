@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 01:18 UTC
+## Latest list — 2026-11-07 02:20 UTC
 
-New gems created between 2026-11-07 00:18 UTC and 2026-11-07 01:18 UTC.
+New gems created between 2026-11-07 01:18 UTC and 2026-11-07 02:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-07T01-18-59-194181Z.csv)
+[Full CSV](data/new-gems-2026-11-07T02-20-18-173023Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-07 00:39:06 | [h8revoc-a33e](https://rubygems.org/gems/h8revoc-a33e) | 0.1.0 | Nick Quaranto |  | A simple hello world gem |
+| 2026-11-07 01:33:23 | [chemomer](https://rubygems.org/gems/chemomer) | 0.1.0.1 | Ribose Inc. | MIT | Chemomer drives the native chemomer engine — the Rust InChI port gated by the s… |
 
 ## Data source
 

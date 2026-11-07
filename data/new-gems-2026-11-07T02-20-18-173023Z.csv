@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-07T01:33:23.82Z,chemomer,0.1.0.1,64,Ribose Inc.,MIT,Chemomer drives the native chemomer engine — the Rust InChI port gated by the shared oracle corpus — through its C ABI via FFI. from_molfile returns the InChI identifier and the InChIKey; aux_from_molfile returns the AuxInfo line. No engine code is vendored: the cdylib is a runtime artifact.
