@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-07T23:19:06.492Z,ruby-gem-release,0.2.0,0,Daniel Doubrovkine,MIT,Reusable GitHub Actions workflow and Rake tasks for Ruby gem releases.
