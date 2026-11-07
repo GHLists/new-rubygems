@@ -1,0 +1,10 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-07T06:38:20.448Z,oxcop,0.1.0,22,Teddy Liu,MIT,"oxcop reads your .rubocop.yml, accepts RuboCop's command-line options and prints RuboCop-compatible output, but runs as a native binary. It tracks RuboCop 1.91.0."
+2026-11-07T06:38:20.448Z,oxcop,0.1.0,22,Teddy Liu,MIT,"oxcop reads your .rubocop.yml, accepts RuboCop's command-line options and prints RuboCop-compatible output, but runs as a native binary. It tracks RuboCop 1.91.0."
+2026-11-07T06:38:20.448Z,oxcop,0.1.0,22,Teddy Liu,MIT,"oxcop reads your .rubocop.yml, accepts RuboCop's command-line options and prints RuboCop-compatible output, but runs as a native binary. It tracks RuboCop 1.91.0."
+2026-11-07T06:38:20.448Z,oxcop,0.1.0,22,Teddy Liu,MIT,"oxcop reads your .rubocop.yml, accepts RuboCop's command-line options and prints RuboCop-compatible output, but runs as a native binary. It tracks RuboCop 1.91.0."
+2026-11-07T06:38:37.692Z,oxtree,0.1.0,23,Teddy Liu,MIT,"oxtree formats Ruby and ERB exactly as syntax_tree 6.3.0 and w_syntax_tree-erb 0.12.0 do, but runs as a native binary."
+2026-11-07T06:38:37.692Z,oxtree,0.1.0,23,Teddy Liu,MIT,"oxtree formats Ruby and ERB exactly as syntax_tree 6.3.0 and w_syntax_tree-erb 0.12.0 do, but runs as a native binary."
+2026-11-07T06:38:37.692Z,oxtree,0.1.0,23,Teddy Liu,MIT,"oxtree formats Ruby and ERB exactly as syntax_tree 6.3.0 and w_syntax_tree-erb 0.12.0 do, but runs as a native binary."
+2026-11-07T06:38:37.692Z,oxtree,0.1.0,23,Teddy Liu,MIT,"oxtree formats Ruby and ERB exactly as syntax_tree 6.3.0 and w_syntax_tree-erb 0.12.0 do, but runs as a native binary."
+2026-11-07T07:00:37.975Z,notebooklm,4.7.0,39,Roomi Fields,MIT,"Google ships no public API for the consumer NotebookLM. This gem does not own a browser: it talks to the local notebooklm-mcp server that does, and gives you its 56 operations as documented Ruby methods, generated from the server's OpenAPI specification. No runtime dependencies."
