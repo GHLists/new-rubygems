@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 22:21 UTC
+## Latest list — 2026-11-07 01:18 UTC
 
-New gems created between 2026-11-06 21:19 UTC and 2026-11-06 22:21 UTC.
+New gems created between 2026-11-07 00:18 UTC and 2026-11-07 01:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-06T22-21-10-587966Z.csv)
+[Full CSV](data/new-gems-2026-11-07T01-18-59-194181Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-06 21:45:32 | [ndb](https://rubygems.org/gems/ndb) | 0.3.1 | thadeu | MIT | Ndb::Client talks HTTP to ndb over a unix socket or TCP: collections, documents… |
-| 2026-11-06 21:45:33 | [ndb-rails](https://rubygems.org/gems/ndb-rails) | 0.3.1 | thadeu | MIT | Ndb::Record, a lazy Relation, validations, blobs and a Rails railtie on top of… |
-| 2026-11-06 21:50:20 | [lepus-saga](https://rubygems.org/gems/lepus-saga) | 0.3.2 | Marcos G. Zimmermann | MIT | Linear sagas with persisted executions, step attempts, retries, compensations a… |
+| 2026-11-07 00:39:06 | [h8revoc-a33e](https://rubygems.org/gems/h8revoc-a33e) | 0.1.0 | Nick Quaranto |  | A simple hello world gem |
 
 ## Data source
 
