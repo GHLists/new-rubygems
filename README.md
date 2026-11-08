@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 18:20 UTC
+## Latest list — 2026-11-08 19:20 UTC
 
-New gems created between 2026-11-08 17:20 UTC and 2026-11-08 18:20 UTC.
+New gems created between 2026-11-08 18:20 UTC and 2026-11-08 19:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-08T18-20-33-833807Z.csv)
+[Full CSV](data/new-gems-2026-11-08T19-20-49-803292Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-08 17:53:41 | [catdb-client](https://rubygems.org/gems/catdb-client) | 0.1.0 | catdb contributors | MIT | Read and write binary keys and values, commit transactions, and connect to catd… |
+| 2026-11-08 19:18:36 | [bundle_matrix](https://rubygems.org/gems/bundle_matrix) | 0.1.0 | Joe Sharp | MIT | A Bundler plugin. After install, update or add on the main Gemfile, it replays… |
 
 ## Data source
 

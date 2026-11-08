@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-08T19:18:36.26Z,bundle_matrix,0.1.0,0,Joe Sharp,MIT,"A Bundler plugin. After install, update or add on the main Gemfile, it replays the same command, with the same flags, against *.gemfile files in the project root and gemfiles/, and any extra directories configured with matrix.paths."
