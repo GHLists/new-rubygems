@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-08T02:31:10.43Z,c0data,0.3.1,70,Thomas Sawyer,MIT,"A thin, fast Ruby binding over the c0 C core. The read path is zero-copy; the scan-heavy work runs as native C."
+2026-11-08T02:52:47.63Z,harar,0.3.0,129,Sami Fouad,Apache-2.0,"harar's client: Harar.vault. Where each secret may go, and the secret itself for one host only."
+2026-11-08T03:03:28.963Z,macos.rb,0.50.1,87,thoran,MIT,"Work with macOS from Ruby: network interfaces and hardware ports, the system's version, defaults, disks and disk images, USB flash drives, applications, users, voices, the keychain and launchd."
+2026-11-08T03:06:38.919Z,hayaoki,0.1.0,26,Takato Hano,MIT,"hayaoki boot-report boots a Rails app in a child process with a probe and breaks boot time down by gem, initializer, on_load hook and eager loading, then suggests measured fixes. Built for cold starts on serverless and containers."
+2026-11-08T03:16:24.596Z,ruby-gem-release,0.3.1,0,Daniel Doubrovkine,MIT,Reusable GitHub Actions workflow and Rake tasks for Ruby gem releases.
