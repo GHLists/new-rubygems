@@ -1,0 +1,12 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-08T20:18:38.074Z,trapline,0.1.3,178,Jose Augusto,MIT,"Trapline is a web editor and CLI for writing and testing opengrep/semgrep rules, plus a generator that turns a CVE into rule drafts with test code. Test files stay in the standard --test format. INSTALL gem install trapline Trapline needs an engine on your PATH, opengrep (recommended) or semgrep: c…"
+2026-11-08T21:05:13.937Z,stem-mqtt-broker,0.7.0,18,Sorin Irimies,MIT,"Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-08T21:05:13.937Z,stem-mqtt-broker,0.7.0,18,Sorin Irimies,MIT,"Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-08T21:05:13.937Z,stem-mqtt-broker,0.7.0,18,Sorin Irimies,MIT,"Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-08T21:05:13.937Z,stem-mqtt-broker,0.7.0,18,Sorin Irimies,MIT,"Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-08T21:05:13.937Z,stem-mqtt-broker,0.7.0,18,Sorin Irimies,MIT,"Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-08T21:05:18.013Z,stem-mqtt-client,0.7.0,27,Sorin Irimies,MIT,"MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-08T21:05:18.013Z,stem-mqtt-client,0.7.0,27,Sorin Irimies,MIT,"MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-08T21:05:18.013Z,stem-mqtt-client,0.7.0,27,Sorin Irimies,MIT,"MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-08T21:05:18.013Z,stem-mqtt-client,0.7.0,27,Sorin Irimies,MIT,"MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-08T21:05:18.013Z,stem-mqtt-client,0.7.0,27,Sorin Irimies,MIT,"MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt)"
