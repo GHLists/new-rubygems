@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 13:19 UTC
+## Latest list — 2026-11-08 14:21 UTC
 
-New gems created between 2026-11-08 12:18 UTC and 2026-11-08 13:19 UTC.
+New gems created between 2026-11-08 13:19 UTC and 2026-11-08 14:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-08T13-19-29-709433Z.csv)
+[Full CSV](data/new-gems-2026-11-08T14-21-08-617778Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-08 12:37:50 | [tensaku](https://rubygems.org/gems/tensaku) | 0.1.0 | David Afonso | MIT | Tensaku lets you click text on a Rails page in development and write the change… |
-| 2026-11-08 12:38:34 | [macos.rb](https://rubygems.org/gems/macos.rb) | 0.50.3 | thoran | MIT | Work with macOS from Ruby: network interfaces and hardware ports, the system's… |
+| 2026-11-08 14:13:16 | [guesty-client](https://rubygems.org/gems/guesty-client) | 0.1.0 | Guestit | MIT | One operation per Guesty Open API endpoint, returning dry-monads Results, with… |
 
 ## Data source
 
