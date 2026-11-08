@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-08T11:47:09.819Z,wurm,0.0.1,60,Dittmar Krall,MIT,A pretty printer for Ruby objects with circular reference detection.

@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 11:20 UTC
+## Latest list — 2026-11-08 12:18 UTC
 
-New gems created between 2026-11-08 10:20 UTC and 2026-11-08 11:20 UTC.
+New gems created between 2026-11-08 11:20 UTC and 2026-11-08 12:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-08T11-20-29-51476Z.csv)
+[Full CSV](data/new-gems-2026-11-08T12-18-30-49009Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-08 10:23:26 | [chemomer](https://rubygems.org/gems/chemomer) | 0.1.0.3 | Ribose Inc. | MIT | Chemomer drives the native chemomer engine — the Rust InChI port gated by the s… |
-| 2026-11-08 10:52:45 | [hayaoki](https://rubygems.org/gems/hayaoki) | 0.2.0 | Takato Hano | MIT | hayaoki boot-report boots a Rails app in a child process with a probe and break… |
-| 2026-11-08 11:14:13 | [etunnel](https://rubygems.org/gems/etunnel) | 1.0.0 | etunnel authors | MIT | Expose a local service through an etunnel reverse-tunnel server with one line o… |
+| 2026-11-08 11:47:09 | [wurm](https://rubygems.org/gems/wurm) | 0.0.1 | Dittmar Krall | MIT | A pretty printer for Ruby objects with circular reference detection. |
 
 ## Data source
 
