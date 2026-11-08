@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-07T23:37:48.949Z,ruby-gem-release,0.2.1,76,Daniel Doubrovkine,MIT,Reusable GitHub Actions workflow and Rake tasks for Ruby gem releases.
+2026-11-08T00:15:40.952Z,harar,0.2.0,0,Sami Fouad,Apache-2.0,"harar's client: Harar.vault. Where each secret may go, and the secret itself for one host only."
