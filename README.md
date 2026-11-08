@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 07:19 UTC
+## Latest list — 2026-11-08 11:20 UTC
 
-New gems created between 2026-11-08 06:18 UTC and 2026-11-08 07:19 UTC.
+New gems created between 2026-11-08 10:20 UTC and 2026-11-08 11:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-08T07-19-14-484899Z.csv)
+[Full CSV](data/new-gems-2026-11-08T11-20-29-51476Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-08 06:45:57 | [flux3_ai_prompt_tools](https://rubygems.org/gems/flux3_ai_prompt_tools) | 0.1.0 | Andy Wang | MIT | Offline Ruby library and command-line tool that validates structured prompt spe… |
-| 2026-11-08 07:13:49 | [mp](https://rubygems.org/gems/mp) | 0.1.5 | takkanm | MIT | Markdown を全画面プレゼンテーションにするツール(ターミナル / Web 埋め込み対応) |
-| 2026-11-08 07:14:55 | [tess_edit](https://rubygems.org/gems/tess_edit) | 0.2.0 | Tom de Grunt | MIT | A drag-and-drop block editor that stores a JSON tree and exports MJML and HTML,… |
+| 2026-11-08 10:23:26 | [chemomer](https://rubygems.org/gems/chemomer) | 0.1.0.3 | Ribose Inc. | MIT | Chemomer drives the native chemomer engine — the Rust InChI port gated by the s… |
+| 2026-11-08 10:52:45 | [hayaoki](https://rubygems.org/gems/hayaoki) | 0.2.0 | Takato Hano | MIT | hayaoki boot-report boots a Rails app in a child process with a probe and break… |
+| 2026-11-08 11:14:13 | [etunnel](https://rubygems.org/gems/etunnel) | 1.0.0 | etunnel authors | MIT | Expose a local service through an etunnel reverse-tunnel server with one line o… |
 
 ## Data source
 
