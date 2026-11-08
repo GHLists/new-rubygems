@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-08T17:53:41.055Z,catdb-client,0.1.0,54,catdb contributors,MIT,"Read and write binary keys and values, commit transactions, and connect to catdb with token or TLS account authentication."

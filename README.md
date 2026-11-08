@@ -9,25 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 17:20 UTC
+## Latest list — 2026-11-08 18:20 UTC
 
-New gems created between 2026-11-08 16:20 UTC and 2026-11-08 17:20 UTC.
+New gems created between 2026-11-08 17:20 UTC and 2026-11-08 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-08T17-20-34-289655Z.csv)
+[Full CSV](data/new-gems-2026-11-08T18-20-33-833807Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-08 17:08:08 | [stem-mqtt-broker](https://rubygems.org/gems/stem-mqtt-broker) | 0.6.1 | Sorin Irimies | MIT | Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 17:08:08 | [stem-mqtt-broker](https://rubygems.org/gems/stem-mqtt-broker) | 0.6.1 | Sorin Irimies | MIT | Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 17:08:08 | [stem-mqtt-broker](https://rubygems.org/gems/stem-mqtt-broker) | 0.6.1 | Sorin Irimies | MIT | Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 17:08:08 | [stem-mqtt-broker](https://rubygems.org/gems/stem-mqtt-broker) | 0.6.1 | Sorin Irimies | MIT | Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 17:08:08 | [stem-mqtt-broker](https://rubygems.org/gems/stem-mqtt-broker) | 0.6.1 | Sorin Irimies | MIT | Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 17:08:10 | [stem-mqtt-client](https://rubygems.org/gems/stem-mqtt-client) | 0.6.1 | Sorin Irimies | MIT | MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 17:08:10 | [stem-mqtt-client](https://rubygems.org/gems/stem-mqtt-client) | 0.6.1 | Sorin Irimies | MIT | MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 17:08:10 | [stem-mqtt-client](https://rubygems.org/gems/stem-mqtt-client) | 0.6.1 | Sorin Irimies | MIT | MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 17:08:10 | [stem-mqtt-client](https://rubygems.org/gems/stem-mqtt-client) | 0.6.1 | Sorin Irimies | MIT | MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 17:08:10 | [stem-mqtt-client](https://rubygems.org/gems/stem-mqtt-client) | 0.6.1 | Sorin Irimies | MIT | MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 17:15:41 | [deflake](https://rubygems.org/gems/deflake) | 0.1.0 | Roman Belyaev | MIT | deflake runs a suspicious test many times, measures how often it fails, tells a… |
+| 2026-11-08 17:53:41 | [catdb-client](https://rubygems.org/gems/catdb-client) | 0.1.0 | catdb contributors | MIT | Read and write binary keys and values, commit transactions, and connect to catd… |
 
 ## Data source
 
