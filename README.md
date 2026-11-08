@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 05:19 UTC
+## Latest list — 2026-11-08 06:18 UTC
 
-New gems created between 2026-11-08 04:20 UTC and 2026-11-08 05:19 UTC.
+New gems created between 2026-11-08 05:19 UTC and 2026-11-08 06:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-08T05-19-49-690173Z.csv)
+[Full CSV](data/new-gems-2026-11-08T06-18-38-61068Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-08 04:34:28 | [listo-delivery](https://rubygems.org/gems/listo-delivery) | 0.1.1 | Listo | MIT | Quote and book deliveries, manage stores and money, and verify webhooks with th… |
-| 2026-11-08 04:44:09 | [macos.rb](https://rubygems.org/gems/macos.rb) | 0.50.2 | thoran | MIT | Work with macOS from Ruby: network interfaces and hardware ports, the system's… |
-| 2026-11-08 04:56:31 | [harar](https://rubygems.org/gems/harar) | 0.3.1 | Sami Fouad | Apache-2.0 | harar's client: Harar.vault. Where each secret may go, and the secret itself fo… |
+| 2026-11-08 05:48:51 | [listo-delivery](https://rubygems.org/gems/listo-delivery) | 0.2.0 | Listo | MIT | Quote and book deliveries, manage stores and money, and verify webhooks with th… |
 
 ## Data source
 
