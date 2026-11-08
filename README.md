@@ -9,25 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 21:20 UTC
+## Latest list — 2026-11-08 22:21 UTC
 
-New gems created between 2026-11-08 20:18 UTC and 2026-11-08 21:20 UTC.
+New gems created between 2026-11-08 21:20 UTC and 2026-11-08 22:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-08T21-20-59-258865Z.csv)
+[Full CSV](data/new-gems-2026-11-08T22-21-06-730037Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-08 20:18:38 | [trapline](https://rubygems.org/gems/trapline) | 0.1.3 | Jose Augusto | MIT | Trapline is a web editor and CLI for writing and testing opengrep/semgrep rules… |
-| 2026-11-08 21:05:13 | [stem-mqtt-broker](https://rubygems.org/gems/stem-mqtt-broker) | 0.7.0 | Sorin Irimies | MIT | Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 21:05:13 | [stem-mqtt-broker](https://rubygems.org/gems/stem-mqtt-broker) | 0.7.0 | Sorin Irimies | MIT | Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 21:05:13 | [stem-mqtt-broker](https://rubygems.org/gems/stem-mqtt-broker) | 0.7.0 | Sorin Irimies | MIT | Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 21:05:13 | [stem-mqtt-broker](https://rubygems.org/gems/stem-mqtt-broker) | 0.7.0 | Sorin Irimies | MIT | Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 21:05:13 | [stem-mqtt-broker](https://rubygems.org/gems/stem-mqtt-broker) | 0.7.0 | Sorin Irimies | MIT | Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 21:05:18 | [stem-mqtt-client](https://rubygems.org/gems/stem-mqtt-client) | 0.7.0 | Sorin Irimies | MIT | MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 21:05:18 | [stem-mqtt-client](https://rubygems.org/gems/stem-mqtt-client) | 0.7.0 | Sorin Irimies | MIT | MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 21:05:18 | [stem-mqtt-client](https://rubygems.org/gems/stem-mqtt-client) | 0.7.0 | Sorin Irimies | MIT | MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 21:05:18 | [stem-mqtt-client](https://rubygems.org/gems/stem-mqtt-client) | 0.7.0 | Sorin Irimies | MIT | MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt) |
-| 2026-11-08 21:05:18 | [stem-mqtt-client](https://rubygems.org/gems/stem-mqtt-client) | 0.7.0 | Sorin Irimies | MIT | MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt) |
+| 2026-11-08 21:59:27 | [tess_edit](https://rubygems.org/gems/tess_edit) | 0.2.2 | Tom de Grunt | MIT | A drag-and-drop block editor that stores a JSON tree and exports MJML and HTML,… |
 
 ## Data source
 

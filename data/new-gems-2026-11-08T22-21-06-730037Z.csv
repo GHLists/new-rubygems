@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-08T21:59:27.742Z,tess_edit,0.2.2,76,Tom de Grunt,MIT,"A drag-and-drop block editor that stores a JSON tree and exports MJML and HTML, with Liquid support. Vanilla JavaScript and Stimulus, served through importmap."
