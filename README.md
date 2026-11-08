@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 01:20 UTC
+## Latest list — 2026-11-08 02:20 UTC
 
-New gems created between 2026-11-08 00:19 UTC and 2026-11-08 01:20 UTC.
+New gems created between 2026-11-08 01:20 UTC and 2026-11-08 02:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-08T01-20-19-678368Z.csv)
+[Full CSV](data/new-gems-2026-11-08T02-20-07-12373Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-08 00:50:34 | [kettle-fwd](https://rubygems.org/gems/kettle-fwd) | 0.1.0 | Peter H. Boling | MIT | 💎 This initial release is a package scaffold for a future Kettle family compone… |
+| 2026-11-08 02:13:09 | [ruby-gem-release](https://rubygems.org/gems/ruby-gem-release) | 0.2.3 | Daniel Doubrovkine | MIT | Reusable GitHub Actions workflow and Rake tasks for Ruby gem releases. |
+| 2026-11-08 02:17:15 | [signingflow](https://rubygems.org/gems/signingflow) | 0.1.0 | Signingflow | MIT | Send a document, read envelope status, and verify webhook signatures with the S… |
 
 ## Data source
 
