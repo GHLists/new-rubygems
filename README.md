@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 12:18 UTC
+## Latest list — 2026-11-08 13:19 UTC
 
-New gems created between 2026-11-08 11:20 UTC and 2026-11-08 12:18 UTC.
+New gems created between 2026-11-08 12:18 UTC and 2026-11-08 13:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-08T12-18-30-49009Z.csv)
+[Full CSV](data/new-gems-2026-11-08T13-19-29-709433Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-08 11:47:09 | [wurm](https://rubygems.org/gems/wurm) | 0.0.1 | Dittmar Krall | MIT | A pretty printer for Ruby objects with circular reference detection. |
+| 2026-11-08 12:37:50 | [tensaku](https://rubygems.org/gems/tensaku) | 0.1.0 | David Afonso | MIT | Tensaku lets you click text on a Rails page in development and write the change… |
+| 2026-11-08 12:38:34 | [macos.rb](https://rubygems.org/gems/macos.rb) | 0.50.3 | thoran | MIT | Work with macOS from Ruby: network interfaces and hardware ports, the system's… |
 
 ## Data source
 
