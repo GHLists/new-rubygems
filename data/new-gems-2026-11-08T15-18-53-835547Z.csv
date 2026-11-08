@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-08T14:42:28.938Z,macos.rb,0.50.4,68,thoran,MIT,"Work with macOS from Ruby: network interfaces and hardware ports, the system's version, defaults, disks and disk images, USB flash drives, applications, users, voices, the keychain and launchd."
+2026-11-08T15:08:40.756Z,ruby-gem-release,0.4.0,39,Daniel Doubrovkine,MIT,Reusable GitHub Actions workflow and Rake tasks for Ruby gem releases.
