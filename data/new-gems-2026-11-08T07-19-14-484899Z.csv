@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-08T06:45:57.095Z,flux3_ai_prompt_tools,0.1.0,59,Andy Wang,MIT,"Offline Ruby library and command-line tool that validates structured prompt specifications and assembles text-to-image prompts into JSON and JSONL manifests. It does not generate images, call a model API, or send data over the network. It is an independent utility by Andy Wang and is not a Black Fo…"
+2026-11-08T07:13:49.219Z,mp,0.1.5,0,takkanm,MIT,Markdown を全画面プレゼンテーションにするツール(ターミナル / Web 埋め込み対応)
+2026-11-08T07:14:55.207Z,tess_edit,0.2.0,0,Tom de Grunt,MIT,"A drag-and-drop block editor that stores a JSON tree and exports MJML and HTML, with Liquid support. Vanilla JavaScript and Stimulus, served through importmap."
