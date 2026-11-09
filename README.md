@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 10:18 UTC
+## Latest list — 2026-11-09 11:20 UTC
 
-New gems created between 2026-11-09 09:18 UTC and 2026-11-09 10:18 UTC.
+New gems created between 2026-11-09 10:18 UTC and 2026-11-09 11:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-09T10-18-54-022856Z.csv)
+[Full CSV](data/new-gems-2026-11-09T11-20-29-845207Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-09 09:30:02 | [listo-delivery](https://rubygems.org/gems/listo-delivery) | 0.7.0 | Listo | MIT | Quote and book deliveries, manage stores and money, and verify webhooks with th… |
+| 2026-11-09 10:34:35 | [hayaoki](https://rubygems.org/gems/hayaoki) | 0.2.1 | Takato Hano | MIT | hayaoki boot-report boots a Rails app in a child process with a probe and break… |
 
 ## Data source
 
