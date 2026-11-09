@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 15:20 UTC
+## Latest list — 2026-11-09 16:21 UTC
 
-New gems created between 2026-11-09 14:18 UTC and 2026-11-09 15:20 UTC.
+New gems created between 2026-11-09 15:20 UTC and 2026-11-09 16:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-09T15-20-37-287657Z.csv)
+[Full CSV](data/new-gems-2026-11-09T16-21-13-409342Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-09 14:41:58 | [hayaoki](https://rubygems.org/gems/hayaoki) | 0.3.0 | Takato Hano | MIT | hayaoki boot-report boots a Rails app in a child process with a probe and break… |
-| 2026-11-09 14:43:15 | [testsift](https://rubygems.org/gems/testsift) | 0.0.1 | Sebastian Sala, Abhimanyu Sin… | MIT | TestSift records the inputs each RSpec example consumes -- using Ruby's built-i… |
-| 2026-11-09 14:53:45 | [agent-council](https://rubygems.org/gems/agent-council) | 0.1.0 | Keith R. Bennett | MIT | AgentCouncil runs the same prompt through several AI coding agents on your proj… |
-| 2026-11-09 15:16:31 | [etunnel](https://rubygems.org/gems/etunnel) | 1.3.1 | etunnel authors | MIT | #{LONG} |
+| 2026-11-09 15:32:43 | [zappb-exceptions](https://rubygems.org/gems/zappb-exceptions) | 1.0.0 | BPO Advisors | MIT | Exception handling for microservices in an MSA architecture that communicate th… |
+| 2026-11-09 15:51:25 | [listo-delivery](https://rubygems.org/gems/listo-delivery) | 0.8.0 | Listo | MIT | Quote and book deliveries, manage stores and money, and verify webhooks with th… |
+| 2026-11-09 16:10:36 | [peal](https://rubygems.org/gems/peal) | 0.1.0 | Peal | Apache-2.0 | Client for the Peal API: schedule social media posts across platforms. |
 
 ## Data source
 
