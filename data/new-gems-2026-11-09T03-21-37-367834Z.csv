@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-09T02:43:42.51Z,listo-delivery,0.5.0,87,Listo,MIT,"Quote and book deliveries, manage stores and money, and verify webhooks with the Listo Delivery API. Standard library only."
+2026-11-09T02:58:34.996Z,etunnel,1.2.0,69,etunnel authors,MIT,#{LONG}

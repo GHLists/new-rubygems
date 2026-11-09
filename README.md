@@ -9,20 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 02:20 UTC
+## Latest list — 2026-11-09 03:21 UTC
 
-New gems created between 2026-11-09 01:21 UTC and 2026-11-09 02:20 UTC.
+New gems created between 2026-11-09 02:20 UTC and 2026-11-09 03:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-09T02-20-40-798255Z.csv)
+[Full CSV](data/new-gems-2026-11-09T03-21-37-367834Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-09 01:25:19 | [listo-delivery](https://rubygems.org/gems/listo-delivery) | 0.4.0 | Listo | MIT | Quote and book deliveries, manage stores and money, and verify webhooks with th… |
-| 2026-11-09 02:02:27 | [macos.rb](https://rubygems.org/gems/macos.rb) | 0.50.7 | thoran | MIT | Work with macOS from Ruby: network interfaces and hardware ports, the system's… |
-| 2026-11-09 02:12:37 | [skyward-core](https://rubygems.org/gems/skyward-core) | 0.2.0 | Jake Bottrall | MIT | The plumbing Skyward API and Skyward ORM share: the namespace, the skyward comm… |
-| 2026-11-09 02:12:38 | [skyward-api](https://rubygems.org/gems/skyward-api) | 0.2.0 | Jake Bottrall | MIT | A small, fast web framework where an endpoint is a method, typed with RBS. |
-| 2026-11-09 02:12:39 | [skyward-orm](https://rubygems.org/gems/skyward-orm) | 0.2.0 | Jake Bottrall | MIT | A small, fast ORM where a class is a table and its rows are values, typed with… |
-| 2026-11-09 02:12:40 | [skyward](https://rubygems.org/gems/skyward) | 0.2.0 | Jake Bottrall | MIT | Skyward API and Skyward ORM: typed Ruby apps where an endpoint is a method and… |
+| 2026-11-09 02:43:42 | [listo-delivery](https://rubygems.org/gems/listo-delivery) | 0.5.0 | Listo | MIT | Quote and book deliveries, manage stores and money, and verify webhooks with th… |
+| 2026-11-09 02:58:34 | [etunnel](https://rubygems.org/gems/etunnel) | 1.2.0 | etunnel authors | MIT | #{LONG} |
 
 ## Data source
 
