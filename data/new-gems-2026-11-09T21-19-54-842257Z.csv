@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-09T21:07:56.696Z,feature_machine,0.1.0,6,codenamev,MIT,A mountable Rails engine for the feature-request -> triage -> work-item -> agent hand-off loop.
+2026-11-09T21:08:45.598Z,deflake,0.2.1,11,Roman Belyaev,MIT,"deflake runs a suspicious test many times, measures how often it fails, tells apart failures that happen on their own from failures caused by test order, finds the tests that cause them, and detects global state that tests leave behind: ENV, the clock, globals, Rails.cache, Current attributes, data…"
