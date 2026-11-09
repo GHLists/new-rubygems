@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-09T17:34:17.828Z,peal,0.2.0,66,Peal,Apache-2.0,Client for the Peal API: schedule social media posts across platforms.
+2026-11-09T17:44:08.386Z,gitlab-cbor,1.0.0,54,"Carsten Bormann, standing on the tall shoulders of Sadayuki Furuhashi",Apache-2.0,"GitLab's fork of the cbor gem. Decoding no longer reconstructs object-constructing tags (Regexp, URI) unless the caller opts in via reconstruct_from_tags:, so an untrusted CBOR.decode cannot reach Regexp.new. Based on Carsten Bormann's cbor, itself based on Sadayuki Furuhashi's MessagePack library."
