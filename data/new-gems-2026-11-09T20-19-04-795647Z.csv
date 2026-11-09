@@ -1,0 +1,14 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-09T19:20:49.078Z,anectico,0.0.0,69,"Anectico, Inc.",MIT,Reserved for the official Anectico Ruby SDK. Version 1.0.0 is the first release; this placeholder contains no code.
+2026-11-09T19:31:45.472Z,stem-mqtt-client,0.8.0,30,Sorin Irimies,MIT,"MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-09T19:31:45.472Z,stem-mqtt-client,0.8.0,30,Sorin Irimies,MIT,"MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-09T19:31:45.472Z,stem-mqtt-client,0.8.0,30,Sorin Irimies,MIT,"MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-09T19:31:45.472Z,stem-mqtt-client,0.8.0,30,Sorin Irimies,MIT,"MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-09T19:31:45.472Z,stem-mqtt-client,0.8.0,30,Sorin Irimies,MIT,"MQTT 3.1.1/5.0 client for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-09T19:31:47.412Z,stem-mqtt-broker,0.8.0,29,Sorin Irimies,MIT,"Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-09T19:31:47.412Z,stem-mqtt-broker,0.8.0,29,Sorin Irimies,MIT,"Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-09T19:31:47.412Z,stem-mqtt-broker,0.8.0,29,Sorin Irimies,MIT,"Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-09T19:31:47.412Z,stem-mqtt-broker,0.8.0,29,Sorin Irimies,MIT,"Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-09T19:31:47.412Z,stem-mqtt-broker,0.8.0,29,Sorin Irimies,MIT,"Embeddable MQTT 3.1.1/5.0 broker for Ruby, implemented in Rust (stem-mqtt)"
+2026-11-09T19:42:32.835Z,peal,0.3.0,87,Peal,Apache-2.0,Client for the Peal API: schedule social media posts across platforms.
+2026-11-09T19:53:52.55Z,deflake,0.2.0,54,Roman Belyaev,MIT,"deflake runs a suspicious test many times, measures how often it fails, tells apart failures that happen on their own from failures caused by test order, finds the tests that cause them, and detects global state that tests leave behind: ENV, the clock, globals, Rails.cache, Current attributes, data…"
