@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-09T01:25:19.262Z,listo-delivery,0.4.0,154,Listo,MIT,"Quote and book deliveries, manage stores and money, and verify webhooks with the Listo Delivery API. Standard library only."
+2026-11-09T02:02:27.474Z,macos.rb,0.50.7,43,thoran,MIT,"Work with macOS from Ruby: network interfaces and hardware ports, the system's version, defaults, disks and disk images, USB flash drives, applications, users, voices, the keychain and launchd."
+2026-11-09T02:12:37.078Z,skyward-core,0.2.0,3,Jake Bottrall,MIT,"The plumbing Skyward API and Skyward ORM share: the namespace, the skyward command and RBS loading."
+2026-11-09T02:12:38.225Z,skyward-api,0.2.0,4,Jake Bottrall,MIT,"A small, fast web framework where an endpoint is a method, typed with RBS."
+2026-11-09T02:12:39.298Z,skyward-orm,0.2.0,5,Jake Bottrall,MIT,"A small, fast ORM where a class is a table and its rows are values, typed with RBS."
+2026-11-09T02:12:40.477Z,skyward,0.2.0,4,Jake Bottrall,MIT,Skyward API and Skyward ORM: typed Ruby apps where an endpoint is a method and a row is a value.
