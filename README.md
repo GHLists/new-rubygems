@@ -9,29 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 14:18 UTC
+## Latest list — 2026-11-09 15:20 UTC
 
-New gems created between 2026-11-09 13:21 UTC and 2026-11-09 14:18 UTC.
+New gems created between 2026-11-09 14:18 UTC and 2026-11-09 15:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-09T14-18-56-602648Z.csv)
+[Full CSV](data/new-gems-2026-11-09T15-20-37-287657Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-09 14:04:30 | [etunnel](https://rubygems.org/gems/etunnel) | 1.3.0 | etunnel authors | MIT | #{LONG} |
-| 2026-11-09 14:13:44 | [gemfile-audit](https://rubygems.org/gems/gemfile-audit) | 1.1.0 | Despo Pentara | MIT | Runs around your test suite in CI and measures your Rails app's tests, deprecat… |
-| 2026-11-09 14:14:20 | [aigifmaker](https://rubygems.org/gems/aigifmaker) | 0.1.0 | hanshs474 | MIT | Turn text into animated GIFs with AI GIF Maker. Native GIF generation — no vide… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
-| 2026-11-09 14:14:35 | [ziperu](https://rubygems.org/gems/ziperu) | 0.1.2 | Maor Caplan | MIT | Zip reading and writing for Ruby with rubyzip's API under the Ziperu namespace,… |
+| 2026-11-09 14:41:58 | [hayaoki](https://rubygems.org/gems/hayaoki) | 0.3.0 | Takato Hano | MIT | hayaoki boot-report boots a Rails app in a child process with a probe and break… |
+| 2026-11-09 14:43:15 | [testsift](https://rubygems.org/gems/testsift) | 0.0.1 | Sebastian Sala, Abhimanyu Sin… | MIT | TestSift records the inputs each RSpec example consumes -- using Ruby's built-i… |
+| 2026-11-09 14:53:45 | [agent-council](https://rubygems.org/gems/agent-council) | 0.1.0 | Keith R. Bennett | MIT | AgentCouncil runs the same prompt through several AI coding agents on your proj… |
+| 2026-11-09 15:16:31 | [etunnel](https://rubygems.org/gems/etunnel) | 1.3.1 | etunnel authors | MIT | #{LONG} |
 
 ## Data source
 
