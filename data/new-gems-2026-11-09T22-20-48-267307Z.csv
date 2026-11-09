@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-09T22:18:32.57Z,gemfile-audit,1.1.1,0,Despo Pentara,MIT,"Runs around your test suite in CI and measures your Rails app's tests, deprecations and runtimes for a gemfile.io upgrade report."

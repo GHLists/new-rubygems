@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 21:19 UTC
+## Latest list — 2026-11-09 22:20 UTC
 
-New gems created between 2026-11-09 20:19 UTC and 2026-11-09 21:19 UTC.
+New gems created between 2026-11-09 21:19 UTC and 2026-11-09 22:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-09T21-19-54-842257Z.csv)
+[Full CSV](data/new-gems-2026-11-09T22-20-48-267307Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-09 21:07:56 | [feature_machine](https://rubygems.org/gems/feature_machine) | 0.1.0 | codenamev | MIT | A mountable Rails engine for the feature-request -> triage -> work-item -> agen… |
-| 2026-11-09 21:08:45 | [deflake](https://rubygems.org/gems/deflake) | 0.2.1 | Roman Belyaev | MIT | deflake runs a suspicious test many times, measures how often it fails, tells a… |
+| 2026-11-09 22:18:32 | [gemfile-audit](https://rubygems.org/gems/gemfile-audit) | 1.1.1 | Despo Pentara | MIT | Runs around your test suite in CI and measures your Rails app's tests, deprecat… |
 
 ## Data source
 
