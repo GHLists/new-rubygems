@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 05:19 UTC
+## Latest list — 2026-11-09 06:19 UTC
 
-New gems created between 2026-11-09 04:19 UTC and 2026-11-09 05:19 UTC.
+New gems created between 2026-11-09 05:19 UTC and 2026-11-09 06:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-09T05-19-03-873954Z.csv)
+[Full CSV](data/new-gems-2026-11-09T06-19-07-90143Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-09 04:45:35 | [rspec-osc7501](https://rubygems.org/gems/rspec-osc7501) | 0.1.2 | Brian Cosgrove | Apache-2.0 | Reports RSpec suite progress and outcomes through OSC 7501. |
-| 2026-11-09 04:55:56 | [etunnel](https://rubygems.org/gems/etunnel) | 1.2.2 | etunnel authors | MIT | #{LONG} |
-| 2026-11-09 05:12:06 | [i17-scope-probe-340ebb02](https://rubygems.org/gems/i17-scope-probe-340ebb02) | 0.0.1 | i17 audit | MIT | Test gem created and yanked by the security assessment; contains no code. |
+| 2026-11-09 05:22:29 | [etunnel](https://rubygems.org/gems/etunnel) | 1.2.3 | etunnel authors | MIT | #{LONG} |
 
 ## Data source
 
