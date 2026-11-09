@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-09T18:46:44.294Z,rubocop-d3mlabs,1.0.0,51,Jean-Philippe Duchesne,MIT,"One rubocop.yml every d3mlabs Ruby repo inherits (`inherit_gem: rubocop-d3mlabs: rubocop.yml`): Shopify's style guide, rubocop-sorbet, and the org's own rules on top. No cops of its own."
