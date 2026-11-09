@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 11:20 UTC
+## Latest list — 2026-11-09 12:21 UTC
 
-New gems created between 2026-11-09 10:18 UTC and 2026-11-09 11:20 UTC.
+New gems created between 2026-11-09 11:20 UTC and 2026-11-09 12:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-09T11-20-29-845207Z.csv)
+[Full CSV](data/new-gems-2026-11-09T12-21-14-418122Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-09 10:34:35 | [hayaoki](https://rubygems.org/gems/hayaoki) | 0.2.1 | Takato Hano | MIT | hayaoki boot-report boots a Rails app in a child process with a probe and break… |
+| 2026-11-09 11:28:46 | [trapline](https://rubygems.org/gems/trapline) | 0.1.4 | Jose Augusto | MIT | Trapline is a web editor and CLI for writing and testing opengrep/semgrep rules… |
 
 ## Data source
 

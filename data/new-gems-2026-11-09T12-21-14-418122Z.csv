@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-09T11:28:46.773Z,trapline,0.1.4,117,Jose Augusto,MIT,"Trapline is a web editor and CLI for writing and testing opengrep/semgrep rules, plus a generator that turns a CVE into rule drafts with test code. It runs standalone, as a Rack app or mounted in Rails. See the README for installation and usage: https://github.com/JAugusto42/trapline#readme"
