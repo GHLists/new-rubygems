@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-08T23:21:41.455Z,macos.rb,0.50.5,83,thoran,MIT,"Work with macOS from Ruby: network interfaces and hardware ports, the system's version, defaults, disks and disk images, USB flash drives, applications, users, voices, the keychain and launchd."

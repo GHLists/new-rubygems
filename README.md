@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 22:21 UTC
+## Latest list — 2026-11-09 00:21 UTC
 
-New gems created between 2026-11-08 21:20 UTC and 2026-11-08 22:21 UTC.
+New gems created between 2026-11-08 23:18 UTC and 2026-11-09 00:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-08T22-21-06-730037Z.csv)
+[Full CSV](data/new-gems-2026-11-09T00-21-19-824045Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-08 21:59:27 | [tess_edit](https://rubygems.org/gems/tess_edit) | 0.2.2 | Tom de Grunt | MIT | A drag-and-drop block editor that stores a JSON tree and exports MJML and HTML,… |
+| 2026-11-08 23:21:41 | [macos.rb](https://rubygems.org/gems/macos.rb) | 0.50.5 | thoran | MIT | Work with macOS from Ruby: network interfaces and hardware ports, the system's… |
 
 ## Data source
 
