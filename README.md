@@ -9,15 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 22:20 UTC
+## Latest list — 2026-11-10 23:19 UTC
 
-New gems created between 2026-11-10 21:21 UTC and 2026-11-10 22:20 UTC.
+New gems created between 2026-11-10 22:20 UTC and 2026-11-10 23:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T22-20-50-382455Z.csv)
+[Full CSV](data/new-gems-2026-11-10T23-19-37-88721Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 21:32:15 | [sillydev](https://rubygems.org/gems/sillydev) | 1.0.0 | Silly Development | MIT | Start, stop and restart your servers, send console commands, manage files, back… |
+| 2026-11-10 22:33:58 | [firemq](https://rubygems.org/gems/firemq) | 0.1.0 | The FireMQ Authors | Apache-2.0 | UniFFI bindings over firemq-client, the Rust client for the FireMQ message brok… |
+| 2026-11-10 22:33:58 | [firemq](https://rubygems.org/gems/firemq) | 0.1.0 | The FireMQ Authors | Apache-2.0 | UniFFI bindings over firemq-client, the Rust client for the FireMQ message brok… |
+| 2026-11-10 22:33:58 | [firemq](https://rubygems.org/gems/firemq) | 0.1.0 | The FireMQ Authors | Apache-2.0 | UniFFI bindings over firemq-client, the Rust client for the FireMQ message brok… |
+| 2026-11-10 22:33:58 | [firemq](https://rubygems.org/gems/firemq) | 0.1.0 | The FireMQ Authors | Apache-2.0 | UniFFI bindings over firemq-client, the Rust client for the FireMQ message brok… |
+| 2026-11-10 22:33:58 | [firemq](https://rubygems.org/gems/firemq) | 0.1.0 | The FireMQ Authors | Apache-2.0 | UniFFI bindings over firemq-client, the Rust client for the FireMQ message brok… |
 
 ## Data source
 
