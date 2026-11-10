@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T09:37:31.071Z,balanced_vrp_clustering,0.4.1,66,Cartoway,,Gem for clustering points of a given VRP.
+2026-11-10T10:11:55.74Z,parakey-client,0.1.0,5,Guestit,MIT,"One operation per Parakey API endpoint, returning dry-monads Results, with retries and response normalization. Framework-free: the host injects the access token and the domain id."
