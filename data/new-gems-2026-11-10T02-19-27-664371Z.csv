@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T02:07:05.498Z,unidpp,0.1.0,18,UniDPP,MIT,"Ruby library for the UniDPP international Digital Product Passport framework: scheme-agnostic product identifiers (GS1 Digital Link, ISO/IEC 15459, GB/T 33993-style, URN), profile manifests (jurisdiction x sector x characteristic axes, trigger predicates, capability classes S0-S3, crypto-suite bind…"

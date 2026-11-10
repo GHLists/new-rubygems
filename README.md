@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 01:19 UTC
+## Latest list — 2026-11-10 02:19 UTC
 
-New gems created between 2026-11-10 00:19 UTC and 2026-11-10 01:19 UTC.
+New gems created between 2026-11-10 01:19 UTC and 2026-11-10 02:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T01-19-32-981649Z.csv)
+[Full CSV](data/new-gems-2026-11-10T02-19-27-664371Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 00:46:08 | [chargezen](https://rubygems.org/gems/chargezen) | 0.1.1 | Chargezen | MIT | Official Ruby SDK for the Chargezen API: customers, subscriptions, products and… |
-| 2026-11-10 01:03:52 | [gemfile-audit](https://rubygems.org/gems/gemfile-audit) | 1.2.0 | Despo Pentara | MIT | Runs around your test suite in CI and measures your Rails app's tests, deprecat… |
+| 2026-11-10 02:07:05 | [unidpp](https://rubygems.org/gems/unidpp) | 0.1.0 | UniDPP | MIT | Ruby library for the UniDPP international Digital Product Passport framework: s… |
 
 ## Data source
 
