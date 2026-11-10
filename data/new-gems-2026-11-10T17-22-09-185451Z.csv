@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T16:44:55.072Z,kamal-image-retention,0.1.1,62,Anton Kopylov,Nonstandard,Retain recent Kamal builds on the build machine and in a private Distribution registry

@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 16:19 UTC
+## Latest list — 2026-11-10 17:22 UTC
 
-New gems created between 2026-11-10 15:19 UTC and 2026-11-10 16:19 UTC.
+New gems created between 2026-11-10 16:19 UTC and 2026-11-10 17:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T16-19-02-87Z.csv)
+[Full CSV](data/new-gems-2026-11-10T17-22-09-185451Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 16:08:15 | [rueda](https://rubygems.org/gems/rueda) | 0.1.0 | Ariel Rzezak | MIT | Fetches your Garmin Connect activities and prints them as a table, JSON, NDJSON… |
+| 2026-11-10 16:44:55 | [kamal-image-retention](https://rubygems.org/gems/kamal-image-retention) | 0.1.1 | Anton Kopylov | Nonstandard | Retain recent Kamal builds on the build machine and in a private Distribution r… |
 
 ## Data source
 
