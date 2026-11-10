@@ -9,15 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 05:21 UTC
+## Latest list — 2026-11-10 06:21 UTC
 
-New gems created between 2026-11-10 04:20 UTC and 2026-11-10 05:21 UTC.
+New gems created between 2026-11-10 05:21 UTC and 2026-11-10 06:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T05-21-20-920225Z.csv)
+[Full CSV](data/new-gems-2026-11-10T06-21-01-448124Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 04:50:22 | [etunnel](https://rubygems.org/gems/etunnel) | 1.4.0 | etunnel authors | MIT | #{LONG} |
+| 2026-11-10 05:44:49 | [context_drop](https://rubygems.org/gems/context_drop) | 0.1.0 | Kemal Elmizan | MIT | ContextDrop is a self-hosted contextual feedback library for Ruby on Rails appl… |
+| 2026-11-10 06:03:59 | [roo-calamine](https://rubygems.org/gems/roo-calamine) | 0.0.1 | Sebastian Sala | MIT | Unofficial plugin for roo. Add it to the Gemfile and Roo::Excelx reads workshee… |
+| 2026-11-10 06:03:59 | [roo-calamine](https://rubygems.org/gems/roo-calamine) | 0.0.1 | Sebastian Sala | MIT | Unofficial plugin for roo. Add it to the Gemfile and Roo::Excelx reads workshee… |
+| 2026-11-10 06:03:59 | [roo-calamine](https://rubygems.org/gems/roo-calamine) | 0.0.1 | Sebastian Sala | MIT | Unofficial plugin for roo. Add it to the Gemfile and Roo::Excelx reads workshee… |
+| 2026-11-10 06:03:59 | [roo-calamine](https://rubygems.org/gems/roo-calamine) | 0.0.1 | Sebastian Sala | MIT | Unofficial plugin for roo. Add it to the Gemfile and Roo::Excelx reads workshee… |
+| 2026-11-10 06:03:59 | [roo-calamine](https://rubygems.org/gems/roo-calamine) | 0.0.1 | Sebastian Sala | MIT | Unofficial plugin for roo. Add it to the Gemfile and Roo::Excelx reads workshee… |
+| 2026-11-10 06:03:59 | [roo-calamine](https://rubygems.org/gems/roo-calamine) | 0.0.1 | Sebastian Sala | MIT | Unofficial plugin for roo. Add it to the Gemfile and Roo::Excelx reads workshee… |
+| 2026-11-10 06:03:59 | [roo-calamine](https://rubygems.org/gems/roo-calamine) | 0.0.1 | Sebastian Sala | MIT | Unofficial plugin for roo. Add it to the Gemfile and Roo::Excelx reads workshee… |
+| 2026-11-10 06:03:59 | [roo-calamine](https://rubygems.org/gems/roo-calamine) | 0.0.1 | Sebastian Sala | MIT | Unofficial plugin for roo. Add it to the Gemfile and Roo::Excelx reads workshee… |
 
 ## Data source
 
