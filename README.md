@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 04:20 UTC
+## Latest list — 2026-11-10 05:21 UTC
 
-New gems created between 2026-11-10 03:21 UTC and 2026-11-10 04:20 UTC.
+New gems created between 2026-11-10 04:20 UTC and 2026-11-10 05:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T04-20-04-553911Z.csv)
+[Full CSV](data/new-gems-2026-11-10T05-21-20-920225Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 03:21:45 | [freeimagetovideo](https://rubygems.org/gems/freeimagetovideo) | 0.1.0 | Free Image to Video | MIT | Free image to video AI with no daily cap: start with no sign-up, keep going on… |
+| 2026-11-10 04:50:22 | [etunnel](https://rubygems.org/gems/etunnel) | 1.4.0 | etunnel authors | MIT | #{LONG} |
 
 ## Data source
 
