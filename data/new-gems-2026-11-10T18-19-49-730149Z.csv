@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T17:27:09.714Z,kamal-image-retention,0.1.2,80,Anton Kopylov,MIT,Retain recent Kamal builds on the build machine and in a private Distribution registry
+2026-11-10T17:28:46.193Z,rueda,0.1.1,112,Ariel Rzezak,MIT,"Fetches your Garmin Connect activities and prints them as a table, JSON, NDJSON or CSV, for people at a terminal and for agents in a shell."
+2026-11-10T17:31:08.724Z,smsgora,1.0.0,71,Tekservix,MIT,"Send and receive SMS through your own Android phones with SMS Gora: delivery reports, scheduled and bulk sending, and signed webhooks. Works in Rails, Sinatra and plain Ruby."
+2026-11-10T17:31:17.082Z,waservix,1.0.0,62,Tekservix,MIT,"Send WhatsApp messages, images and documents from your own number with WAservix: status tracking, contacts, groups and webhooks. Works in Rails, Sinatra and plain Ruby."
+2026-11-10T18:19:17.222Z,principles,0.0.1,0,Sidu Ponnappa,,"Principles helps teams keep an agent's operating guidance consistent as their harness evolves. Name a principle and map the instruction passages, rules, skills, agents, hooks and checks that carry it. The principles CLI reports changed or broken members and guides the agent through assessing the wh…"
