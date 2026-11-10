@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 13:20 UTC
+## Latest list — 2026-11-10 14:22 UTC
 
-New gems created between 2026-11-10 12:21 UTC and 2026-11-10 13:20 UTC.
+New gems created between 2026-11-10 13:20 UTC and 2026-11-10 14:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T13-20-37-044403Z.csv)
+[Full CSV](data/new-gems-2026-11-10T14-22-29-419958Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 13:01:10 | [pikaid](https://rubygems.org/gems/pikaid) | 1.0.0 | larananas (Lara G.) | MIT | Compact 26-character sortable Base36 identifiers with 96-bit cryptographic rand… |
+| 2026-11-10 13:30:47 | [pikaid](https://rubygems.org/gems/pikaid) | 1.0.2 | larananas (Lara G.) | MIT | Compact 26-character sortable Base36 identifiers with 96-bit cryptographic rand… |
 
 ## Data source
 
