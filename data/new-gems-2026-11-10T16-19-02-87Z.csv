@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T16:08:15.744Z,rueda,0.1.0,15,Ariel Rzezak,MIT,"Fetches your Garmin Connect activities and prints them as a table, JSON, NDJSON or CSV, for people at a terminal and for agents in a shell."

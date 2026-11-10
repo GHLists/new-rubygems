@@ -1,10 +1,10 @@
 {
   "list": {
-    "count": 50,
-    "from": "2026-11-10T14:22:29.419958Z",
-    "path": "data/new-gems-2026-11-10T15-19-39-678387Z.csv",
-    "to": "2026-11-10T15:19:39.678387Z"
+    "count": 1,
+    "from": "2026-11-10T15:19:39.678387Z",
+    "path": "data/new-gems-2026-11-10T16-19-02-87Z.csv",
+    "to": "2026-11-10T16:19:02.87Z"
   },
-  "source_truncated": true,
-  "window": "2026-11-10T15:19:39.678387Z"
+  "source_truncated": false,
+  "window": "2026-11-10T16:19:02.87Z"
 }
