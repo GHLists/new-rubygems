@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 07:19 UTC
+## Latest list — 2026-11-10 09:20 UTC
 
-New gems created between 2026-11-10 06:21 UTC and 2026-11-10 07:19 UTC.
+New gems created between 2026-11-10 08:21 UTC and 2026-11-10 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T07-19-10-754359Z.csv)
+[Full CSV](data/new-gems-2026-11-10T09-20-04-088037Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 06:58:27 | [fingerly](https://rubygems.org/gems/fingerly) | 0.1.0 | Fingerly | Apache-2.0 | Reads stored identification events with a secret key, verifies signed webhooks,… |
+| 2026-11-10 08:59:31 | [balanced_vrp_clustering](https://rubygems.org/gems/balanced_vrp_clustering) | 0.4.0 | Cartoway |  | Gem for clustering points of a given VRP. |
+| 2026-11-10 09:10:49 | [fingerly](https://rubygems.org/gems/fingerly) | 0.1.1 | Fingerly | Apache-2.0 | Reads stored identification events with a secret key, verifies signed webhooks,… |
 
 ## Data source
 

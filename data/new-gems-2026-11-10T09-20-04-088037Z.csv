@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T08:59:31.635Z,balanced_vrp_clustering,0.4.0,34,Cartoway,,Gem for clustering points of a given VRP.
+2026-11-10T09:10:49.696Z,fingerly,0.1.1,6,Fingerly,Apache-2.0,"Reads stored identification events with a secret key, verifies signed webhooks, and forwards the browser SDK's requests through a route on your own domain as Rack middleware. No runtime dependencies."
