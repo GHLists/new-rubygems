@@ -1,0 +1,51 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T15:00:59.136Z,lease_machines,0.1.6,35,Abdelkader Boudih,MIT,"Thin Ruby bindings to the standalone lease-machines core; durability, clocks, and resource enforcement belong to the caller."
+2026-11-10T15:00:59.136Z,lease_machines,0.1.6,35,Abdelkader Boudih,MIT,"Thin Ruby bindings to the standalone lease-machines core; durability, clocks, and resource enforcement belong to the caller."
+2026-11-10T15:01:02.897Z,placement_machines,0.1.4,39,Abdelkader Boudih,MIT,"A thin binding to the no_std placement-machines Rust core. Provides deterministic rendezvous scores, ring ownership and distinct-domain replica choices without membership services."
+2026-11-10T15:01:02.897Z,placement_machines,0.1.4,39,Abdelkader Boudih,MIT,"A thin binding to the no_std placement-machines Rust core. Provides deterministic rendezvous scores, ring ownership and distinct-domain replica choices without membership services."
+2026-11-10T15:01:02.897Z,placement_machines,0.1.4,39,Abdelkader Boudih,MIT,"A thin binding to the no_std placement-machines Rust core. Provides deterministic rendezvous scores, ring ownership and distinct-domain replica choices without membership services."
+2026-11-10T15:01:02.897Z,placement_machines,0.1.4,39,Abdelkader Boudih,MIT,"A thin binding to the no_std placement-machines Rust core. Provides deterministic rendezvous scores, ring ownership and distinct-domain replica choices without membership services."
+2026-11-10T15:01:02.897Z,placement_machines,0.1.4,39,Abdelkader Boudih,MIT,"A thin binding to the no_std placement-machines Rust core. Provides deterministic rendezvous scores, ring ownership and distinct-domain replica choices without membership services."
+2026-11-10T15:01:02.897Z,placement_machines,0.1.4,39,Abdelkader Boudih,MIT,"A thin binding to the no_std placement-machines Rust core. Provides deterministic rendezvous scores, ring ownership and distinct-domain replica choices without membership services."
+2026-11-10T15:01:05.192Z,pool_machines,0.1.3,39,Abdelkader Boudih,MIT,Initial native roster model with draining and retirement. Caller owns resources and execution. Local sibling Rust checkout required.
+2026-11-10T15:01:05.192Z,pool_machines,0.1.3,39,Abdelkader Boudih,MIT,Initial native roster model with draining and retirement. Caller owns resources and execution. Local sibling Rust checkout required.
+2026-11-10T15:01:05.192Z,pool_machines,0.1.3,39,Abdelkader Boudih,MIT,Initial native roster model with draining and retirement. Caller owns resources and execution. Local sibling Rust checkout required.
+2026-11-10T15:01:05.192Z,pool_machines,0.1.3,39,Abdelkader Boudih,MIT,Initial native roster model with draining and retirement. Caller owns resources and execution. Local sibling Rust checkout required.
+2026-11-10T15:01:05.192Z,pool_machines,0.1.3,39,Abdelkader Boudih,MIT,Initial native roster model with draining and retirement. Caller owns resources and execution. Local sibling Rust checkout required.
+2026-11-10T15:01:05.192Z,pool_machines,0.1.3,39,Abdelkader Boudih,MIT,Initial native roster model with draining and retirement. Caller owns resources and execution. Local sibling Rust checkout required.
+2026-11-10T15:01:06.761Z,priority_machines,0.1.5,41,Abdelkader Boudih,MIT,"Thin Ruby binding to the standalone allocation-free priority-machines Rust core. Initial, unstable local implementation; caller owns queues and execution."
+2026-11-10T15:01:06.761Z,priority_machines,0.1.5,41,Abdelkader Boudih,MIT,"Thin Ruby binding to the standalone allocation-free priority-machines Rust core. Initial, unstable local implementation; caller owns queues and execution."
+2026-11-10T15:01:06.761Z,priority_machines,0.1.5,41,Abdelkader Boudih,MIT,"Thin Ruby binding to the standalone allocation-free priority-machines Rust core. Initial, unstable local implementation; caller owns queues and execution."
+2026-11-10T15:01:06.761Z,priority_machines,0.1.5,41,Abdelkader Boudih,MIT,"Thin Ruby binding to the standalone allocation-free priority-machines Rust core. Initial, unstable local implementation; caller owns queues and execution."
+2026-11-10T15:01:06.761Z,priority_machines,0.1.5,41,Abdelkader Boudih,MIT,"Thin Ruby binding to the standalone allocation-free priority-machines Rust core. Initial, unstable local implementation; caller owns queues and execution."
+2026-11-10T15:01:06.761Z,priority_machines,0.1.5,41,Abdelkader Boudih,MIT,"Thin Ruby binding to the standalone allocation-free priority-machines Rust core. Initial, unstable local implementation; caller owns queues and execution."
+2026-11-10T15:01:08.408Z,quorum_machines,0.1.4,35,Abdelkader Boudih,MIT,Thin Ruby bindings to the standalone quorum-machines core; membership epochs and acknowledgement authentication belong to the caller.
+2026-11-10T15:01:08.408Z,quorum_machines,0.1.4,35,Abdelkader Boudih,MIT,Thin Ruby bindings to the standalone quorum-machines core; membership epochs and acknowledgement authentication belong to the caller.
+2026-11-10T15:01:08.408Z,quorum_machines,0.1.4,35,Abdelkader Boudih,MIT,Thin Ruby bindings to the standalone quorum-machines core; membership epochs and acknowledgement authentication belong to the caller.
+2026-11-10T15:01:08.408Z,quorum_machines,0.1.4,35,Abdelkader Boudih,MIT,Thin Ruby bindings to the standalone quorum-machines core; membership epochs and acknowledgement authentication belong to the caller.
+2026-11-10T15:01:08.408Z,quorum_machines,0.1.4,35,Abdelkader Boudih,MIT,Thin Ruby bindings to the standalone quorum-machines core; membership epochs and acknowledgement authentication belong to the caller.
+2026-11-10T15:01:08.408Z,quorum_machines,0.1.4,35,Abdelkader Boudih,MIT,Thin Ruby bindings to the standalone quorum-machines core; membership epochs and acknowledgement authentication belong to the caller.
+2026-11-10T15:01:09.704Z,saga_machines,0.1.5,29,Abdelkader Boudih,MIT,"Local unstable saga model, not a durable workflow or exactly-once runtime."
+2026-11-10T15:01:09.704Z,saga_machines,0.1.5,29,Abdelkader Boudih,MIT,"Local unstable saga model, not a durable workflow or exactly-once runtime."
+2026-11-10T15:01:09.704Z,saga_machines,0.1.5,29,Abdelkader Boudih,MIT,"Local unstable saga model, not a durable workflow or exactly-once runtime."
+2026-11-10T15:01:09.704Z,saga_machines,0.1.5,29,Abdelkader Boudih,MIT,"Local unstable saga model, not a durable workflow or exactly-once runtime."
+2026-11-10T15:01:09.704Z,saga_machines,0.1.5,29,Abdelkader Boudih,MIT,"Local unstable saga model, not a durable workflow or exactly-once runtime."
+2026-11-10T15:01:09.704Z,saga_machines,0.1.5,29,Abdelkader Boudih,MIT,"Local unstable saga model, not a durable workflow or exactly-once runtime."
+2026-11-10T15:01:11.917Z,snapshot_machines,0.1.5,44,Abdelkader Boudih,MIT,An allocation-free Rust manifest model with a thin Ruby bridge. No snapshot bytes or durable storage.
+2026-11-10T15:01:11.917Z,snapshot_machines,0.1.5,44,Abdelkader Boudih,MIT,An allocation-free Rust manifest model with a thin Ruby bridge. No snapshot bytes or durable storage.
+2026-11-10T15:01:11.917Z,snapshot_machines,0.1.5,44,Abdelkader Boudih,MIT,An allocation-free Rust manifest model with a thin Ruby bridge. No snapshot bytes or durable storage.
+2026-11-10T15:01:11.917Z,snapshot_machines,0.1.5,44,Abdelkader Boudih,MIT,An allocation-free Rust manifest model with a thin Ruby bridge. No snapshot bytes or durable storage.
+2026-11-10T15:01:11.917Z,snapshot_machines,0.1.5,44,Abdelkader Boudih,MIT,An allocation-free Rust manifest model with a thin Ruby bridge. No snapshot bytes or durable storage.
+2026-11-10T15:01:11.917Z,snapshot_machines,0.1.5,44,Abdelkader Boudih,MIT,An allocation-free Rust manifest model with a thin Ruby bridge. No snapshot bytes or durable storage.
+2026-11-10T15:03:22.095Z,pipeline_machines,0.1.4,13,Abdelkader Boudih,MIT,"Local unstable stage policy model, not a durable pipeline runtime."
+2026-11-10T15:03:22.095Z,pipeline_machines,0.1.4,13,Abdelkader Boudih,MIT,"Local unstable stage policy model, not a durable pipeline runtime."
+2026-11-10T15:03:22.095Z,pipeline_machines,0.1.4,13,Abdelkader Boudih,MIT,"Local unstable stage policy model, not a durable pipeline runtime."
+2026-11-10T15:03:22.095Z,pipeline_machines,0.1.4,13,Abdelkader Boudih,MIT,"Local unstable stage policy model, not a durable pipeline runtime."
+2026-11-10T15:03:22.095Z,pipeline_machines,0.1.4,13,Abdelkader Boudih,MIT,"Local unstable stage policy model, not a durable pipeline runtime."
+2026-11-10T15:03:22.095Z,pipeline_machines,0.1.4,13,Abdelkader Boudih,MIT,"Local unstable stage policy model, not a durable pipeline runtime."
+2026-11-10T15:04:25.416Z,window_machines,0.1.4,10,Abdelkader Boudih,MIT,"Initial allocation-free window policy core and thin native Ruby binding. Caller owns payloads, clocks, and execution."
+2026-11-10T15:04:25.416Z,window_machines,0.1.4,10,Abdelkader Boudih,MIT,"Initial allocation-free window policy core and thin native Ruby binding. Caller owns payloads, clocks, and execution."
+2026-11-10T15:04:25.416Z,window_machines,0.1.4,10,Abdelkader Boudih,MIT,"Initial allocation-free window policy core and thin native Ruby binding. Caller owns payloads, clocks, and execution."
+2026-11-10T15:04:25.416Z,window_machines,0.1.4,10,Abdelkader Boudih,MIT,"Initial allocation-free window policy core and thin native Ruby binding. Caller owns payloads, clocks, and execution."
+2026-11-10T15:04:25.416Z,window_machines,0.1.4,10,Abdelkader Boudih,MIT,"Initial allocation-free window policy core and thin native Ruby binding. Caller owns payloads, clocks, and execution."
+2026-11-10T15:04:25.416Z,window_machines,0.1.4,10,Abdelkader Boudih,MIT,"Initial allocation-free window policy core and thin native Ruby binding. Caller owns payloads, clocks, and execution."
