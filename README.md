@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 21:21 UTC
+## Latest list — 2026-11-10 22:20 UTC
 
-New gems created between 2026-11-10 20:21 UTC and 2026-11-10 21:21 UTC.
+New gems created between 2026-11-10 21:21 UTC and 2026-11-10 22:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T21-21-03-58973Z.csv)
+[Full CSV](data/new-gems-2026-11-10T22-20-50-382455Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 20:23:24 | [nafru-email](https://rubygems.org/gems/nafru-email) | 0.1.1 | Nafru | MIT | Nafru Email Ruby SDK: send transactional and marketing email from Ruby with a R… |
+| 2026-11-10 21:32:15 | [sillydev](https://rubygems.org/gems/sillydev) | 1.0.0 | Silly Development | MIT | Start, stop and restart your servers, send console commands, manage files, back… |
 
 ## Data source
 

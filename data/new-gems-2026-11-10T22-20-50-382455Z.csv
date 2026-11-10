@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T21:32:15.049Z,sillydev,1.0.0,65,Silly Development,MIT,"Start, stop and restart your servers, send console commands, manage files, backups, schedules and databases, and deploy from Git on Silly Development, from Ruby."
