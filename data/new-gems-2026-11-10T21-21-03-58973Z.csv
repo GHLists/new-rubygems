@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T20:23:24.88Z,nafru-email,0.1.1,72,Nafru,MIT,"Nafru Email Ruby SDK: send transactional and marketing email from Ruby with a Resend-compatible email API. Contacts, broadcasts, templates, custom events, webhook verification and Connect with Nafru (OAuth). No dependencies (net/http, json, openssl)."
