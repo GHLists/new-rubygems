@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T00:46:08.367Z,chargezen,0.1.1,95,Chargezen,MIT,"Official Ruby SDK for the Chargezen API: customers, subscriptions, products and email."
+2026-11-10T01:03:52.969Z,gemfile-audit,1.2.0,72,Despo Pentara,MIT,"Runs around your test suite in CI and measures your Rails app's tests, deprecations and runtimes for a gemfile.io upgrade report."

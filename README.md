@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 00:19 UTC
+## Latest list — 2026-11-10 01:19 UTC
 
-New gems created between 2026-11-09 23:18 UTC and 2026-11-10 00:19 UTC.
+New gems created between 2026-11-10 00:19 UTC and 2026-11-10 01:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T00-19-52-748274Z.csv)
+[Full CSV](data/new-gems-2026-11-10T01-19-32-981649Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-09 23:27:42 | [e621stream](https://rubygems.org/gems/e621stream) | 0.0.0 | Donovan_DMC | MIT | A client for E621Stream, a live WebSocket stream of e621 activity. |
-| 2026-11-09 23:42:07 | [qualmzy](https://rubygems.org/gems/qualmzy) | 0.1.1 | qualmzy contributors | MIT | Pure Ruby port of Qualm: judge changed files and fail when a reviewer would ask… |
-| 2026-11-09 23:45:11 | [hayaoki](https://rubygems.org/gems/hayaoki) | 0.3.1 | Takato Hano | MIT | hayaoki boot-report boots a Rails app in a child process with a probe and break… |
+| 2026-11-10 00:46:08 | [chargezen](https://rubygems.org/gems/chargezen) | 0.1.1 | Chargezen | MIT | Official Ruby SDK for the Chargezen API: customers, subscriptions, products and… |
+| 2026-11-10 01:03:52 | [gemfile-audit](https://rubygems.org/gems/gemfile-audit) | 1.2.0 | Despo Pentara | MIT | Runs around your test suite in CI and measures your Rails app's tests, deprecat… |
 
 ## Data source
 
