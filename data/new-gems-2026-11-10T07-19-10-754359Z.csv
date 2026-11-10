@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T06:58:27.966Z,fingerly,0.1.0,36,Fingerly,Apache-2.0,"Reads stored identification events with a secret key, verifies signed webhooks, and forwards the browser SDK's requests through a route on your own domain as Rack middleware. No runtime dependencies."
