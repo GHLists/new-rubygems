@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 02:19 UTC
+## Latest list — 2026-11-10 03:21 UTC
 
-New gems created between 2026-11-10 01:19 UTC and 2026-11-10 02:19 UTC.
+New gems created between 2026-11-10 02:19 UTC and 2026-11-10 03:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T02-19-27-664371Z.csv)
+[Full CSV](data/new-gems-2026-11-10T03-21-25-904582Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 02:07:05 | [unidpp](https://rubygems.org/gems/unidpp) | 0.1.0 | UniDPP | MIT | Ruby library for the UniDPP international Digital Product Passport framework: s… |
+| 2026-11-10 02:33:22 | [ct_merkle](https://rubygems.org/gems/ct_merkle) | 0.1.0 | Ken Tanaka | MIT | Merkle tree hashing, inclusion proofs and consistency proofs as defined in RFC… |
+| 2026-11-10 02:39:00 | [nzm](https://rubygems.org/gems/nzm) | 0.1.0 | Christopher Dehner | MIT | A command line alternative to Org with GTD-inspired habits. |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T02:33:22.17Z,ct_merkle,0.1.0,67,Ken Tanaka,MIT,"Merkle tree hashing, inclusion proofs and consistency proofs as defined in RFC 6962 and RFC 9162 (Certificate Transparency), with no runtime dependencies."
+2026-11-10T02:39:00.836Z,nzm,0.1.0,61,Christopher Dehner,MIT,A command line alternative to Org with GTD-inspired habits.
