@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 03:21 UTC
+## Latest list — 2026-11-10 04:20 UTC
 
-New gems created between 2026-11-10 02:19 UTC and 2026-11-10 03:21 UTC.
+New gems created between 2026-11-10 03:21 UTC and 2026-11-10 04:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T03-21-25-904582Z.csv)
+[Full CSV](data/new-gems-2026-11-10T04-20-04-553911Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 02:33:22 | [ct_merkle](https://rubygems.org/gems/ct_merkle) | 0.1.0 | Ken Tanaka | MIT | Merkle tree hashing, inclusion proofs and consistency proofs as defined in RFC… |
-| 2026-11-10 02:39:00 | [nzm](https://rubygems.org/gems/nzm) | 0.1.0 | Christopher Dehner | MIT | A command line alternative to Org with GTD-inspired habits. |
+| 2026-11-10 03:21:45 | [freeimagetovideo](https://rubygems.org/gems/freeimagetovideo) | 0.1.0 | Free Image to Video | MIT | Free image to video AI with no daily cap: start with no sign-up, keep going on… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T03:21:45.123Z,freeimagetovideo,0.1.0,62,Free Image to Video,MIT,"Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. This is the official Ruby SDK for Free Image to Video: turn a prompt or a photo into a video clip with sound from Ruby, standard library only."
