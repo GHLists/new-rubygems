@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-10T13:01:10.157Z,pikaid,1.0.0,30,larananas (Lara G.),MIT,Compact 26-character sortable Base36 identifiers with 96-bit cryptographic randomness and a 17-byte binary representation.
