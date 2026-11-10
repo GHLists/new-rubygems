@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-09T23:27:42.5Z,e621stream,0.0.0,69,Donovan_DMC,MIT,"A client for E621Stream, a live WebSocket stream of e621 activity."
+2026-11-09T23:42:07.15Z,qualmzy,0.1.1,86,qualmzy contributors,MIT,Pure Ruby port of Qualm: judge changed files and fail when a reviewer would ask for simplification.
+2026-11-09T23:45:11.386Z,hayaoki,0.3.1,111,Takato Hano,MIT,"hayaoki boot-report boots a Rails app in a child process with a probe and breaks boot time down by gem, initializer, on_load hook and eager loading, then suggests measured fixes. hayaoki/insitu logs each production cold start as one JSON line, and hayaoki cold-start-report summarizes those logs. Bu…"
