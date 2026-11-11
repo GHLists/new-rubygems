@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T03:57:57.957Z,dkey-client,0.1.0,41,Guestit,MIT,"One operation per Telkey dKey API endpoint, returning dry-monads Results, with retries and response normalization. Framework-free: the host injects the account credentials, the unit id and the auth-token store."

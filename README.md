@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 02:19 UTC
+## Latest list — 2026-11-11 04:20 UTC
 
-New gems created between 2026-11-11 01:19 UTC and 2026-11-11 02:19 UTC.
+New gems created between 2026-11-11 03:19 UTC and 2026-11-11 04:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T02-19-35-37713Z.csv)
+[Full CSV](data/new-gems-2026-11-11T04-20-25-174533Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 01:40:59 | [raintron](https://rubygems.org/gems/raintron) | 0.1.0 | maedi | MPL-2.0 | Raintron wraps a Raindeer web app in a native desktop window (via webview_ruby)… |
+| 2026-11-11 03:57:57 | [dkey-client](https://rubygems.org/gems/dkey-client) | 0.1.0 | Guestit | MIT | One operation per Telkey dKey API endpoint, returning dry-monads Results, with… |
 
 ## Data source
 
