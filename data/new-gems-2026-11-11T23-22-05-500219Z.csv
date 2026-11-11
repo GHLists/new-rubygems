@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T23:02:06.365Z,openc3-cosmos-constellation,0.7.0,36,Constellation Space Corp,Apache-2.0,"A CONSTELLATION target whose packets a bridge microservice fills from the Constellation feed: the next predicted pass, the next 24 hours, the soonest rain-fade swap to decide, a day's capacity across the antennas (CAPACITY), the next pass's MODCOD plan (MODCOD), and the run they came from. Every va…"
