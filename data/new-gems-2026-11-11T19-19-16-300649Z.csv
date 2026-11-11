@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T18:39:30.504Z,ruby_llm-infinite_context,0.2.0,72,Christian Genco,MIT,"A RubyLLM 2.x plugin. Every message is logged, a cheap model compresses the log into a binary tree of one-line summaries, and the chat sees a saved view of the tree that fits a budget the caller picks. The agent gets tools to zoom into any line, down to the original message. Based on Victor Taelin'…"

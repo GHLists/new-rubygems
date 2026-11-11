@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 18:21 UTC
+## Latest list — 2026-11-11 19:19 UTC
 
-New gems created between 2026-11-11 17:20 UTC and 2026-11-11 18:21 UTC.
+New gems created between 2026-11-11 18:21 UTC and 2026-11-11 19:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T18-21-29-634221Z.csv)
+[Full CSV](data/new-gems-2026-11-11T19-19-16-300649Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 18:19:23 | [door_check](https://rubygems.org/gems/door_check) | 0.2.0 | Tyler Schneider | MIT | Records which methods proved a person in each sign-in, and checks that record a… |
+| 2026-11-11 18:39:30 | [ruby_llm-infinite_context](https://rubygems.org/gems/ruby_llm-infinite_context) | 0.2.0 | Christian Genco | MIT | A RubyLLM 2.x plugin. Every message is logged, a cheap model compresses the log… |
 
 ## Data source
 
