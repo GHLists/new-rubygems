@@ -9,22 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 13:18 UTC
+## Latest list — 2026-11-11 14:19 UTC
 
-New gems created between 2026-11-11 12:19 UTC and 2026-11-11 13:18 UTC.
+New gems created between 2026-11-11 13:18 UTC and 2026-11-11 14:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T13-18-54-267864Z.csv)
+[Full CSV](data/new-gems-2026-11-11T14-19-55-917731Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 14:11:19 | [asobi](https://rubygems.org/gems/asobi) | 0.1.1 | Hayato1031 | MIT | asobi (Japanese for 'play') is a Ruby library for making pictures and looping a… |
 
 ## Data source
 

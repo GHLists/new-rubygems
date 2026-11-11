@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T14:11:19.852Z,asobi,0.1.1,7,Hayato1031,MIT,"asobi (Japanese for 'play') is a Ruby library for making pictures and looping animations. A picture is a Ruby object: repeat a petal eight times, arrange the petals into a flower, and spin the whole flower. Give your own objects a visual form by defining to_art. Run the asobi command to see your sk…"
