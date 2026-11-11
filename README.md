@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 11:19 UTC
+## Latest list — 2026-11-11 12:19 UTC
 
-New gems created between 2026-11-11 10:21 UTC and 2026-11-11 11:19 UTC.
+New gems created between 2026-11-11 11:19 UTC and 2026-11-11 12:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T11-19-14-258113Z.csv)
+[Full CSV](data/new-gems-2026-11-11T12-19-11-80623Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 10:24:00 | [tinyeval](https://rubygems.org/gems/tinyeval) | 0.11.0 | evalship | MIT | tinyeval runs your evals with bundle exec tinyeval. Tinyeval.worker answers the… |
-| 2026-11-11 10:28:16 | [enjine](https://rubygems.org/gems/enjine) | 0.1.0 | Mehmet Cetin | MIT | Enjine runs two-player Magic: The Gathering games following the Comprehensive R… |
+| 2026-11-11 11:53:12 | [tinyeval](https://rubygems.org/gems/tinyeval) | 0.11.1 | evalship | MIT | tinyeval runs your evals with bundle exec tinyeval. Tinyeval.worker answers the… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T11:53:12.799Z,tinyeval,0.11.1,73,evalship,MIT,"tinyeval runs your evals with bundle exec tinyeval. Tinyeval.worker answers them from your app, booted once."
