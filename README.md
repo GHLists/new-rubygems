@@ -9,15 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 12:19 UTC
+## Latest list — 2026-11-11 13:18 UTC
 
-New gems created between 2026-11-11 11:19 UTC and 2026-11-11 12:19 UTC.
+New gems created between 2026-11-11 12:19 UTC and 2026-11-11 13:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T12-19-11-80623Z.csv)
+[Full CSV](data/new-gems-2026-11-11T13-18-54-267864Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 11:53:12 | [tinyeval](https://rubygems.org/gems/tinyeval) | 0.11.1 | evalship | MIT | tinyeval runs your evals with bundle exec tinyeval. Tinyeval.worker answers the… |
+| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 12:27:07 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.1 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
 
 ## Data source
 
