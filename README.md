@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 15:21 UTC
+## Latest list — 2026-11-11 17:20 UTC
 
-New gems created between 2026-11-11 14:19 UTC and 2026-11-11 15:21 UTC.
+New gems created between 2026-11-11 16:22 UTC and 2026-11-11 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T15-21-21-337383Z.csv)
+[Full CSV](data/new-gems-2026-11-11T17-20-05-051058Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 14:38:17 | [fileboy](https://rubygems.org/gems/fileboy) | 0.2.0 | CD2 Solutions | MIT | Upload files and videos to Fileboy, build file URLs and image transform URLs, a… |
-| 2026-11-11 15:15:23 | [noosh24](https://rubygems.org/gems/noosh24) | 0.1.0 | Noosh24 | MIT | Read a Noosh24 venue's menu, reservations, orders, payments, tables, customers,… |
+| 2026-11-11 17:16:26 | [tallyman](https://rubygems.org/gems/tallyman) | 1.0.0 | Alan Johnson, Edouard Briere | MIT | Tallyman is a library for rendering invoices to pdf, using Typst. |
 
 ## Data source
 

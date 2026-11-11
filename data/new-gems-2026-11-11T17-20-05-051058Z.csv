@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T17:16:26.333Z,tallyman,1.0.0,0,"Alan Johnson, Edouard Briere",MIT,"Tallyman is a library for rendering invoices to pdf, using Typst."
