@@ -9,19 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 23:19 UTC
+## Latest list — 2026-11-11 00:20 UTC
 
-New gems created between 2026-11-10 22:20 UTC and 2026-11-10 23:19 UTC.
+New gems created between 2026-11-10 23:19 UTC and 2026-11-11 00:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-10T23-19-37-88721Z.csv)
+[Full CSV](data/new-gems-2026-11-11T00-20-03-5787Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 22:33:58 | [firemq](https://rubygems.org/gems/firemq) | 0.1.0 | The FireMQ Authors | Apache-2.0 | UniFFI bindings over firemq-client, the Rust client for the FireMQ message brok… |
-| 2026-11-10 22:33:58 | [firemq](https://rubygems.org/gems/firemq) | 0.1.0 | The FireMQ Authors | Apache-2.0 | UniFFI bindings over firemq-client, the Rust client for the FireMQ message brok… |
-| 2026-11-10 22:33:58 | [firemq](https://rubygems.org/gems/firemq) | 0.1.0 | The FireMQ Authors | Apache-2.0 | UniFFI bindings over firemq-client, the Rust client for the FireMQ message brok… |
-| 2026-11-10 22:33:58 | [firemq](https://rubygems.org/gems/firemq) | 0.1.0 | The FireMQ Authors | Apache-2.0 | UniFFI bindings over firemq-client, the Rust client for the FireMQ message brok… |
-| 2026-11-10 22:33:58 | [firemq](https://rubygems.org/gems/firemq) | 0.1.0 | The FireMQ Authors | Apache-2.0 | UniFFI bindings over firemq-client, the Rust client for the FireMQ message brok… |
+| 2026-11-10 23:44:37 | [google-cloud-saas_platform-saas_service_mgmt-v1](https://rubygems.org/gems/google-cloud-saas_platform-saas_service_mgmt-v1) | 0.1.0 | Google LLC | Apache-2.0 | Model, deploy, and operate your SaaS at scale. Note that google-cloud-saas_plat… |
+| 2026-11-11 00:11:47 | [question_kit](https://rubygems.org/gems/question_kit) | 0.2.0 | tylercschneider | MIT | QuestionKit holds the rules for what an answer to an easy_flow question step is… |
 
 ## Data source
 
