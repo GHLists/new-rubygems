@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T09:36:24.442Z,tessella,0.3.1,90,Stephane D'Alu,MIT,"Charts (line, scatter, bar, histogram, box, stem, density) on braille, block or ASCII canvases, trees, tables, bit-field, timing and sequence diagrams, meters and sparklines, composed side by side or framed, and a lint for text figures in documents. No runtime dependency."
+2026-11-11T09:40:51.601Z,rendry,0.2.1,95,NICE-DEV226,MIT,"Rendry UI is a small DSL for composing HTML with Ruby: explicit markup, safe escaping by default, testable components, optional htmx interactivity, selective fragments, fragment caching, and component kits — with no mandatory JavaScript."
+2026-11-11T10:11:22.278Z,sendio,1.0.0,10,send.io,MIT,Send and manage email with the send.io API from Ruby and Rails (ActionMailer delivery method included).
