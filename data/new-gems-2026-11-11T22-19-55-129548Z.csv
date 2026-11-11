@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T21:36:04.629Z,rake-osc7501,0.1.0,69,Brian Cosgrove,Apache-2.0,Reports Rake task activity and outcomes through OSC 7501.
+2026-11-11T21:46:20.692Z,waservix,1.0.1,66,Tekservix,MIT,"WAservix WhatsApp API Gateway. Send WhatsApp messages, images and documents from your own number with WAservix: status tracking, contacts, groups and webhooks. Works in Rails, Sinatra and plain Ruby."
+2026-11-11T21:46:21.209Z,smsgora,1.0.1,68,Tekservix,MIT,"SMS Gora SMS Gateway. Send and receive SMS through your own Android phones with SMS Gora: delivery reports, scheduled and bulk sending, and signed webhooks. Works in Rails, Sinatra and plain Ruby."
