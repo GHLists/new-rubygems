@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T08:26:46.047Z,channex,0.1.0,89,asgerb,MIT,"A clean, idiomatic Ruby library for the Channex.io channel manager API: properties, room types, rate plans, availability, restrictions, bookings, webhooks, and more."
+2026-11-11T08:47:13.556Z,tessella,0.3.0,51,Stephane D'Alu,MIT,"Line, scatter, stairs, bar, histogram, box, stem and density plots with scaled axes, drawn in braille, block, dot or ASCII cells. No runtime dependency."
+2026-11-11T08:54:20.988Z,silverhamu-client,0.2.0,41,silverhamu contributors,MIT,"Read and write binary keys and values, commit transactions, and connect to silverhamu with token or TLS account authentication."
+2026-11-11T09:08:55.129Z,pg_plan_advice,0.1.0,10,moozzi,MIT,Apply PostgreSQL 19 pg_plan_advice query plan advice to ActiveRecord queries using a simple Ruby DSL.
+2026-11-11T09:19:00.98Z,rendry,0.2.0,0,NICE-DEV226,MIT,"Rendry UI is a small DSL for composing HTML with Ruby: explicit markup, safe escaping by default, testable components, optional htmx interactivity, selective fragments, fragment caching, and component kits — with no mandatory JavaScript."

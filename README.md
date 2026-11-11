@@ -9,25 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 08:21 UTC
+## Latest list — 2026-11-11 09:20 UTC
 
-New gems created between 2026-11-11 07:19 UTC and 2026-11-11 08:21 UTC.
+New gems created between 2026-11-11 08:21 UTC and 2026-11-11 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T08-21-35-070391Z.csv)
+[Full CSV](data/new-gems-2026-11-11T09-20-51-517793Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
-| 2026-11-11 08:09:54 | [rabbit-slide-abetomo-nominatim-penalty-tuning-for-cjk](https://rubygems.org/gems/rabbit-slide-abetomo-nominatim-penalty-tuning-for-cjk) | 1.0.0 | Abe Tomoaki |  | * Event: https://foss4g.hokkaido.jp/2026 * Blog: https://www.clear-code.com/blo… |
-| 2026-11-11 08:16:25 | [txlemetry-ruby](https://rubygems.org/gems/txlemetry-ruby) | 4.0.0 | Txlemetry | MIT | The Txlemetry ruby library |
-| 2026-11-11 08:16:55 | [txlemetry-rails](https://rubygems.org/gems/txlemetry-rails) | 4.0.0 | Txlemetry | MIT | Automatic exception tracking and instrumentation for Ruby on Rails applications… |
+| 2026-11-11 08:26:46 | [channex](https://rubygems.org/gems/channex) | 0.1.0 | asgerb | MIT | A clean, idiomatic Ruby library for the Channex.io channel manager API: propert… |
+| 2026-11-11 08:47:13 | [tessella](https://rubygems.org/gems/tessella) | 0.3.0 | Stephane D'Alu | MIT | Line, scatter, stairs, bar, histogram, box, stem and density plots with scaled… |
+| 2026-11-11 08:54:20 | [silverhamu-client](https://rubygems.org/gems/silverhamu-client) | 0.2.0 | silverhamu contributors | MIT | Read and write binary keys and values, commit transactions, and connect to silv… |
+| 2026-11-11 09:08:55 | [pg_plan_advice](https://rubygems.org/gems/pg_plan_advice) | 0.1.0 | moozzi | MIT | Apply PostgreSQL 19 pg_plan_advice query plan advice to ActiveRecord queries us… |
+| 2026-11-11 09:19:00 | [rendry](https://rubygems.org/gems/rendry) | 0.2.0 | NICE-DEV226 | MIT | Rendry UI is a small DSL for composing HTML with Ruby: explicit markup, safe es… |
 
 ## Data source
 
