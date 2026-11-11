@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T01:40:59.126Z,raintron,0.1.0,59,maedi,MPL-2.0,"Raintron wraps a Raindeer web app in a native desktop window (via webview_ruby) and packages it into a single cross-platform executable (via Tebako). Add it to an existing Raindeer app's Gemfile, run `raintron install`, and `bin/desktop` opens your app in a window instead of a browser tab."
