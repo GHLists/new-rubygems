@@ -1,0 +1,12 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T07:45:47.299Z,ciborium,0.1.0,172,Sorah Fukumori,MIT,A CBOR implementation backed by a Rust extension. Tags carry no meaning unless an extension for them is allowlisted. Ships a compatibility layer for the cbor gem's interface.
+2026-11-11T07:45:47.299Z,ciborium,0.1.0,172,Sorah Fukumori,MIT,A CBOR implementation backed by a Rust extension. Tags carry no meaning unless an extension for them is allowlisted. Ships a compatibility layer for the cbor gem's interface.
+2026-11-11T07:45:47.299Z,ciborium,0.1.0,172,Sorah Fukumori,MIT,A CBOR implementation backed by a Rust extension. Tags carry no meaning unless an extension for them is allowlisted. Ships a compatibility layer for the cbor gem's interface.
+2026-11-11T07:45:47.299Z,ciborium,0.1.0,172,Sorah Fukumori,MIT,A CBOR implementation backed by a Rust extension. Tags carry no meaning unless an extension for them is allowlisted. Ships a compatibility layer for the cbor gem's interface.
+2026-11-11T07:45:47.299Z,ciborium,0.1.0,172,Sorah Fukumori,MIT,A CBOR implementation backed by a Rust extension. Tags carry no meaning unless an extension for them is allowlisted. Ships a compatibility layer for the cbor gem's interface.
+2026-11-11T07:45:47.299Z,ciborium,0.1.0,172,Sorah Fukumori,MIT,A CBOR implementation backed by a Rust extension. Tags carry no meaning unless an extension for them is allowlisted. Ships a compatibility layer for the cbor gem's interface.
+2026-11-11T07:45:47.299Z,ciborium,0.1.0,172,Sorah Fukumori,MIT,A CBOR implementation backed by a Rust extension. Tags carry no meaning unless an extension for them is allowlisted. Ships a compatibility layer for the cbor gem's interface.
+2026-11-11T07:45:47.299Z,ciborium,0.1.0,172,Sorah Fukumori,MIT,A CBOR implementation backed by a Rust extension. Tags carry no meaning unless an extension for them is allowlisted. Ships a compatibility layer for the cbor gem's interface.
+2026-11-11T08:09:54.666Z,rabbit-slide-abetomo-nominatim-penalty-tuning-for-cjk,1.0.0,10,Abe Tomoaki,,* Event: https://foss4g.hokkaido.jp/2026 * Blog: https://www.clear-code.com/blog/2026/11/11/nominatim-penalty-tuning-for-cjk.html
+2026-11-11T08:16:25.883Z,txlemetry-ruby,4.0.0,2,Txlemetry,MIT,The Txlemetry ruby library
+2026-11-11T08:16:55.529Z,txlemetry-rails,4.0.0,1,Txlemetry,MIT,Automatic exception tracking and instrumentation for Ruby on Rails applications using Txlemetry

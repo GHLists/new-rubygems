@@ -9,15 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 06:20 UTC
+## Latest list — 2026-11-11 08:21 UTC
 
-New gems created between 2026-11-11 05:21 UTC and 2026-11-11 06:20 UTC.
+New gems created between 2026-11-11 07:19 UTC and 2026-11-11 08:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T06-20-06-921531Z.csv)
+[Full CSV](data/new-gems-2026-11-11T08-21-35-070391Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 05:57:23 | [fileboy](https://rubygems.org/gems/fileboy) | 0.1.1 | CD2 Solutions | MIT | Upload files and videos to Fileboy, build file URLs and image transform URLs, a… |
+| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 07:45:47 | [ciborium](https://rubygems.org/gems/ciborium) | 0.1.0 | Sorah Fukumori | MIT | A CBOR implementation backed by a Rust extension. Tags carry no meaning unless… |
+| 2026-11-11 08:09:54 | [rabbit-slide-abetomo-nominatim-penalty-tuning-for-cjk](https://rubygems.org/gems/rabbit-slide-abetomo-nominatim-penalty-tuning-for-cjk) | 1.0.0 | Abe Tomoaki |  | * Event: https://foss4g.hokkaido.jp/2026 * Blog: https://www.clear-code.com/blo… |
+| 2026-11-11 08:16:25 | [txlemetry-ruby](https://rubygems.org/gems/txlemetry-ruby) | 4.0.0 | Txlemetry | MIT | The Txlemetry ruby library |
+| 2026-11-11 08:16:55 | [txlemetry-rails](https://rubygems.org/gems/txlemetry-rails) | 4.0.0 | Txlemetry | MIT | Automatic exception tracking and instrumentation for Ruby on Rails applications… |
 
 ## Data source
 
