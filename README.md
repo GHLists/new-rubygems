@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 17:20 UTC
+## Latest list — 2026-11-11 18:21 UTC
 
-New gems created between 2026-11-11 16:22 UTC and 2026-11-11 17:20 UTC.
+New gems created between 2026-11-11 17:20 UTC and 2026-11-11 18:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T17-20-05-051058Z.csv)
+[Full CSV](data/new-gems-2026-11-11T18-21-29-634221Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 17:16:26 | [tallyman](https://rubygems.org/gems/tallyman) | 1.0.0 | Alan Johnson, Edouard Briere | MIT | Tallyman is a library for rendering invoices to pdf, using Typst. |
+| 2026-11-11 18:19:23 | [door_check](https://rubygems.org/gems/door_check) | 0.2.0 | Tyler Schneider | MIT | Records which methods proved a person in each sign-in, and checks that record a… |
 
 ## Data source
 

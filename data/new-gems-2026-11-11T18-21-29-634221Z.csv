@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T18:19:23.458Z,door_check,0.2.0,0,Tyler Schneider,MIT,"Records which methods proved a person in each sign-in, and checks that record against the rule of each account the person enters."
