@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T21:08:03.495Z,belt-trailer,0.1.0,13,Stowzilla,MIT,"Belt plugin that films an app's real screens a frame at a time with Playwright, at 1080p and 30 fps, with a moving camera, titles in the app's own fonts and the sound effects the app plays; cuts the beats together with music levelled to -14 LUFS; and checks whether the cut is fit to publish. The en…"
