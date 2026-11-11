@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T05:57:23.908Z,fileboy,0.1.1,43,CD2 Solutions,MIT,"Upload files and videos to Fileboy, build file URLs and image transform URLs, and read video data and transcripts. Uses only the Ruby standard library."
