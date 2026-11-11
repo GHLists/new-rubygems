@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 14:19 UTC
+## Latest list — 2026-11-11 15:21 UTC
 
-New gems created between 2026-11-11 13:18 UTC and 2026-11-11 14:19 UTC.
+New gems created between 2026-11-11 14:19 UTC and 2026-11-11 15:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T14-19-55-917731Z.csv)
+[Full CSV](data/new-gems-2026-11-11T15-21-21-337383Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 14:11:19 | [asobi](https://rubygems.org/gems/asobi) | 0.1.1 | Hayato1031 | MIT | asobi (Japanese for 'play') is a Ruby library for making pictures and looping a… |
+| 2026-11-11 14:38:17 | [fileboy](https://rubygems.org/gems/fileboy) | 0.2.0 | CD2 Solutions | MIT | Upload files and videos to Fileboy, build file URLs and image transform URLs, a… |
+| 2026-11-11 15:15:23 | [noosh24](https://rubygems.org/gems/noosh24) | 0.1.0 | Noosh24 | MIT | Read a Noosh24 venue's menu, reservations, orders, payments, tables, customers,… |
 
 ## Data source
 

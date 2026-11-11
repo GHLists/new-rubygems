@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T14:38:17.972Z,fileboy,0.2.0,102,CD2 Solutions,MIT,"Upload files and videos to Fileboy, build file URLs and image transform URLs, and read video data and transcripts. Uses only the Ruby standard library."
+2026-11-11T15:15:23.423Z,noosh24,0.1.0,0,Noosh24,MIT,"Read a Noosh24 venue's menu, reservations, orders, payments, tables, customers, loyalty, stock and reviews, and create or cancel reservations."
