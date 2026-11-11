@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T01:05:39.621Z,question_kit,0.3.0,34,tylercschneider,MIT,"QuestionKit holds the rules for what an answer to an easy_flow question step is worth, which answers are right, and how a quiz is built, so apps share them rather than each keeping a copy."
+2026-11-11T01:17:25.2Z,trimensional,0.0.0,0,Trimensional Corp.,Unlicense,Trimensional API client for Ruby.

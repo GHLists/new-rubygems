@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 00:20 UTC
+## Latest list — 2026-11-11 01:19 UTC
 
-New gems created between 2026-11-10 23:19 UTC and 2026-11-11 00:20 UTC.
+New gems created between 2026-11-11 00:20 UTC and 2026-11-11 01:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T00-20-03-5787Z.csv)
+[Full CSV](data/new-gems-2026-11-11T01-19-27-234496Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-10 23:44:37 | [google-cloud-saas_platform-saas_service_mgmt-v1](https://rubygems.org/gems/google-cloud-saas_platform-saas_service_mgmt-v1) | 0.1.0 | Google LLC | Apache-2.0 | Model, deploy, and operate your SaaS at scale. Note that google-cloud-saas_plat… |
-| 2026-11-11 00:11:47 | [question_kit](https://rubygems.org/gems/question_kit) | 0.2.0 | tylercschneider | MIT | QuestionKit holds the rules for what an answer to an easy_flow question step is… |
+| 2026-11-11 01:05:39 | [question_kit](https://rubygems.org/gems/question_kit) | 0.3.0 | tylercschneider | MIT | QuestionKit holds the rules for what an answer to an easy_flow question step is… |
+| 2026-11-11 01:17:25 | [trimensional](https://rubygems.org/gems/trimensional) | 0.0.0 | Trimensional Corp. | Unlicense | Trimensional API client for Ruby. |
 
 ## Data source
 
