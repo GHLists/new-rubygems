@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 10:21 UTC
+## Latest list — 2026-11-11 11:19 UTC
 
-New gems created between 2026-11-11 09:20 UTC and 2026-11-11 10:21 UTC.
+New gems created between 2026-11-11 10:21 UTC and 2026-11-11 11:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T10-21-51-974632Z.csv)
+[Full CSV](data/new-gems-2026-11-11T11-19-14-258113Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 09:36:24 | [tessella](https://rubygems.org/gems/tessella) | 0.3.1 | Stephane D'Alu | MIT | Charts (line, scatter, bar, histogram, box, stem, density) on braille, block or… |
-| 2026-11-11 09:40:51 | [rendry](https://rubygems.org/gems/rendry) | 0.2.1 | NICE-DEV226 | MIT | Rendry UI is a small DSL for composing HTML with Ruby: explicit markup, safe es… |
-| 2026-11-11 10:11:22 | [sendio](https://rubygems.org/gems/sendio) | 1.0.0 | send.io | MIT | Send and manage email with the send.io API from Ruby and Rails (ActionMailer de… |
+| 2026-11-11 10:24:00 | [tinyeval](https://rubygems.org/gems/tinyeval) | 0.11.0 | evalship | MIT | tinyeval runs your evals with bundle exec tinyeval. Tinyeval.worker answers the… |
+| 2026-11-11 10:28:16 | [enjine](https://rubygems.org/gems/enjine) | 0.1.0 | Mehmet Cetin | MIT | Enjine runs two-player Magic: The Gathering games following the Comprehensive R… |
 
 ## Data source
 

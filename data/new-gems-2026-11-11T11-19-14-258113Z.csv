@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T10:24:00.78Z,tinyeval,0.11.0,61,evalship,MIT,"tinyeval runs your evals with bundle exec tinyeval. Tinyeval.worker answers them from your app, booted once."
+2026-11-11T10:28:16.687Z,enjine,0.1.0,62,Mehmet Cetin,MIT,"Enjine runs two-player Magic: The Gathering games following the Comprehensive Rules, exposing every step as an atomic decision API. It targets the mechanics of the Standard-legal sets."
