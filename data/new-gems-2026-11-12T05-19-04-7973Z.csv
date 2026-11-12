@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T04:32:52.621Z,ohauthcat,0.0.2,58,OhAuthCat,Nonstandard,"Server-side SDK for OhAuthCat: enterprise SSO (SAML 2.0 and OIDC), SCIM directory sync, webhooks and the management API."
+2026-11-12T04:59:07.618Z,upload_inspector,0.1.0,43,Minh Doan,MIT,"Rejects uploaded files whose real type does not match the allowlist or the file extension, PDFs with active content (JavaScript, launch actions, embedded files, also inside compressed object streams), Office documents with macros, OLE objects, external relationships, DDE fields, and dangerous zip a…"
