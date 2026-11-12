@@ -9,19 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 18:19 UTC
+## Latest list — 2026-11-12 19:20 UTC
 
-New gems created between 2026-11-12 17:20 UTC and 2026-11-12 18:19 UTC.
+New gems created between 2026-11-12 18:19 UTC and 2026-11-12 19:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T18-19-40-520826Z.csv)
+[Full CSV](data/new-gems-2026-11-12T19-20-15-44357Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-12 17:32:38 | [osu_skin_check](https://rubygems.org/gems/osu_skin_check) | 0.1.0 | ZentaoLabs | MIT | Flags partial hitsound sets, MP3 samples, zero-byte files, @2x images without S… |
-| 2026-11-12 17:39:28 | [enjine](https://rubygems.org/gems/enjine) | 0.2.0 | Mehmet Cetin | MIT | Enjine runs two-player Magic: The Gathering games following the Comprehensive R… |
-| 2026-11-12 17:42:15 | [belt-trailer](https://rubygems.org/gems/belt-trailer) | 0.2.0 | Stowzilla | MIT | Belt plugin that films an app's real screens a frame at a time with Playwright,… |
-| 2026-11-12 18:00:51 | [onni](https://rubygems.org/gems/onni) | 0.1.2 | Andrei Makarov | MIT | Feature-flag and experiment core for any Ruby app: YAML registry, runtime hot s… |
-| 2026-11-12 18:14:25 | [asaas-sdk](https://rubygems.org/gems/asaas-sdk) | 0.1.1 | JoaoPierre | MIT | A Ruby SDK for Asaas — Brazil's payment platform. Supports Customers, Payments… |
+| 2026-11-12 18:26:22 | [omniauth-line-oidc](https://rubygems.org/gems/omniauth-line-oidc) | 1.0.0 | kazasiki, omniauth-line-oidc… | MIT | Sign in with LINE through OmniAuth: LINE Login v2.1 with OpenID Connect, includ… |
+| 2026-11-12 18:38:06 | [domainnameapi](https://rubygems.org/gems/domainnameapi) | 1.0.0 | DomainNameAPI | Apache-2.0 | Register, renew, transfer and manage domains, contacts, child nameservers, DNS… |
+| 2026-11-12 18:49:49 | [catus](https://rubygems.org/gems/catus) | 0.0.1 | Chris Roberts | MIT | Stub |
+| 2026-11-12 19:06:56 | [touchque](https://rubygems.org/gems/touchque) | 5.1.0 | Touchque | MIT | Server SDK for Touchque Authenticator and Touchque Login, with Rails integratio… |
+| 2026-11-12 19:07:09 | [onni](https://rubygems.org/gems/onni) | 0.1.3 | Andrei Makarov | MIT | Feature-flag and experiment core for any Ruby app: YAML registry, runtime hot s… |
 
 ## Data source
 

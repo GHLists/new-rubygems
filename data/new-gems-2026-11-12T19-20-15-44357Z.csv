@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T18:26:22.5Z,omniauth-line-oidc,1.0.0,61,"kazasiki, omniauth-line-oidc contributors",MIT,"Sign in with LINE through OmniAuth: LINE Login v2.1 with OpenID Connect, including the email claim and LINE-specific authorization options."
+2026-11-12T18:38:06.859Z,domainnameapi,1.0.0,54,DomainNameAPI,Apache-2.0,"Register, renew, transfer and manage domains, contacts, child nameservers, DNS zones and URL forwarding through the DomainNameAPI REST gateway. A faithful port of php-dna with zero runtime dependencies."
+2026-11-12T18:49:49.66Z,catus,0.0.1,45,Chris Roberts,MIT,Stub
+2026-11-12T19:06:56.065Z,touchque,5.1.0,24,Touchque,MIT,"Server SDK for Touchque Authenticator and Touchque Login, with Rails integration (Railtie, controller concerns) and a Rack relay for @touchque/web."
+2026-11-12T19:07:09.302Z,onni,0.1.3,31,Andrei Makarov,MIT,"Feature-flag and experiment core for any Ruby app: YAML registry, runtime hot switches, actor and audience-group targeting, percentage / A/B assignment, and hit stats for analysis. Not an authorization system. Optional ActiveRecord adapter and pluggable ActiveAdmin dashboard. Includes a pluggable m…"
