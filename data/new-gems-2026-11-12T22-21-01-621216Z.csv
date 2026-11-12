@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T21:20:23.728Z,comprestack,0.1.0,69,Comprestack,MIT,"Compress or convert images from Rails, Shopify, and plain Ruby. Same REST surface as the Comprestack API."
+2026-11-12T21:27:57.754Z,rake-osc7501,0.1.1,121,Brian Cosgrove,Apache-2.0,Reports Rake task activity and outcomes through OSC 7501.
+2026-11-12T21:59:57.328Z,pagelet,0.0.1,36,Scott Gibson,MIT,"A visual page editor and renderer for React, with a Rails engine that stores, versions and publishes pages. Under active development; this early release contains no functionality yet."
