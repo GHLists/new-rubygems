@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T03:41:39.583Z,paid_tw-ubn,0.1.0,64,paid-tw,MIT,"The Ruby counterpart of the @paid-tw/ubn npm client: validate a Taiwan Unified Business Number, compare an invoice title with the registered name, and look the registered name up through a deployed tw-ubn Worker."
+2026-11-12T03:47:28.253Z,slopbouncer,0.1.0,54,Kipple Pty Ltd,MIT,"A static, diff-aware check for code written by coding agents. It compares each test before and after a change and flags the ones that got weaker, and can tell the agent that made the change before it finishes."

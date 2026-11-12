@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 03:18 UTC
+## Latest list — 2026-11-12 04:21 UTC
 
-New gems created between 2026-11-12 02:20 UTC and 2026-11-12 03:18 UTC.
+New gems created between 2026-11-12 03:18 UTC and 2026-11-12 04:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T03-18-51-542709Z.csv)
+[Full CSV](data/new-gems-2026-11-12T04-21-01-384125Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-12 02:41:40 | [asaas-sdk](https://rubygems.org/gems/asaas-sdk) | 0.1.0 | JoaoPierre | MIT | A Ruby SDK for Asaas — Brazil's payment platform. Supports Customers, Payments… |
+| 2026-11-12 03:41:39 | [paid_tw-ubn](https://rubygems.org/gems/paid_tw-ubn) | 0.1.0 | paid-tw | MIT | The Ruby counterpart of the @paid-tw/ubn npm client: validate a Taiwan Unified… |
+| 2026-11-12 03:47:28 | [slopbouncer](https://rubygems.org/gems/slopbouncer) | 0.1.0 | Kipple Pty Ltd | MIT | A static, diff-aware check for code written by coding agents. It compares each… |
 
 ## Data source
 
