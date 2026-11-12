@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 08:20 UTC
+## Latest list — 2026-11-12 09:20 UTC
 
-New gems created between 2026-11-12 07:20 UTC and 2026-11-12 08:20 UTC.
+New gems created between 2026-11-12 08:20 UTC and 2026-11-12 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T08-20-14-671896Z.csv)
+[Full CSV](data/new-gems-2026-11-12T09-20-29-6988Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-12 07:32:40 | [capybara-select](https://rubygems.org/gems/capybara-select) | 1.0.0 | William Yeung, Nikolay Moskvin | MIT | select2 and select2_filter for Capybara/RSpec, with retries for dropdowns that… |
-| 2026-11-12 08:19:49 | [upload_inspector](https://rubygems.org/gems/upload_inspector) | 0.3.0 | Minh Doan | MIT | Checks uploaded files against an allowlist, verifies their detected type agains… |
+| 2026-11-12 08:23:12 | [touchque](https://rubygems.org/gems/touchque) | 5.0.0 | Touchque | MIT | Server SDK for Touchque Authenticator and Touchque Login, with Rails integratio… |
+| 2026-11-12 09:15:53 | [slopbouncer](https://rubygems.org/gems/slopbouncer) | 0.3.0 | Kipple Pty Ltd | MIT | A static, diff-aware check for code written by coding agents. It compares each… |
 
 ## Data source
 
