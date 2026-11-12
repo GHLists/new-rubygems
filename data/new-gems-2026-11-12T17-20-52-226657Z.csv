@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T16:26:52.343Z,activeadmin-autocompletes,0.3.0,66,Andrei Makarov,MIT,"ActiveAdmin-only support for lazy and extensible, fully configurable autocompletes for filters and inputs. Collection-action JSON options, Formtastic filter/form inputs, Stimulus typeahead, and multi-select chips."
+2026-11-12T17:15:11.494Z,pentest-copilot,1.0.1,0,Shoaib,MIT,A simple gem for demonstration purposes
+2026-11-12T17:16:33.747Z,onni,0.1.1,0,Andrei Makarov,MIT,"Feature-flag and experiment core for any Ruby app: YAML registry, runtime hot switches, actor and audience-group targeting, percentage / A/B assignment, and hit stats for analysis. Not an authorization system. Optional ActiveRecord adapter and pluggable ActiveAdmin dashboard. Includes a pluggable m…"

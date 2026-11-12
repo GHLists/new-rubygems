@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 15:19 UTC
+## Latest list — 2026-11-12 17:20 UTC
 
-New gems created between 2026-11-12 14:21 UTC and 2026-11-12 15:19 UTC.
+New gems created between 2026-11-12 16:20 UTC and 2026-11-12 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T15-19-58-442168Z.csv)
+[Full CSV](data/new-gems-2026-11-12T17-20-52-226657Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-12 15:08:08 | [haskimail](https://rubygems.org/gems/haskimail) | 1.0.0 | Dashamail | MIT | Send transactional email, manage templates, streams, webhooks, suppressions, se… |
-| 2026-11-12 15:08:55 | [haskimail-rails](https://rubygems.org/gems/haskimail-rails) | 1.0.0 | DashaMail | MIT | Ruby client and Rails integration for Haskimail (https://haskimail.ru): ActionM… |
-| 2026-11-12 15:09:34 | [openc3-cosmos-constellation](https://rubygems.org/gems/openc3-cosmos-constellation) | 0.7.1 | Constellation Space Corp | Apache-2.0 | A CONSTELLATION target whose packets a bridge microservice fills from the Const… |
+| 2026-11-12 16:26:52 | [activeadmin-autocompletes](https://rubygems.org/gems/activeadmin-autocompletes) | 0.3.0 | Andrei Makarov | MIT | ActiveAdmin-only support for lazy and extensible, fully configurable autocomple… |
+| 2026-11-12 17:15:11 | [pentest-copilot](https://rubygems.org/gems/pentest-copilot) | 1.0.1 | Shoaib | MIT | A simple gem for demonstration purposes |
+| 2026-11-12 17:16:33 | [onni](https://rubygems.org/gems/onni) | 0.1.1 | Andrei Makarov | MIT | Feature-flag and experiment core for any Ruby app: YAML registry, runtime hot s… |
 
 ## Data source
 
