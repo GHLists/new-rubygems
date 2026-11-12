@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 23:22 UTC
+## Latest list — 2026-11-12 00:20 UTC
 
-New gems created between 2026-11-11 22:19 UTC and 2026-11-11 23:22 UTC.
+New gems created between 2026-11-11 23:22 UTC and 2026-11-12 00:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-11T23-22-05-500219Z.csv)
+[Full CSV](data/new-gems-2026-11-12T00-20-26-173501Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 23:02:06 | [openc3-cosmos-constellation](https://rubygems.org/gems/openc3-cosmos-constellation) | 0.7.0 | Constellation Space Corp | Apache-2.0 | A CONSTELLATION target whose packets a bridge microservice fills from the Const… |
+| 2026-11-11 23:55:24 | [tungo-sdk](https://rubygems.org/gems/tungo-sdk) | 0.2.0 | Tungo | MIT | Typed client for the Tungo Platform API: AI accountant chat with streaming, pro… |
+| 2026-11-12 00:10:05 | [joobq](https://rubygems.org/gems/joobq) | 0.1.0 | azutoolkit | MIT | A thin client for the JoobQ SDK gateway of a self-hosted JoobQUI server: jobs,… |
 
 ## Data source
 

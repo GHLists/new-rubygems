@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-11T23:55:24.848Z,tungo-sdk,0.2.0,43,Tungo,MIT,"Typed client for the Tungo Platform API: AI accountant chat with streaming, proposals, automations, webhooks. Generated from the API's OpenAPI contract."
+2026-11-12T00:10:05.977Z,joobq,0.1.0,9,azutoolkit,MIT,"A thin client for the JoobQ SDK gateway of a self-hosted JoobQUI server: jobs, workflow blueprints, workers and producers."
