@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 11:20 UTC
+## Latest list — 2026-11-12 13:18 UTC
 
-New gems created between 2026-11-12 10:19 UTC and 2026-11-12 11:20 UTC.
+New gems created between 2026-11-12 12:21 UTC and 2026-11-12 13:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T11-20-17-148589Z.csv)
+[Full CSV](data/new-gems-2026-11-12T13-18-50-415918Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-12 10:50:18 | [rails-jsdom](https://rubygems.org/gems/rails-jsdom) | 0.1.0 | Jake Howerton | MIT | rails-jsdom runs your real Rails pages, Stimulus controllers and Turbo in a per… |
+| 2026-11-12 12:27:29 | [skywake](https://rubygems.org/gems/skywake) | 0.0.0 | Skywake | Apache-2.0 | Reserved for Skywake, a filesystem and search index for agents. The real gem ar… |
+| 2026-11-12 12:58:52 | [oushodh](https://rubygems.org/gems/oushodh) | 0.1.0 | Oushodh | MIT | Medicine data for Bangladesh, checked against the DGDA register. |
 
 ## Data source
 
