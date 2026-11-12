@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 09:20 UTC
+## Latest list — 2026-11-12 11:20 UTC
 
-New gems created between 2026-11-12 08:20 UTC and 2026-11-12 09:20 UTC.
+New gems created between 2026-11-12 10:19 UTC and 2026-11-12 11:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T09-20-29-6988Z.csv)
+[Full CSV](data/new-gems-2026-11-12T11-20-17-148589Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-12 08:23:12 | [touchque](https://rubygems.org/gems/touchque) | 5.0.0 | Touchque | MIT | Server SDK for Touchque Authenticator and Touchque Login, with Rails integratio… |
-| 2026-11-12 09:15:53 | [slopbouncer](https://rubygems.org/gems/slopbouncer) | 0.3.0 | Kipple Pty Ltd | MIT | A static, diff-aware check for code written by coding agents. It compares each… |
+| 2026-11-12 10:50:18 | [rails-jsdom](https://rubygems.org/gems/rails-jsdom) | 0.1.0 | Jake Howerton | MIT | rails-jsdom runs your real Rails pages, Stimulus controllers and Turbo in a per… |
 
 ## Data source
 

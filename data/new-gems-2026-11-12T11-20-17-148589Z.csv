@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T10:50:18.179Z,rails-jsdom,0.1.0,58,Jake Howerton,MIT,"rails-jsdom runs your real Rails pages, Stimulus controllers and Turbo in a persistent Node + jsdom process, routing page fetches back into Rails in-process. Interaction tests read like system tests without Capybara, a server or a browser."
