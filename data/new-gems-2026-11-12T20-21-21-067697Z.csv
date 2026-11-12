@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T19:37:29.706Z,omniauth-line-oidc,1.1.0,123,"kazasiki, omniauth-line-oidc contributors",MIT,"Sign in with LINE through OmniAuth: LINE Login v2.1 with OpenID Connect, including the email claim and LINE-specific authorization options."
