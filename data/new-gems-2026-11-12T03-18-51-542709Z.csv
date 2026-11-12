@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T02:41:40.602Z,asaas-sdk,0.1.0,56,JoaoPierre,MIT,"A Ruby SDK for Asaas — Brazil's payment platform. Supports Customers, Payments (Boleto, Pix, Credit Card), Subscriptions, Webhooks and more."

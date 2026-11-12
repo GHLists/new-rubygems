@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 00:20 UTC
+## Latest list — 2026-11-12 03:18 UTC
 
-New gems created between 2026-11-11 23:22 UTC and 2026-11-12 00:20 UTC.
+New gems created between 2026-11-12 02:20 UTC and 2026-11-12 03:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T00-20-26-173501Z.csv)
+[Full CSV](data/new-gems-2026-11-12T03-18-51-542709Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-11 23:55:24 | [tungo-sdk](https://rubygems.org/gems/tungo-sdk) | 0.2.0 | Tungo | MIT | Typed client for the Tungo Platform API: AI accountant chat with streaming, pro… |
-| 2026-11-12 00:10:05 | [joobq](https://rubygems.org/gems/joobq) | 0.1.0 | azutoolkit | MIT | A thin client for the JoobQ SDK gateway of a self-hosted JoobQUI server: jobs,… |
+| 2026-11-12 02:41:40 | [asaas-sdk](https://rubygems.org/gems/asaas-sdk) | 0.1.0 | JoaoPierre | MIT | A Ruby SDK for Asaas — Brazil's payment platform. Supports Customers, Payments… |
 
 ## Data source
 
