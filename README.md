@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 13:18 UTC
+## Latest list — 2026-11-12 14:21 UTC
 
-New gems created between 2026-11-12 12:21 UTC and 2026-11-12 13:18 UTC.
+New gems created between 2026-11-12 13:18 UTC and 2026-11-12 14:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T13-18-50-415918Z.csv)
+[Full CSV](data/new-gems-2026-11-12T14-21-26-407901Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-12 12:27:29 | [skywake](https://rubygems.org/gems/skywake) | 0.0.0 | Skywake | Apache-2.0 | Reserved for Skywake, a filesystem and search index for agents. The real gem ar… |
-| 2026-11-12 12:58:52 | [oushodh](https://rubygems.org/gems/oushodh) | 0.1.0 | Oushodh | MIT | Medicine data for Bangladesh, checked against the DGDA register. |
+| 2026-11-12 13:44:36 | [etassia](https://rubygems.org/gems/etassia) | 0.1.0 | Ribose Inc. | BSD-2-Clause | Etassia is a pure Ruby implementation of Mermaid diagram rendering. It parses M… |
+| 2026-11-12 14:20:02 | [joobq](https://rubygems.org/gems/joobq) | 0.1.1 | azutoolkit | MIT | A thin client for the JoobQ SDK gateway of a self-hosted JoobQUI server: jobs,… |
 
 ## Data source
 

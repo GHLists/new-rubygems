@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T13:44:36.897Z,etassia,0.1.0,51,Ribose Inc.,BSD-2-Clause,"Etassia is a pure Ruby implementation of Mermaid diagram rendering. It parses Mermaid syntax and generates SVG output using Parslet grammars and a built-in fallback grid layout. Supports 24 diagram types: flowcharts, sequence, class, state, ER, C4, block, architecture, Gantt, timeline, Git graph, m…"
+2026-11-12T14:20:02.031Z,joobq,0.1.1,0,azutoolkit,MIT,"A thin client for the JoobQ SDK gateway of a self-hosted JoobQUI server: jobs, workflow blueprints, workers and producers."
