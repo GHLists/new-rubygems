@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 22:21 UTC
+## Latest list — 2026-11-12 23:19 UTC
 
-New gems created between 2026-11-12 21:20 UTC and 2026-11-12 22:21 UTC.
+New gems created between 2026-11-12 22:21 UTC and 2026-11-12 23:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T22-21-01-621216Z.csv)
+[Full CSV](data/new-gems-2026-11-12T23-19-00-383374Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-12 21:20:23 | [comprestack](https://rubygems.org/gems/comprestack) | 0.1.0 | Comprestack | MIT | Compress or convert images from Rails, Shopify, and plain Ruby. Same REST surfa… |
-| 2026-11-12 21:27:57 | [rake-osc7501](https://rubygems.org/gems/rake-osc7501) | 0.1.1 | Brian Cosgrove | Apache-2.0 | Reports Rake task activity and outcomes through OSC 7501. |
-| 2026-11-12 21:59:57 | [pagelet](https://rubygems.org/gems/pagelet) | 0.0.1 | Scott Gibson | MIT | A visual page editor and renderer for React, with a Rails engine that stores, v… |
+| 2026-11-12 22:28:19 | [interceptor-multilang](https://rubygems.org/gems/interceptor-multilang) | 1.0.0 | TitanCSA | MIT | Fiddle bindings with native DLL, API docs and examples. The matching input driv… |
+| 2026-11-12 23:01:29 | [browser-control-sdk](https://rubygems.org/gems/browser-control-sdk) | 0.2.2 | TitanCSA | MIT | Ruby bindings to the native BrowserControl SDK. All protocol methods, bounded t… |
 
 ## Data source
 
