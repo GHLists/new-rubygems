@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T20:21:49.196Z,dialecto-rails,0.1.0,75,Dialecto,MIT,"The Rails side of Dialecto's minimal-diff translation pull requests: a scanner that sends config/locales to Dialecto from CI, a static scan of where the code reads each key, and a development-only in-context editor."
+2026-11-12T20:48:23.623Z,ltntorch,0.1.0,45,Mauro Tortonesi,MIT,"A Ruby port of LTNtorch, the PyTorch implementation of Logic Tensor Networks: a neuro-symbolic framework that learns neural networks by maximizing the satisfaction of a first-order fuzzy logic knowledge base."

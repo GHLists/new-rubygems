@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 20:21 UTC
+## Latest list — 2026-11-12 21:20 UTC
 
-New gems created between 2026-11-12 19:20 UTC and 2026-11-12 20:21 UTC.
+New gems created between 2026-11-12 20:21 UTC and 2026-11-12 21:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T20-21-21-067697Z.csv)
+[Full CSV](data/new-gems-2026-11-12T21-20-13-020375Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-12 19:37:29 | [omniauth-line-oidc](https://rubygems.org/gems/omniauth-line-oidc) | 1.1.0 | kazasiki, omniauth-line-oidc… | MIT | Sign in with LINE through OmniAuth: LINE Login v2.1 with OpenID Connect, includ… |
+| 2026-11-12 20:21:49 | [dialecto-rails](https://rubygems.org/gems/dialecto-rails) | 0.1.0 | Dialecto | MIT | The Rails side of Dialecto's minimal-diff translation pull requests: a scanner… |
+| 2026-11-12 20:48:23 | [ltntorch](https://rubygems.org/gems/ltntorch) | 0.1.0 | Mauro Tortonesi | MIT | A Ruby port of LTNtorch, the PyTorch implementation of Logic Tensor Networks: a… |
 
 ## Data source
 
