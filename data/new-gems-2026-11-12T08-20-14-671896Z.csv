@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T07:32:40.639Z,capybara-select,1.0.0,108,"William Yeung, Nikolay Moskvin",MIT,"select2 and select2_filter for Capybara/RSpec, with retries for dropdowns that close or re-render under the click and for results that load slowly. A fork of capybara-select2."
+2026-11-12T08:19:49.268Z,upload_inspector,0.3.0,0,Minh Doan,MIT,"Checks uploaded files against an allowlist, verifies their detected type against the file extension, and applies format-specific structural checks. Rejects risky PDF content such as scripts and embedded files; Office macros, external relationships, and DDE fields; scripted SVGs; malformed or traili…"

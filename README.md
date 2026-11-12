@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 06:18 UTC
+## Latest list — 2026-11-12 08:20 UTC
 
-New gems created between 2026-11-12 05:19 UTC and 2026-11-12 06:18 UTC.
+New gems created between 2026-11-12 07:20 UTC and 2026-11-12 08:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T06-18-52-190788Z.csv)
+[Full CSV](data/new-gems-2026-11-12T08-20-14-671896Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-12 05:22:46 | [slopbouncer](https://rubygems.org/gems/slopbouncer) | 0.2.0 | Kipple Pty Ltd | MIT | A static, diff-aware check for code written by coding agents. It compares each… |
+| 2026-11-12 07:32:40 | [capybara-select](https://rubygems.org/gems/capybara-select) | 1.0.0 | William Yeung, Nikolay Moskvin | MIT | select2 and select2_filter for Capybara/RSpec, with retries for dropdowns that… |
+| 2026-11-12 08:19:49 | [upload_inspector](https://rubygems.org/gems/upload_inspector) | 0.3.0 | Minh Doan | MIT | Checks uploaded files against an allowlist, verifies their detected type agains… |
 
 ## Data source
 
