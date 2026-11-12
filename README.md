@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 05:19 UTC
+## Latest list — 2026-11-12 06:18 UTC
 
-New gems created between 2026-11-12 04:21 UTC and 2026-11-12 05:19 UTC.
+New gems created between 2026-11-12 05:19 UTC and 2026-11-12 06:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-12T05-19-04-7973Z.csv)
+[Full CSV](data/new-gems-2026-11-12T06-18-52-190788Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-12 04:32:52 | [ohauthcat](https://rubygems.org/gems/ohauthcat) | 0.0.2 | OhAuthCat | Nonstandard | Server-side SDK for OhAuthCat: enterprise SSO (SAML 2.0 and OIDC), SCIM directo… |
-| 2026-11-12 04:59:07 | [upload_inspector](https://rubygems.org/gems/upload_inspector) | 0.1.0 | Minh Doan | MIT | Rejects uploaded files whose real type does not match the allowlist or the file… |
+| 2026-11-12 05:22:46 | [slopbouncer](https://rubygems.org/gems/slopbouncer) | 0.2.0 | Kipple Pty Ltd | MIT | A static, diff-aware check for code written by coding agents. It compares each… |
 
 ## Data source
 

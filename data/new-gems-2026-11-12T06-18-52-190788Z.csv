@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T05:22:46.786Z,slopbouncer,0.2.0,81,Kipple Pty Ltd,MIT,"A static, diff-aware check for code written by coding agents. It compares each test before and after a change and flags the ones that got weaker, and can tell the agent that made the change before it finishes."
