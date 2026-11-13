@@ -1,0 +1,12 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T00:46:24.632Z,fyrainput,1.0.0,53,TitanCSA,MIT,"Native bindings to the product SDK: receive, edit, send, descriptors, injection and cancellation. Matching driver installed separately."
+2026-11-13T00:46:28.572Z,autohotinterceptor,1.0.0,57,TitanCSA,MIT,"Native bindings to the product SDK: receive, edit, send, descriptors, injection and cancellation. Matching driver installed separately."
+2026-11-13T00:46:31.979Z,fyrainput-gamepad,1.0.0,62,TitanCSA,MIT,"Native bindings to the product SDK: receive, edit, send, descriptors, injection and cancellation. Matching driver installed separately."
+2026-11-13T00:46:35.868Z,fyrainput-keyboard-mouse,1.0.0,58,TitanCSA,MIT,"Native bindings to the product SDK: receive, edit, send, descriptors, injection and cancellation. Matching driver installed separately."
+2026-11-13T00:46:42.738Z,interceptor-gamepad-controller,1.0.0,61,TitanCSA,MIT,"Native bindings to the product SDK: receive, edit, send, descriptors, injection and cancellation. Matching driver installed separately."
+2026-11-13T00:46:46.211Z,interceptor-keyboard-mouse,1.0.0,62,TitanCSA,MIT,"Native bindings to the product SDK: receive, edit, send, descriptors, injection and cancellation. Matching driver installed separately."
+2026-11-13T00:46:49.439Z,windows-gamepad-filter,1.0.0,57,TitanCSA,MIT,"Native bindings to the product SDK: receive, edit, send, descriptors, injection and cancellation. Matching driver installed separately."
+2026-11-13T00:46:53.088Z,windows-input-filter,1.0.0,58,TitanCSA,MIT,"Native bindings to the product SDK: receive, edit, send, descriptors, injection and cancellation. Matching driver installed separately."
+2026-11-13T00:46:56.365Z,windows-keyboard-mouse-filter,1.0.0,58,TitanCSA,MIT,"Native bindings to the product SDK: receive, edit, send, descriptors, injection and cancellation. Matching driver installed separately."
+2026-11-13T01:12:12.071Z,interceptor-sdk,2.0.0,8,TitanCSA,MIT,"Native bindings to the product SDK: receive, edit, send, descriptors, injection and cancellation. Matching driver installed separately."
+2026-11-13T01:18:00.962Z,pagelet,0.1.0,0,Scott Gibson,MIT,"A Rails engine that stores, versions and publishes pages built with the @byscott-io/pagelet visual editor for React."
