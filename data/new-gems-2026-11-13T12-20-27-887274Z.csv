@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T11:33:02.703Z,crawlora-modrinth,0.1.0,58,Crawlora,MIT,"Ruby client for Crawlora's hosted Modrinth API. Covers project search and metadata, versions, dependencies, collections, organizations, and file compatibility across 34 endpoints."
+2026-11-13T11:38:30.621Z,crawlora-openligadb,0.1.0,53,Crawlora,MIT,"Ruby client for Crawlora's hosted OpenLigaDB API. Covers sports and league discovery, fixtures, match results, standings, scorers, and team match history across 22 endpoints."
+2026-11-13T11:41:37.105Z,crawlora-speedrun,0.1.0,48,Crawlora,MIT,"Ruby client for Crawlora's hosted Speedrun.com API. Covers game and category discovery, leaderboards, records, variables, and run metadata across 20 endpoints."
