@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 17:19 UTC
+## Latest list — 2026-11-13 18:21 UTC
 
-New gems created between 2026-11-13 16:20 UTC and 2026-11-13 17:19 UTC.
+New gems created between 2026-11-13 17:19 UTC and 2026-11-13 18:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-13T17-19-40-168173Z.csv)
+[Full CSV](data/new-gems-2026-11-13T18-21-39-553669Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-13 16:28:09 | [dradis-calculator_stride](https://rubygems.org/gems/dradis-calculator_stride) | 5.5.0 | Dradis Team | GPL-2 | Add STRIDE threat modeling fields (Spoofing, Tampering, Repudiation, Informatio… |
-| 2026-11-13 16:28:57 | [dradis-calculator_aivss-ssvc](https://rubygems.org/gems/dradis-calculator_aivss-ssvc) | 5.5.0 | Dradis Team | GPL-2 | Display an OWASP AIVSS-SSVC calculator in Dradis Framework. |
-| 2026-11-13 16:36:52 | [tdesign-vue-mono](https://rubygems.org/gems/tdesign-vue-mono) | 1.0.1 | Shoaib | MIT | A simple gem for demonstration purposes |
+| 2026-11-13 17:35:14 | [nabn](https://rubygems.org/gems/nabn) | 0.1.0 | nabn | MIT | Official Ruby client and workflow SDK for nabn (https://nabn.app/), enabling de… |
 
 ## Data source
 

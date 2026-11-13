@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T17:35:14.81Z,nabn,0.1.0,64,nabn,MIT,"Official Ruby client and workflow SDK for nabn (https://nabn.app/), enabling deterministic automation and cloud-native developer pipelines."
