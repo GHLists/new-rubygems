@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T08:45:03.155Z,mirrors-sdk,0.2.0,64,Mirrors,,"Capture canonical conversation history and retrieve bounded, server-selected context while your application owns model calls and tools."
+2026-11-13T08:59:40.366Z,fastlane-plugin-pcloudy,0.2.0,36,bikee1235,MIT,"Use pCloudy (device.pcloudy.com or a private cloud) from your fastlane lanes: list available real iOS and Android devices, upload the .ipa or .apk you just built, and re-sign iOS apps with pCloudy's certificate."
+2026-11-13T09:00:08.596Z,rspack_rails,0.10.0,40,tungnt,MIT,"Bundle Rails JavaScript with Rspack: one-command installer, dev server with hot module replacement, Stimulus controller autoloading and a setup doctor. Works with Propshaft and Sprockets."
