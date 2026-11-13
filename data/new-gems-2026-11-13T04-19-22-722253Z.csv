@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T04:06:55.212Z,rspack_rails,0.2.0,25,tungnt,MIT,"Bundle Rails JavaScript with Rspack: one-command installer, dev server with hot module replacement, Stimulus controller autoloading and a setup doctor. Works with Propshaft and Sprockets."

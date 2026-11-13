@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 03:19 UTC
+## Latest list — 2026-11-13 04:19 UTC
 
-New gems created between 2026-11-13 02:19 UTC and 2026-11-13 03:19 UTC.
+New gems created between 2026-11-13 03:19 UTC and 2026-11-13 04:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-13T03-19-59-846205Z.csv)
+[Full CSV](data/new-gems-2026-11-13T04-19-22-722253Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-13 03:01:51 | [fyradevice](https://rubygems.org/gems/fyradevice) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 03:01:56 | [vdevice](https://rubygems.org/gems/vdevice) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 03:02:00 | [windows-virtual-devices](https://rubygems.org/gems/windows-virtual-devices) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 03:08:11 | [rake-osc7501](https://rubygems.org/gems/rake-osc7501) | 0.1.2 | Brian Cosgrove | Apache-2.0 | Reports Rake task activity and outcomes through OSC 7501. |
+| 2026-11-13 04:06:55 | [rspack_rails](https://rubygems.org/gems/rspack_rails) | 0.2.0 | tungnt | MIT | Bundle Rails JavaScript with Rspack: one-command installer, dev server with hot… |
 
 ## Data source
 
