@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 12:20 UTC
+## Latest list — 2026-11-13 13:22 UTC
 
-New gems created between 2026-11-13 11:19 UTC and 2026-11-13 12:20 UTC.
+New gems created between 2026-11-13 12:20 UTC and 2026-11-13 13:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-13T12-20-27-887274Z.csv)
+[Full CSV](data/new-gems-2026-11-13T13-22-40-780232Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-13 11:33:02 | [crawlora-modrinth](https://rubygems.org/gems/crawlora-modrinth) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted Modrinth API. Covers project search and metad… |
-| 2026-11-13 11:38:30 | [crawlora-openligadb](https://rubygems.org/gems/crawlora-openligadb) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted OpenLigaDB API. Covers sports and league disc… |
-| 2026-11-13 11:41:37 | [crawlora-speedrun](https://rubygems.org/gems/crawlora-speedrun) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted Speedrun.com API. Covers game and category di… |
+| 2026-11-13 13:10:06 | [rails_ai_admin](https://rubygems.org/gems/rails_ai_admin) | 0.1.1 | Andy Wang | MIT | A self-hosted Rails admin with typed resources and a shared, audited operation… |
 
 ## Data source
 
