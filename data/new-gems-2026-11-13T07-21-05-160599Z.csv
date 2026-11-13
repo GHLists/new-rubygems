@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T06:25:26.429Z,mirrors-sdk,0.1.0,63,Mirrors,,"Capture canonical conversation history and retrieve bounded, server-selected context while your application owns model calls and tools."
+2026-11-13T06:42:30.296Z,zoho_cpaas-ruby,1.0.0,50,ACO,MIT,Zoho CPaas Ruby SDK.
+2026-11-13T07:14:40.168Z,rspack_rails,0.7.1,0,tungnt,MIT,"Bundle Rails JavaScript with Rspack: one-command installer, dev server with hot module replacement, Stimulus controller autoloading and a setup doctor. Works with Propshaft and Sprockets."

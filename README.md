@@ -9,25 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 06:21 UTC
+## Latest list — 2026-11-13 07:21 UTC
 
-New gems created between 2026-11-13 05:19 UTC and 2026-11-13 06:21 UTC.
+New gems created between 2026-11-13 06:21 UTC and 2026-11-13 07:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-13T06-21-04-807892Z.csv)
+[Full CSV](data/new-gems-2026-11-13T07-21-05-160599Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-13 05:31:54 | [huginn_datacircle_agent](https://rubygems.org/gems/huginn_datacircle_agent) | 0.1.0 | Wayne Hamadi | MIT | A Huginn agent that emits the best plans of each GTM API, plan searches and pro… |
-| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
-| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
-| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
-| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
-| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
-| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
-| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
-| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
-| 2026-11-13 06:13:55 | [rspack_rails](https://rubygems.org/gems/rspack_rails) | 0.4.1 | tungnt | MIT | Bundle Rails JavaScript with Rspack: one-command installer, dev server with hot… |
-| 2026-11-13 06:20:38 | [ruby-lean](https://rubygems.org/gems/ruby-lean) | 0.1.0 | lean-packages contributors | MIT | A Ruby-native CLI to audit RubyGem package distributions, detect unnecessary fi… |
+| 2026-11-13 06:25:26 | [mirrors-sdk](https://rubygems.org/gems/mirrors-sdk) | 0.1.0 | Mirrors |  | Capture canonical conversation history and retrieve bounded, server-selected co… |
+| 2026-11-13 06:42:30 | [zoho_cpaas-ruby](https://rubygems.org/gems/zoho_cpaas-ruby) | 1.0.0 | ACO | MIT | Zoho CPaas Ruby SDK. |
+| 2026-11-13 07:14:40 | [rspack_rails](https://rubygems.org/gems/rspack_rails) | 0.7.1 | tungnt | MIT | Bundle Rails JavaScript with Rspack: one-command installer, dev server with hot… |
 
 ## Data source
 
