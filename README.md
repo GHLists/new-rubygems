@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 14:22 UTC
+## Latest list — 2026-11-13 15:18 UTC
 
-New gems created between 2026-11-13 13:22 UTC and 2026-11-13 14:22 UTC.
+New gems created between 2026-11-13 14:22 UTC and 2026-11-13 15:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-13T14-22-05-614995Z.csv)
+[Full CSV](data/new-gems-2026-11-13T15-18-59-699955Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-13 13:50:06 | [soft-sort](https://rubygems.org/gems/soft-sort) | 1.0.0 | SoftSort contributors | MIT | A safe, local-first file organization planner |
-| 2026-11-13 13:52:41 | [thor-osc7501](https://rubygems.org/gems/thor-osc7501) | 0.1.0 | Brian Cosgrove | Apache-2.0 | Reports Thor command and prompt activity through OSC 7501. |
+| 2026-11-13 14:35:45 | [crawlora-fortnite](https://rubygems.org/gems/crawlora-fortnite) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted Fortnite API. Covers public island discovery,… |
+| 2026-11-13 14:48:02 | [crawlora-lichess](https://rubygems.org/gems/crawlora-lichess) | 0.1.0 | Crawlora | MIT | Ruby client for Crawlora's hosted Lichess API. Covers puzzles, tablebases, tour… |
+| 2026-11-13 15:01:18 | [organisationsnummer](https://rubygems.org/gems/organisationsnummer) | 1.0.0 | Rasmus Graham | MIT | Validate Swedish organization numbers |
+| 2026-11-13 15:16:20 | [elevenlabs-ruby-sdk](https://rubygems.org/gems/elevenlabs-ruby-sdk) | 1.0.0 | Elevenlabs | MIT | This is the documentation for the ElevenLabs API. You can use this API to use o… |
 
 ## Data source
 

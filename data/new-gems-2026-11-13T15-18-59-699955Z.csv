@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T14:35:45.693Z,crawlora-fortnite,0.1.0,61,Crawlora,MIT,"Ruby client for Crawlora's hosted Fortnite API. Covers public island discovery, genres, rankings, and engagement metrics across 10 endpoints."
+2026-11-13T14:48:02.824Z,crawlora-lichess,0.1.0,48,Crawlora,MIT,"Ruby client for Crawlora's hosted Lichess API. Covers puzzles, tablebases, tournaments, cloud evaluations, and public event listings across 11 endpoints."
+2026-11-13T15:01:18.521Z,organisationsnummer,1.0.0,24,Rasmus Graham,MIT,Validate Swedish organization numbers
+2026-11-13T15:16:20.8Z,elevenlabs-ruby-sdk,1.0.0,0,Elevenlabs,MIT,"This is the documentation for the ElevenLabs API. You can use this API to use our service programmatically, this is done by using your API key. You can find your API key in the dashboard at https://elevenlabs.io/app/settings/api-keys."
