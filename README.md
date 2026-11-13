@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 18:21 UTC
+## Latest list — 2026-11-13 19:21 UTC
 
-New gems created between 2026-11-13 17:19 UTC and 2026-11-13 18:21 UTC.
+New gems created between 2026-11-13 18:21 UTC and 2026-11-13 19:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-13T18-21-39-553669Z.csv)
+[Full CSV](data/new-gems-2026-11-13T19-21-32-469375Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-13 17:35:14 | [nabn](https://rubygems.org/gems/nabn) | 0.1.0 | nabn | MIT | Official Ruby client and workflow SDK for nabn (https://nabn.app/), enabling de… |
+| 2026-11-13 18:57:35 | [logstash-input-elasticsearch_compat](https://rubygems.org/gems/logstash-input-elasticsearch_compat) | 0.1.0 | J. M. Becker | Apache-2.0 | This gem is a Logstash plugin required to be installed on top of the Logstash c… |
 
 ## Data source
 

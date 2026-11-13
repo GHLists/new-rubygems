@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T18:57:35.394Z,logstash-input-elasticsearch_compat,0.1.0,21,J. M. Becker,Apache-2.0,This gem is a Logstash plugin required to be installed on top of the Logstash core pipeline using $LS_HOME/bin/logstash-plugin install gemname. This gem is not a stand-alone program.
