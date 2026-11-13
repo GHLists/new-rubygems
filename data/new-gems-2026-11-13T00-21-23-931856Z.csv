@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-12T23:34:42.589Z,rubocop-dynamic_methods,0.1.0,67,meganemura,MIT,RuboCop cops that rewrite dynamically defined methods as plain defs you can search for.
+2026-11-13T00:12:26.988Z,jitcatch,0.1.0,2,meganemura,MIT,"jitcatch runs candidate Minitest or RSpec files on two git revisions, drops flakes and other non-signals, and prints the tests that pass on the parent and fail on the change, with the changed methods each one reaches."
+2026-11-13T00:12:31.665Z,branchout,0.1.0,2,meganemura,MIT,Runs a Ruby method on concrete inputs and reports branch arms that are still uncovered. An agent reads that frontier and proposes the next inputs. Branchout does not collect or solve symbolic path constraints.
+2026-11-13T00:12:35.362Z,quint_driver,0.1.0,1,meganemura,MIT,"Run a Ruby system the way a Quint spec says, and compare the two after every step."
+2026-11-13T00:14:21.086Z,epl,0.1.0,0,John Hawthorn,MIT,ruby -repl
+2026-11-13T00:18:12.557Z,holdfast,0.1.0,0,meganemura,MIT,"holdfast turns each suspicion an agent writes about a Rails app (a bug, a race, an effect on another area) into a spec built with the app's factories, runs it on base and head, and answers confirmed, refuted, or could_not_run. It also checks a change against its base and hunts with random sequences…"
