@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 16:20 UTC
+## Latest list — 2026-11-13 17:19 UTC
 
-New gems created between 2026-11-13 15:18 UTC and 2026-11-13 16:20 UTC.
+New gems created between 2026-11-13 16:20 UTC and 2026-11-13 17:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-13T16-20-18-901556Z.csv)
+[Full CSV](data/new-gems-2026-11-13T17-19-40-168173Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-13 15:47:32 | [procteye](https://rubygems.org/gems/procteye) | 2.1.0 | Procteye | MIT | Create and manage integrity sessions and verify Standard Webhooks signatures. P… |
+| 2026-11-13 16:28:09 | [dradis-calculator_stride](https://rubygems.org/gems/dradis-calculator_stride) | 5.5.0 | Dradis Team | GPL-2 | Add STRIDE threat modeling fields (Spoofing, Tampering, Repudiation, Informatio… |
+| 2026-11-13 16:28:57 | [dradis-calculator_aivss-ssvc](https://rubygems.org/gems/dradis-calculator_aivss-ssvc) | 5.5.0 | Dradis Team | GPL-2 | Display an OWASP AIVSS-SSVC calculator in Dradis Framework. |
+| 2026-11-13 16:36:52 | [tdesign-vue-mono](https://rubygems.org/gems/tdesign-vue-mono) | 1.0.1 | Shoaib | MIT | A simple gem for demonstration purposes |
 
 ## Data source
 

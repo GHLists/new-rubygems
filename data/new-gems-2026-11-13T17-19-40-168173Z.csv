@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T16:28:09.068Z,dradis-calculator_stride,5.5.0,62,Dradis Team,GPL-2,"Add STRIDE threat modeling fields (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege) to your Issues."
+2026-11-13T16:28:57.181Z,dradis-calculator_aivss-ssvc,5.5.0,67,Dradis Team,GPL-2,Display an OWASP AIVSS-SSVC calculator in Dradis Framework.
+2026-11-13T16:36:52.515Z,tdesign-vue-mono,1.0.1,67,Shoaib,MIT,A simple gem for demonstration purposes
