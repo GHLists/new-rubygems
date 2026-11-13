@@ -1,0 +1,25 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T04:45:58.907Z,rspack_rails,0.4.0,56,tungnt,MIT,"Bundle Rails JavaScript with Rspack: one-command installer, dev server with hot module replacement, Stimulus controller autoloading and a setup doctor. Works with Propshaft and Sprockets."
+2026-11-13T04:57:10.954Z,file-trace-studio,1.0.0,43,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:14.736Z,connection-trace-studio,1.0.0,47,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:19.059Z,process-trace-studio,1.0.0,43,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:22.85Z,processguard-sdk,1.0.0,46,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:26.873Z,registryguard,1.0.0,46,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:30.927Z,storage-io-flight-recorder,1.0.0,47,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:34.861Z,virtual-storage-fault-lab,1.0.0,49,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:38.795Z,titan-file-filter,1.0.0,44,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:42.912Z,titan-network-filter,1.0.0,46,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:46.285Z,network-emulation-sdk,1.0.0,44,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:49.994Z,packet-capture-sdk,1.0.0,46,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:53.452Z,usb-trace-sdk,1.0.0,44,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:57:56.749Z,virtual-network-adapter-sdk,1.0.0,46,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:58:00.011Z,virtual-camera-sdk,1.0.0,47,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:58:03.817Z,changed-block-tracking-sdk,1.0.0,47,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:58:08.212Z,cloud-files-sdk,1.0.0,47,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:58:12.235Z,hid-access-control,1.0.0,46,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:58:16.491Z,usb-over-ip-sdk,1.0.0,48,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:58:20.34Z,user-backed-virtual-disk-sdk,1.0.0,45,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:58:24.901Z,remote-workstation-sdk,1.0.0,45,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:58:28.285Z,titan-audio-link,1.0.0,49,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:58:32.776Z,interception-v2,1.0.0,48,TitanCSA,LGPL-3.0-or-later,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T04:58:37.225Z,node-interceptor,1.0.0,48,TitanCSA,LGPL-3.0-or-later,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
