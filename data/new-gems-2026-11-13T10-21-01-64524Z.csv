@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T09:25:52.216Z,carriercrow,0.1.0,67,Frozen Crow Inc.,MIT,"Send email through Carrier Crow, read what happened to it, check your domains and verify webhook signatures."
+2026-11-13T09:41:05.585Z,rspack_rails,0.10.2,59,tungnt,MIT,"Bundle Rails JavaScript with Rspack: one-command installer, dev server with hot module replacement, Stimulus controller autoloading and a setup doctor. Works with Propshaft and Sprockets."
