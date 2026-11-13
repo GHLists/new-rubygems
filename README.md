@@ -9,38 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 05:19 UTC
+## Latest list — 2026-11-13 06:21 UTC
 
-New gems created between 2026-11-13 04:19 UTC and 2026-11-13 05:19 UTC.
+New gems created between 2026-11-13 05:19 UTC and 2026-11-13 06:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-13T05-19-54-550542Z.csv)
+[Full CSV](data/new-gems-2026-11-13T06-21-04-807892Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-13 04:45:58 | [rspack_rails](https://rubygems.org/gems/rspack_rails) | 0.4.0 | tungnt | MIT | Bundle Rails JavaScript with Rspack: one-command installer, dev server with hot… |
-| 2026-11-13 04:57:10 | [file-trace-studio](https://rubygems.org/gems/file-trace-studio) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:14 | [connection-trace-studio](https://rubygems.org/gems/connection-trace-studio) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:19 | [process-trace-studio](https://rubygems.org/gems/process-trace-studio) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:22 | [processguard-sdk](https://rubygems.org/gems/processguard-sdk) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:26 | [registryguard](https://rubygems.org/gems/registryguard) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:30 | [storage-io-flight-recorder](https://rubygems.org/gems/storage-io-flight-recorder) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:34 | [virtual-storage-fault-lab](https://rubygems.org/gems/virtual-storage-fault-lab) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:38 | [titan-file-filter](https://rubygems.org/gems/titan-file-filter) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:42 | [titan-network-filter](https://rubygems.org/gems/titan-network-filter) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:46 | [network-emulation-sdk](https://rubygems.org/gems/network-emulation-sdk) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:49 | [packet-capture-sdk](https://rubygems.org/gems/packet-capture-sdk) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:53 | [usb-trace-sdk](https://rubygems.org/gems/usb-trace-sdk) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:57:56 | [virtual-network-adapter-sdk](https://rubygems.org/gems/virtual-network-adapter-sdk) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:58:00 | [virtual-camera-sdk](https://rubygems.org/gems/virtual-camera-sdk) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:58:03 | [changed-block-tracking-sdk](https://rubygems.org/gems/changed-block-tracking-sdk) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:58:08 | [cloud-files-sdk](https://rubygems.org/gems/cloud-files-sdk) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:58:12 | [hid-access-control](https://rubygems.org/gems/hid-access-control) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:58:16 | [usb-over-ip-sdk](https://rubygems.org/gems/usb-over-ip-sdk) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:58:20 | [user-backed-virtual-disk-sdk](https://rubygems.org/gems/user-backed-virtual-disk-sdk) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:58:24 | [remote-workstation-sdk](https://rubygems.org/gems/remote-workstation-sdk) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:58:28 | [titan-audio-link](https://rubygems.org/gems/titan-audio-link) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:58:32 | [interception-v2](https://rubygems.org/gems/interception-v2) | 1.0.0 | TitanCSA | LGPL-3.0-or-later | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
-| 2026-11-13 04:58:37 | [node-interceptor](https://rubygems.org/gems/node-interceptor) | 1.0.0 | TitanCSA | LGPL-3.0-or-later | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
+| 2026-11-13 05:31:54 | [huginn_datacircle_agent](https://rubygems.org/gems/huginn_datacircle_agent) | 0.1.0 | Wayne Hamadi | MIT | A Huginn agent that emits the best plans of each GTM API, plan searches and pro… |
+| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
+| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
+| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
+| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
+| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
+| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
+| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
+| 2026-11-13 05:54:08 | [roo-oxide](https://rubygems.org/gems/roo-oxide) | 0.0.2 | Sebastian Sala | MIT | An unofficial acceleration layer built on top of Roo. Add roo-oxide to the Gemf… |
+| 2026-11-13 06:13:55 | [rspack_rails](https://rubygems.org/gems/rspack_rails) | 0.4.1 | tungnt | MIT | Bundle Rails JavaScript with Rspack: one-command installer, dev server with hot… |
+| 2026-11-13 06:20:38 | [ruby-lean](https://rubygems.org/gems/ruby-lean) | 0.1.0 | lean-packages contributors | MIT | A Ruby-native CLI to audit RubyGem package distributions, detect unnecessary fi… |
 
 ## Data source
 
