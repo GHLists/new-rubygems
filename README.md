@@ -9,25 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 01:19 UTC
+## Latest list — 2026-11-13 03:19 UTC
 
-New gems created between 2026-11-13 00:21 UTC and 2026-11-13 01:19 UTC.
+New gems created between 2026-11-13 02:19 UTC and 2026-11-13 03:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-13T01-19-41-546022Z.csv)
+[Full CSV](data/new-gems-2026-11-13T03-19-59-846205Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-13 00:46:24 | [fyrainput](https://rubygems.org/gems/fyrainput) | 1.0.0 | TitanCSA | MIT | Native bindings to the product SDK: receive, edit, send, descriptors, injection… |
-| 2026-11-13 00:46:28 | [autohotinterceptor](https://rubygems.org/gems/autohotinterceptor) | 1.0.0 | TitanCSA | MIT | Native bindings to the product SDK: receive, edit, send, descriptors, injection… |
-| 2026-11-13 00:46:31 | [fyrainput-gamepad](https://rubygems.org/gems/fyrainput-gamepad) | 1.0.0 | TitanCSA | MIT | Native bindings to the product SDK: receive, edit, send, descriptors, injection… |
-| 2026-11-13 00:46:35 | [fyrainput-keyboard-mouse](https://rubygems.org/gems/fyrainput-keyboard-mouse) | 1.0.0 | TitanCSA | MIT | Native bindings to the product SDK: receive, edit, send, descriptors, injection… |
-| 2026-11-13 00:46:42 | [interceptor-gamepad-controller](https://rubygems.org/gems/interceptor-gamepad-controller) | 1.0.0 | TitanCSA | MIT | Native bindings to the product SDK: receive, edit, send, descriptors, injection… |
-| 2026-11-13 00:46:46 | [interceptor-keyboard-mouse](https://rubygems.org/gems/interceptor-keyboard-mouse) | 1.0.0 | TitanCSA | MIT | Native bindings to the product SDK: receive, edit, send, descriptors, injection… |
-| 2026-11-13 00:46:49 | [windows-gamepad-filter](https://rubygems.org/gems/windows-gamepad-filter) | 1.0.0 | TitanCSA | MIT | Native bindings to the product SDK: receive, edit, send, descriptors, injection… |
-| 2026-11-13 00:46:53 | [windows-input-filter](https://rubygems.org/gems/windows-input-filter) | 1.0.0 | TitanCSA | MIT | Native bindings to the product SDK: receive, edit, send, descriptors, injection… |
-| 2026-11-13 00:46:56 | [windows-keyboard-mouse-filter](https://rubygems.org/gems/windows-keyboard-mouse-filter) | 1.0.0 | TitanCSA | MIT | Native bindings to the product SDK: receive, edit, send, descriptors, injection… |
-| 2026-11-13 01:12:12 | [interceptor-sdk](https://rubygems.org/gems/interceptor-sdk) | 2.0.0 | TitanCSA | MIT | Native bindings to the product SDK: receive, edit, send, descriptors, injection… |
-| 2026-11-13 01:18:00 | [pagelet](https://rubygems.org/gems/pagelet) | 0.1.0 | Scott Gibson | MIT | A Rails engine that stores, versions and publishes pages built with the @byscot… |
+| 2026-11-13 03:01:51 | [fyradevice](https://rubygems.org/gems/fyradevice) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
+| 2026-11-13 03:01:56 | [vdevice](https://rubygems.org/gems/vdevice) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
+| 2026-11-13 03:02:00 | [windows-virtual-devices](https://rubygems.org/gems/windows-virtual-devices) | 1.0.0 | TitanCSA | MIT | Product native SDK operations through a UTF-8 JSON C ABI; driver installed sepa… |
+| 2026-11-13 03:08:11 | [rake-osc7501](https://rubygems.org/gems/rake-osc7501) | 0.1.2 | Brian Cosgrove | Apache-2.0 | Reports Rake task activity and outcomes through OSC 7501. |
 
 ## Data source
 

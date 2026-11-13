@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-13T03:01:51.507Z,fyradevice,1.0.0,39,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T03:01:56.265Z,vdevice,1.0.0,32,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T03:02:00.848Z,windows-virtual-devices,1.0.0,36,TitanCSA,MIT,Product native SDK operations through a UTF-8 JSON C ABI; driver installed separately.
+2026-11-13T03:08:11.033Z,rake-osc7501,0.1.2,25,Brian Cosgrove,Apache-2.0,Reports Rake task activity and outcomes through OSC 7501.
