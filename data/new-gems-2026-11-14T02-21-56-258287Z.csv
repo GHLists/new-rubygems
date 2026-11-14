@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T02:13:24.918Z,jspm-rails,0.4.0,13,Clay Shentrup,MIT,"Traces app/javascript/application.js with jspm, vendors every module it reaches from jspm.io, and serves them through Propshaft. Versions lock in jspm's import map, or in package-lock.json for packages installed with npm. No bundler, no build step."
