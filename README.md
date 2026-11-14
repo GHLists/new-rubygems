@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 19:19 UTC
+## Latest list — 2026-11-14 21:18 UTC
 
-New gems created between 2026-11-14 18:18 UTC and 2026-11-14 19:19 UTC.
+New gems created between 2026-11-14 20:20 UTC and 2026-11-14 21:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-14T19-19-56-350837Z.csv)
+[Full CSV](data/new-gems-2026-11-14T21-18-50-976448Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-14 18:59:23 | [rubocop-bottrall](https://rubygems.org/gems/rubocop-bottrall) | 0.1.0 | Jake Bottrall | MIT | A RuboCop plugin bundling a shared style (config/base.yml), an rbs-inline layer… |
+| 2026-11-14 21:15:21 | [jalalix](https://rubygems.org/gems/jalalix) | 0.1.0 | Hossein Maklavani | MIT | Pure Ruby port of JalaliX — same algorithm and camelCase API as the TypeScript… |
 
 ## Data source
 
