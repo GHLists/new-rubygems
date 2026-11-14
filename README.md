@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 12:20 UTC
+## Latest list — 2026-11-14 14:21 UTC
 
-New gems created between 2026-11-14 11:19 UTC and 2026-11-14 12:20 UTC.
+New gems created between 2026-11-14 13:19 UTC and 2026-11-14 14:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-14T12-20-13-99897Z.csv)
+[Full CSV](data/new-gems-2026-11-14T14-21-49-534012Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-14 12:02:12 | [flashpi](https://rubygems.org/gems/flashpi) | 0.1.0 | SIGNIADIGITAL S.A. | MIT | Issue invoices, credit and debit notes, purchase settlements, waybills and with… |
+| 2026-11-14 14:17:30 | [form_components](https://rubygems.org/gems/form_components) | 0.1.2 | Tom de Grunt | MIT | Text fields, text areas, check boxes, radio buttons, selects, a combobox, ratin… |
 
 ## Data source
 

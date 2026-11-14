@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T14:17:30.81Z,form_components,0.1.2,4,Tom de Grunt,MIT,"Text fields, text areas, check boxes, radio buttons, selects, a combobox, ratings, scales, color and file fields, a submit button and nested forms as view components, with their Stimulus controllers and styles, in a Rails engine."
