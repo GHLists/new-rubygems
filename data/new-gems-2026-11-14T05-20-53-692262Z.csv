@@ -1,0 +1,11 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T05:11:05.228Z,etassia-native,0.1.0,18,Etassia contributors,BSD-2-Clause,"Ruby binding to the etassia-ffi C ABI, with a pure-Ruby fallback"
+2026-11-14T05:11:05.228Z,etassia-native,0.1.0,18,Etassia contributors,BSD-2-Clause,"Ruby binding to the etassia-ffi C ABI, with a pure-Ruby fallback"
+2026-11-14T05:11:05.228Z,etassia-native,0.1.0,18,Etassia contributors,BSD-2-Clause,"Ruby binding to the etassia-ffi C ABI, with a pure-Ruby fallback"
+2026-11-14T05:11:05.228Z,etassia-native,0.1.0,18,Etassia contributors,BSD-2-Clause,"Ruby binding to the etassia-ffi C ABI, with a pure-Ruby fallback"
+2026-11-14T05:11:05.228Z,etassia-native,0.1.0,18,Etassia contributors,BSD-2-Clause,"Ruby binding to the etassia-ffi C ABI, with a pure-Ruby fallback"
+2026-11-14T05:11:05.228Z,etassia-native,0.1.0,18,Etassia contributors,BSD-2-Clause,"Ruby binding to the etassia-ffi C ABI, with a pure-Ruby fallback"
+2026-11-14T05:14:54.044Z,cmu-web-kilt,0.6.7,0,Carnegie Mellon University,BSD-3-Clause,"Page and app components that extend Carnegie Mellon University's web template, packaged for the Rails asset pipeline."
+2026-11-14T05:16:51.814Z,cmu-web-placemellon,2.0.2,0,Carnegie Mellon University,BSD-3-Clause,"Builds addresses for PlaceMellon, the Carnegie Mellon placeholder image service: campus photos, Scotty, profile pictures and solid colors at any size. Includes a Rails view helper."
+2026-11-14T05:16:58.31Z,cmu-web-qrnegie,0.3.4,0,Carnegie Mellon University,BSD-3-Clause,"Builds addresses for QRnegie, which draws QR codes in Carnegie Mellon styles as SVG or PNG. Includes a Rails view helper."
+2026-11-14T05:17:21.381Z,cmu-web-jekyll-and-plaid,0.2.2,0,Carnegie Mellon University,BSD-3-Clause,Jekyll & Plaid builds sites with Carnegie Mellon's web template and the Carnegie Mellon Web Kilt: Markdown docs pages and full-width home pages that look like cmu.edu.
