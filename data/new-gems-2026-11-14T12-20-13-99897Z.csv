@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T12:02:12.824Z,flashpi,0.1.0,5,SIGNIADIGITAL S.A.,MIT,"Issue invoices, credit and debit notes, purchase settlements, waybills and withholding receipts with Ecuador's SRI through the Flashpi API, manage issuers and their .p12 certificates, and verify Flashpi's webhooks. No runtime dependencies."
