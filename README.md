@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 15:20 UTC
+## Latest list — 2026-11-14 16:19 UTC
 
-New gems created between 2026-11-14 14:21 UTC and 2026-11-14 15:20 UTC.
+New gems created between 2026-11-14 15:20 UTC and 2026-11-14 16:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-14T15-20-34-545679Z.csv)
+[Full CSV](data/new-gems-2026-11-14T16-19-18-735992Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-14 14:33:05 | [milvaion-worker](https://rubygems.org/gems/milvaion-worker) | 1.2.0 | Milvasoft | Apache-2.0 | Run Milvaion jobs in Ruby: registration, heartbeats, live logs, retries with ex… |
-| 2026-11-14 15:15:30 | [soft-sort](https://rubygems.org/gems/soft-sort) | 1.0.1 | SoftSort contributors | MIT | A safe, local-first file organization planner |
+| 2026-11-14 15:30:46 | [bro_hub](https://rubygems.org/gems/bro_hub) | 0.1.0 | Ruby Dev SRL | MIT | BroHub is the shared admin shell: one mount point, one layout, one sidebar and… |
+| 2026-11-14 15:49:14 | [safe_bro](https://rubygems.org/gems/safe_bro) | 0.1.0 | Ruby Dev SRL | MIT | Records Rails console sessions (who, why, what), asks for a justification befor… |
 
 ## Data source
 
