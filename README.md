@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 18:18 UTC
+## Latest list — 2026-11-14 19:19 UTC
 
-New gems created between 2026-11-14 17:20 UTC and 2026-11-14 18:18 UTC.
+New gems created between 2026-11-14 18:18 UTC and 2026-11-14 19:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-14T18-18-57-966364Z.csv)
+[Full CSV](data/new-gems-2026-11-14T19-19-56-350837Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-14 17:33:25 | [arionpay](https://rubygems.org/gems/arionpay) | 1.0.0 | ArionPay | MIT | Create crypto invoices (Bitcoin, USDT, Litecoin, Ethereum, TRON and more), send… |
-| 2026-11-14 18:07:18 | [form_components](https://rubygems.org/gems/form_components) | 0.1.3 | Tom de Grunt | MIT | Text fields, text areas, check boxes, radio buttons, selects, a combobox, ratin… |
+| 2026-11-14 18:59:23 | [rubocop-bottrall](https://rubygems.org/gems/rubocop-bottrall) | 0.1.0 | Jake Bottrall | MIT | A RuboCop plugin bundling a shared style (config/base.yml), an rbs-inline layer… |
 
 ## Data source
 

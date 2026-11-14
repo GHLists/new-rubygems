@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T18:59:23.858Z,rubocop-bottrall,0.1.0,62,Jake Bottrall,MIT,"A RuboCop plugin bundling a shared style (config/base.yml), an rbs-inline layer (config/rbs-inline.yml), and the Bottrall/NoInheritance, Bottrall/NoMocking and Bottrall/RequireDisableReason cops."
