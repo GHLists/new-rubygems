@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T02:48:07.517Z,cmu-web-kilt,0.6.6,112,Carnegie Mellon University,BSD-3-Clause,"Page and app components that extend Carnegie Mellon University's web template, packaged for the Rails asset pipeline."
+2026-11-14T02:57:13.522Z,cmu-web-qrnegie,0.3.3,69,Carnegie Mellon University,BSD-3-Clause,"Builds addresses for QRnegie, which draws QR codes in Carnegie Mellon styles as SVG or PNG. Includes a Rails view helper."
+2026-11-14T03:02:54.292Z,cmu-web-placemellon,2.0.1,60,Carnegie Mellon University,BSD-3-Clause,"Builds addresses for PlaceMellon, the Carnegie Mellon placeholder image service: campus photos, Scotty, profile pictures and solid colors at any size. Includes a Rails view helper."
+2026-11-14T03:10:50.627Z,cmu-web-jekyll-and-plaid,0.2.1,13,Carnegie Mellon University,BSD-3-Clause,Jekyll & Plaid builds sites with Carnegie Mellon's web template and the Carnegie Mellon Web Kilt: Markdown docs pages and full-width home pages that look like cmu.edu.

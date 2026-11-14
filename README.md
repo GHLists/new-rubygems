@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 02:21 UTC
+## Latest list — 2026-11-14 03:18 UTC
 
-New gems created between 2026-11-14 01:20 UTC and 2026-11-14 02:21 UTC.
+New gems created between 2026-11-14 02:21 UTC and 2026-11-14 03:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-14T02-21-56-258287Z.csv)
+[Full CSV](data/new-gems-2026-11-14T03-18-38-473337Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-14 02:13:24 | [jspm-rails](https://rubygems.org/gems/jspm-rails) | 0.4.0 | Clay Shentrup | MIT | Traces app/javascript/application.js with jspm, vendors every module it reaches… |
+| 2026-11-14 02:48:07 | [cmu-web-kilt](https://rubygems.org/gems/cmu-web-kilt) | 0.6.6 | Carnegie Mellon University | BSD-3-Clause | Page and app components that extend Carnegie Mellon University's web template,… |
+| 2026-11-14 02:57:13 | [cmu-web-qrnegie](https://rubygems.org/gems/cmu-web-qrnegie) | 0.3.3 | Carnegie Mellon University | BSD-3-Clause | Builds addresses for QRnegie, which draws QR codes in Carnegie Mellon styles as… |
+| 2026-11-14 03:02:54 | [cmu-web-placemellon](https://rubygems.org/gems/cmu-web-placemellon) | 2.0.1 | Carnegie Mellon University | BSD-3-Clause | Builds addresses for PlaceMellon, the Carnegie Mellon placeholder image service… |
+| 2026-11-14 03:10:50 | [cmu-web-jekyll-and-plaid](https://rubygems.org/gems/cmu-web-jekyll-and-plaid) | 0.2.1 | Carnegie Mellon University | BSD-3-Clause | Jekyll & Plaid builds sites with Carnegie Mellon's web template and the Carnegi… |
 
 ## Data source
 
