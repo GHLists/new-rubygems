@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T00:32:10.731Z,rails_ai_admin,0.2.0,89,Andy Wang,MIT,"A self-hosted Rails admin with typed resources and a shared, audited operation boundary."
+2026-11-14T00:36:40.883Z,jspm-rails,0.2.0,73,Clay Shentrup,MIT,"Traces app/javascript/application.js with jspm, vendors every module it reaches from jspm.io, and serves them through Propshaft. Versions lock in jspm's import map, or in package-lock.json for packages installed with npm. No bundler, no build step."
+2026-11-14T00:44:19.708Z,cmu-web-qrnegie,0.3.2,57,Carnegie Mellon University,BSD-3-Clause,"Builds addresses for QRnegie, which draws QR codes in Carnegie Mellon styles as SVG or PNG. Includes a Rails view helper."
+2026-11-14T00:50:53.267Z,cmu-web-kilt,0.6.5,50,Carnegie Mellon University,BSD-3-Clause,"Page and app components that extend Carnegie Mellon University's web template, packaged for the Rails asset pipeline."
+2026-11-14T00:54:27.833Z,cmu-web-jekyll-and-plaid,0.1.0,49,Carnegie Mellon University,BSD-3-Clause,Jekyll & Plaid builds sites with Carnegie Mellon's web template and the Carnegie Mellon Web Kilt: Markdown docs pages and full-width home pages that look like cmu.edu.
+2026-11-14T01:05:24.274Z,zoho_cpaas-rails,1.0.1,45,ACO,MIT,Zoho Cpaas Ruby SDK
+2026-11-14T01:12:00.078Z,milvaion-worker,1.1.0,4,Milvasoft,Apache-2.0,"Run Milvaion jobs in Ruby: registration, heartbeats, live logs, retries with exponential backoff, dead lettering, timeouts, cancellation and graceful shutdown over RabbitMQ (or Apache Kafka with the rdkafka gem) and Redis."
+2026-11-14T01:12:06.626Z,zoho_cpaas-ruby,1.0.1,3,ACO,MIT,Zoho CPaas Ruby SDK.
