@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 14:21 UTC
+## Latest list — 2026-11-14 15:20 UTC
 
-New gems created between 2026-11-14 13:19 UTC and 2026-11-14 14:21 UTC.
+New gems created between 2026-11-14 14:21 UTC and 2026-11-14 15:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-14T14-21-49-534012Z.csv)
+[Full CSV](data/new-gems-2026-11-14T15-20-34-545679Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-14 14:17:30 | [form_components](https://rubygems.org/gems/form_components) | 0.1.2 | Tom de Grunt | MIT | Text fields, text areas, check boxes, radio buttons, selects, a combobox, ratin… |
+| 2026-11-14 14:33:05 | [milvaion-worker](https://rubygems.org/gems/milvaion-worker) | 1.2.0 | Milvasoft | Apache-2.0 | Run Milvaion jobs in Ruby: registration, heartbeats, live logs, retries with ex… |
+| 2026-11-14 15:15:30 | [soft-sort](https://rubygems.org/gems/soft-sort) | 1.0.1 | SoftSort contributors | MIT | A safe, local-first file organization planner |
 
 ## Data source
 

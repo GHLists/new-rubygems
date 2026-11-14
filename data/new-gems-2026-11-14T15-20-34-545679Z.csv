@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T14:33:05.365Z,milvaion-worker,1.2.0,122,Milvasoft,Apache-2.0,"Run Milvaion jobs in Ruby: registration, heartbeats, live logs, retries with exponential backoff, dead lettering, timeouts, cancellation and graceful shutdown over RabbitMQ (or Apache Kafka with the rdkafka gem) and Redis."
+2026-11-14T15:15:30.402Z,soft-sort,1.0.1,0,SoftSort contributors,MIT,"A safe, local-first file organization planner"
