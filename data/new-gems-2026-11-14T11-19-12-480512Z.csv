@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T10:40:53.766Z,rails_ai_admin,0.3.0,75,Andy Wang,MIT,"A self-hosted Rails admin with typed resources and a shared, audited operation boundary."
+2026-11-14T11:07:38.92Z,nukadoko,0.1.0,6,meganemura,MIT,"Typed step contracts for Gherkin in Ruby, so a scenario can be told wrong before it runs."
+2026-11-14T11:11:16.334Z,ished,0.1.0,0,Bridge,Apache-2.0,"IshedDB, written as MongoDB’s official driver of each language (Ruby, as the mongo gem)"
