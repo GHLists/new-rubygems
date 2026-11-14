@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 21:18 UTC
+## Latest list — 2026-11-14 23:20 UTC
 
-New gems created between 2026-11-14 20:20 UTC and 2026-11-14 21:18 UTC.
+New gems created between 2026-11-14 22:20 UTC and 2026-11-14 23:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-14T21-18-50-976448Z.csv)
+[Full CSV](data/new-gems-2026-11-14T23-20-10-730123Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-14 21:15:21 | [jalalix](https://rubygems.org/gems/jalalix) | 0.1.0 | Hossein Maklavani | MIT | Pure Ruby port of JalaliX — same algorithm and camelCase API as the TypeScript… |
+| 2026-11-14 22:20:43 | [agentboard](https://rubygems.org/gems/agentboard) | 0.2.0 | PIRUBY | MIT | AgentBoard installs into a Rails application and connects tickets to coding age… |
+| 2026-11-14 22:57:57 | [noticed-telegram](https://rubygems.org/gems/noticed-telegram) | 0.1.0 | Yaroslav Shmarov | MIT | Send Noticed notifications through the Telegram Bot API: one message per recipi… |
 
 ## Data source
 

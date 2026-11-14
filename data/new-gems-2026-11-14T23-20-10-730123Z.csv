@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T22:20:43.9Z,agentboard,0.2.0,67,PIRUBY,MIT,"AgentBoard installs into a Rails application and connects tickets to coding agents (Claude Code, OpenAI Codex, Cursor and third-party adapters) through MCP, provider hooks, a supervised runtime daemon, isolated Git worktrees and evidence-based completion policies."
+2026-11-14T22:57:57.94Z,noticed-telegram,0.1.0,49,Yaroslav Shmarov,MIT,"Send Noticed notifications through the Telegram Bot API: one message per recipient with `deliver_by :telegram`, or one message to a group, forum topic, or channel with `bulk_deliver_by :telegram`. The bot token is kept out of logs and error messages."
