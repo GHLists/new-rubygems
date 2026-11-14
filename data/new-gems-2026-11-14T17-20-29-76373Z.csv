@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T16:55:22.63Z,bro_hub,0.1.1,69,Ruby Dev SRL,MIT,"BroHub is the shared admin shell: one mount point, one layout, one sidebar and one place to configure who is signed in. Each Bro gem registers its pages and shows up as a section. Sections only appear for people who may use them."
+2026-11-14T16:55:45.921Z,safe_bro,0.1.1,62,Ruby Dev SRL,MIT,"Records Rails console sessions (who, why, what), asks for a justification before sensitive data is touched, blocks tampering and risky methods, and ships a mountable engine where auditors review sessions. One gem instead of console1984 plus audits1984."

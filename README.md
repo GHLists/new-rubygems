@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 16:19 UTC
+## Latest list — 2026-11-14 17:20 UTC
 
-New gems created between 2026-11-14 15:20 UTC and 2026-11-14 16:19 UTC.
+New gems created between 2026-11-14 16:19 UTC and 2026-11-14 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-14T16-19-18-735992Z.csv)
+[Full CSV](data/new-gems-2026-11-14T17-20-29-76373Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-14 15:30:46 | [bro_hub](https://rubygems.org/gems/bro_hub) | 0.1.0 | Ruby Dev SRL | MIT | BroHub is the shared admin shell: one mount point, one layout, one sidebar and… |
-| 2026-11-14 15:49:14 | [safe_bro](https://rubygems.org/gems/safe_bro) | 0.1.0 | Ruby Dev SRL | MIT | Records Rails console sessions (who, why, what), asks for a justification befor… |
+| 2026-11-14 16:55:22 | [bro_hub](https://rubygems.org/gems/bro_hub) | 0.1.1 | Ruby Dev SRL | MIT | BroHub is the shared admin shell: one mount point, one layout, one sidebar and… |
+| 2026-11-14 16:55:45 | [safe_bro](https://rubygems.org/gems/safe_bro) | 0.1.1 | Ruby Dev SRL | MIT | Records Rails console sessions (who, why, what), asks for a justification befor… |
 
 ## Data source
 
