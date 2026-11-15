@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 00:21 UTC
+## Latest list — 2026-11-15 01:20 UTC
 
-New gems created between 2026-11-14 23:20 UTC and 2026-11-15 00:21 UTC.
+New gems created between 2026-11-15 00:21 UTC and 2026-11-15 01:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-15T00-21-06-932907Z.csv)
+[Full CSV](data/new-gems-2026-11-15T01-20-55-078513Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-14 23:26:58 | [zoho_cpaas-rails](https://rubygems.org/gems/zoho_cpaas-rails) | 1.0.2 | ACO | MIT | Zoho Cpaas Ruby SDK |
-| 2026-11-14 23:37:45 | [active_storage_authorization](https://rubygems.org/gems/active_storage_authorization) | 0.1.0 | Yaroslav Shmarov | MIT | Rails serves any Active Storage file to anyone holding its URL. This gem flips… |
+| 2026-11-15 00:42:04 | [omniauth-whop](https://rubygems.org/gems/omniauth-whop) | 0.1.0 | Yaroslav Shmarov | MIT | A community OmniAuth strategy for Whop with PKCE, verified OpenID Connect ID to… |
 
 ## Data source
 

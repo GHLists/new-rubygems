@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-15T00:42:04.977Z,omniauth-whop,0.1.0,102,Yaroslav Shmarov,MIT,"A community OmniAuth strategy for Whop with PKCE, verified OpenID Connect ID tokens, and sandbox support."
