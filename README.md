@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 15:22 UTC
+## Latest list — 2026-11-15 16:19 UTC
 
-New gems created between 2026-11-15 14:20 UTC and 2026-11-15 15:22 UTC.
+New gems created between 2026-11-15 15:22 UTC and 2026-11-15 16:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-15T15-22-18-310764Z.csv)
+[Full CSV](data/new-gems-2026-11-15T16-19-22-564904Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-15 14:44:13 | [overturo](https://rubygems.org/gems/overturo) | 0.7.2 | Overturo | Apache-2.0 | Server-side Ruby SDK for the Overturo personal data platform. Covers all 7 prod… |
-| 2026-11-15 15:12:32 | [dead_bro_hub](https://rubygems.org/gems/dead_bro_hub) | 0.1.2 | Ruby Dev SRL | MIT | A BroHub section that shows what DeadBro knows about this app (overview, endpoi… |
+| 2026-11-15 15:44:23 | [jalalix](https://rubygems.org/gems/jalalix) | 0.2.0 | Hossein Maklavani | MIT | Pure Ruby port of JalaliX - same algorithm and camelCase API as the TypeScript… |
 
 ## Data source
 
