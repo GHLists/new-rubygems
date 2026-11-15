@@ -9,24 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 09:20 UTC
+## Latest list — 2026-11-15 10:21 UTC
 
-New gems created between 2026-11-15 08:20 UTC and 2026-11-15 09:20 UTC.
+New gems created between 2026-11-15 09:20 UTC and 2026-11-15 10:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-15T09-20-29-130715Z.csv)
+[Full CSV](data/new-gems-2026-11-15T10-21-05-603999Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-15 09:03:20 | [transcriptdock](https://rubygems.org/gems/transcriptdock) | 0.1.0 | Transcript Dock | MIT | Standard library client for timed transcripts, jobs and the public Transcript D… |
-| 2026-11-15 09:08:52 | [solana-keypair](https://rubygems.org/gems/solana-keypair) | 0.1.0 | rzc-build | MIT | Helpers for loading and validating Solana keypair material. |
-| 2026-11-15 09:13:54 | [malmal](https://rubygems.org/gems/malmal) | 0.4.2 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 09:13:54 | [malmal](https://rubygems.org/gems/malmal) | 0.4.2 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 09:13:54 | [malmal](https://rubygems.org/gems/malmal) | 0.4.2 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 09:13:54 | [malmal](https://rubygems.org/gems/malmal) | 0.4.2 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 09:13:54 | [malmal](https://rubygems.org/gems/malmal) | 0.4.2 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 09:13:54 | [malmal](https://rubygems.org/gems/malmal) | 0.4.2 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 09:13:54 | [malmal](https://rubygems.org/gems/malmal) | 0.4.2 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 09:14:04 | [malmal-rails](https://rubygems.org/gems/malmal-rails) | 0.4.2 | nguyenthuan155632 | MIT; Apache-2.0 | Rails integration for the malmal upload scanner: a validator for Active Storage… |
+| 2026-11-15 10:08:41 | [mailtruss](https://rubygems.org/gems/mailtruss) | 0.1.1 | Mailtruss | MIT | Ruby client for the Mailtruss email API, with a Rails (ActionMailer) delivery m… |
+| 2026-11-15 10:19:01 | [safe_bro](https://rubygems.org/gems/safe_bro) | 0.2.0 | Ruby Dev SRL | MIT | Records Rails console sessions (who, why, what), asks for a justification befor… |
+| 2026-11-15 10:19:13 | [rabbit-slide-unasuke-hokurikurk02](https://rubygems.org/gems/rabbit-slide-unasuke-hokurikurk02) | 1.0.1 | unasuke | MIT | https://regional.rubykaigi.org/hokuriku02/ |
 
 ## Data source
 
