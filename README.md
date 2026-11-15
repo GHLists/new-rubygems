@@ -9,18 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 11:20 UTC
+## Latest list — 2026-11-15 12:20 UTC
 
-New gems created between 2026-11-15 10:21 UTC and 2026-11-15 11:20 UTC.
+New gems created between 2026-11-15 11:20 UTC and 2026-11-15 12:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-15T11-20-15-974586Z.csv)
+[Full CSV](data/new-gems-2026-11-15T12-20-11-596105Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-15 10:25:56 | [moxml-testsuite](https://rubygems.org/gems/moxml-testsuite) | 0.1.0 | Ribose Inc. | MIT | The moxml model's committed answers as a certifiable test suite. Engines implem… |
-| 2026-11-15 10:27:45 | [dead_bro_hub](https://rubygems.org/gems/dead_bro_hub) | 0.1.0 | Ruby Dev SRL | MIT | A BroHub section that shows what DeadBro knows about this app (overview, endpoi… |
-| 2026-11-15 10:38:49 | [rabbit-slide-unasuke-hokurikurk02](https://rubygems.org/gems/rabbit-slide-unasuke-hokurikurk02) | 1.0.2 | unasuke | MIT | https://regional.rubykaigi.org/hokuriku02/ |
-| 2026-11-15 11:10:44 | [graphmind](https://rubygems.org/gems/graphmind) | 0.6.0 | GraphMind | MIT | GraphMind attaches to an agent while it is running. Your instrumented app strea… |
+| 2026-11-15 11:21:12 | [bro_hub](https://rubygems.org/gems/bro_hub) | 0.1.2 | Ruby Dev SRL | MIT | BroHub is the shared admin shell: one mount point, one layout, one sidebar and… |
+| 2026-11-15 11:22:50 | [safe_bro](https://rubygems.org/gems/safe_bro) | 0.2.1 | Ruby Dev SRL | MIT | Records Rails console sessions (who, why, what), asks for a justification befor… |
+| 2026-11-15 11:37:18 | [jiff-magnus](https://rubygems.org/gems/jiff-magnus) | 0.0.1 | Erick Guan | MIT | A Magnus companion providing JiffTimezone constructors and bundled IANA timezon… |
+| 2026-11-15 11:42:26 | [dead_bro_hub](https://rubygems.org/gems/dead_bro_hub) | 0.1.1 | Ruby Dev SRL | MIT | A BroHub section that shows what DeadBro knows about this app (overview, endpoi… |
+| 2026-11-15 12:15:20 | [flightbyte](https://rubygems.org/gems/flightbyte) | 1.0.0 | FlightByte | MIT | Look flights up, watch them with signed webhooks and verify every delivery. Fli… |
 
 ## Data source
 
