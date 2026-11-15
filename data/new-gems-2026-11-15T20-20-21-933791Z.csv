@@ -1,0 +1,11 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-15T19:40:29.914Z,bard-exception_notification,0.2.1,167,Micah Geisel,MIT,"Configures exception_notification for web requests, ActiveJob, rake and ActionController::Live, and adds rake exception_notification:test to check it end to end"
+2026-11-15T19:52:42.443Z,connectrpc,0.1.0,72,jimeh,MIT,"Unofficial typed Connect and native gRPC clients and host-neutral servers. Experimental, not production ready."
+2026-11-15T19:52:46.584Z,connectrpc-rack,0.1.0,50,jimeh,MIT,"Optional, experimental Rack integration for the unofficial ConnectRPC Ruby gem."
+2026-11-15T19:52:58.756Z,connectrpc-async,0.1.0,50,jimeh,MIT,Optional Async host and HTTP/1.1 and HTTP/2 ConnectRPC transports
+2026-11-15T19:53:09.28Z,connectrpc-testing,0.1.0,48,jimeh,MIT,Optional synchronous testing transport using an application-owned core Server.
+2026-11-15T19:53:13.181Z,connectrpc-otel,0.1.0,46,jimeh,MIT,Application-owned OpenTelemetry tracing through the ConnectRPC lifecycle. Experimental.
+2026-11-15T19:53:16.132Z,connectrpc-on-rails,0.1.0,48,jimeh,MIT,"Optional, experimental Rails lifecycle integration for the unofficial ConnectRPC Ruby gem."
+2026-11-15T19:53:19.658Z,connectrpc-falcon,0.1.0,45,jimeh,MIT,Optional Falcon worker hosting for ConnectRPC unary
+2026-11-15T20:06:04.348Z,langchainrb_datacircle,0.1.0,29,Wayne Hamadi,MIT,"A Langchain.rb tool on Datacircle's open API, with no key: list the GTM APIs, the best plans of one API, a search of every plan and one provider's ranks. We benchmark all the GTM APIs and we put the results on our website: https://datacircle.dev"
+2026-11-15T20:15:55.011Z,cache_bro,0.1.0,0,Ruby Dev SRL,MIT,"A mountable Rails engine for the BroHub dashboard: search cache keys, see TTL and size, reveal a value, delete a key or purge a pattern. Permissions are plain lambdas, destructive actions can require a reason, and everything lands in an append-only audit log."

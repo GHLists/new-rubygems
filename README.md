@@ -9,17 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 19:21 UTC
+## Latest list — 2026-11-15 20:20 UTC
 
-New gems created between 2026-11-15 18:21 UTC and 2026-11-15 19:21 UTC.
+New gems created between 2026-11-15 19:21 UTC and 2026-11-15 20:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-15T19-21-30-119763Z.csv)
+[Full CSV](data/new-gems-2026-11-15T20-20-21-933791Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-15 18:37:38 | [activeagent-datacircle](https://rubygems.org/gems/activeagent-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four Active Agent tools on Datacircle's open API, with no key: list the GTM API… |
-| 2026-11-15 18:59:56 | [bard-exception_notification](https://rubygems.org/gems/bard-exception_notification) | 0.2.0 | Micah Geisel | MIT | Configures exception_notification for web requests, ActiveJob, rake and ActionC… |
-| 2026-11-15 19:08:02 | [rubocop-bottrall](https://rubygems.org/gems/rubocop-bottrall) | 0.2.0 | Jake Bottrall | MIT | A RuboCop plugin bundling a shared style (config/base.yml), an rbs-inline layer… |
+| 2026-11-15 19:40:29 | [bard-exception_notification](https://rubygems.org/gems/bard-exception_notification) | 0.2.1 | Micah Geisel | MIT | Configures exception_notification for web requests, ActiveJob, rake and ActionC… |
+| 2026-11-15 19:52:42 | [connectrpc](https://rubygems.org/gems/connectrpc) | 0.1.0 | jimeh | MIT | Unofficial typed Connect and native gRPC clients and host-neutral servers. Expe… |
+| 2026-11-15 19:52:46 | [connectrpc-rack](https://rubygems.org/gems/connectrpc-rack) | 0.1.0 | jimeh | MIT | Optional, experimental Rack integration for the unofficial ConnectRPC Ruby gem. |
+| 2026-11-15 19:52:58 | [connectrpc-async](https://rubygems.org/gems/connectrpc-async) | 0.1.0 | jimeh | MIT | Optional Async host and HTTP/1.1 and HTTP/2 ConnectRPC transports |
+| 2026-11-15 19:53:09 | [connectrpc-testing](https://rubygems.org/gems/connectrpc-testing) | 0.1.0 | jimeh | MIT | Optional synchronous testing transport using an application-owned core Server. |
+| 2026-11-15 19:53:13 | [connectrpc-otel](https://rubygems.org/gems/connectrpc-otel) | 0.1.0 | jimeh | MIT | Application-owned OpenTelemetry tracing through the ConnectRPC lifecycle. Exper… |
+| 2026-11-15 19:53:16 | [connectrpc-on-rails](https://rubygems.org/gems/connectrpc-on-rails) | 0.1.0 | jimeh | MIT | Optional, experimental Rails lifecycle integration for the unofficial ConnectRP… |
+| 2026-11-15 19:53:19 | [connectrpc-falcon](https://rubygems.org/gems/connectrpc-falcon) | 0.1.0 | jimeh | MIT | Optional Falcon worker hosting for ConnectRPC unary |
+| 2026-11-15 20:06:04 | [langchainrb_datacircle](https://rubygems.org/gems/langchainrb_datacircle) | 0.1.0 | Wayne Hamadi | MIT | A Langchain.rb tool on Datacircle's open API, with no key: list the GTM APIs, t… |
+| 2026-11-15 20:15:55 | [cache_bro](https://rubygems.org/gems/cache_bro) | 0.1.0 | Ruby Dev SRL | MIT | A mountable Rails engine for the BroHub dashboard: search cache keys, see TTL a… |
 
 ## Data source
 
