@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-15T16:32:59.96Z,fastlane-plugin-betadrop,0.1.0,66,BetaDrop,MIT,"Publishes the .ipa or .apk your lane built to BetaDrop, optionally checks it will install from a link first, and can point a standing link at it."
+2026-11-15T16:51:56.468Z,runconvert,0.1.0,47,RunConvert,MIT,Official RunConvert SDK for Ruby: convert files between 240+ formats
+2026-11-15T16:59:27.035Z,bard-exception_notification,0.1.0,54,Micah Geisel,MIT,"Configures exception_notification for web requests, ActiveJob, rake and ActionController::Live, and adds rake exception_notification:test to check it end to end"

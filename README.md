@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 16:19 UTC
+## Latest list — 2026-11-15 17:20 UTC
 
-New gems created between 2026-11-15 15:22 UTC and 2026-11-15 16:19 UTC.
+New gems created between 2026-11-15 16:19 UTC and 2026-11-15 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-15T16-19-22-564904Z.csv)
+[Full CSV](data/new-gems-2026-11-15T17-20-01-348379Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-15 15:44:23 | [jalalix](https://rubygems.org/gems/jalalix) | 0.2.0 | Hossein Maklavani | MIT | Pure Ruby port of JalaliX - same algorithm and camelCase API as the TypeScript… |
+| 2026-11-15 16:32:59 | [fastlane-plugin-betadrop](https://rubygems.org/gems/fastlane-plugin-betadrop) | 0.1.0 | BetaDrop | MIT | Publishes the .ipa or .apk your lane built to BetaDrop, optionally checks it wi… |
+| 2026-11-15 16:51:56 | [runconvert](https://rubygems.org/gems/runconvert) | 0.1.0 | RunConvert | MIT | Official RunConvert SDK for Ruby: convert files between 240+ formats |
+| 2026-11-15 16:59:27 | [bard-exception_notification](https://rubygems.org/gems/bard-exception_notification) | 0.1.0 | Micah Geisel | MIT | Configures exception_notification for web requests, ActiveJob, rake and ActionC… |
 
 ## Data source
 
