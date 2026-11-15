@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-15T01:28:54.416Z,omniauth-whop,0.1.1,110,Yaroslav Shmarov,MIT,"A community OmniAuth strategy for Whop with PKCE, verified OpenID Connect ID tokens, and sandbox support."
+2026-11-15T02:18:18.544Z,aisaascompass_healthcare_emr_benchmarks,2026.11.14,0,Marcus Vance (AI SaaS Compass),MIT,"Empirical 2026 B2B Healthcare & Clinical Practice Management TCO Benchmarks by AI SaaS Compass (https://aisaascompass.com/). Audits clearinghouse claim fees, SMS reminder overages, DICOM cloud imaging storage, and IDEXX/Antech lab integration costs across Jane App vs Cliniko vs SimplePractice (http…"
