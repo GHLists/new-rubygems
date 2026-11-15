@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-15T17:46:11.461Z,bard-exception_notification,0.1.1,199,Micah Geisel,MIT,"Configures exception_notification for web requests, ActiveJob, rake and ActionController::Live, and adds rake exception_notification:test to check it end to end"
