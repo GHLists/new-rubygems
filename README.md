@@ -9,24 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 03:21 UTC
+## Latest list — 2026-11-15 04:20 UTC
 
-New gems created between 2026-11-15 02:18 UTC and 2026-11-15 03:21 UTC.
+New gems created between 2026-11-15 03:21 UTC and 2026-11-15 04:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-15T03-21-33-909374Z.csv)
+[Full CSV](data/new-gems-2026-11-15T04-20-15-252883Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-15 02:29:07 | [malmal](https://rubygems.org/gems/malmal) | 0.4.0 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 02:29:07 | [malmal](https://rubygems.org/gems/malmal) | 0.4.0 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 02:29:07 | [malmal](https://rubygems.org/gems/malmal) | 0.4.0 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 02:29:07 | [malmal](https://rubygems.org/gems/malmal) | 0.4.0 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 02:29:07 | [malmal](https://rubygems.org/gems/malmal) | 0.4.0 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 02:29:07 | [malmal](https://rubygems.org/gems/malmal) | 0.4.0 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 02:29:07 | [malmal](https://rubygems.org/gems/malmal) | 0.4.0 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-15 02:31:56 | [malmal-rails](https://rubygems.org/gems/malmal-rails) | 0.4.0 | nguyenthuan155632 | MIT; Apache-2.0 | Rails integration for the malmal upload scanner: a validator for Active Storage… |
-| 2026-11-15 03:21:30 | [cmu-web-placemellon](https://rubygems.org/gems/cmu-web-placemellon) | 2.0.4 | Carnegie Mellon University | BSD-3-Clause | Builds addresses for PlaceMellon, the Carnegie Mellon placeholder image service… |
-| 2026-11-15 03:21:33 | [cmu-web-qrnegie](https://rubygems.org/gems/cmu-web-qrnegie) | 0.3.6 | Carnegie Mellon University | BSD-3-Clause | Builds addresses for QRnegie, which draws QR codes in Carnegie Mellon styles as… |
+| 2026-11-15 03:39:59 | [aisaascompass_healthcare_emr_benchmarks](https://rubygems.org/gems/aisaascompass_healthcare_emr_benchmarks) | 2026.11.15 | Marcus Vance (AI SaaS Compass) | MIT | Empirical 2026 B2B Healthcare, Multi-Location Dental DSO & Veterinary Clinical… |
 
 ## Data source
 
