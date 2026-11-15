@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-14T23:26:58.699Z,zoho_cpaas-rails,1.0.2,99,ACO,MIT,Zoho Cpaas Ruby SDK
+2026-11-14T23:37:45.085Z,active_storage_authorization,0.1.0,70,Yaroslav Shmarov,MIT,"Rails serves any Active Storage file to anyone holding its URL. This gem flips that: a file is served only when a record it is attached to says the current user may see it (or that it is public). Private responses are never cached, direct uploads require a signed-in user and are rate limited, and f…"

@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 23:20 UTC
+## Latest list — 2026-11-15 00:21 UTC
 
-New gems created between 2026-11-14 22:20 UTC and 2026-11-14 23:20 UTC.
+New gems created between 2026-11-14 23:20 UTC and 2026-11-15 00:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-14T23-20-10-730123Z.csv)
+[Full CSV](data/new-gems-2026-11-15T00-21-06-932907Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-14 22:20:43 | [agentboard](https://rubygems.org/gems/agentboard) | 0.2.0 | PIRUBY | MIT | AgentBoard installs into a Rails application and connects tickets to coding age… |
-| 2026-11-14 22:57:57 | [noticed-telegram](https://rubygems.org/gems/noticed-telegram) | 0.1.0 | Yaroslav Shmarov | MIT | Send Noticed notifications through the Telegram Bot API: one message per recipi… |
+| 2026-11-14 23:26:58 | [zoho_cpaas-rails](https://rubygems.org/gems/zoho_cpaas-rails) | 1.0.2 | ACO | MIT | Zoho Cpaas Ruby SDK |
+| 2026-11-14 23:37:45 | [active_storage_authorization](https://rubygems.org/gems/active_storage_authorization) | 0.1.0 | Yaroslav Shmarov | MIT | Rails serves any Active Storage file to anyone holding its URL. This gem flips… |
 
 ## Data source
 
