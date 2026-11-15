@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 07:21 UTC
+## Latest list — 2026-11-15 08:20 UTC
 
-New gems created between 2026-11-15 06:20 UTC and 2026-11-15 07:21 UTC.
+New gems created between 2026-11-15 07:21 UTC and 2026-11-15 08:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-15T07-21-09-085814Z.csv)
+[Full CSV](data/new-gems-2026-11-15T08-20-04-747111Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-15 07:04:53 | [ruby_llm-datacircle](https://rubygems.org/gems/ruby_llm-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four RubyLLM tools on Datacircle's open API, with no key: list the GTM APIs, th… |
+| 2026-11-15 07:25:43 | [nukadoko](https://rubygems.org/gems/nukadoko) | 0.2.0 | meganemura | MIT | Typed step contracts for Gherkin in Ruby, so a scenario can be told wrong befor… |
+| 2026-11-15 07:29:54 | [nostairsplease_mcp](https://rubygems.org/gems/nostairsplease_mcp) | 0.1.0 | Jared Smith | MIT | Lightweight Ruby client for the No Stairs Please remote Streamable HTTP MCP ser… |
+| 2026-11-15 07:46:12 | [prusalink](https://rubygems.org/gems/prusalink) | 0.1.1 | Sophie Déziel | MIT | A type-safe Ruby wrapper for PrusaLink, the local web API of Prusa 3D printers… |
+| 2026-11-15 08:15:59 | [rabbit-slide-unasuke-hokurikurk02](https://rubygems.org/gems/rabbit-slide-unasuke-hokurikurk02) | 1.0.0 | unasuke | MIT | https://regional.rubykaigi.org/hokuriku02/ |
 
 ## Data source
 
