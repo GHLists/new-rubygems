@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 04:20 UTC
+## Latest list — 2026-11-15 05:21 UTC
 
-New gems created between 2026-11-15 03:21 UTC and 2026-11-15 04:20 UTC.
+New gems created between 2026-11-15 04:20 UTC and 2026-11-15 05:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-15T04-20-15-252883Z.csv)
+[Full CSV](data/new-gems-2026-11-15T05-21-40-659804Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-15 03:39:59 | [aisaascompass_healthcare_emr_benchmarks](https://rubygems.org/gems/aisaascompass_healthcare_emr_benchmarks) | 2026.11.15 | Marcus Vance (AI SaaS Compass) | MIT | Empirical 2026 B2B Healthcare, Multi-Location Dental DSO & Veterinary Clinical… |
+| 2026-11-15 04:59:49 | [cmu-web-kilt](https://rubygems.org/gems/cmu-web-kilt) | 0.6.9 | Carnegie Mellon University | BSD-3-Clause | Page and app components that extend Carnegie Mellon University's web template,… |
+| 2026-11-15 05:01:13 | [cmu-web-jekyll-and-plaid](https://rubygems.org/gems/cmu-web-jekyll-and-plaid) | 0.2.4 | Carnegie Mellon University | BSD-3-Clause | Jekyll & Plaid builds sites with Carnegie Mellon's web template and the Carnegi… |
+| 2026-11-15 05:01:49 | [cmu-web-placemellon](https://rubygems.org/gems/cmu-web-placemellon) | 2.0.5 | Carnegie Mellon University | BSD-3-Clause | Builds addresses for PlaceMellon, the Carnegie Mellon placeholder image service… |
+| 2026-11-15 05:01:52 | [cmu-web-qrnegie](https://rubygems.org/gems/cmu-web-qrnegie) | 0.3.7 | Carnegie Mellon University | BSD-3-Clause | Builds addresses for QRnegie, which draws QR codes in Carnegie Mellon styles as… |
 
 ## Data source
 
