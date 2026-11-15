@@ -9,18 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 05:21 UTC
+## Latest list — 2026-11-15 06:20 UTC
 
-New gems created between 2026-11-15 04:20 UTC and 2026-11-15 05:21 UTC.
+New gems created between 2026-11-15 05:21 UTC and 2026-11-15 06:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-15T05-21-40-659804Z.csv)
+[Full CSV](data/new-gems-2026-11-15T06-20-56-702506Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-15 04:59:49 | [cmu-web-kilt](https://rubygems.org/gems/cmu-web-kilt) | 0.6.9 | Carnegie Mellon University | BSD-3-Clause | Page and app components that extend Carnegie Mellon University's web template,… |
-| 2026-11-15 05:01:13 | [cmu-web-jekyll-and-plaid](https://rubygems.org/gems/cmu-web-jekyll-and-plaid) | 0.2.4 | Carnegie Mellon University | BSD-3-Clause | Jekyll & Plaid builds sites with Carnegie Mellon's web template and the Carnegi… |
-| 2026-11-15 05:01:49 | [cmu-web-placemellon](https://rubygems.org/gems/cmu-web-placemellon) | 2.0.5 | Carnegie Mellon University | BSD-3-Clause | Builds addresses for PlaceMellon, the Carnegie Mellon placeholder image service… |
-| 2026-11-15 05:01:52 | [cmu-web-qrnegie](https://rubygems.org/gems/cmu-web-qrnegie) | 0.3.7 | Carnegie Mellon University | BSD-3-Clause | Builds addresses for QRnegie, which draws QR codes in Carnegie Mellon styles as… |
+| 2026-11-15 05:51:35 | [malmal](https://rubygems.org/gems/malmal) | 0.4.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
+| 2026-11-15 05:51:35 | [malmal](https://rubygems.org/gems/malmal) | 0.4.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
+| 2026-11-15 05:51:35 | [malmal](https://rubygems.org/gems/malmal) | 0.4.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
+| 2026-11-15 05:51:35 | [malmal](https://rubygems.org/gems/malmal) | 0.4.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
+| 2026-11-15 05:51:35 | [malmal](https://rubygems.org/gems/malmal) | 0.4.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
+| 2026-11-15 05:51:35 | [malmal](https://rubygems.org/gems/malmal) | 0.4.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
+| 2026-11-15 05:51:35 | [malmal](https://rubygems.org/gems/malmal) | 0.4.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
+| 2026-11-15 05:51:45 | [malmal-rails](https://rubygems.org/gems/malmal-rails) | 0.4.1 | nguyenthuan155632 | MIT; Apache-2.0 | Rails integration for the malmal upload scanner: a validator for Active Storage… |
+| 2026-11-15 06:00:36 | [cmu-web-placemellon](https://rubygems.org/gems/cmu-web-placemellon) | 2.0.6 | Carnegie Mellon University | BSD-3-Clause | Builds addresses for PlaceMellon, the Carnegie Mellon placeholder image service… |
+| 2026-11-15 06:05:34 | [prusalink](https://rubygems.org/gems/prusalink) | 0.1.0 | Sophie Déziel | MIT | A type-safe Ruby wrapper for PrusaLink, the local web API of Prusa 3D printers… |
+| 2026-11-15 06:15:22 | [closient](https://rubygems.org/gems/closient) | 0.0.1 | Closient | MIT | Placeholder that holds the name for the Closient Ruby SDK. |
 
 ## Data source
 
