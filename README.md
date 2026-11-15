@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 14:20 UTC
+## Latest list — 2026-11-15 15:22 UTC
 
-New gems created between 2026-11-15 13:19 UTC and 2026-11-15 14:20 UTC.
+New gems created between 2026-11-15 14:20 UTC and 2026-11-15 15:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-15T14-20-45-580264Z.csv)
+[Full CSV](data/new-gems-2026-11-15T15-22-18-310764Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-15 13:56:16 | [form_components](https://rubygems.org/gems/form_components) | 0.1.5 | Tom de Grunt | MIT | Text fields, text areas, check boxes, radio buttons, selects, a combobox, ratin… |
-| 2026-11-15 14:16:25 | [runearc](https://rubygems.org/gems/runearc) | 0.1.0 | Runearc | MIT | Send, batch and schedule email, create inboxes your agents can read, manage dom… |
-| 2026-11-15 14:16:29 | [evidence_record](https://rubygems.org/gems/evidence_record) | 0.1.0 | Ken Tanaka | MIT | Generation, timestamp renewal, hash-tree renewal and verification of Evidence R… |
+| 2026-11-15 14:44:13 | [overturo](https://rubygems.org/gems/overturo) | 0.7.2 | Overturo | Apache-2.0 | Server-side Ruby SDK for the Overturo personal data platform. Covers all 7 prod… |
+| 2026-11-15 15:12:32 | [dead_bro_hub](https://rubygems.org/gems/dead_bro_hub) | 0.1.2 | Ruby Dev SRL | MIT | A BroHub section that shows what DeadBro knows about this app (overview, endpoi… |
 
 ## Data source
 

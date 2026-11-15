@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-15T14:44:13.124Z,overturo,0.7.2,62,Overturo,Apache-2.0,"Server-side Ruby SDK for the Overturo personal data platform. Covers all 7 product surfaces (Connect, Consent, Verify, Protect, Agree, Delegate, Comply) with Bearer token authentication."
+2026-11-15T15:12:32.896Z,dead_bro_hub,0.1.2,33,Ruby Dev SRL,MIT,"A BroHub section that shows what DeadBro knows about this app (overview, endpoints, errors, slow SQL, findings, deploys) next to the other Bro gems. It reads from DeadBro with the API key the dead_bro gem already uses, and shows whether the gem itself is healthy."
