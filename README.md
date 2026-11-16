@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 21:18 UTC
+## Latest list — 2026-11-16 22:20 UTC
 
-New gems created between 2026-11-16 20:21 UTC and 2026-11-16 21:18 UTC.
+New gems created between 2026-11-16 21:18 UTC and 2026-11-16 22:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-16T21-18-37-590848Z.csv)
+[Full CSV](data/new-gems-2026-11-16T22-20-26-156277Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-16 20:43:13 | [sumup](https://rubygems.org/gems/sumup) | 0.0.1 | SumUp | Apache-2.0 | Generated resource clients, models, and signed event handling for SumUp's publi… |
-| 2026-11-16 20:55:08 | [aws-sdk-connectscheduling](https://rubygems.org/gems/aws-sdk-connectscheduling) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Amazon Connect Scheduling. This gem is part of the AW… |
+| 2026-11-16 21:29:28 | [aws-sdk-opensearchmemory](https://rubygems.org/gems/aws-sdk-opensearchmemory) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Amazon OpenSearch Memory. This gem is part of the AWS… |
+| 2026-11-16 21:37:48 | [aws-sdk-sagemakerinferencerouterruntime](https://rubygems.org/gems/aws-sdk-sagemakerinferencerouterruntime) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Amazon SageMaker Inference Router Runtime. This gem i… |
 
 ## Data source
 
