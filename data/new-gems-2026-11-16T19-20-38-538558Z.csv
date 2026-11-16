@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T18:22:23.323Z,transmitly,1.0.0,72,Swift Nodes LLC,MIT,Dependency-free Ruby client for sending transactional email and inspecting delivery state with Transmitly.
+2026-11-16T18:27:42.835Z,streaming-markdown-parser,0.1.0,68,Martin Vysny,MIT,"Parses streamed Markdown, an LLM reply delta by delta, into final kramdown blocks"
+2026-11-16T18:32:06.947Z,reweave,0.5.0,91,Reweave Contributors,MIT,"Reweave is a Ruby-native framework for automated code refactoring, modernization, and large-scale source transformations using Prism parser."
