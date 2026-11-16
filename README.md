@@ -9,18 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 07:20 UTC
+## Latest list — 2026-11-16 08:20 UTC
 
-New gems created between 2026-11-16 06:21 UTC and 2026-11-16 07:20 UTC.
+New gems created between 2026-11-16 07:20 UTC and 2026-11-16 08:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-16T07-20-09-535068Z.csv)
+[Full CSV](data/new-gems-2026-11-16T08-20-24-770524Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-16 06:23:38 | [vaartix](https://rubygems.org/gems/vaartix) | 0.1.0 | Vaartix | MIT | The official Ruby client for Vaartix, the transactional email API built in Indi… |
-| 2026-11-16 06:38:12 | [moxml-testsuite](https://rubygems.org/gems/moxml-testsuite) | 0.1.1 | Ribose Inc. | MIT | The moxml model's committed answers as a certifiable test suite. Engines implem… |
-| 2026-11-16 07:00:16 | [sigli](https://rubygems.org/gems/sigli) | 0.1.0 | Sigli | MIT | HTML/URL to PDF, OCR, PDF tools, AI extraction, batch jobs, workflows and webho… |
-| 2026-11-16 07:12:48 | [openmath](https://rubygems.org/gems/openmath) | 0.1.0 | Ribose Inc. | BSD-2-Clause | OpenMath 2 and OpenMath 3 XML encoding parsed into a typed model declared with… |
+| 2026-11-16 08:03:44 | [sigli](https://rubygems.org/gems/sigli) | 0.1.1 | Sigli | MIT | HTML/URL to PDF, OCR, PDF tools, AI extraction, batch jobs, workflows and webho… |
+| 2026-11-16 08:07:45 | [isdownnow](https://rubygems.org/gems/isdownnow) | 1.0.0 | IsDownNow Telemetry Team | MIT | Official client for IsDownNow (https://isdownnow.com/). Real-time website outag… |
+| 2026-11-16 08:10:04 | [westpac_com_au](https://rubygems.org/gems/westpac_com_au) | 0.6.0 | thoran | MIT | Log into Westpac Online Banking (banking.westpac.com.au) and export an account'… |
+| 2026-11-16 08:15:06 | [nab_com_au](https://rubygems.org/gems/nab_com_au) | 0.3.0 | thoran | MIT | Log into NAB Internet Banking with a username and password, and pay a bill by B… |
 
 ## Data source
 

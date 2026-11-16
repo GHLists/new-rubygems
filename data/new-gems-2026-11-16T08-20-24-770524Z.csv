@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T08:03:44.796Z,sigli,0.1.1,32,Sigli,MIT,"HTML/URL to PDF, OCR, PDF tools, AI extraction, batch jobs, workflows and webhook verification for the Sigli API. Stdlib only."
+2026-11-16T08:07:45.164Z,isdownnow,1.0.0,14,IsDownNow Telemetry Team,MIT,"Official client for IsDownNow (https://isdownnow.com/). Real-time website outage tracking, edge response benchmarking, and global network reachability telemetry."
+2026-11-16T08:10:04.507Z,westpac_com_au,0.6.0,13,thoran,MIT,Log into Westpac Online Banking (banking.westpac.com.au) and export an account's transactions as a CSV file.
+2026-11-16T08:15:06.435Z,nab_com_au,0.3.0,0,thoran,MIT,"Log into NAB Internet Banking with a username and password, and pay a bill by BPAY from an account, going as far as the confirmation page unless told to confirm."
