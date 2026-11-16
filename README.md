@@ -9,32 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 12:21 UTC
+## Latest list — 2026-11-16 13:21 UTC
 
-New gems created between 2026-11-16 11:21 UTC and 2026-11-16 12:21 UTC.
+New gems created between 2026-11-16 12:21 UTC and 2026-11-16 13:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-16T12-21-12-98506Z.csv)
+[Full CSV](data/new-gems-2026-11-16T13-21-02-323183Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-16 11:32:00 | [switchfile-sdk](https://rubygems.org/gems/switchfile-sdk) | 0.1.0 | Aura UG (haftungsbeschränkt) | MIT | Ruby SDK for the switchfile file conversion API. The same methods as the CloudC… |
-| 2026-11-16 11:33:48 | [typemotion_art_svg](https://rubygems.org/gems/typemotion_art_svg) | 0.1.1 | TypeMotion.Art | MIT | A small local SVG generator for embeddable text entrance animations. |
-| 2026-11-16 11:34:07 | [livelychart_svg](https://rubygems.org/gems/livelychart_svg) | 0.1.1 | LivelyChart | MIT | A small local SVG generator for embeddable animated horizontal bar charts. |
-| 2026-11-16 11:45:07 | [connectrpc](https://rubygems.org/gems/connectrpc) | 0.1.2 | jimeh | MIT | Ruby implementation of the Connect protocol: typed clients, a Net::HTTP transpo… |
-| 2026-11-16 11:45:12 | [connectrpc-rack](https://rubygems.org/gems/connectrpc-rack) | 0.1.2 | jimeh | MIT | Serves connectrpc services from any Rack 3 application or server, falling throu… |
-| 2026-11-16 11:45:16 | [connectrpc-async](https://rubygems.org/gems/connectrpc-async) | 0.1.2 | jimeh | MIT | Standalone Async HTTP/2 host and pooled client transports for connectrpc: Conne… |
-| 2026-11-16 11:45:20 | [connectrpc-testing](https://rubygems.org/gems/connectrpc-testing) | 0.1.2 | jimeh | MIT | Synchronous transport that passes fully encoded Connect unary requests from a c… |
-| 2026-11-16 11:45:24 | [connectrpc-otel](https://rubygems.org/gems/connectrpc-otel) | 0.1.2 | jimeh | MIT | Emits one OpenTelemetry CLIENT or SERVER span per Connect, native gRPC or gRPC-… |
-| 2026-11-16 11:45:27 | [connectrpc-on-rails](https://rubygems.org/gems/connectrpc-on-rails) | 0.1.2 | jimeh | MIT | Routes Connect unary RPCs to Rails controllers, so typed handlers run through t… |
-| 2026-11-16 11:45:30 | [connectrpc-falcon](https://rubygems.org/gems/connectrpc-falcon) | 0.1.2 | jimeh | MIT | Serves connectrpc services from Falcon process workers over HTTP/1.1 and HTTP/2… |
-| 2026-11-16 11:45:32 | [connectrpc-prometheus](https://rubygems.org/gems/connectrpc-prometheus) | 0.1.2 | jimeh | MIT | go-grpc-prometheus compatible RPC and connection metrics in a prometheus-client… |
-| 2026-11-16 11:45:34 | [connectrpc-yabeda](https://rubygems.org/gems/connectrpc-yabeda) | 0.1.2 | jimeh | MIT | ConnectRPC RPC and connection metrics declared through Yabeda for any Yabeda ad… |
-| 2026-11-16 11:45:36 | [connectrpc-health](https://rubygems.org/gems/connectrpc-health) | 0.1.2 | jimeh | MIT; Apache-2.0 | Check, List and Watch for grpc.health.v1 with a thread- and fiber-safe status r… |
-| 2026-11-16 11:45:38 | [connectrpc-sentry](https://rubygems.org/gems/connectrpc-sentry) | 0.1.2 | jimeh | MIT | Records one native Sentry transaction or span per Connect, native gRPC or gRPC-… |
-| 2026-11-16 12:02:10 | [mimic-llm](https://rubygems.org/gems/mimic-llm) | 0.1.0 | raykin | MIT | Two CLIs over a local llama.cpp stack. `llm` sets up and runs the inference ser… |
-| 2026-11-16 12:05:19 | [aiwhiteboard_video_svg](https://rubygems.org/gems/aiwhiteboard_video_svg) | 0.1.0 | AIWhiteboard.Video | MIT | Generate a small SVG for AIWhiteboard.Video workflows |
-| 2026-11-16 12:12:20 | [sparkmeld_storyboard_svg](https://rubygems.org/gems/sparkmeld_storyboard_svg) | 0.1.1 | SparkMeld | MIT | Generate a small SVG for SparkMeld workflows |
-| 2026-11-16 12:12:22 | [tokmeme_caption_svg](https://rubygems.org/gems/tokmeme_caption_svg) | 0.1.1 | TokMeme | MIT | Generate a small SVG for TokMeme workflows |
+| 2026-11-16 12:26:45 | [nanosandbox](https://rubygems.org/gems/nanosandbox) | 0.2.0 | DevDone Labs | Apache-2.0 | Stdlib-only Ruby protocol client for the nanosandbox helper (nanosb-protocol v1… |
+| 2026-11-16 12:41:49 | [gunsnprices](https://rubygems.org/gems/gunsnprices) | 0.1.0 | GunsNPrices | MIT; CC-BY-4.0 | The title parser behind GunsNPrices (gunsnprices.com), a US gun and ammo price… |
+| 2026-11-16 13:00:48 | [sentrace](https://rubygems.org/gems/sentrace) | 0.1.1 | Kemal Elmizan | MIT | Self-hosted, PostgreSQL-backed Sentry envelope ingestion and issue grouping for… |
+| 2026-11-16 13:18:28 | [dirt-bike-graphics-fitment](https://rubygems.org/gems/dirt-bike-graphics-fitment) | 1.0.0 | Custom Dirt Bike Graphics Con… | MIT | Zero-dependency Ruby reference catalog mapping shared OEM plastics and graphics… |
+| 2026-11-16 13:18:30 | [custom-motorcycle-helmet-styles](https://rubygems.org/gems/custom-motorcycle-helmet-styles) | 1.0.0 | Custom Motorcycle Helmet Cont… | MIT | Zero-dependency Ruby reference catalog covering 33 motorcycle helmet shell silh… |
+| 2026-11-16 13:18:33 | [custom-skateboard-deck-sizes](https://rubygems.org/gems/custom-skateboard-deck-sizes) | 1.0.0 | Custom Skateboard Decks Contr… | MIT | Zero-dependency Ruby reference catalog covering 33 skateboard deck shapes (stre… |
+| 2026-11-16 13:20:12 | [bandit_machines](https://rubygems.org/gems/bandit_machines) | 0.7.2 | Abdelkader Boudih | MIT | UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment… |
+| 2026-11-16 13:20:12 | [bandit_machines](https://rubygems.org/gems/bandit_machines) | 0.7.2 | Abdelkader Boudih | MIT | UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment… |
+| 2026-11-16 13:20:12 | [bandit_machines](https://rubygems.org/gems/bandit_machines) | 0.7.2 | Abdelkader Boudih | MIT | UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment… |
+| 2026-11-16 13:20:12 | [bandit_machines](https://rubygems.org/gems/bandit_machines) | 0.7.2 | Abdelkader Boudih | MIT | UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment… |
+| 2026-11-16 13:20:12 | [bandit_machines](https://rubygems.org/gems/bandit_machines) | 0.7.2 | Abdelkader Boudih | MIT | UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment… |
+| 2026-11-16 13:20:12 | [bandit_machines](https://rubygems.org/gems/bandit_machines) | 0.7.2 | Abdelkader Boudih | MIT | UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment… |
 
 ## Data source
 

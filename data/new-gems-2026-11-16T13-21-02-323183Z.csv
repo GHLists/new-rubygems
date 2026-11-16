@@ -1,0 +1,13 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T12:26:45.046Z,nanosandbox,0.2.0,67,DevDone Labs,Apache-2.0,Stdlib-only Ruby protocol client for the nanosandbox helper (nanosb-protocol v1.0.0).
+2026-11-16T12:41:49.903Z,gunsnprices,0.1.0,55,GunsNPrices,MIT; CC-BY-4.0,"The title parser behind GunsNPrices (gunsnprices.com), a US gun and ammo price comparison site. Reads store titles such as ""G19 GEN5 9MM 15RD FS"" or ""Federal 308 150gr 20rds"" and returns the brand and model (50 brands), calibers (293), magazine capacity, barrel length, rounds per box and cost per r…"
+2026-11-16T13:00:48.423Z,sentrace,0.1.1,36,Kemal Elmizan,MIT,"Self-hosted, PostgreSQL-backed Sentry envelope ingestion and issue grouping for Ruby on Rails applications, exposed via federated Model Context Protocol (MCP) transports."
+2026-11-16T13:18:28.396Z,dirt-bike-graphics-fitment,1.0.0,0,Custom Dirt Bike Graphics Contributors,MIT,Zero-dependency Ruby reference catalog mapping shared OEM plastics and graphics kit templates across 175 dirt bike model years (76 models across 11 brands).
+2026-11-16T13:18:30.776Z,custom-motorcycle-helmet-styles,1.0.0,0,Custom Motorcycle Helmet Contributors,MIT,"Zero-dependency Ruby reference catalog covering 33 motorcycle helmet shell silhouettes across 5 rider categories, hardware traits, 6 paintable zone keys and 5 finish presets."
+2026-11-16T13:18:33.608Z,custom-skateboard-deck-sizes,1.0.0,0,Custom Skateboard Decks Contributors,MIT,"Zero-dependency Ruby reference catalog covering 33 skateboard deck shapes (street popsicles, shaped pool decks, cruisers, surfskates and longboards), truck sizing and 300 DPI print specs."
+2026-11-16T13:20:12.202Z,bandit_machines,0.7.2,0,Abdelkader Boudih,MIT,UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment platform.
+2026-11-16T13:20:12.202Z,bandit_machines,0.7.2,0,Abdelkader Boudih,MIT,UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment platform.
+2026-11-16T13:20:12.202Z,bandit_machines,0.7.2,0,Abdelkader Boudih,MIT,UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment platform.
+2026-11-16T13:20:12.202Z,bandit_machines,0.7.2,0,Abdelkader Boudih,MIT,UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment platform.
+2026-11-16T13:20:12.202Z,bandit_machines,0.7.2,0,Abdelkader Boudih,MIT,UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment platform.
+2026-11-16T13:20:12.202Z,bandit_machines,0.7.2,0,Abdelkader Boudih,MIT,UCB1 and epsilon-greedy arm selection with ticketed rewards; not an experiment platform.
