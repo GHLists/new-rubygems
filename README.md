@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 20:21 UTC
+## Latest list — 2026-11-16 21:18 UTC
 
-New gems created between 2026-11-16 19:20 UTC and 2026-11-16 20:21 UTC.
+New gems created between 2026-11-16 20:21 UTC and 2026-11-16 21:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-16T20-21-43-904919Z.csv)
+[Full CSV](data/new-gems-2026-11-16T21-18-37-590848Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-16 19:38:40 | [state_machines-async](https://rubygems.org/gems/state_machines-async) | 0.1.0 | Abdelkader Boudih | MIT | Asynchronous, thread-safe state machines for state_machines: async: true, <even… |
-| 2026-11-16 20:06:07 | [active_storage-archive](https://rubygems.org/gems/active_storage-archive) | 0.1.0 | Micah Geisel | MIT | Archive Active Storage originals into cold storage after they age, and unarchiv… |
-| 2026-11-16 20:14:22 | [validates_some](https://rubygems.org/gems/validates_some) | 1.0.0 | Dimitar Apostolovski | MIT | `validates_some` is an extenstion to the ActiveModel validation API. The `valid… |
+| 2026-11-16 20:43:13 | [sumup](https://rubygems.org/gems/sumup) | 0.0.1 | SumUp | Apache-2.0 | Generated resource clients, models, and signed event handling for SumUp's publi… |
+| 2026-11-16 20:55:08 | [aws-sdk-connectscheduling](https://rubygems.org/gems/aws-sdk-connectscheduling) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Amazon Connect Scheduling. This gem is part of the AW… |
 
 ## Data source
 

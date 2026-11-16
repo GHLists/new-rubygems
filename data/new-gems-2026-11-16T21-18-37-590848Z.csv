@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T20:43:13.872Z,sumup,0.0.1,43,SumUp,Apache-2.0,"Generated resource clients, models, and signed event handling for SumUp's public API."
+2026-11-16T20:55:08.966Z,aws-sdk-connectscheduling,1.0.0,31,Amazon Web Services,Apache-2.0,Official AWS Ruby gem for Amazon Connect Scheduling. This gem is part of the AWS SDK for Ruby.
