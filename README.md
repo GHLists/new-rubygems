@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 22:20 UTC
+## Latest list — 2026-11-16 23:21 UTC
 
-New gems created between 2026-11-16 21:18 UTC and 2026-11-16 22:20 UTC.
+New gems created between 2026-11-16 22:20 UTC and 2026-11-16 23:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-16T22-20-26-156277Z.csv)
+[Full CSV](data/new-gems-2026-11-16T23-21-34-226603Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-16 21:29:28 | [aws-sdk-opensearchmemory](https://rubygems.org/gems/aws-sdk-opensearchmemory) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Amazon OpenSearch Memory. This gem is part of the AWS… |
-| 2026-11-16 21:37:48 | [aws-sdk-sagemakerinferencerouterruntime](https://rubygems.org/gems/aws-sdk-sagemakerinferencerouterruntime) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Amazon SageMaker Inference Router Runtime. This gem i… |
+| 2026-11-16 23:03:15 | [cloakapi](https://rubygems.org/gems/cloakapi) | 1.4.1 | Klokk Nettablering | Apache-2.0 | Client for the CloakAPI gateway. Personal data in a request is replaced with st… |
+| 2026-11-16 23:03:15 | [cloakapi](https://rubygems.org/gems/cloakapi) | 1.4.1 | Klokk Nettablering | Apache-2.0 | Client for the CloakAPI gateway. Personal data in a request is replaced with st… |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T23:03:15.186Z,cloakapi,1.4.1,59,Klokk Nettablering,Apache-2.0,"Client for the CloakAPI gateway. Personal data in a request is replaced with stand-ins on your own machine before the request is sent, you review the exact outgoing text, the reply is restored locally, and signed receipts can be verified offline."
+2026-11-16T23:03:15.186Z,cloakapi,1.4.1,59,Klokk Nettablering,Apache-2.0,"Client for the CloakAPI gateway. Personal data in a request is replaced with stand-ins on your own machine before the request is sent, you review the exact outgoing text, the reply is restored locally, and signed receipts can be verified offline."
