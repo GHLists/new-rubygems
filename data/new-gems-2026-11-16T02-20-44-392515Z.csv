@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T01:28:08.59Z,cadguide_dwg_spec,0.1.0,69,CADGuide Engineering,MIT,Engineering CAD/CAE DWG AC1032 header specification and AutoCAD-to-GstarCAD migration reference package (https://gstarcademy.com/kb/guides/autocad-to-gstarcad-migration-playbook). Cross-directory at https://cadguide.tools and https://super-materials.com.
+2026-11-16T02:09:22.577Z,phonemizer,0.1.0,20,[anantone],MIT,A thin Ruby wrapper around espeak-ng CLI for simple word-to-IPA phonemization with caching and parallelism.
