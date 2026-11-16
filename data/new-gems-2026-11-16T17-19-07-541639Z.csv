@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T16:55:45.885Z,raix-datacircle,0.1.0,35,Wayne Hamadi,MIT,"Four Raix functions on Datacircle's open API, with no key: list the GTM APIs, the best plans of one API, a search of every plan and one provider's ranks. We benchmark all the GTM APIs and we put the results on our website: https://datacircle.dev"
+2026-11-16T16:56:37.259Z,tilework,0.18.4,37,Kihaya Sugiura,MIT,"The core of tilework: pure Ruby, no native extension, ships the :cpu backend as the conformance oracle for the tilework-metal / tilework-cuda / tilework-hip backend gems."
+2026-11-16T16:56:38.539Z,tilework-metal,0.18.4,34,Kihaya Sugiura,MIT,"The Metal backend gem for tilework: the native extension (ext/tilework/metal, Swift + a C ABI shim). Depends on the tilework core gem for Buffer/Kernel/DSL/Ops and the compat/metal.h dialect header."
+2026-11-16T16:56:39.613Z,tilework-cuda,0.18.4,27,Kihaya Sugiura,MIT,"The CUDA backend gem for tilework: the native extension (ext/tilework/cuda, CUDA Driver API + NVRTC host C++). Depends on the tilework core gem for Buffer/Kernel/DSL/Ops and the compat/cuda.h dialect header."
+2026-11-16T16:56:40.925Z,tilework-hip,0.18.4,32,Kihaya Sugiura,MIT,The HIP backend gem for tilework: HIP Runtime + HIPRTC native bridge.
