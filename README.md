@@ -9,22 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 04:22 UTC
+## Latest list — 2026-11-16 06:21 UTC
 
-New gems created between 2026-11-16 03:19 UTC and 2026-11-16 04:22 UTC.
+New gems created between 2026-11-16 05:21 UTC and 2026-11-16 06:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-16T04-22-00-893099Z.csv)
+[Full CSV](data/new-gems-2026-11-16T06-21-39-398364Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-16 03:54:49 | [malmal](https://rubygems.org/gems/malmal) | 0.5.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-16 03:54:49 | [malmal](https://rubygems.org/gems/malmal) | 0.5.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-16 03:54:49 | [malmal](https://rubygems.org/gems/malmal) | 0.5.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-16 03:54:49 | [malmal](https://rubygems.org/gems/malmal) | 0.5.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-16 03:54:49 | [malmal](https://rubygems.org/gems/malmal) | 0.5.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-16 03:54:49 | [malmal](https://rubygems.org/gems/malmal) | 0.5.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-16 03:54:49 | [malmal](https://rubygems.org/gems/malmal) | 0.5.1 | nguyenthuan155632 | MIT; Apache-2.0 | Checks uploaded files before your application processes them: whether the conte… |
-| 2026-11-16 03:54:55 | [malmal-rails](https://rubygems.org/gems/malmal-rails) | 0.5.1 | nguyenthuan155632 | MIT; Apache-2.0 | Rails integration for the malmal upload scanner: a validator for Active Storage… |
+| 2026-11-16 05:31:18 | [octoprint](https://rubygems.org/gems/octoprint) | 0.1.0 | Sophie Déziel | MIT | Ruby client for OctoPrint's REST API covering files, jobs, printer state and co… |
+| 2026-11-16 05:32:03 | [sentrace](https://rubygems.org/gems/sentrace) | 0.0.1 | Kemal Elmizan | MIT | Self-hosted, PostgreSQL-backed Sentry envelope ingestion and issue grouping for… |
 
 ## Data source
 
