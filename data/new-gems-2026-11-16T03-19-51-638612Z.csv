@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T02:39:55.319Z,elelem-shell,0.1.0,60,mo khan,MIT,"Installs elelem with the tools, mcp, skills and server plugins and the openai, anthropic and ollama providers."
+2026-11-16T03:09:43.345Z,elelem-gemini,0.1.0,8,mo khan,MIT,A Google Gemini provider plugin for elelem.
+2026-11-16T03:09:46.055Z,elelem-cloudflare,0.1.0,8,mo khan,MIT,A Cloudflare provider plugin for elelem.
+2026-11-16T03:09:48.362Z,elelem-mistral,0.1.0,11,mo khan,MIT,A Mistral provider plugin for elelem.
+2026-11-16T03:09:56.913Z,elelem-github,0.1.0,11,mo khan,MIT,A GitHub Models provider plugin for elelem.
+2026-11-16T03:10:01.008Z,elelem-openrouter,0.1.0,5,mo khan,MIT,An OpenRouter provider plugin for elelem.
+2026-11-16T03:10:31.304Z,elelem-groq,0.1.0,12,mo khan,MIT,A Groq provider plugin for elelem.
+2026-11-16T03:10:41.043Z,elelem-cerebras,0.1.0,6,mo khan,MIT,A Cerebras provider plugin for elelem.
