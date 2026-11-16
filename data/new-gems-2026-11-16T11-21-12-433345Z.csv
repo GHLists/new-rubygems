@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T11:00:22.721Z,graftcode-instrumentation,1.0.5,27,Graftcode S.A.,MIT,"Client and server spans, W3C trace context propagation, and Hypertube log forwarding for Ruby."
+2026-11-16T11:00:23.635Z,graftcode-telemetry-datadog,1.0.5,25,Graftcode S.A.,MIT,"Sends Graftcode traces and logs to the Datadog Agent over OTLP, with a Rack request middleware and an application logger."
+2026-11-16T11:20:08.861Z,ruby-canary-test,1.0.0,0,StepSecurity,MIT,A no-op test gem used to verify that registry proxies block packages listed as compromised. It has no install hooks or native extensions.
