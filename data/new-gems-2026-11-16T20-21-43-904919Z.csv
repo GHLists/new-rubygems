@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T19:38:40.371Z,state_machines-async,0.1.0,54,Abdelkader Boudih,MIT,"Asynchronous, thread-safe state machines for state_machines: async: true, <event>_async methods and concurrent transitions, on the async gem (CRuby only)"
+2026-11-16T20:06:07.154Z,active_storage-archive,0.1.0,24,Micah Geisel,MIT,"Archive Active Storage originals into cold storage after they age, and unarchive them on demand."
+2026-11-16T20:14:22.048Z,validates_some,1.0.0,1,Dimitar Apostolovski,MIT,`validates_some` is an extenstion to the ActiveModel validation API. The `validates_some` method filters declared validations for the referenced attributes. It expects that just _some_ (at least one) of the listed attributes are valid for the whole group of attributes to be considered validated.

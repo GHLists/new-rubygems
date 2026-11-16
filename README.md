@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 19:20 UTC
+## Latest list — 2026-11-16 20:21 UTC
 
-New gems created between 2026-11-16 18:20 UTC and 2026-11-16 19:20 UTC.
+New gems created between 2026-11-16 19:20 UTC and 2026-11-16 20:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-16T19-20-38-538558Z.csv)
+[Full CSV](data/new-gems-2026-11-16T20-21-43-904919Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-16 18:22:23 | [transmitly](https://rubygems.org/gems/transmitly) | 1.0.0 | Swift Nodes LLC | MIT | Dependency-free Ruby client for sending transactional email and inspecting deli… |
-| 2026-11-16 18:27:42 | [streaming-markdown-parser](https://rubygems.org/gems/streaming-markdown-parser) | 0.1.0 | Martin Vysny | MIT | Parses streamed Markdown, an LLM reply delta by delta, into final kramdown bloc… |
-| 2026-11-16 18:32:06 | [reweave](https://rubygems.org/gems/reweave) | 0.5.0 | Reweave Contributors | MIT | Reweave is a Ruby-native framework for automated code refactoring, modernizatio… |
+| 2026-11-16 19:38:40 | [state_machines-async](https://rubygems.org/gems/state_machines-async) | 0.1.0 | Abdelkader Boudih | MIT | Asynchronous, thread-safe state machines for state_machines: async: true, <even… |
+| 2026-11-16 20:06:07 | [active_storage-archive](https://rubygems.org/gems/active_storage-archive) | 0.1.0 | Micah Geisel | MIT | Archive Active Storage originals into cold storage after they age, and unarchiv… |
+| 2026-11-16 20:14:22 | [validates_some](https://rubygems.org/gems/validates_some) | 1.0.0 | Dimitar Apostolovski | MIT | `validates_some` is an extenstion to the ActiveModel validation API. The `valid… |
 
 ## Data source
 
