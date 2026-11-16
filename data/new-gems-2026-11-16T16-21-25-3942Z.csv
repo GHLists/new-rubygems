@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T15:52:29.781Z,typegap,0.1.0,60,meganemura,MIT,"Find where a Ruby project's RBS types and its code disagree, with typescript-eslint's type-aware rules on Steep."
