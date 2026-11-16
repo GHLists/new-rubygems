@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 06:21 UTC
+## Latest list — 2026-11-16 07:20 UTC
 
-New gems created between 2026-11-16 05:21 UTC and 2026-11-16 06:21 UTC.
+New gems created between 2026-11-16 06:21 UTC and 2026-11-16 07:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-16T06-21-39-398364Z.csv)
+[Full CSV](data/new-gems-2026-11-16T07-20-09-535068Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-16 05:31:18 | [octoprint](https://rubygems.org/gems/octoprint) | 0.1.0 | Sophie Déziel | MIT | Ruby client for OctoPrint's REST API covering files, jobs, printer state and co… |
-| 2026-11-16 05:32:03 | [sentrace](https://rubygems.org/gems/sentrace) | 0.0.1 | Kemal Elmizan | MIT | Self-hosted, PostgreSQL-backed Sentry envelope ingestion and issue grouping for… |
+| 2026-11-16 06:23:38 | [vaartix](https://rubygems.org/gems/vaartix) | 0.1.0 | Vaartix | MIT | The official Ruby client for Vaartix, the transactional email API built in Indi… |
+| 2026-11-16 06:38:12 | [moxml-testsuite](https://rubygems.org/gems/moxml-testsuite) | 0.1.1 | Ribose Inc. | MIT | The moxml model's committed answers as a certifiable test suite. Engines implem… |
+| 2026-11-16 07:00:16 | [sigli](https://rubygems.org/gems/sigli) | 0.1.0 | Sigli | MIT | HTML/URL to PDF, OCR, PDF tools, AI extraction, batch jobs, workflows and webho… |
+| 2026-11-16 07:12:48 | [openmath](https://rubygems.org/gems/openmath) | 0.1.0 | Ribose Inc. | BSD-2-Clause | OpenMath 2 and OpenMath 3 XML encoding parsed into a typed model declared with… |
 
 ## Data source
 

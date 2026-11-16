@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-16T06:23:38.666Z,vaartix,0.1.0,71,Vaartix,MIT,"The official Ruby client for Vaartix, the transactional email API built in India."
+2026-11-16T06:38:12.528Z,moxml-testsuite,0.1.1,66,Ribose Inc.,MIT,"The moxml model's committed answers as a certifiable test suite. Engines implement the certification facade (parse, serialize, canonicalize, XSD validation, and the pure-logic decision faces) and run the seven-family dataset - builtin lexical spaces, XSD pattern translation, namespace wildcards, th…"
+2026-11-16T07:00:16.402Z,sigli,0.1.0,31,Sigli,MIT,"HTML/URL to PDF, OCR, PDF tools, AI extraction, batch jobs, workflows and webhook verification for the Sigli API. Stdlib only."
+2026-11-16T07:12:48.523Z,openmath,0.1.0,1,Ribose Inc.,BSD-2-Clause,"OpenMath 2 and OpenMath 3 XML encoding parsed into a typed model declared with LutaML Model, with content-dictionary-aware semantics. Used by Plurimath."
