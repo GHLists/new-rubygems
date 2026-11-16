@@ -68,9 +68,6 @@ New gems created between 2026-11-16 13:21 UTC and 2026-11-16 15:05 UTC.
 | 2026-11-16 14:31:15 | [refresh_machines](https://rubygems.org/gems/refresh_machines) | 0.7.4 | Abdelkader Boudih | MIT | Classifies cached values as fresh, stale or expired and grants one refresh leas… |
 | 2026-11-16 14:31:15 | [refresh_machines](https://rubygems.org/gems/refresh_machines) | 0.7.4 | Abdelkader Boudih | MIT | Classifies cached values as fresh, stale or expired and grants one refresh leas… |
 
-> The latest activity list was capped by the RubyGems API, so some
-> gems in this window may be missing.
-
 ## Data source
 
 Data comes from the [RubyGems.org API](https://rubygems.org/api), operated by
