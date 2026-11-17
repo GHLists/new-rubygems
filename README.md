@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 16:18 UTC
+## Latest list — 2026-11-17 18:20 UTC
 
-New gems created between 2026-11-17 15:21 UTC and 2026-11-17 16:18 UTC.
+New gems created between 2026-11-17 17:19 UTC and 2026-11-17 18:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T16-18-54-973029Z.csv)
+[Full CSV](data/new-gems-2026-11-17T18-20-30-02784Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-17 16:00:53 | [texas-royalty-calc](https://rubygems.org/gems/texas-royalty-calc) | 1.0.0 | Texas Royalty Brokers | MIT | Small helpers for estimating oil and gas royalty payments and decimal interest… |
+| 2026-11-17 17:27:57 | [midway_client_suite_library_ruby](https://rubygems.org/gems/midway_client_suite_library_ruby) | 0.0.1 | Midway | MIT | Midway Library |
+| 2026-11-17 17:48:13 | [omniai-datacircle](https://rubygems.org/gems/omniai-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four OmniAI tools on Datacircle's open API, with no key: list the GTM APIs, the… |
 
 ## Data source
 
