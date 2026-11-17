@@ -9,22 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 21:20 UTC
+## Latest list — 2026-11-17 22:21 UTC
 
-New gems created between 2026-11-17 20:21 UTC and 2026-11-17 21:20 UTC.
+New gems created between 2026-11-17 21:20 UTC and 2026-11-17 22:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T21-20-36-443496Z.csv)
+[Full CSV](data/new-gems-2026-11-17T22-21-31-510668Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-17 20:37:43 | [prawn-widget](https://rubygems.org/gems/prawn-widget) | 2.0.1 | halo | MIT | The `view_component` syntax, but implemented for Prawn. So you can create reusa… |
-| 2026-11-17 20:41:26 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.0 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
-| 2026-11-17 20:41:26 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.0 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
-| 2026-11-17 20:41:26 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.0 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
-| 2026-11-17 20:41:26 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.0 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
-| 2026-11-17 20:41:26 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.0 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
-| 2026-11-17 21:11:27 | [sooner-email](https://rubygems.org/gems/sooner-email) | 0.1.0 | Sooner | MIT | Email sending, batch delivery, pagination, scheduling and cancellation with exp… |
-| 2026-11-17 21:12:01 | [jeff-style-rails](https://rubygems.org/gems/jeff-style-rails) | 0.1.0 | Jeff Lunt | MIT | A RuboCop plugin containing custom cops and configuration for Jeff's Ruby on Ra… |
+| 2026-11-17 21:39:32 | [reactiveadmin](https://rubygems.org/gems/reactiveadmin) | 0.2.0 | Form Health | MIT | Reuses your ActiveAdmin registrations and controllers to serve a JSON API, an O… |
 
 ## Data source
 

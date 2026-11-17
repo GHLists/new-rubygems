@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-17T21:39:32.505Z,reactiveadmin,0.2.0,50,Form Health,MIT,"Reuses your ActiveAdmin registrations and controllers to serve a JSON API, an OpenAPI document and an MCP server, and to host a React admin client."
