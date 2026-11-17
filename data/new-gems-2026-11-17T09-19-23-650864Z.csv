@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-17T08:47:12.696Z,gitlab-fp,0.0.0,49,GitLab,MIT,This version only reserves the name. Requiring it raises an error.
+2026-11-17T08:49:26.308Z,billionsend,0.1.0,44,BillionSend,MIT,"Send, receive and track email with BillionSend: every operation of the API, retries with idempotency keys, inbox event streams and webhook verification."
+2026-11-17T08:49:43.233Z,rspec-collapsing-formatter,0.1.0,45,Adam Lett,MIT,An RSpec documentation-style formatter that collapses finished example groups.
+2026-11-17T09:08:08.47Z,node-test-repo,1.0.1,11,Shoaib,MIT,A simple gem for demonstration purposes

@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 08:18 UTC
+## Latest list — 2026-11-17 09:19 UTC
 
-New gems created between 2026-11-17 07:18 UTC and 2026-11-17 08:18 UTC.
+New gems created between 2026-11-17 08:18 UTC and 2026-11-17 09:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T08-18-29-978484Z.csv)
+[Full CSV](data/new-gems-2026-11-17T09-19-23-650864Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-17 07:18:43 | [configdirector](https://rubygems.org/gems/configdirector) | 0.1.0 | ConfigDirector | MIT | Installs configdirector-server-sdk, the Ruby server SDK for ConfigDirector. Con… |
-| 2026-11-17 07:53:23 | [ozdenui](https://rubygems.org/gems/ozdenui) | 0.1.2 | Bugra Ozden | Apache-2.0 | OzdenUI for Ruby opens a window of its own whose objects are the objects of bas… |
+| 2026-11-17 08:47:12 | [gitlab-fp](https://rubygems.org/gems/gitlab-fp) | 0.0.0 | GitLab | MIT | This version only reserves the name. Requiring it raises an error. |
+| 2026-11-17 08:49:26 | [billionsend](https://rubygems.org/gems/billionsend) | 0.1.0 | BillionSend | MIT | Send, receive and track email with BillionSend: every operation of the API, ret… |
+| 2026-11-17 08:49:43 | [rspec-collapsing-formatter](https://rubygems.org/gems/rspec-collapsing-formatter) | 0.1.0 | Adam Lett | MIT | An RSpec documentation-style formatter that collapses finished example groups. |
+| 2026-11-17 09:08:08 | [node-test-repo](https://rubygems.org/gems/node-test-repo) | 1.0.1 | Shoaib | MIT | A simple gem for demonstration purposes |
 
 ## Data source
 
