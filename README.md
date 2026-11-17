@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 09:19 UTC
+## Latest list — 2026-11-17 10:21 UTC
 
-New gems created between 2026-11-17 08:18 UTC and 2026-11-17 09:19 UTC.
+New gems created between 2026-11-17 09:19 UTC and 2026-11-17 10:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T09-19-23-650864Z.csv)
+[Full CSV](data/new-gems-2026-11-17T10-21-22-609229Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-17 08:47:12 | [gitlab-fp](https://rubygems.org/gems/gitlab-fp) | 0.0.0 | GitLab | MIT | This version only reserves the name. Requiring it raises an error. |
-| 2026-11-17 08:49:26 | [billionsend](https://rubygems.org/gems/billionsend) | 0.1.0 | BillionSend | MIT | Send, receive and track email with BillionSend: every operation of the API, ret… |
-| 2026-11-17 08:49:43 | [rspec-collapsing-formatter](https://rubygems.org/gems/rspec-collapsing-formatter) | 0.1.0 | Adam Lett | MIT | An RSpec documentation-style formatter that collapses finished example groups. |
-| 2026-11-17 09:08:08 | [node-test-repo](https://rubygems.org/gems/node-test-repo) | 1.0.1 | Shoaib | MIT | A simple gem for demonstration purposes |
+| 2026-11-17 10:10:15 | [pdftotext_binary](https://rubygems.org/gems/pdftotext_binary) | 1.0.0 | Martin Tournoij | GPL-2.0-or-later | Statically linked pdftotext binary from Poppler |
 
 ## Data source
 
