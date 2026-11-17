@@ -1,0 +1,8 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-17T03:33:29.708Z,elelem-evals,0.1.0,59,mo khan,MIT,Runs scenario-based evals against any elelem provider.
+2026-11-17T03:34:52.745Z,elelem-ratatui,0.1.0,62,mo khan,MIT,Overrides the default terminal with a ratatui terminal
+2026-11-17T03:35:34.818Z,elelem-ggml,0.1.0,60,mo khan,MIT,A raw ggml (ggml-org/ggml) plugin for elelem.
+2026-11-17T03:36:37.208Z,elelem-diffusion,0.1.0,85,mo khan,MIT,"Adds image, img2img, video, and upscale tools backed by an embedded stable-diffusion.cpp."
+2026-11-17T03:43:40.407Z,elelem-candle,0.1.0,55,mo khan,MIT,A candle (huggingface/candle) plugin for elelem.
+2026-11-17T04:06:55.085Z,powertom,0.2.4,14,PowerTom contributors,MIT,"PowerTom is a PowerPoint template engine for Ruby. Designers keep the template in PowerPoint; engineers pass a Ruby Hash or a TOML file and get a finished deck. Layout, fonts, colours, masters and theme stay under the designer's control. PowerTom est un moteur de modèles PowerPoint pour Ruby. Les d…"
+2026-11-17T04:21:31.328Z,ozdenui,0.1.0,0,Bugra Ozden,Apache-2.0,"OzdenUI for Ruby opens a window of its own whose objects are the objects of basic.js and the 80+ components of the OzdenUI kit (buttons, fields, lists, tables, charts, dialogs, editors), written in Ruby with blocks. On macOS the window is the web view of the system, made with the fiddle library of…"
