@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 12:20 UTC
+## Latest list — 2026-11-17 13:21 UTC
 
-New gems created between 2026-11-17 11:20 UTC and 2026-11-17 12:20 UTC.
+New gems created between 2026-11-17 12:20 UTC and 2026-11-17 13:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T12-20-15-849158Z.csv)
+[Full CSV](data/new-gems-2026-11-17T13-21-33-427483Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-17 11:30:03 | [ozdenui](https://rubygems.org/gems/ozdenui) | 0.1.3 | Bugra Ozden | Apache-2.0 | OzdenUI for Ruby opens a window of its own whose objects are the objects of bas… |
-| 2026-11-17 11:44:40 | [devise_login_alerts](https://rubygems.org/gems/devise_login_alerts) | 0.1.0 | Jammed | MIT | Records successful and failed Devise sign-ins, recognises returning browsers wi… |
-| 2026-11-17 12:17:23 | [powertom](https://rubygems.org/gems/powertom) | 0.3.2 | PowerTom contributors | MIT | PowerTom is a PowerPoint template engine for Ruby. Designers keep the template… |
+| 2026-11-17 12:23:54 | [powertom](https://rubygems.org/gems/powertom) | 0.4.0 | PowerTom contributors | MIT | PowerTom is a PowerPoint template engine for Ruby. Designers keep the template… |
 
 ## Data source
 
