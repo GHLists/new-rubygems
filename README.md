@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 06:18 UTC
+## Latest list — 2026-11-17 07:18 UTC
 
-New gems created between 2026-11-17 05:20 UTC and 2026-11-17 06:18 UTC.
+New gems created between 2026-11-17 06:18 UTC and 2026-11-17 07:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T06-18-59-086618Z.csv)
+[Full CSV](data/new-gems-2026-11-17T07-18-30-036947Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-17 06:00:11 | [powertom](https://rubygems.org/gems/powertom) | 0.3.0 | PowerTom contributors | MIT | PowerTom is a PowerPoint template engine for Ruby. Designers keep the template… |
+| 2026-11-17 06:28:08 | [reweave](https://rubygems.org/gems/reweave) | 1.0.1 | Reweave Contributors | MIT | Reweave is a Ruby-native framework for automated code refactoring, modernizatio… |
+| 2026-11-17 06:29:44 | [powertom](https://rubygems.org/gems/powertom) | 0.3.1 | PowerTom contributors | MIT | PowerTom is a PowerPoint template engine for Ruby. Designers keep the template… |
+| 2026-11-17 07:04:34 | [billionverify](https://rubygems.org/gems/billionverify) | 1.0.1 | BillionVerify | MIT | Verify email addresses one at a time, in batches of 50 or as whole files, find… |
+| 2026-11-17 07:08:19 | [configdirector-server-sdk](https://rubygems.org/gems/configdirector-server-sdk) | 0.1.0 | ConfigDirector | MIT | Ruby server SDK for ConfigDirector. ConfigDirector is a remote configuration an… |
 
 ## Data source
 

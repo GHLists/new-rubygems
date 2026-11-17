@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-17T06:28:08.509Z,reweave,1.0.1,54,Reweave Contributors,MIT,"Reweave is a Ruby-native framework for automated code refactoring, modernization, and large-scale source transformations using Prism parser."
+2026-11-17T06:29:44.761Z,powertom,0.3.1,57,PowerTom contributors,MIT,"PowerTom is a PowerPoint template engine for Ruby. Designers keep the template in PowerPoint; engineers pass a Ruby Hash or a TOML file and get a finished deck. Layout, fonts, colours, masters and theme stay under the designer's control."
+2026-11-17T07:04:34.978Z,billionverify,1.0.1,20,BillionVerify,MIT,"Verify email addresses one at a time, in batches of 50 or as whole files, find the emails published on a company's site, manage webhooks and check your credit balance."
+2026-11-17T07:08:19.533Z,configdirector-server-sdk,0.1.0,4,ConfigDirector,MIT,Ruby server SDK for ConfigDirector. ConfigDirector is a remote configuration and feature flag service.
