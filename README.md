@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 14:21 UTC
+## Latest list — 2026-11-17 15:21 UTC
 
-New gems created between 2026-11-17 13:21 UTC and 2026-11-17 14:21 UTC.
+New gems created between 2026-11-17 14:21 UTC and 2026-11-17 15:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T14-21-48-496257Z.csv)
+[Full CSV](data/new-gems-2026-11-17T15-21-28-177834Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-17 13:42:36 | [nav_online_invoice](https://rubygems.org/gems/nav_online_invoice) | 0.0.1 | Pálfy Zoltán | MIT | A dependency-light Ruby client for the Hungarian Tax Authority's (NAV) Online I… |
-| 2026-11-17 14:17:18 | [powertom](https://rubygems.org/gems/powertom) | 0.4.1 | PowerTom contributors | MIT | PowerTom is a PowerPoint template engine for Ruby. Designers keep the template… |
-| 2026-11-17 14:17:54 | [prawn-widget](https://rubygems.org/gems/prawn-widget) | 2.0.0 | halo | MIT | The gem `view_component` syntax, but implemented for Prawn. So you can create r… |
+| 2026-11-17 14:47:02 | [ozdenui](https://rubygems.org/gems/ozdenui) | 0.1.4 | Bugra Ozden | Apache-2.0 | OzdenUI for Ruby opens a window of its own whose objects are the objects of bas… |
+| 2026-11-17 15:12:16 | [nav_online_invoice](https://rubygems.org/gems/nav_online_invoice) | 0.1.0 | Pálfy Zoltán | MIT | A dependency-light client for the Hungarian Tax Authority's (NAV) Online Invoic… |
 
 ## Data source
 

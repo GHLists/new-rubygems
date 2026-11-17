@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-17T14:47:02.611Z,ozdenui,0.1.4,64,Bugra Ozden,Apache-2.0,"OzdenUI for Ruby opens a window of its own whose objects are the objects of basic.js and the 80+ components of the OzdenUI kit (buttons, fields, lists, tables, charts, dialogs, editors), written in Ruby with blocks. On macOS the window is the web view of the system, made with the fiddle library of…"
+2026-11-17T15:12:16.367Z,nav_online_invoice,0.1.0,5,Pálfy Zoltán,MIT,"A dependency-light client for the Hungarian Tax Authority's (NAV) Online Invoice API v3.0, with request signing, schema validation, rate limiting and typed errors. Works with or without Rails."
