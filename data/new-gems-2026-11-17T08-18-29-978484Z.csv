@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-17T07:18:43.46Z,configdirector,0.1.0,68,ConfigDirector,MIT,"Installs configdirector-server-sdk, the Ruby server SDK for ConfigDirector. ConfigDirector is a remote configuration and feature flag service."
+2026-11-17T07:53:23.418Z,ozdenui,0.1.2,38,Bugra Ozden,Apache-2.0,"OzdenUI for Ruby opens a window of its own whose objects are the objects of basic.js and the 80+ components of the OzdenUI kit (buttons, fields, lists, tables, charts, dialogs, editors), written in Ruby with blocks. On macOS the window is the web view of the system, made with the fiddle library of…"
