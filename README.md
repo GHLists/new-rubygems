@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 23:21 UTC
+## Latest list — 2026-11-17 00:19 UTC
 
-New gems created between 2026-11-16 22:20 UTC and 2026-11-16 23:21 UTC.
+New gems created between 2026-11-16 23:21 UTC and 2026-11-17 00:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-16T23-21-34-226603Z.csv)
+[Full CSV](data/new-gems-2026-11-17T00-19-18-5661Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-16 23:03:15 | [cloakapi](https://rubygems.org/gems/cloakapi) | 1.4.1 | Klokk Nettablering | Apache-2.0 | Client for the CloakAPI gateway. Personal data in a request is replaced with st… |
-| 2026-11-16 23:03:15 | [cloakapi](https://rubygems.org/gems/cloakapi) | 1.4.1 | Klokk Nettablering | Apache-2.0 | Client for the CloakAPI gateway. Personal data in a request is replaced with st… |
+| 2026-11-16 23:55:57 | [commbank_com_au](https://rubygems.org/gems/commbank_com_au) | 0.0.0 | thoran | MIT | Log into CommBank NetBank and export an account's transactions. Nothing is impl… |
+| 2026-11-16 23:56:42 | [anz_com_au](https://rubygems.org/gems/anz_com_au) | 0.0.0 | thoran | MIT | Log into ANZ Internet Banking and export an account's transactions. Nothing is… |
 
 ## Data source
 
