@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-17T19:38:03.454Z,iscatel_student_list,0.1.0,58,Kirill Stepulenko,None,"Настольное приложение на Ruby (FXRuby + PostgreSQL) с архитектурой MVC, валидацией данных и двухуровневым логированием."
+2026-11-17T19:47:37.711Z,deferred_columns,0.0.1,49,Maximo Mussini,MIT,"deferred_columns leaves the columns you choose out of every query that does not ask for them, and raises instead of querying when code reads them without opting in."
+2026-11-17T20:14:34.218Z,phonomenal_client,0.10.0,0,Venkatakrishnan Ganesh,MIT,A simple ruby interface to manage campaign and calls with Phonomenal service

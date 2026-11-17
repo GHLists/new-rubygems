@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 18:20 UTC
+## Latest list — 2026-11-17 20:21 UTC
 
-New gems created between 2026-11-17 17:19 UTC and 2026-11-17 18:20 UTC.
+New gems created between 2026-11-17 19:19 UTC and 2026-11-17 20:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T18-20-30-02784Z.csv)
+[Full CSV](data/new-gems-2026-11-17T20-21-34-637113Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-17 17:27:57 | [midway_client_suite_library_ruby](https://rubygems.org/gems/midway_client_suite_library_ruby) | 0.0.1 | Midway | MIT | Midway Library |
-| 2026-11-17 17:48:13 | [omniai-datacircle](https://rubygems.org/gems/omniai-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four OmniAI tools on Datacircle's open API, with no key: list the GTM APIs, the… |
+| 2026-11-17 19:38:03 | [iscatel_student_list](https://rubygems.org/gems/iscatel_student_list) | 0.1.0 | Kirill Stepulenko | None | Настольное приложение на Ruby (FXRuby + PostgreSQL) с архитектурой MVC, валидац… |
+| 2026-11-17 19:47:37 | [deferred_columns](https://rubygems.org/gems/deferred_columns) | 0.0.1 | Maximo Mussini | MIT | deferred_columns leaves the columns you choose out of every query that does not… |
+| 2026-11-17 20:14:34 | [phonomenal_client](https://rubygems.org/gems/phonomenal_client) | 0.10.0 | Venkatakrishnan Ganesh | MIT | A simple ruby interface to manage campaign and calls with Phonomenal service |
 
 ## Data source
 
