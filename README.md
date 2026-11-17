@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 11:20 UTC
+## Latest list — 2026-11-17 12:20 UTC
 
-New gems created between 2026-11-17 10:21 UTC and 2026-11-17 11:20 UTC.
+New gems created between 2026-11-17 11:20 UTC and 2026-11-17 12:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T11-20-40-596647Z.csv)
+[Full CSV](data/new-gems-2026-11-17T12-20-15-849158Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-17 10:25:08 | [csv_preview](https://rubygems.org/gems/csv_preview) | 0.1.0 | Gary Tou | MIT; OFL-1.1 | csv_preview is a Ruby gem that renders CSV and TSV files as preview images (PNG… |
-| 2026-11-17 10:47:47 | [any_auth](https://rubygems.org/gems/any_auth) | 0.1.0 | Displayful | MIT | OmniAuth's strategies without the Rack: a vendor's fields and sign-in round tri… |
-| 2026-11-17 11:08:24 | [leverprice](https://rubygems.org/gems/leverprice) | 0.3.0 | Leverprice | MIT | Signed, fail-safe price experiments for SaaS checkouts: verified configs, stick… |
-| 2026-11-17 11:16:35 | [rspec-parallelize](https://rubygems.org/gems/rspec-parallelize) | 0.1.0 | Alpha | MIT | Boots your suite once, forks workers, and feeds them top-level example groups f… |
+| 2026-11-17 11:30:03 | [ozdenui](https://rubygems.org/gems/ozdenui) | 0.1.3 | Bugra Ozden | Apache-2.0 | OzdenUI for Ruby opens a window of its own whose objects are the objects of bas… |
+| 2026-11-17 11:44:40 | [devise_login_alerts](https://rubygems.org/gems/devise_login_alerts) | 0.1.0 | Jammed | MIT | Records successful and failed Devise sign-ins, recognises returning browsers wi… |
+| 2026-11-17 12:17:23 | [powertom](https://rubygems.org/gems/powertom) | 0.3.2 | PowerTom contributors | MIT | PowerTom is a PowerPoint template engine for Ruby. Designers keep the template… |
 
 ## Data source
 
