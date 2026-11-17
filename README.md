@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 00:19 UTC
+## Latest list — 2026-11-17 03:20 UTC
 
-New gems created between 2026-11-16 23:21 UTC and 2026-11-17 00:19 UTC.
+New gems created between 2026-11-17 02:18 UTC and 2026-11-17 03:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T00-19-18-5661Z.csv)
+[Full CSV](data/new-gems-2026-11-17T03-20-49-117278Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-16 23:55:57 | [commbank_com_au](https://rubygems.org/gems/commbank_com_au) | 0.0.0 | thoran | MIT | Log into CommBank NetBank and export an account's transactions. Nothing is impl… |
-| 2026-11-16 23:56:42 | [anz_com_au](https://rubygems.org/gems/anz_com_au) | 0.0.0 | thoran | MIT | Log into ANZ Internet Banking and export an account's transactions. Nothing is… |
+| 2026-11-17 03:10:21 | [rabbit-slide-Watson-cloudnative-days-winter-2026-fluentd](https://rubygems.org/gems/rabbit-slide-Watson-cloudnative-days-winter-2026-fluentd) | 1.0.0 | Shizuo Fujita | CC-BY-SA-4.0 | CloudNative Days Winter 2026での発表資料です。 |
 
 ## Data source
 
