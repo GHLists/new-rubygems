@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-17T20:37:43.363Z,prawn-widget,2.0.1,79,halo,MIT,"The `view_component` syntax, but implemented for Prawn. So you can create reusable widgets."
+2026-11-17T20:41:26.827Z,railwatch-sidecar,0.2.0,22,Rebulk,FSL-1.1-ALv2,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-11-17T20:41:26.827Z,railwatch-sidecar,0.2.0,22,Rebulk,FSL-1.1-ALv2,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-11-17T20:41:26.827Z,railwatch-sidecar,0.2.0,22,Rebulk,FSL-1.1-ALv2,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-11-17T20:41:26.827Z,railwatch-sidecar,0.2.0,22,Rebulk,FSL-1.1-ALv2,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-11-17T20:41:26.827Z,railwatch-sidecar,0.2.0,22,Rebulk,FSL-1.1-ALv2,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-11-17T21:11:27.048Z,sooner-email,0.1.0,5,Sooner,MIT,"Email sending, batch delivery, pagination, scheduling and cancellation with explicit idempotency and request deadlines."
+2026-11-17T21:12:01.088Z,jeff-style-rails,0.1.0,4,Jeff Lunt,MIT,A RuboCop plugin containing custom cops and configuration for Jeff's Ruby on Rails conventions.

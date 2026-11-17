@@ -9,17 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 20:21 UTC
+## Latest list — 2026-11-17 21:20 UTC
 
-New gems created between 2026-11-17 19:19 UTC and 2026-11-17 20:21 UTC.
+New gems created between 2026-11-17 20:21 UTC and 2026-11-17 21:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T20-21-34-637113Z.csv)
+[Full CSV](data/new-gems-2026-11-17T21-20-36-443496Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-17 19:38:03 | [iscatel_student_list](https://rubygems.org/gems/iscatel_student_list) | 0.1.0 | Kirill Stepulenko | None | Настольное приложение на Ruby (FXRuby + PostgreSQL) с архитектурой MVC, валидац… |
-| 2026-11-17 19:47:37 | [deferred_columns](https://rubygems.org/gems/deferred_columns) | 0.0.1 | Maximo Mussini | MIT | deferred_columns leaves the columns you choose out of every query that does not… |
-| 2026-11-17 20:14:34 | [phonomenal_client](https://rubygems.org/gems/phonomenal_client) | 0.10.0 | Venkatakrishnan Ganesh | MIT | A simple ruby interface to manage campaign and calls with Phonomenal service |
+| 2026-11-17 20:37:43 | [prawn-widget](https://rubygems.org/gems/prawn-widget) | 2.0.1 | halo | MIT | The `view_component` syntax, but implemented for Prawn. So you can create reusa… |
+| 2026-11-17 20:41:26 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.0 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
+| 2026-11-17 20:41:26 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.0 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
+| 2026-11-17 20:41:26 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.0 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
+| 2026-11-17 20:41:26 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.0 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
+| 2026-11-17 20:41:26 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.0 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
+| 2026-11-17 21:11:27 | [sooner-email](https://rubygems.org/gems/sooner-email) | 0.1.0 | Sooner | MIT | Email sending, batch delivery, pagination, scheduling and cancellation with exp… |
+| 2026-11-17 21:12:01 | [jeff-style-rails](https://rubygems.org/gems/jeff-style-rails) | 0.1.0 | Jeff Lunt | MIT | A RuboCop plugin containing custom cops and configuration for Jeff's Ruby on Ra… |
 
 ## Data source
 
