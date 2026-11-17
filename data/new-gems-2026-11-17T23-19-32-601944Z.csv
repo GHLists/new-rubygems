@@ -1,0 +1,13 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-17T22:59:58.882Z,fasthtmlparser,0.1.0,37,z3l,LicenseRef-z3l-source-available,"A page becomes a flat list of tags that hold only positions in the source; text, attributes and entities are read when they are asked for. HTML5 optional end tags, all 2125 named entities, XPath 1.0, CSS selectors, links resolved against the page URL. Pure Ruby, no dependencies."
+2026-11-17T23:05:29.866Z,oxigraph,0.1.0,15,Grant Hutchins,MIT,"Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit."
+2026-11-17T23:05:29.866Z,oxigraph,0.1.0,15,Grant Hutchins,MIT,"Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit."
+2026-11-17T23:05:29.866Z,oxigraph,0.1.0,15,Grant Hutchins,MIT,"Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit."
+2026-11-17T23:05:29.866Z,oxigraph,0.1.0,15,Grant Hutchins,MIT,"Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit."
+2026-11-17T23:05:29.866Z,oxigraph,0.1.0,15,Grant Hutchins,MIT,"Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit."
+2026-11-17T23:05:29.866Z,oxigraph,0.1.0,15,Grant Hutchins,MIT,"Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit."
+2026-11-17T23:05:29.866Z,oxigraph,0.1.0,15,Grant Hutchins,MIT,"Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit."
+2026-11-17T23:05:29.866Z,oxigraph,0.1.0,15,Grant Hutchins,MIT,"Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit."
+2026-11-17T23:05:29.866Z,oxigraph,0.1.0,15,Grant Hutchins,MIT,"Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit."
+2026-11-17T23:13:12.116Z,rechargeapps,999.0.0,0,Cache Ops,MIT,Helpers for integrating with Recharge storefront and admin APIs.
+2026-11-17T23:19:12.664Z,noticed-openwa,1.0.1,0,Hugo-NF,MIT,"A noticed delivery method and a small client for OpenWA's REST API: sends a text, an image or a document to a number, and checks a number is on WhatsApp."

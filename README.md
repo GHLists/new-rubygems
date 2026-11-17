@@ -9,15 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 22:21 UTC
+## Latest list — 2026-11-17 23:19 UTC
 
-New gems created between 2026-11-17 21:20 UTC and 2026-11-17 22:21 UTC.
+New gems created between 2026-11-17 22:21 UTC and 2026-11-17 23:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-17T22-21-31-510668Z.csv)
+[Full CSV](data/new-gems-2026-11-17T23-19-32-601944Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-17 21:39:32 | [reactiveadmin](https://rubygems.org/gems/reactiveadmin) | 0.2.0 | Form Health | MIT | Reuses your ActiveAdmin registrations and controllers to serve a JSON API, an O… |
+| 2026-11-17 22:59:58 | [fasthtmlparser](https://rubygems.org/gems/fasthtmlparser) | 0.1.0 | z3l | LicenseRef-z3l-source-availab… | A page becomes a flat list of tags that hold only positions in the source; text… |
+| 2026-11-17 23:05:29 | [oxigraph](https://rubygems.org/gems/oxigraph) | 0.1.0 | Grant Hutchins | MIT | Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit. |
+| 2026-11-17 23:05:29 | [oxigraph](https://rubygems.org/gems/oxigraph) | 0.1.0 | Grant Hutchins | MIT | Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit. |
+| 2026-11-17 23:05:29 | [oxigraph](https://rubygems.org/gems/oxigraph) | 0.1.0 | Grant Hutchins | MIT | Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit. |
+| 2026-11-17 23:05:29 | [oxigraph](https://rubygems.org/gems/oxigraph) | 0.1.0 | Grant Hutchins | MIT | Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit. |
+| 2026-11-17 23:05:29 | [oxigraph](https://rubygems.org/gems/oxigraph) | 0.1.0 | Grant Hutchins | MIT | Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit. |
+| 2026-11-17 23:05:29 | [oxigraph](https://rubygems.org/gems/oxigraph) | 0.1.0 | Grant Hutchins | MIT | Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit. |
+| 2026-11-17 23:05:29 | [oxigraph](https://rubygems.org/gems/oxigraph) | 0.1.0 | Grant Hutchins | MIT | Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit. |
+| 2026-11-17 23:05:29 | [oxigraph](https://rubygems.org/gems/oxigraph) | 0.1.0 | Grant Hutchins | MIT | Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit. |
+| 2026-11-17 23:05:29 | [oxigraph](https://rubygems.org/gems/oxigraph) | 0.1.0 | Grant Hutchins | MIT | Ruby bindings for Oxigraph, a SPARQL database and RDF toolkit. |
+| 2026-11-17 23:13:12 | [rechargeapps](https://rubygems.org/gems/rechargeapps) | 999.0.0 | Cache Ops | MIT | Helpers for integrating with Recharge storefront and admin APIs. |
+| 2026-11-17 23:19:12 | [noticed-openwa](https://rubygems.org/gems/noticed-openwa) | 1.0.1 | Hugo-NF | MIT | A noticed delivery method and a small client for OpenWA's REST API: sends a tex… |
 
 ## Data source
 
