@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T22:06:10.394Z,prodbat,0.0.1,23,Prodbat,MIT,"Reports unhandled exceptions with their cause, other 5xx answers, log lines, job check-ins, Sidekiq queue health and Stripe events to a Prodbat server. Rails and Rack. No dependencies."
