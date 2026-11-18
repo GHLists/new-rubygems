@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T17:25:29.508Z,deferred_columns,0.0.2,108,Maximo Mussini,MIT,"deferred_columns leaves the columns you choose out of every query that does not ask for them, and raises instead of querying when code reads them without opting in."
+2026-11-18T17:52:21.305Z,leverprice,0.4.1,87,Leverprice,MIT,"Signed, fail-safe price experiments for SaaS checkouts: verified configs, sticky assignments, exposure logging and purchase attribution. Zero runtime dependencies."
+2026-11-18T17:52:45.623Z,solana-ruby-watchtower,0.1.0,55,"Paul Zupan, Idhra Inc.",MIT,"Watches a Solana validator from the cluster's side, the way agave-watchtower does, and adds the checks an active/standby pair needs: each node present in gossip, the staked identity on a known host, and the staked identity advertised by two nodes at once. Alerts go to Telegram or a webhook (Slack o…"
