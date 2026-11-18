@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 11:20 UTC
+## Latest list — 2026-11-18 12:20 UTC
 
-New gems created between 2026-11-18 10:22 UTC and 2026-11-18 11:20 UTC.
+New gems created between 2026-11-18 11:20 UTC and 2026-11-18 12:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-18T11-20-07-304284Z.csv)
+[Full CSV](data/new-gems-2026-11-18T12-20-57-996299Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-18 10:50:07 | [event_worker](https://rubygems.org/gems/event_worker) | 0.0.0 | Khoi Vu |  | Reserved by Judge.me to prevent dependency confusion. This version has no code.… |
-| 2026-11-18 10:58:54 | [nav_online_invoice](https://rubygems.org/gems/nav_online_invoice) | 0.2.0 | Pálfy Zoltán | MIT | A dependency-light client for the Hungarian Tax Authority's (NAV) Online Invoic… |
+| 2026-11-18 11:43:55 | [hooktrace](https://rubygems.org/gems/hooktrace) | 0.1.0 | Sachin Singh Tomar | MIT | Hooktrace validates incoming Stripe, PayPal, and custom webhooks against OpenAP… |
 
 ## Data source
 

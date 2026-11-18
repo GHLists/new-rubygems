@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T11:43:55.512Z,hooktrace,0.1.0,55,Sachin Singh Tomar,MIT,"Hooktrace validates incoming Stripe, PayPal, and custom webhooks against OpenAPI contracts with ActiveRecord and File storage and a mountable Rack dashboard."
