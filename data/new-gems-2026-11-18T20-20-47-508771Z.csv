@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T20:12:55.29Z,posto-client,0.6.0,4,Austin Bales,MIT,"Plain Sequel models for Posto's mailing lists, subscriptions, aliases, mailboxes, moderation and delivery records. PostgreSQL constraints and triggers remain the source of truth; the models add no callbacks."

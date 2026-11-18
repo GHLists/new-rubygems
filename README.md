@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 19:20 UTC
+## Latest list — 2026-11-18 20:20 UTC
 
-New gems created between 2026-11-18 18:22 UTC and 2026-11-18 19:20 UTC.
+New gems created between 2026-11-18 19:20 UTC and 2026-11-18 20:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-18T19-20-19-480485Z.csv)
+[Full CSV](data/new-gems-2026-11-18T20-20-47-508771Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-18 19:11:14 | [astro96](https://rubygems.org/gems/astro96) | 0.1.0 | 96Astro | MIT | One method for each capability of the 96Astro astrology API, with retries and i… |
-| 2026-11-18 19:14:15 | [deferred_columns](https://rubygems.org/gems/deferred_columns) | 0.0.3 | Maximo Mussini | MIT | deferred_columns leaves the columns you choose out of every query that does not… |
+| 2026-11-18 20:12:55 | [posto-client](https://rubygems.org/gems/posto-client) | 0.6.0 | Austin Bales | MIT | Plain Sequel models for Posto's mailing lists, subscriptions, aliases, mailboxe… |
 
 ## Data source
 
