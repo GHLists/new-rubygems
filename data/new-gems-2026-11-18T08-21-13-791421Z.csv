@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T07:31:37.207Z,lowauth,0.1.0,54,maedi,MPL-2.0,"Passwords, sessions and guards on nodes, for Raindeer and LowNode"
+2026-11-18T07:53:06.785Z,b4n1-db,0.1.1,61,Bani Montoya,BUSL-1.1,"Thin Ruby wrapper over the b4n1-db standalone binary: KV, SQL, Merkle audit DAG, documents, graph, queues and vectors."
+2026-11-18T08:08:20.707Z,nanoflags,0.1.0,14,Alibtekarat Althkiya Company for Trading & Marketing (Intinovate),Apache-2.0,"Evaluates NanoFlags feature flags locally (the same engine and results as every NanoFlags SDK), keeps the configuration current in background threads (event stream + ETag polling), verifies bundle signatures, survives forks (Puma, Unicorn, Passenger, Resque) and reports sampled, redacted evaluation…"
+2026-11-18T08:08:41.336Z,nanoflags-openfeature,0.1.0,11,Alibtekarat Althkiya Company for Trading & Marketing (Intinovate),Apache-2.0,"An OpenFeature provider backed by the nanoflags gem: local, deterministic flag evaluation through the OpenFeature Ruby SDK, with configuration-change and staleness events."
