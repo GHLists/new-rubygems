@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 02:21 UTC
+## Latest list — 2026-11-18 04:19 UTC
 
-New gems created between 2026-11-18 01:21 UTC and 2026-11-18 02:21 UTC.
+New gems created between 2026-11-18 03:19 UTC and 2026-11-18 04:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-18T02-21-06-833574Z.csv)
+[Full CSV](data/new-gems-2026-11-18T04-19-39-233329Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-18 01:27:14 | [media_wall](https://rubygems.org/gems/media_wall) | 0.1.0 | GetMediaWall | MIT | Dependency-free helpers for planning a TV media wall: how many slat panels cove… |
+| 2026-11-18 03:34:56 | [configdirector-openfeature-server-provider](https://rubygems.org/gems/configdirector-openfeature-server-provider) | 0.1.0 | ConfigDirector | MIT | OpenFeature server provider for ConfigDirector. ConfigDirector is a remote conf… |
 
 ## Data source
 
