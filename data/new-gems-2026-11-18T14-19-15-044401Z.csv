@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T13:32:56.666Z,1billion,0.1.0,63,Thadeu Esteves,MIT,"Send transactional e-mail with 1billion, with an ActionMailer delivery method"
+2026-11-18T13:36:30.951Z,activerecord_scoped_includes,0.0.1,54,Maximo Mussini,MIT,"activerecord_scoped_includes lets includes, preload and eager_load take a scope for each association, to select columns or nest includes without defining another association."
+2026-11-18T13:39:58.866Z,argoshot,0.1.0,53,Argoshot,MIT,"Screenshots, PDFs and signed og:image URLs of any web page or HTML, from the Argoshot API. Standard library only."
+2026-11-18T13:59:16.112Z,json-generic_object,0.0.1,49,Florian Frank,MIT,"Provides JSON::GenericObject for method-style access to JSON objects. Previously part of the json gem, extracted for json 3.0.0."
+2026-11-18T14:18:17.09Z,speakeasy_rubygems_tp_sample,0.0.1,0,Speakeasy,Apache-2.0,Sample Ruby SDK used to exercise RubyGems trusted publishing from GitHub Actions.
