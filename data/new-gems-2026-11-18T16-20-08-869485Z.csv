@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T15:49:42.575Z,leverprice,0.4.0,64,Leverprice,MIT,"Signed, fail-safe price experiments for SaaS checkouts: verified configs, sticky assignments, exposure logging and purchase attribution. Zero runtime dependencies."
+2026-11-18T15:52:45.688Z,json-generic_object,0.2.0,63,Florian Frank,MIT,"Provides JSON::GenericObject for method-style access to JSON objects. Previously part of the json gem, extracted for json 3.0.0."
+2026-11-18T16:14:02.649Z,mecha_style-rails,0.4.0,1,Jeff Lunt,MIT,A RuboCop plugin containing custom cops and configuration for Jeff's Ruby on Rails conventions.
+2026-11-18T16:19:21.989Z,1billion,0.3.0,0,Thadeu Esteves,MIT,"Send transactional e-mail with 1billion, with an ActionMailer delivery method"
