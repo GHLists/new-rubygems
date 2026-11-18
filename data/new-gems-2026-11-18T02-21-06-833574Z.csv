@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T01:27:14.806Z,media_wall,0.1.0,58,GetMediaWall,MIT,"Dependency-free helpers for planning a TV media wall: how many slat panels cover a wall, panel cost, TV mounting height from seated eye level, 16:9 screen height, and viewing distance / screen size rules of thumb. Made by GetMediaWall."
