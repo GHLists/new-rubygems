@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T14:34:19.928Z,speakeasy_rubygems_tp_sample,0.0.2,95,Speakeasy,Apache-2.0,Sample Ruby SDK used to exercise RubyGems trusted publishing from GitHub Actions.
+2026-11-18T14:35:10.358Z,mecha_style-rails,0.2.0,60,Jeff Lunt,MIT,A RuboCop plugin containing custom cops and configuration for Jeff's Ruby on Rails conventions.
+2026-11-18T15:10:38.743Z,railwatch-sidecar,0.2.1,9,Rebulk,FSL-1.1-ALv2,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-11-18T15:10:38.743Z,railwatch-sidecar,0.2.1,9,Rebulk,FSL-1.1-ALv2,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-11-18T15:10:38.743Z,railwatch-sidecar,0.2.1,9,Rebulk,FSL-1.1-ALv2,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-11-18T15:10:38.743Z,railwatch-sidecar,0.2.1,9,Rebulk,FSL-1.1-ALv2,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-11-18T15:10:38.743Z,railwatch-sidecar,0.2.1,9,Rebulk,FSL-1.1-ALv2,"The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in your Rails app, run as its own process"
+2026-11-18T15:15:27.41Z,json-generic_object,0.1.0,0,Florian Frank,MIT,"Provides JSON::GenericObject for method-style access to JSON objects. Previously part of the json gem, extracted for json 3.0.0."

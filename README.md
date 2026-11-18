@@ -9,19 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 14:19 UTC
+## Latest list — 2026-11-18 15:19 UTC
 
-New gems created between 2026-11-18 13:19 UTC and 2026-11-18 14:19 UTC.
+New gems created between 2026-11-18 14:19 UTC and 2026-11-18 15:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-18T14-19-15-044401Z.csv)
+[Full CSV](data/new-gems-2026-11-18T15-19-11-46017Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-18 13:32:56 | [1billion](https://rubygems.org/gems/1billion) | 0.1.0 | Thadeu Esteves | MIT | Send transactional e-mail with 1billion, with an ActionMailer delivery method |
-| 2026-11-18 13:36:30 | [activerecord_scoped_includes](https://rubygems.org/gems/activerecord_scoped_includes) | 0.0.1 | Maximo Mussini | MIT | activerecord_scoped_includes lets includes, preload and eager_load take a scope… |
-| 2026-11-18 13:39:58 | [argoshot](https://rubygems.org/gems/argoshot) | 0.1.0 | Argoshot | MIT | Screenshots, PDFs and signed og:image URLs of any web page or HTML, from the Ar… |
-| 2026-11-18 13:59:16 | [json-generic_object](https://rubygems.org/gems/json-generic_object) | 0.0.1 | Florian Frank | MIT | Provides JSON::GenericObject for method-style access to JSON objects. Previousl… |
-| 2026-11-18 14:18:17 | [speakeasy_rubygems_tp_sample](https://rubygems.org/gems/speakeasy_rubygems_tp_sample) | 0.0.1 | Speakeasy | Apache-2.0 | Sample Ruby SDK used to exercise RubyGems trusted publishing from GitHub Action… |
+| 2026-11-18 14:34:19 | [speakeasy_rubygems_tp_sample](https://rubygems.org/gems/speakeasy_rubygems_tp_sample) | 0.0.2 | Speakeasy | Apache-2.0 | Sample Ruby SDK used to exercise RubyGems trusted publishing from GitHub Action… |
+| 2026-11-18 14:35:10 | [mecha_style-rails](https://rubygems.org/gems/mecha_style-rails) | 0.2.0 | Jeff Lunt | MIT | A RuboCop plugin containing custom cops and configuration for Jeff's Ruby on Ra… |
+| 2026-11-18 15:10:38 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.1 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
+| 2026-11-18 15:10:38 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.1 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
+| 2026-11-18 15:10:38 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.1 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
+| 2026-11-18 15:10:38 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.1 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
+| 2026-11-18 15:10:38 | [railwatch-sidecar](https://rubygems.org/gems/railwatch-sidecar) | 0.2.1 | Rebulk | FSL-1.1-ALv2 | The Railwatch server, bundled: the full Railwatch dashboard at /railwatch in yo… |
+| 2026-11-18 15:15:27 | [json-generic_object](https://rubygems.org/gems/json-generic_object) | 0.1.0 | Florian Frank | MIT | Provides JSON::GenericObject for method-style access to JSON objects. Previousl… |
 
 ## Data source
 
