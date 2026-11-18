@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 06:22 UTC
+## Latest list — 2026-11-18 07:21 UTC
 
-New gems created between 2026-11-18 05:19 UTC and 2026-11-18 06:22 UTC.
+New gems created between 2026-11-18 06:22 UTC and 2026-11-18 07:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-18T06-22-40-408645Z.csv)
+[Full CSV](data/new-gems-2026-11-18T07-21-27-854606Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-18 05:36:59 | [rails-truncate-words-fix](https://rubygems.org/gems/rails-truncate-words-fix) | 0.1.1 | Robert Shecter | MIT | A Rails Railtie applying the optimization from rails/rails#59848. |
+| 2026-11-18 06:48:21 | [any_auth](https://rubygems.org/gems/any_auth) | 0.2.0 | Displayful | MIT | OmniAuth's strategies without the Rack: a vendor's fields and sign-in round tri… |
 
 ## Data source
 

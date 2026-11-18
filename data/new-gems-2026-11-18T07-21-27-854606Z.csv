@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T06:48:21.596Z,any_auth,0.2.0,56,Displayful,MIT,OmniAuth's strategies without the Rack: a vendor's fields and sign-in round trip as plain objects.
