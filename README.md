@@ -9,18 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 16:20 UTC
+## Latest list — 2026-11-18 17:19 UTC
 
-New gems created between 2026-11-18 15:19 UTC and 2026-11-18 16:20 UTC.
+New gems created between 2026-11-18 16:20 UTC and 2026-11-18 17:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-18T16-20-08-869485Z.csv)
+[Full CSV](data/new-gems-2026-11-18T17-19-20-216148Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-18 15:49:42 | [leverprice](https://rubygems.org/gems/leverprice) | 0.4.0 | Leverprice | MIT | Signed, fail-safe price experiments for SaaS checkouts: verified configs, stick… |
-| 2026-11-18 15:52:45 | [json-generic_object](https://rubygems.org/gems/json-generic_object) | 0.2.0 | Florian Frank | MIT | Provides JSON::GenericObject for method-style access to JSON objects. Previousl… |
-| 2026-11-18 16:14:02 | [mecha_style-rails](https://rubygems.org/gems/mecha_style-rails) | 0.4.0 | Jeff Lunt | MIT | A RuboCop plugin containing custom cops and configuration for Jeff's Ruby on Ra… |
-| 2026-11-18 16:19:21 | [1billion](https://rubygems.org/gems/1billion) | 0.3.0 | Thadeu Esteves | MIT | Send transactional e-mail with 1billion, with an ActionMailer delivery method |
+| 2026-11-18 16:24:51 | [mecha_style-rails](https://rubygems.org/gems/mecha_style-rails) | 0.5.1 | Jeff Lunt | MIT | A RuboCop plugin containing custom cops and configuration for Jeff's Ruby on Ra… |
+| 2026-11-18 16:59:18 | [sign_on](https://rubygems.org/gems/sign_on) | 0.1.0 | Kasper Timm Hansen | MIT | Authentication via routing constraints: supports multiple ingresses and authent… |
+| 2026-11-18 17:10:39 | [license_gate](https://rubygems.org/gems/license_gate) | 0.1.0 | Arne Hartherz | MIT | Fails when a gem or npm package uses a license your project has not permitted.… |
+| 2026-11-18 17:11:22 | [puppetlabs-facterdb](https://rubygems.org/gems/puppetlabs-facterdb) | 0.1.0 | Perforce | Apache-2.0 | Contains facts from many Facter versions on many operating systems, stored and… |
 
 ## Data source
 

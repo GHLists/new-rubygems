@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T16:24:51.298Z,mecha_style-rails,0.5.1,126,Jeff Lunt,MIT,A RuboCop plugin containing custom cops and configuration for Jeff's Ruby on Rails conventions.
+2026-11-18T16:59:18.26Z,sign_on,0.1.0,35,Kasper Timm Hansen,MIT,"Authentication via routing constraints: supports multiple ingresses and authenticators, like password and OAuth2"
+2026-11-18T17:10:39.427Z,license_gate,0.1.0,10,Arne Hartherz,MIT,Fails when a gem or npm package uses a license your project has not permitted. Further licenses can be allowed for specific packages only.
+2026-11-18T17:11:22.696Z,puppetlabs-facterdb,0.1.0,17,Perforce,Apache-2.0,"Contains facts from many Facter versions on many operating systems, stored and looked up under the real Facter version that produced them."
