@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 04:19 UTC
+## Latest list — 2026-11-18 05:19 UTC
 
-New gems created between 2026-11-18 03:19 UTC and 2026-11-18 04:19 UTC.
+New gems created between 2026-11-18 04:19 UTC and 2026-11-18 05:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-18T04-19-39-233329Z.csv)
+[Full CSV](data/new-gems-2026-11-18T05-19-43-913895Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-18 03:34:56 | [configdirector-openfeature-server-provider](https://rubygems.org/gems/configdirector-openfeature-server-provider) | 0.1.0 | ConfigDirector | MIT | OpenFeature server provider for ConfigDirector. ConfigDirector is a remote conf… |
+| 2026-11-18 05:05:04 | [b4n1-db](https://rubygems.org/gems/b4n1-db) | 0.1.0 | Bani Montoya | BUSL-1.1 | Thin Ruby wrapper over the b4n1-db standalone binary: KV, SQL, Merkle audit DAG… |
 
 ## Data source
 

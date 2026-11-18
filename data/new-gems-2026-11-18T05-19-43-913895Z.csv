@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T05:05:04.931Z,b4n1-db,0.1.0,19,Bani Montoya,BUSL-1.1,"Thin Ruby wrapper over the b4n1-db standalone binary: KV, SQL, Merkle audit DAG, documents, graph, queues and vectors."
