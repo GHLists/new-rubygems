@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 09:22 UTC
+## Latest list — 2026-11-18 10:22 UTC
 
-New gems created between 2026-11-18 08:21 UTC and 2026-11-18 09:22 UTC.
+New gems created between 2026-11-18 09:22 UTC and 2026-11-18 10:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-18T09-22-14-592276Z.csv)
+[Full CSV](data/new-gems-2026-11-18T10-22-50-116317Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-18 09:03:48 | [graftcode-gateway-sdk](https://rubygems.org/gems/graftcode-gateway-sdk) | 1.5.1 | GRAFTCODE S.A. | MIT | This package provides SDK for Graftcode Gateway |
+| 2026-11-18 09:52:28 | [nanoflags](https://rubygems.org/gems/nanoflags) | 0.2.0 | Alibtekarat Althkiya Company… | Apache-2.0 | Evaluates NanoFlags feature flags locally (the same engine and results as every… |
+| 2026-11-18 09:54:04 | [nanoflags-openfeature](https://rubygems.org/gems/nanoflags-openfeature) | 0.2.0 | Alibtekarat Althkiya Company… | Apache-2.0 | An OpenFeature provider backed by the nanoflags gem: local, deterministic flag… |
+| 2026-11-18 09:58:51 | [devfortress-sdk](https://rubygems.org/gems/devfortress-sdk) | 0.1.0 | Duncan Ndungu Ndegwa | BUSL-1.1 | Event reporting client for DevFortress (external mode): request signing, classi… |
 
 ## Data source
 
