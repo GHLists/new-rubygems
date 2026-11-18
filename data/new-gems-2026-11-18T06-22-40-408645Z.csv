@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T05:36:59.266Z,rails-truncate-words-fix,0.1.1,67,Robert Shecter,MIT,A Rails Railtie applying the optimization from rails/rails#59848.

@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 05:19 UTC
+## Latest list — 2026-11-18 06:22 UTC
 
-New gems created between 2026-11-18 04:19 UTC and 2026-11-18 05:19 UTC.
+New gems created between 2026-11-18 05:19 UTC and 2026-11-18 06:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-18T05-19-43-913895Z.csv)
+[Full CSV](data/new-gems-2026-11-18T06-22-40-408645Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-18 05:05:04 | [b4n1-db](https://rubygems.org/gems/b4n1-db) | 0.1.0 | Bani Montoya | BUSL-1.1 | Thin Ruby wrapper over the b4n1-db standalone binary: KV, SQL, Merkle audit DAG… |
+| 2026-11-18 05:36:59 | [rails-truncate-words-fix](https://rubygems.org/gems/rails-truncate-words-fix) | 0.1.1 | Robert Shecter | MIT | A Rails Railtie applying the optimization from rails/rails#59848. |
 
 ## Data source
 
