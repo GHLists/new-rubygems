@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-18T20:33:40.777Z,astro96,0.2.0,70,96Astro,MIT,"One method for each capability of the 96Astro astrology API, with retries and idempotency keys. No dependencies."
+2026-11-18T20:46:55.128Z,activerecord-mysql-rgeo,1.0.0,56,Carlos Palhares,BSD-3-Clause,"Extends Active Record's built-in MySQL adapters (trilogy and mysql2) with spatial types, migrations and queries backed by RGeo. A drop-in replacement for activerecord-mysql2rgeo-adapter."
+2026-11-18T20:48:58.123Z,aws-sdk-abusesignal,1.0.0,53,Amazon Web Services,Apache-2.0,Official AWS Ruby gem for AWS Abuse Signal API. This gem is part of the AWS SDK for Ruby.
+2026-11-18T21:02:03.616Z,purehtml,0.1.0,26,Fatih Kaya,MIT,PureHTML is a parsing specification and library for extracting JSON from HTML documents using simple YAML schemas.
