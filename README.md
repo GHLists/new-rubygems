@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 18:19 UTC
+## Latest list — 2026-11-19 21:22 UTC
 
-New gems created between 2026-11-19 17:19 UTC and 2026-11-19 18:19 UTC.
+New gems created between 2026-11-19 20:19 UTC and 2026-11-19 21:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-19T18-19-40-238743Z.csv)
+[Full CSV](data/new-gems-2026-11-19T21-22-25-118775Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-19 17:29:40 | [omniauth-txssc-sso2](https://rubygems.org/gems/omniauth-txssc-sso2) | 0.1.0 | Joshua Hawks | MIT | Signs users in to Rails apps through TxSSC SSO2. Built on omniauth-oauth2; veri… |
-| 2026-11-19 18:09:02 | [struo](https://rubygems.org/gems/struo) | 2.3.0 | Tuist GmbH | MIT | Embeds Struo primitives in Ruby through the native Struo library. |
+| 2026-11-19 20:42:03 | [aws-sdk-partnercentralmarketing](https://rubygems.org/gems/aws-sdk-partnercentralmarketing) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Partner Central Marketing API. This gem is part of th… |
+| 2026-11-19 20:54:43 | [feralin](https://rubygems.org/gems/feralin) | 0.1.0 | Feralin | MIT | Feralin toplayıcısına izin öncelikli, bellek içi kuyruklu ve idempotent olay gö… |
+| 2026-11-19 21:18:36 | [purehtml](https://rubygems.org/gems/purehtml) | 0.2.0 | Fatih Kaya | MIT | PureHTML is a parsing specification and library for extracting JSON from HTML d… |
 
 ## Data source
 

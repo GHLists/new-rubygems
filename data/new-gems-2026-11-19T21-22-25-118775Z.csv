@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T20:42:03.279Z,aws-sdk-partnercentralmarketing,1.0.0,72,Amazon Web Services,Apache-2.0,Official AWS Ruby gem for Partner Central Marketing API. This gem is part of the AWS SDK for Ruby.
+2026-11-19T20:54:43.817Z,feralin,0.1.0,44,Feralin,MIT,"Feralin toplayıcısına izin öncelikli, bellek içi kuyruklu ve idempotent olay gönderir. Yalnız standart kütüphane kullanır; çalışma zamanı bağımlılığı yoktur."
+2026-11-19T21:18:36.469Z,purehtml,0.2.0,2,Fatih Kaya,MIT,PureHTML is a parsing specification and library for extracting JSON from HTML documents using simple YAML schemas.
