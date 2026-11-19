@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T13:54:12.038Z,struo,2.1.0,72,Tuist GmbH,MIT,Embeds Struo primitives in Ruby through the native Struo library.
+2026-11-19T13:56:35.431Z,rails-oidc_provider,1.0.1,51,Pharmony SA,MIT,"A maintained Rails engine for OpenID Connect authorization, historically derived from brandnewbox/oidc_provider. The public Ruby API remains OIDCProvider, with a RailsOidcProvider alias for the new gem identity."
