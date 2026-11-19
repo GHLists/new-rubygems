@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T23:01:51.981Z,vexyl,1.4.0,35,Naomi Persephone Amethyst,Apache-2.0,"A library for Vexyl, a KDL format for flag designs: it validates and parses documents, renders them to SVG, and reads and writes share links. It has no dependencies beyond Ruby's standard library."
+2026-11-19T23:02:53.225Z,spree-typesense,6.0.0,25,Aypex,MIT,"A Typesense search provider for Spree Commerce 6: search, filters, facets and sorting through Spree::SearchProvider::Base, with a fallback to the Database provider."

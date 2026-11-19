@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 22:20 UTC
+## Latest list — 2026-11-19 23:19 UTC
 
-New gems created between 2026-11-19 21:22 UTC and 2026-11-19 22:20 UTC.
+New gems created between 2026-11-19 22:20 UTC and 2026-11-19 23:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-19T22-20-40-423401Z.csv)
+[Full CSV](data/new-gems-2026-11-19T23-19-37-398995Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-19 21:31:07 | [cassette_guard](https://rubygems.org/gems/cassette_guard) | 0.1.0 | Opara Ifeanyi Christian | MIT | cassette_guard audits Ruby VCR and Python vcrpy cassettes for credentials, pers… |
-| 2026-11-19 22:16:06 | [semantic-versions](https://rubygems.org/gems/semantic-versions) | 1.0.0 | vlt technology inc. | Apache-2.0 | A port of the semantic-versions reference implementation: strict parsing, build… |
+| 2026-11-19 23:01:51 | [vexyl](https://rubygems.org/gems/vexyl) | 1.4.0 | Naomi Persephone Amethyst | Apache-2.0 | A library for Vexyl, a KDL format for flag designs: it validates and parses doc… |
+| 2026-11-19 23:02:53 | [spree-typesense](https://rubygems.org/gems/spree-typesense) | 6.0.0 | Aypex | MIT | A Typesense search provider for Spree Commerce 6: search, filters, facets and s… |
 
 ## Data source
 
