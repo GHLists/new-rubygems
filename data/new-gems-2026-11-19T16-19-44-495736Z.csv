@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T15:40:14.877Z,mecha_style-rails,0.8.0,69,Jeff Lunt,MIT,A RuboCop plugin containing custom cops and configuration for Jeff's Ruby on Rails conventions.
+2026-11-19T15:41:54.729Z,struo,2.2.1,84,Tuist GmbH,MIT,Embeds Struo primitives in Ruby through the native Struo library.
