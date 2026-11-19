@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T04:26:44.509Z,qubrics-management,3.0.0,75,Qubrics,MIT,Ruby SDK for the Qubrics Management API.
+2026-11-19T04:29:50.418Z,pg_textsearch,0.1.0,65,Aboobacker MK,MIT,"Wraps pg_textsearch's <@> operator, to_bm25query(), and index storage parameters (WITH (...)) so you can use BM25 search with standard ActiveRecord relations."
+2026-11-19T04:49:37.503Z,b4n1-secrets,0.1.2,56,Bani Montoya,BUSL-1.1,Thin Ruby wrapper around the b4n1-secrets binary.

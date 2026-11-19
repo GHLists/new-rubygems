@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 04:19 UTC
+## Latest list — 2026-11-19 05:21 UTC
 
-New gems created between 2026-11-19 03:19 UTC and 2026-11-19 04:19 UTC.
+New gems created between 2026-11-19 04:19 UTC and 2026-11-19 05:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-19T04-19-17-747672Z.csv)
+[Full CSV](data/new-gems-2026-11-19T05-21-10-100804Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-19 04:01:35 | [qubrics-core](https://rubygems.org/gems/qubrics-core) | 2.0.0 | Qubrics | MIT | Shared core helpers for Qubrics Ruby SDK packages. |
-| 2026-11-19 04:05:43 | [b4n1-secrets](https://rubygems.org/gems/b4n1-secrets) | 0.1.0 | Bani Montoya | BUSL-1.1 | Thin Ruby wrapper around the b4n1-secrets binary. |
+| 2026-11-19 04:26:44 | [qubrics-management](https://rubygems.org/gems/qubrics-management) | 3.0.0 | Qubrics | MIT | Ruby SDK for the Qubrics Management API. |
+| 2026-11-19 04:29:50 | [pg_textsearch](https://rubygems.org/gems/pg_textsearch) | 0.1.0 | Aboobacker MK | MIT | Wraps pg_textsearch's <@> operator, to_bm25query(), and index storage parameter… |
+| 2026-11-19 04:49:37 | [b4n1-secrets](https://rubygems.org/gems/b4n1-secrets) | 0.1.2 | Bani Montoya | BUSL-1.1 | Thin Ruby wrapper around the b4n1-secrets binary. |
 
 ## Data source
 
