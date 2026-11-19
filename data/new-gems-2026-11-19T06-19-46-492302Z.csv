@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T06:16:41.985Z,pg_textsearch,0.1.2,0,Aboobacker MK,MIT,"Wraps pg_textsearch's <@> operator, to_bm25query(), and index storage parameters (WITH (...)) so you can use BM25 search with standard ActiveRecord relations."
