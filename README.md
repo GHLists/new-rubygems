@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 12:19 UTC
+## Latest list — 2026-11-19 13:21 UTC
 
-New gems created between 2026-11-19 11:21 UTC and 2026-11-19 12:19 UTC.
+New gems created between 2026-11-19 12:19 UTC and 2026-11-19 13:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-19T12-19-00-679213Z.csv)
+[Full CSV](data/new-gems-2026-11-19T13-21-55-699786Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-19 11:25:56 | [students_lab4_s0195941](https://rubygems.org/gems/students_lab4_s0195941) | 0.1.1 | s0195941 |  | FXRuby application for listing, creating, editing and deleting students in Post… |
-| 2026-11-19 11:31:59 | [qubrics-mailbox](https://rubygems.org/gems/qubrics-mailbox) | 3.0.0 | Qubrics | MIT | Ruby SDK for the Qubrics Mailbox API. |
-| 2026-11-19 11:55:38 | [parallel_tests-ci](https://rubygems.org/gems/parallel_tests-ci) | 0.1.0 | Daniel Doubrovkine | MIT | Prepare and reuse CI timing history while parallel_tests owns test collection a… |
+| 2026-11-19 12:52:35 | [struo](https://rubygems.org/gems/struo) | 2.0.1 | Tuist GmbH | MIT | Embeds Struo primitives in Ruby through the native Struo library. |
+| 2026-11-19 12:54:06 | [secretlens](https://rubygems.org/gems/secretlens) | 1.0.1 | Shoaib | MIT | A simple gem for demonstration purposes |
 
 ## Data source
 
