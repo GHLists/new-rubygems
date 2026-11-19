@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 08:22 UTC
+## Latest list — 2026-11-19 09:22 UTC
 
-New gems created between 2026-11-19 07:20 UTC and 2026-11-19 08:22 UTC.
+New gems created between 2026-11-19 08:22 UTC and 2026-11-19 09:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-19T08-22-40-463811Z.csv)
+[Full CSV](data/new-gems-2026-11-19T09-22-25-333617Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-19 07:46:44 | [beaker-lima](https://rubygems.org/gems/beaker-lima) | 1.0.1 | Yury Bushmelev, Vox Pupuli | Apache-2.0 | Allows running Beaker tests using Lima |
-| 2026-11-19 08:00:08 | [struo](https://rubygems.org/gems/struo) | 2.0.0 | Tuist GmbH | MIT | Embeds Struo primitives in Ruby through the native Struo library. |
-| 2026-11-19 08:14:10 | [internetdata-rails](https://rubygems.org/gems/internetdata-rails) | 1.0.1 | Mslm Dev | MIT | Looks up the visitor behind each request - location, network, company, VPN, pro… |
+| 2026-11-19 09:03:18 | [gmo-payment](https://rubygems.org/gems/gmo-payment) | 0.0.99 | pocake | MIT | gmo-payment |
+| 2026-11-19 09:03:24 | [gmo-payment-carrier](https://rubygems.org/gems/gmo-payment-carrier) | 0.0.99 | pocake | MIT | gmo-payment-carrier |
+| 2026-11-19 09:03:29 | [aws_sdk_wrapper](https://rubygems.org/gems/aws_sdk_wrapper) | 0.0.99 | pocake | MIT | aws_sdk_wrapper |
 
 ## Data source
 
