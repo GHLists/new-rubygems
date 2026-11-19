@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T21:31:07.839Z,cassette_guard,0.1.0,67,Opara Ifeanyi Christian,MIT,"cassette_guard audits Ruby VCR and Python vcrpy cassettes for credentials, personal data, oversized bodies, old recordings and cassettes no test loads any more. It scrubs what it finds with deterministic, format-preserving fakes, trims large binary bodies, and runs in CI with a baseline so only new…"
+2026-11-19T22:16:06.025Z,semantic-versions,1.0.0,0,vlt technology inc.,Apache-2.0,"A port of the semantic-versions reference implementation: strict parsing, build precedence, pre-release and build channels, contexts and npm-style ranges."
