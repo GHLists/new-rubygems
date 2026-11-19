@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T10:36:43.933Z,students_lab4_s0195941,0.1.0,54,s0195941,,"FXRuby application for listing, creating, editing and deleting students in PostgreSQL."
+2026-11-19T10:50:13.631Z,fastlane-plugin-vitrine,1.0.0,42,Vitrine Studio,MIT,"Import, validate and export App Store / Play Store screenshots with Vitrine Studio (replaces frameit)"
+2026-11-19T11:07:17.861Z,rails-oidc_provider,1.0.0,16,Pharmony SA,MIT,"A maintained Rails engine for OpenID Connect authorization, historically derived from brandnewbox/oidc_provider. The public Ruby API remains OIDCProvider, with a RailsOidcProvider alias for the new gem identity."
+2026-11-19T11:18:34.583Z,qubrics-sending,2.0.0,0,Qubrics,MIT,Ruby SDK for the Qubrics Sending API.
+2026-11-19T11:18:46.717Z,dspy-datacircle,0.1.0,0,Wayne Hamadi,MIT,"A DSPy.rb toolset of four tools on Datacircle's open API, with no key: list the GTM APIs, the best plans of one API, a search of every plan and one provider's ranks, for DSPy::ReAct. We benchmark all the GTM APIs and we put the results on our website: https://datacircle.dev"
