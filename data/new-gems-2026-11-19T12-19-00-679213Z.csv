@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T11:25:56.119Z,students_lab4_s0195941,0.1.1,74,s0195941,,"FXRuby application for listing, creating, editing and deleting students in PostgreSQL."
+2026-11-19T11:31:59.703Z,qubrics-mailbox,3.0.0,62,Qubrics,MIT,Ruby SDK for the Qubrics Mailbox API.
+2026-11-19T11:55:38.071Z,parallel_tests-ci,0.1.0,37,Daniel Doubrovkine,MIT,Prepare and reuse CI timing history while parallel_tests owns test collection and sharding.
