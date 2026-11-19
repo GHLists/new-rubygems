@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T14:22:24.321Z,internetdata-rails,1.0.2,111,Mslm Dev,MIT,"Looks up the visitor behind each request - location, network, company, VPN, proxy, Tor, hosting - and hands the answer to your controllers. Rack middleware, so it works in Sinatra, Hanami and Roda too; a Railtie inserts it for you in Rails."
+2026-11-19T14:47:55.408Z,mecha_style-rails,0.7.0,73,Jeff Lunt,MIT,A RuboCop plugin containing custom cops and configuration for Jeff's Ruby on Rails conventions.
+2026-11-19T15:10:32.718Z,struo,2.2.0,12,Tuist GmbH,MIT,Embeds Struo primitives in Ruby through the native Struo library.
