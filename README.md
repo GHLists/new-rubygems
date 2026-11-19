@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 01:20 UTC
+## Latest list — 2026-11-19 02:19 UTC
 
-New gems created between 2026-11-19 00:19 UTC and 2026-11-19 01:20 UTC.
+New gems created between 2026-11-19 01:20 UTC and 2026-11-19 02:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-19T01-20-14-070628Z.csv)
+[Full CSV](data/new-gems-2026-11-19T02-19-41-759737Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-19 01:17:58 | [b4n1net](https://rubygems.org/gems/b4n1net) | 0.4.0 | Bani Montoya | BUSL-1.1 | Sovereign transport: sealed UDP frames with HMAC, AEAD and acknowledgements. |
+| 2026-11-19 01:25:53 | [activerecord-migrate-fix](https://rubygems.org/gems/activerecord-migrate-fix) | 0.1.0 | Kuba Suder | MIT | Rails/ActiveRecord 8.0 changed the behavior of the db:migrate task so that on a… |
+| 2026-11-19 01:26:44 | [taba-client](https://rubygems.org/gems/taba-client) | 0.3.21 | Taba | Apache-2.0 | The nine operations of the Taba client API, subscribe, consuming with a handler… |
+| 2026-11-19 02:04:59 | [ripr](https://rubygems.org/gems/ripr) | 0.1.0 | Yudai Takada | MIT | Find missing inputs and assertions with mutation switching and per-test infecti… |
 
 ## Data source
 

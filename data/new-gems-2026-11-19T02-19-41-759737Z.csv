@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T01:25:53.199Z,activerecord-migrate-fix,0.1.0,76,Kuba Suder,MIT,"Rails/ActiveRecord 8.0 changed the behavior of the db:migrate task so that on an empty database it no longer runs all migrations, but instead loads the schema from db/schema.rb. This gem patches ActiveRecord::Tasks::DatabaseTasks to make it skip loading the schema and run all migrations instead lik…"
+2026-11-19T01:26:44.262Z,taba-client,0.3.21,64,Taba,Apache-2.0,"The nine operations of the Taba client API, subscribe, consuming with a handler (with automatic renewal of the invisibility) and the call retries of the common contract. No dependencies."
+2026-11-19T02:04:59.008Z,ripr,0.1.0,27,Yudai Takada,MIT,Find missing inputs and assertions with mutation switching and per-test infection probes.
