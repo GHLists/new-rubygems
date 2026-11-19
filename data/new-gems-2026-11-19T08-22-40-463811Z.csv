@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T07:46:44.646Z,beaker-lima,1.0.1,55,"Yury Bushmelev, Vox Pupuli",Apache-2.0,Allows running Beaker tests using Lima
+2026-11-19T08:00:08.754Z,struo,2.0.0,45,Tuist GmbH,MIT,Embeds Struo primitives in Ruby through the native Struo library.
+2026-11-19T08:14:10.031Z,internetdata-rails,1.0.1,7,Mslm Dev,MIT,"Looks up the visitor behind each request - location, network, company, VPN, proxy, Tor, hosting - and hands the answer to your controllers. Rack middleware, so it works in Sinatra, Hanami and Roda too; a Railtie inserts it for you in Rails."
