@@ -9,23 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 23:21 UTC
+## Latest list — 2026-11-19 01:20 UTC
 
-New gems created between 2026-11-18 22:20 UTC and 2026-11-18 23:21 UTC.
+New gems created between 2026-11-19 00:19 UTC and 2026-11-19 01:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-18T23-21-37-862373Z.csv)
+[Full CSV](data/new-gems-2026-11-19T01-20-14-070628Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-18 23:08:53 | [phlex-native](https://rubygems.org/gems/phlex-native) | 0.1.0 | Joel Drapper | MIT | Serialises Phlex attributes in C, falling back to Ruby for anything uncommon. |
-| 2026-11-18 23:08:53 | [phlex-native](https://rubygems.org/gems/phlex-native) | 0.1.0 | Joel Drapper | MIT | Serialises Phlex attributes in C, falling back to Ruby for anything uncommon. |
-| 2026-11-18 23:08:53 | [phlex-native](https://rubygems.org/gems/phlex-native) | 0.1.0 | Joel Drapper | MIT | Serialises Phlex attributes in C, falling back to Ruby for anything uncommon. |
-| 2026-11-18 23:08:53 | [phlex-native](https://rubygems.org/gems/phlex-native) | 0.1.0 | Joel Drapper | MIT | Serialises Phlex attributes in C, falling back to Ruby for anything uncommon. |
-| 2026-11-18 23:08:53 | [phlex-native](https://rubygems.org/gems/phlex-native) | 0.1.0 | Joel Drapper | MIT | Serialises Phlex attributes in C, falling back to Ruby for anything uncommon. |
-| 2026-11-18 23:08:53 | [phlex-native](https://rubygems.org/gems/phlex-native) | 0.1.0 | Joel Drapper | MIT | Serialises Phlex attributes in C, falling back to Ruby for anything uncommon. |
-| 2026-11-18 23:08:53 | [phlex-native](https://rubygems.org/gems/phlex-native) | 0.1.0 | Joel Drapper | MIT | Serialises Phlex attributes in C, falling back to Ruby for anything uncommon. |
-| 2026-11-18 23:08:53 | [phlex-native](https://rubygems.org/gems/phlex-native) | 0.1.0 | Joel Drapper | MIT | Serialises Phlex attributes in C, falling back to Ruby for anything uncommon. |
-| 2026-11-18 23:14:20 | [riptide](https://rubygems.org/gems/riptide) | 0.1.0 | Nathan Allen | MIT | Test impact analysis for Rails and Minitest |
+| 2026-11-19 01:17:58 | [b4n1net](https://rubygems.org/gems/b4n1net) | 0.4.0 | Bani Montoya | BUSL-1.1 | Sovereign transport: sealed UDP frames with HMAC, AEAD and acknowledgements. |
 
 ## Data source
 
