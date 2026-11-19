@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-19T02:27:59.723Z,f_dot,0.0.1,63,i2097i,MIT,f_dot is checksum tool only a computer could love. 0.0.1 release notes: initial_release
+2026-11-19T02:49:08.726Z,b4n1net,0.4.3,90,Bani Montoya,BUSL-1.1,"Sovereign transport: sealed UDP frames with HMAC, AEAD and acknowledgements."
+2026-11-19T03:03:50.164Z,opentelemetry-instrumentation-sqlite3,0.1.0,27,Daniel Lopez Prat,Apache-2.0,"Adds auto instrumentation for the sqlite3 gem, including SQL statement capture with obfuscation"
+2026-11-19T03:10:38.174Z,riptide,0.1.1,12,Nathan Allen,MIT,Test impact analysis for Rails and Minitest
+2026-11-19T03:18:43.24Z,imagetovideoai-tools,0.1.0,0,Image to Video AI,MIT,"A Ruby library and CLI for inspecting local image dimensions, format, aspect ratio and file size before an image-to-video workflow."
