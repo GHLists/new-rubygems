@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 10:19 UTC
+## Latest list — 2026-11-20 11:22 UTC
 
-New gems created between 2026-11-20 09:20 UTC and 2026-11-20 10:19 UTC.
+New gems created between 2026-11-20 10:19 UTC and 2026-11-20 11:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-20T10-19-40-820181Z.csv)
+[Full CSV](data/new-gems-2026-11-20T11-22-22-956511Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-20 09:22:10 | [struo](https://rubygems.org/gems/struo) | 2.3.1 | Tuist GmbH | MIT | Embeds Struo primitives in Ruby through the native Struo library. |
+| 2026-11-20 10:27:08 | [internetdata-rails](https://rubygems.org/gems/internetdata-rails) | 1.0.4 | Mslm Dev | MIT | Looks up the visitor behind each request - location, network, company, VPN, pro… |
 
 ## Data source
 

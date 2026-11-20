@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T10:27:08.984Z,internetdata-rails,1.0.4,68,Mslm Dev,MIT,"Looks up the visitor behind each request - location, network, company, VPN, proxy, Tor, hosting - and hands the answer to your controllers. Rack middleware, so it works in Sinatra, Hanami and Roda too; a Railtie inserts it for you in Rails."
