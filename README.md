@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 02:21 UTC
+## Latest list — 2026-11-20 03:19 UTC
 
-New gems created between 2026-11-20 01:21 UTC and 2026-11-20 02:21 UTC.
+New gems created between 2026-11-20 02:21 UTC and 2026-11-20 03:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-20T02-21-53-719846Z.csv)
+[Full CSV](data/new-gems-2026-11-20T03-19-29-800137Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-20 01:54:35 | [seedream-5-5-png-batch-checker](https://rubygems.org/gems/seedream-5-5-png-batch-checker) | 0.1.0 | Seedream 5.5 Pro | MIT | Report alpha counts for PNGs from Seedream 5.5 or another image tool. The CLI c… |
-| 2026-11-20 02:08:07 | [abusezero](https://rubygems.org/gems/abusezero) | 0.1.0 | AbuseZero | Nonstandard | The official AbuseZero Ruby SDK: abuse prevention API for SaaS. |
-| 2026-11-20 02:12:47 | [pavoai](https://rubygems.org/gems/pavoai) | 0.1.0 | Xinyue Zhan | MIT | Ruby helper for Pavo AI (https://pavoai.app/), an AI video generator that turns… |
+| 2026-11-20 02:57:45 | [qubrics-sdk](https://rubygems.org/gems/qubrics-sdk) | 3.0.0 | Qubrics | MIT | Umbrella Ruby SDK for Qubrics. |
+| 2026-11-20 03:07:24 | [devguard-ruby](https://rubygems.org/gems/devguard-ruby) | 1.0.0 | DevGuard | MIT | Zero-dependency Rack middleware providing fail-safe domain locking, automated m… |
 
 ## Data source
 
