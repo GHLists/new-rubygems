@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 03:19 UTC
+## Latest list — 2026-11-20 05:20 UTC
 
-New gems created between 2026-11-20 02:21 UTC and 2026-11-20 03:19 UTC.
+New gems created between 2026-11-20 04:21 UTC and 2026-11-20 05:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-20T03-19-29-800137Z.csv)
+[Full CSV](data/new-gems-2026-11-20T05-20-17-467401Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-20 02:57:45 | [qubrics-sdk](https://rubygems.org/gems/qubrics-sdk) | 3.0.0 | Qubrics | MIT | Umbrella Ruby SDK for Qubrics. |
-| 2026-11-20 03:07:24 | [devguard-ruby](https://rubygems.org/gems/devguard-ruby) | 1.0.0 | DevGuard | MIT | Zero-dependency Rack middleware providing fail-safe domain locking, automated m… |
+| 2026-11-20 04:32:22 | [aggiii_ai_image_editor](https://rubygems.org/gems/aggiii_ai_image_editor) | 0.1.0 | Andy Wang | MIT | Offline Ruby library and command-line utility that validates structured photo-e… |
+| 2026-11-20 04:32:24 | [gpt_image2_prompt_tools](https://rubygems.org/gems/gpt_image2_prompt_tools) | 0.1.0 | Andy Wang | MIT | Offline Ruby library and CLI utility that validates structured image-generation… |
+| 2026-11-20 05:18:06 | [constile_gate](https://rubygems.org/gems/constile_gate) | 0.6.0 | CCC2C Inc. | MIT | Serves the Constile offer to AI agents that fetch a page for a person, forwards… |
 
 ## Data source
 

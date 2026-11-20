@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T04:32:22.967Z,aggiii_ai_image_editor,0.1.0,58,Andy Wang,MIT,"Offline Ruby library and command-line utility that validates structured photo-editing task specifications (background replacement, object removal, lighting adjustments, and aspect ratios) and formats JSON manifests. Performs no network calls."
+2026-11-20T04:32:24.137Z,gpt_image2_prompt_tools,0.1.0,59,Andy Wang,MIT,"Offline Ruby library and CLI utility that validates structured image-generation specifications including 1K/2K/4K resolution presets, aspect ratios, variation counts, and exact typography quotes into JSON manifests. Performs no network calls."
+2026-11-20T05:18:06.085Z,constile_gate,0.6.0,0,CCC2C Inc.,MIT,"Serves the Constile offer to AI agents that fetch a page for a person, forwards the offer's callbacks to the Constile network, and passes everyone else through untouched."
