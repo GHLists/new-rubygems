@@ -9,16 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 20:21 UTC
+## Latest list — 2026-11-20 21:21 UTC
 
-New gems created between 2026-11-20 19:20 UTC and 2026-11-20 20:21 UTC.
+New gems created between 2026-11-20 20:21 UTC and 2026-11-20 21:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-20T20-21-57-698468Z.csv)
+[Full CSV](data/new-gems-2026-11-20T21-21-47-947746Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-20 19:23:44 | [omniauth-txssc-sso2](https://rubygems.org/gems/omniauth-txssc-sso2) | 0.1.1 | Joshua Hawks | MIT | Signs users in to Rails apps through TxSSC SSO2. Built on omniauth-oauth2; veri… |
-| 2026-11-20 20:00:15 | [parallel_tests-ci](https://rubygems.org/gems/parallel_tests-ci) | 0.2.1 | Daniel Doubrovkine | MIT | Prepare and reuse CI timing history while parallel_tests owns test collection a… |
+| 2026-11-20 20:58:56 | [pixelsnake](https://rubygems.org/gems/pixelsnake) | 1.0.0 | Shayan-777 | MIT | A snake game for truecolor terminals, drawn with half-block characters. Has sou… |
+| 2026-11-20 21:13:38 | [aws-sdk-apiportal](https://rubygems.org/gems/aws-sdk-apiportal) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for APIPortal. This gem is part of the AWS SDK for Ruby. |
+| 2026-11-20 21:13:38 | [aws-sdk-agentdiscovery](https://rubygems.org/gems/aws-sdk-agentdiscovery) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Agent Discovery. This gem is part of the AWS SDK for… |
+| 2026-11-20 21:13:48 | [aws-sdk-payments](https://rubygems.org/gems/aws-sdk-payments) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for AWS Payments. This gem is part of the AWS SDK for Rub… |
+| 2026-11-20 21:15:48 | [aws-sdk-sagemakergatewayruntime](https://rubygems.org/gems/aws-sdk-sagemakergatewayruntime) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Amazon SageMaker Gateway Runtime. This gem is part of… |
 
 ## Data source
 

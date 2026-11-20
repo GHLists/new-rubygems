@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T20:58:56.208Z,pixelsnake,1.0.0,32,Shayan-777,MIT,"A snake game for truecolor terminals, drawn with half-block characters. Has sound and music, high scores, replays, stats and medals. Uses only the Ruby standard library."
+2026-11-20T21:13:38.246Z,aws-sdk-apiportal,1.0.0,7,Amazon Web Services,Apache-2.0,Official AWS Ruby gem for APIPortal. This gem is part of the AWS SDK for Ruby.
+2026-11-20T21:13:38.262Z,aws-sdk-agentdiscovery,1.0.0,4,Amazon Web Services,Apache-2.0,Official AWS Ruby gem for Agent Discovery. This gem is part of the AWS SDK for Ruby.
+2026-11-20T21:13:48.195Z,aws-sdk-payments,1.0.0,4,Amazon Web Services,Apache-2.0,Official AWS Ruby gem for AWS Payments. This gem is part of the AWS SDK for Ruby.
+2026-11-20T21:15:48.146Z,aws-sdk-sagemakergatewayruntime,1.0.0,3,Amazon Web Services,Apache-2.0,Official AWS Ruby gem for Amazon SageMaker Gateway Runtime. This gem is part of the AWS SDK for Ruby.
