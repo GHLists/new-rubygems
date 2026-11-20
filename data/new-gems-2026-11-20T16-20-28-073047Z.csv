@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T15:22:58.246Z,bundler-openhab-stub,1.0.1,75,Cody Cutrer,EPL-2.0,Bundler plugin that stubs the openHAB gem to satisfy the dependency when the openHAB runtime is not present
