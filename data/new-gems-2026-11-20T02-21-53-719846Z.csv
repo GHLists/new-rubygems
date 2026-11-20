@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T01:54:35.406Z,seedream-5-5-png-batch-checker,0.1.0,50,Seedream 5.5 Pro,MIT,Report alpha counts for PNGs from Seedream 5.5 or another image tool. The CLI can flag fully opaque exports in an asset pipeline.
+2026-11-20T02:08:07.473Z,abusezero,0.1.0,18,AbuseZero,Nonstandard,The official AbuseZero Ruby SDK: abuse prevention API for SaaS.
+2026-11-20T02:12:47.895Z,pavoai,0.1.0,6,Xinyue Zhan,MIT,"Ruby helper for Pavo AI (https://pavoai.app/), an AI video generator that turns scripts and images into short vertical videos."

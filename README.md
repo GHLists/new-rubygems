@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 00:21 UTC
+## Latest list — 2026-11-20 02:21 UTC
 
-New gems created between 2026-11-19 23:19 UTC and 2026-11-20 00:21 UTC.
+New gems created between 2026-11-20 01:21 UTC and 2026-11-20 02:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-20T00-21-09-777582Z.csv)
+[Full CSV](data/new-gems-2026-11-20T02-21-53-719846Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-20 00:03:02 | [shared.vim](https://rubygems.org/gems/shared.vim) | 1.0.0 | Juergen eTM Mangler | GPL-3.0-or-later | see https://github.com/etm/shared.vim |
-| 2026-11-20 00:13:12 | [spree-typesense](https://rubygems.org/gems/spree-typesense) | 6.0.1 | Aypex | MIT | A Typesense search provider for Spree Commerce 6: search, filters, facets and s… |
-| 2026-11-20 00:17:04 | [cloudflare-origin-jwt](https://rubygems.org/gems/cloudflare-origin-jwt) | 0.1.0 | aileron | MIT | Rack middleware that verifies a short-lived EdDSA JWT minted by a Cloudflare Wo… |
+| 2026-11-20 01:54:35 | [seedream-5-5-png-batch-checker](https://rubygems.org/gems/seedream-5-5-png-batch-checker) | 0.1.0 | Seedream 5.5 Pro | MIT | Report alpha counts for PNGs from Seedream 5.5 or another image tool. The CLI c… |
+| 2026-11-20 02:08:07 | [abusezero](https://rubygems.org/gems/abusezero) | 0.1.0 | AbuseZero | Nonstandard | The official AbuseZero Ruby SDK: abuse prevention API for SaaS. |
+| 2026-11-20 02:12:47 | [pavoai](https://rubygems.org/gems/pavoai) | 0.1.0 | Xinyue Zhan | MIT | Ruby helper for Pavo AI (https://pavoai.app/), an AI video generator that turns… |
 
 ## Data source
 
