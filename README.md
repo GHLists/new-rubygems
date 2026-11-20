@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 23:19 UTC
+## Latest list — 2026-11-20 00:21 UTC
 
-New gems created between 2026-11-19 22:20 UTC and 2026-11-19 23:19 UTC.
+New gems created between 2026-11-19 23:19 UTC and 2026-11-20 00:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-19T23-19-37-398995Z.csv)
+[Full CSV](data/new-gems-2026-11-20T00-21-09-777582Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-19 23:01:51 | [vexyl](https://rubygems.org/gems/vexyl) | 1.4.0 | Naomi Persephone Amethyst | Apache-2.0 | A library for Vexyl, a KDL format for flag designs: it validates and parses doc… |
-| 2026-11-19 23:02:53 | [spree-typesense](https://rubygems.org/gems/spree-typesense) | 6.0.0 | Aypex | MIT | A Typesense search provider for Spree Commerce 6: search, filters, facets and s… |
+| 2026-11-20 00:03:02 | [shared.vim](https://rubygems.org/gems/shared.vim) | 1.0.0 | Juergen eTM Mangler | GPL-3.0-or-later | see https://github.com/etm/shared.vim |
+| 2026-11-20 00:13:12 | [spree-typesense](https://rubygems.org/gems/spree-typesense) | 6.0.1 | Aypex | MIT | A Typesense search provider for Spree Commerce 6: search, filters, facets and s… |
+| 2026-11-20 00:17:04 | [cloudflare-origin-jwt](https://rubygems.org/gems/cloudflare-origin-jwt) | 0.1.0 | aileron | MIT | Rack middleware that verifies a short-lived EdDSA JWT minted by a Cloudflare Wo… |
 
 ## Data source
 

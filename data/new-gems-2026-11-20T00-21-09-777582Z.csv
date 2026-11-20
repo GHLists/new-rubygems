@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T00:03:02.901Z,shared.vim,1.0.0,32,Juergen eTM Mangler,GPL-3.0-or-later,see https://github.com/etm/shared.vim
+2026-11-20T00:13:12.271Z,spree-typesense,6.0.1,2,Aypex,MIT,"A Typesense search provider for Spree Commerce 6: search, filters, facets and sorting through Spree::SearchProvider::Base, with a fallback to the Database provider."
+2026-11-20T00:17:04.211Z,cloudflare-origin-jwt,0.1.0,0,aileron,MIT,"Rack middleware that verifies a short-lived EdDSA JWT minted by a Cloudflare Worker in front of your app. Requests without a valid token get a 404 and never reach the application. Claims can carry data the origin needs, such as feature flags. No Rails or ActiveSupport dependency at runtime."
