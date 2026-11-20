@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T22:00:37.248Z,instatus-otel,0.1.0,35,Instatus,MIT,"An OpenTelemetry distro for Ruby that sends errors, logs, traces and metrics to Instatus. Errors are OpenTelemetry log records, captured with Sentry-style functions."

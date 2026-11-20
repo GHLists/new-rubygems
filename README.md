@@ -9,19 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 21:21 UTC
+## Latest list — 2026-11-20 22:21 UTC
 
-New gems created between 2026-11-20 20:21 UTC and 2026-11-20 21:21 UTC.
+New gems created between 2026-11-20 21:21 UTC and 2026-11-20 22:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-20T21-21-47-947746Z.csv)
+[Full CSV](data/new-gems-2026-11-20T22-21-34-821037Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-20 20:58:56 | [pixelsnake](https://rubygems.org/gems/pixelsnake) | 1.0.0 | Shayan-777 | MIT | A snake game for truecolor terminals, drawn with half-block characters. Has sou… |
-| 2026-11-20 21:13:38 | [aws-sdk-apiportal](https://rubygems.org/gems/aws-sdk-apiportal) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for APIPortal. This gem is part of the AWS SDK for Ruby. |
-| 2026-11-20 21:13:38 | [aws-sdk-agentdiscovery](https://rubygems.org/gems/aws-sdk-agentdiscovery) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Agent Discovery. This gem is part of the AWS SDK for… |
-| 2026-11-20 21:13:48 | [aws-sdk-payments](https://rubygems.org/gems/aws-sdk-payments) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for AWS Payments. This gem is part of the AWS SDK for Rub… |
-| 2026-11-20 21:15:48 | [aws-sdk-sagemakergatewayruntime](https://rubygems.org/gems/aws-sdk-sagemakergatewayruntime) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Amazon SageMaker Gateway Runtime. This gem is part of… |
+| 2026-11-20 22:00:37 | [instatus-otel](https://rubygems.org/gems/instatus-otel) | 0.1.0 | Instatus | MIT | An OpenTelemetry distro for Ruby that sends errors, logs, traces and metrics to… |
 
 ## Data source
 
