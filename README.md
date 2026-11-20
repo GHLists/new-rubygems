@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 05:20 UTC
+## Latest list — 2026-11-20 07:20 UTC
 
-New gems created between 2026-11-20 04:21 UTC and 2026-11-20 05:20 UTC.
+New gems created between 2026-11-20 06:19 UTC and 2026-11-20 07:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-20T05-20-17-467401Z.csv)
+[Full CSV](data/new-gems-2026-11-20T07-20-09-394385Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-20 04:32:22 | [aggiii_ai_image_editor](https://rubygems.org/gems/aggiii_ai_image_editor) | 0.1.0 | Andy Wang | MIT | Offline Ruby library and command-line utility that validates structured photo-e… |
-| 2026-11-20 04:32:24 | [gpt_image2_prompt_tools](https://rubygems.org/gems/gpt_image2_prompt_tools) | 0.1.0 | Andy Wang | MIT | Offline Ruby library and CLI utility that validates structured image-generation… |
-| 2026-11-20 05:18:06 | [constile_gate](https://rubygems.org/gems/constile_gate) | 0.6.0 | CCC2C Inc. | MIT | Serves the Constile offer to AI agents that fetch a page for a person, forwards… |
+| 2026-11-20 06:33:46 | [internetdata-rails](https://rubygems.org/gems/internetdata-rails) | 1.0.3 | Mslm Dev | MIT | Looks up the visitor behind each request - location, network, company, VPN, pro… |
 
 ## Data source
 
