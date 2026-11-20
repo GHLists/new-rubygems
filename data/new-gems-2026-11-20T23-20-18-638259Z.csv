@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T23:14:07.102Z,spree-typesense,6.0.3,0,Aypex,MIT,"A Typesense search provider for Spree Commerce 6: search, filters, facets and sorting through Spree::SearchProvider::Base, with a fallback to the Database provider."

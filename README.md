@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 22:21 UTC
+## Latest list — 2026-11-20 23:20 UTC
 
-New gems created between 2026-11-20 21:21 UTC and 2026-11-20 22:21 UTC.
+New gems created between 2026-11-20 22:21 UTC and 2026-11-20 23:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-20T22-21-34-821037Z.csv)
+[Full CSV](data/new-gems-2026-11-20T23-20-18-638259Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-20 22:00:37 | [instatus-otel](https://rubygems.org/gems/instatus-otel) | 0.1.0 | Instatus | MIT | An OpenTelemetry distro for Ruby that sends errors, logs, traces and metrics to… |
+| 2026-11-20 23:14:07 | [spree-typesense](https://rubygems.org/gems/spree-typesense) | 6.0.3 | Aypex | MIT | A Typesense search provider for Spree Commerce 6: search, filters, facets and s… |
 
 ## Data source
 
