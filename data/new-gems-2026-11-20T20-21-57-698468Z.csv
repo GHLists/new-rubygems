@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T19:23:44.051Z,omniauth-txssc-sso2,0.1.1,96,Joshua Hawks,MIT,"Signs users in to Rails apps through TxSSC SSO2. Built on omniauth-oauth2; verifies the signed JWT SSO2 returns (signature, issuer, audience, expiry)."
+2026-11-20T20:00:15.789Z,parallel_tests-ci,0.2.1,62,Daniel Doubrovkine,MIT,Prepare and reuse CI timing history while parallel_tests owns test collection and sharding.
