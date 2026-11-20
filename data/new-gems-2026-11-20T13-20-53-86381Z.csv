@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T12:57:50.748Z,review_request,0.1.0,42,Bradley Nguyen,MIT,"Send Slack review requests for GitHub pull requests, post daily digests of PRs awaiting a team's review, and alert on overdue or closed Jira sprints."
+2026-11-20T13:17:14.667Z,shared.vim,1.1.2,0,Juergen eTM Mangler,GPL-3.0-or-later,see https://github.com/etm/shared.vim
