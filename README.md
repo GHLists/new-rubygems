@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 14:20 UTC
+## Latest list — 2026-11-20 15:19 UTC
 
-New gems created between 2026-11-20 13:20 UTC and 2026-11-20 14:20 UTC.
+New gems created between 2026-11-20 14:20 UTC and 2026-11-20 15:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-20T14-20-05-862774Z.csv)
+[Full CSV](data/new-gems-2026-11-20T15-19-35-555178Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-20 13:32:01 | [review_request](https://rubygems.org/gems/review_request) | 0.2.0 | Bradley Nguyen | MIT | Send Slack review requests for GitHub pull requests, post daily digests of PRs… |
-| 2026-11-20 13:49:13 | [parallel_tests-ci](https://rubygems.org/gems/parallel_tests-ci) | 0.2.0 | Daniel Doubrovkine | MIT | Prepare and reuse CI timing history while parallel_tests owns test collection a… |
-| 2026-11-20 14:05:07 | [struo](https://rubygems.org/gems/struo) | 2.3.2 | Tuist GmbH | MIT | Embeds Struo primitives in Ruby through the native Struo library. |
+| 2026-11-20 14:54:36 | [review_request](https://rubygems.org/gems/review_request) | 0.3.0 | Bradley Nguyen | MIT | Send Slack review requests for GitHub pull requests, post daily digests of PRs… |
+| 2026-11-20 15:11:37 | [bundler-openhab-stub](https://rubygems.org/gems/bundler-openhab-stub) | 1.0.0 | Cody Cutrer | EPL-2.0 | Bundler plugin that stubs the openHAB gem to satisfy the dependency when the op… |
+| 2026-11-20 15:16:28 | [git_diff_live](https://rubygems.org/gems/git_diff_live) | 0.3.0 | Tayden Miller | MIT | A mountable Rails engine that draws every file changed in the working tree agai… |
+| 2026-11-20 15:19:22 | [kruby-controller](https://rubygems.org/gems/kruby-controller) | 0.1.0 | Takahiro Ishida | Apache-2.0 | A controller-runtime equivalent for Ruby, built on kruby (Kubernetes Ruby clien… |
 
 ## Data source
 

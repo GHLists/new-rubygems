@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T14:54:36.317Z,review_request,0.3.0,64,Bradley Nguyen,MIT,"Send Slack review requests for GitHub pull requests, post daily digests of PRs awaiting a team's review, and alert on overdue or closed Jira sprints."
+2026-11-20T15:11:37.274Z,bundler-openhab-stub,1.0.0,6,Cody Cutrer,EPL-2.0,Bundler plugin that stubs the openHAB gem to satisfy the dependency when the openHAB runtime is not present
+2026-11-20T15:16:28.67Z,git_diff_live,0.3.0,0,Tayden Miller,MIT,"A mountable Rails engine that draws every file changed in the working tree against a commit, old on the left and new on the right, and redraws itself as you edit. Made for reading a session's work before committing it."
+2026-11-20T15:19:22.143Z,kruby-controller,0.1.0,0,Takahiro Ishida,Apache-2.0,"A controller-runtime equivalent for Ruby, built on kruby (Kubernetes Ruby client). Provides Reconcile Loop, Shared Cache, Event Handler, Leader Election, and more."
