@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-20T17:30:12.771Z,constile_gate,0.7.0,80,CCC2C Inc.,MIT,"Serves the Constile offer to AI agents that fetch a page for a person, forwards the offer's callbacks to the Constile network, and passes everyone else through untouched."
+2026-11-20T17:36:20.471Z,bydev-server,0.1.0,54,한비트 주식회사,MIT; Apache-2.0,판매자 서버(Rails · Sinatra 등)에서 쓰는 두 함수를 제공합니다: Standard Webhooks v1 서명 검증과 Ed25519 토큰 검증. 표준 라이브러리만 사용합니다.
+2026-11-20T17:47:26.163Z,efdb,0.1.0,52,Effectiva studio,MIT,Database helpers (PostgreSQL dump/restore) for Ruby on Rails apps
