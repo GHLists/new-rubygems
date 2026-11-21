@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-21T16:26:25.727Z,reclaimable,0.1.0,60,Kitaiti Makoto,GPL-3.0-or-later,ホーム以下を 1 回走査し、再生成できるキャッシュ・旧 Ruby 版の gem・ビルド成果物・コンテナ環境・巨大ファイルなどを容量順に表示する。何も削除しない。
+2026-11-21T16:36:51.094Z,sattleme-checkout,1.0.0,58,sattle.me,MIT,"Take Lightning and on-chain payments for a sattle.me merchant from an online shop's server: invoices, deposit addresses, registry declarations, payment checks. Implements the sattle.me checkout specification."
