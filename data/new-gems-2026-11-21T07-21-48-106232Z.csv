@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-21T06:50:06.906Z,pixel-art-export-sizes,0.1.0,51,js-upup,MIT,Calculate fitting integer scales and the largest export dimensions for pixel art.

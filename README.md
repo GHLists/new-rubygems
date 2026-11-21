@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 06:20 UTC
+## Latest list — 2026-11-21 07:21 UTC
 
-New gems created between 2026-11-21 05:19 UTC and 2026-11-21 06:20 UTC.
+New gems created between 2026-11-21 06:20 UTC and 2026-11-21 07:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-21T06-20-12-81526Z.csv)
+[Full CSV](data/new-gems-2026-11-21T07-21-48-106232Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-21 06:17:23 | [rabbit-slide-hasumikin-SendaiRubyKaigi03](https://rubygems.org/gems/rabbit-slide-hasumikin-SendaiRubyKaigi03) | 2026.11.21.0 | HASUMI Hitoshi | MIT | Presentation slide for SendaiRubyKaigi03 |
+| 2026-11-21 06:50:06 | [pixel-art-export-sizes](https://rubygems.org/gems/pixel-art-export-sizes) | 0.1.0 | js-upup | MIT | Calculate fitting integer scales and the largest export dimensions for pixel ar… |
 
 ## Data source
 
