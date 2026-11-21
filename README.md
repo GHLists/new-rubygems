@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 02:21 UTC
+## Latest list — 2026-11-21 06:20 UTC
 
-New gems created between 2026-11-21 01:18 UTC and 2026-11-21 02:21 UTC.
+New gems created between 2026-11-21 05:19 UTC and 2026-11-21 06:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-21T02-21-47-06432Z.csv)
+[Full CSV](data/new-gems-2026-11-21T06-20-12-81526Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-21 01:46:39 | [viewller](https://rubygems.org/gems/viewller) | 0.0.1 | Smudge | MIT | Utilities for creating, refreshing, and dropping materialized views in ActiveRe… |
-| 2026-11-21 01:56:02 | [brst-binding-ruby](https://rubygems.org/gems/brst-binding-ruby) | 0.1.1 | Kenta Ishizaki | Zlib | Experimental Ruby FFI bindings for libBeresta, a free, cross-platform PDF gener… |
+| 2026-11-21 06:17:23 | [rabbit-slide-hasumikin-SendaiRubyKaigi03](https://rubygems.org/gems/rabbit-slide-hasumikin-SendaiRubyKaigi03) | 2026.11.21.0 | HASUMI Hitoshi | MIT | Presentation slide for SendaiRubyKaigi03 |
 
 ## Data source
 
