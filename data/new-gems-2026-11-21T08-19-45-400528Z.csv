@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-21T08:17:28.372Z,diceware-polski,1.0.1,0,"Poltrax, Michał Piórkowski, Claude.ai",MIT; CC-BY-SA-4.0,Two full Polish Diceware lists (with and without Polish diacritics) and a tiny SecureRandom-based passphrase generator with a CLI.

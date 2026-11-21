@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 07:21 UTC
+## Latest list — 2026-11-21 08:19 UTC
 
-New gems created between 2026-11-21 06:20 UTC and 2026-11-21 07:21 UTC.
+New gems created between 2026-11-21 07:21 UTC and 2026-11-21 08:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-21T07-21-48-106232Z.csv)
+[Full CSV](data/new-gems-2026-11-21T08-19-45-400528Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-21 06:50:06 | [pixel-art-export-sizes](https://rubygems.org/gems/pixel-art-export-sizes) | 0.1.0 | js-upup | MIT | Calculate fitting integer scales and the largest export dimensions for pixel ar… |
+| 2026-11-21 08:17:28 | [diceware-polski](https://rubygems.org/gems/diceware-polski) | 1.0.1 | Poltrax, Michał Piórkowski, C… | MIT; CC-BY-SA-4.0 | Two full Polish Diceware lists (with and without Polish diacritics) and a tiny… |
 
 ## Data source
 
