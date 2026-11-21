@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 23:20 UTC
+## Latest list — 2026-11-21 01:18 UTC
 
-New gems created between 2026-11-20 22:21 UTC and 2026-11-20 23:20 UTC.
+New gems created between 2026-11-21 00:20 UTC and 2026-11-21 01:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-20T23-20-18-638259Z.csv)
+[Full CSV](data/new-gems-2026-11-21T01-18-51-94395Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-20 23:14:07 | [spree-typesense](https://rubygems.org/gems/spree-typesense) | 6.0.3 | Aypex | MIT | A Typesense search provider for Spree Commerce 6: search, filters, facets and s… |
+| 2026-11-21 01:17:54 | [brst-binding-ruby](https://rubygems.org/gems/brst-binding-ruby) | 0.1.0 | Kenta Ishizaki | Zlib | Experimental Ruby FFI bindings for libBeresta, a free, cross-platform PDF gener… |
 
 ## Data source
 

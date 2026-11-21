@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-21T01:17:54.198Z,brst-binding-ruby,0.1.0,0,Kenta Ishizaki,Zlib,"Experimental Ruby FFI bindings for libBeresta, a free, cross-platform PDF generation C library forked from libHaru. Bindings are auto-generated from libBeresta's canonical S-expression definitions (gen/data/*.lsp). v0.1.0 exposes a faithful low-level surface; an idiomatic high-level API is planned…"
