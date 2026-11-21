@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-21T15:12:19.027Z,cmu-web-style,0.1.0,7,CMU Web,BSD-3-Clause,"Rails' own style (rubocop-rails-omakase) plus the files no app lints, and erb_lint settings that work with it, for Rails apps built with CMU Web."
+2026-11-21T15:20:40.518Z,golf_cart_wrap_models,1.0.0,0,Golf Cart Wraps Contributors,MIT,"Reference catalog of 34 golf cart model and body configurations, four preview panels and four surface finishes. Body descriptions and reference years identify catalog configurations. They do not establish cross-year fitment, panel interchangeability, physical dimensions, DPI or production cutting s…"

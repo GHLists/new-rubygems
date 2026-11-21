@@ -9,18 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 14:20 UTC
+## Latest list — 2026-11-21 15:21 UTC
 
-New gems created between 2026-11-21 13:21 UTC and 2026-11-21 14:20 UTC.
+New gems created between 2026-11-21 14:20 UTC and 2026-11-21 15:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-21T14-20-16-354441Z.csv)
+[Full CSV](data/new-gems-2026-11-21T15-21-27-402676Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-21 13:45:31 | [data_gov_au](https://rubygems.org/gems/data_gov_au) | 0.0.0 | thoran | MIT | Find a dataset through data.gov.au's CKAN catalogue by its name or id, read wha… |
-| 2026-11-21 13:45:33 | [data_gov_au.rb](https://rubygems.org/gems/data_gov_au.rb) | 0.0.0 | thoran | MIT | Find a dataset through data.gov.au's CKAN catalogue by its name or id, read wha… |
-| 2026-11-21 13:48:08 | [regexes](https://rubygems.org/gems/regexes) | 0.0.0 | Sebastian Scholl | MIT | Regexes (work in progress). |
-| 2026-11-21 14:18:31 | [meeng-sdk](https://rubygems.org/gems/meeng-sdk) | 0.1.0 | Meeng.dev | MIT | Meeng.dev's SDK for Ruby: emails, domains, contacts, contact books, campaigns,… |
+| 2026-11-21 15:12:19 | [cmu-web-style](https://rubygems.org/gems/cmu-web-style) | 0.1.0 | CMU Web | BSD-3-Clause | Rails' own style (rubocop-rails-omakase) plus the files no app lints, and erb_l… |
+| 2026-11-21 15:20:40 | [golf_cart_wrap_models](https://rubygems.org/gems/golf_cart_wrap_models) | 1.0.0 | Golf Cart Wraps Contributors | MIT | Reference catalog of 34 golf cart model and body configurations, four preview p… |
 
 ## Data source
 
