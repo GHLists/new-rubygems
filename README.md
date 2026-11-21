@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 21:19 UTC
+## Latest list — 2026-11-21 23:18 UTC
 
-New gems created between 2026-11-21 20:19 UTC and 2026-11-21 21:19 UTC.
+New gems created between 2026-11-21 22:20 UTC and 2026-11-21 23:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-21T21-19-42-043313Z.csv)
+[Full CSV](data/new-gems-2026-11-21T23-18-33-910721Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-21 20:29:42 | [scansion](https://rubygems.org/gems/scansion) | 0.1.0 | anantone | MIT | Phonétise des vers français avec espeak-ng et restaure le e muet (e caduc) selo… |
-| 2026-11-21 21:00:08 | [maptain](https://rubygems.org/gems/maptain) | 0.1.0 | Level UP Solutions | MIT | Each kind of page is a small class that names its records, its URLs and its lan… |
+| 2026-11-21 22:57:38 | [scansion](https://rubygems.org/gems/scansion) | 0.1.1 | anantone | MIT | Phonétise des vers français avec espeak-ng et restaure le e muet (e caduc) selo… |
+| 2026-11-21 23:02:40 | [pikuri-html](https://rubygems.org/gems/pikuri-html) | 0.2.0 | Martin Vysny | MIT | pikuri-html plugs HTML → Markdown rendering into pikuri-core's +Pikuri::Extract… |
+| 2026-11-21 23:02:41 | [pikuri-fileindex](https://rubygems.org/gems/pikuri-fileindex) | 0.2.0 | Martin Vysny | MIT | pikuri-fileindex gives a pikuri agent two tools, fileindex_search and fileindex… |
+| 2026-11-21 23:02:42 | [pikuri-web](https://rubygems.org/gems/pikuri-web) | 0.2.0 | Martin Vysny | MIT | pikuri-web gives a pikuri-core agent the tools that reach the internet: +web_se… |
 
 ## Data source
 
