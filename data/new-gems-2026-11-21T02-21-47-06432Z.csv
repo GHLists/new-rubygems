@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-21T01:46:39.824Z,viewller,0.0.1,52,Smudge,MIT,"Utilities for creating, refreshing, and dropping materialized views in ActiveRecord."
+2026-11-21T01:56:02.666Z,brst-binding-ruby,0.1.1,68,Kenta Ishizaki,Zlib,"Experimental Ruby FFI bindings for libBeresta, a free, cross-platform PDF generation C library forked from libHaru. Bindings are auto-generated from libBeresta's canonical S-expression definitions (gen/data/*.lsp). v0.1.x exposes a faithful low-level surface; an idiomatic high-level API is planned…"
