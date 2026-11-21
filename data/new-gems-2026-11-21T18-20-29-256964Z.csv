@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-21T17:44:40.078Z,elelem-daemon,0.1.0,52,mo khan,MIT,An always-on elelem you talk to over a Unix socket.
