@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-21T08:39:38.529Z,bydev-server,1.0.0,91,한비트 주식회사,MIT; Apache-2.0,판매자 서버(Rails · Sinatra 등)에서 쓰는 두 함수를 제공합니다: Standard Webhooks v1 서명 검증과 Ed25519 토큰 검증. 표준 라이브러리만 사용합니다.
+2026-11-21T08:57:30.608Z,kitchen-remodeling-cost,1.0.1,49,Bellevue Kitchen Pros,MIT,"Split a kitchen remodel budget across 12 line items (cabinets, labor, appliances, countertops, flooring and more), add sales tax, a contingency reserve and a permit allowance, or price a Cost vs Value preset. Integer-cent maths. Library + CLI, no dependencies."
+2026-11-21T08:57:31.612Z,concrete_contractors_estimator,1.0.1,49,Phoenix Concrete Contractors,MIT,"Take-off math concrete contractors use before a pour: slab, driveway, patio, footing, column and steps volume with waste, cubic yards to order, 80/60/40 lb bag counts, rebar and mesh, a rough installed cost range and hot-weather pour advice. Library and CLI, no dependencies."
