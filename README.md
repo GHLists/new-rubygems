@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 09:18 UTC
+## Latest list — 2026-11-21 14:20 UTC
 
-New gems created between 2026-11-21 08:19 UTC and 2026-11-21 09:18 UTC.
+New gems created between 2026-11-21 13:21 UTC and 2026-11-21 14:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-21T09-18-51-453144Z.csv)
+[Full CSV](data/new-gems-2026-11-21T14-20-16-354441Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-21 08:39:38 | [bydev-server](https://rubygems.org/gems/bydev-server) | 1.0.0 | 한비트 주식회사 | MIT; Apache-2.0 | 판매자 서버(Rails · Sinatra 등)에서 쓰는 두 함수를 제공합니다: Standard Webhooks v1 서명 검증과 Ed25519… |
-| 2026-11-21 08:57:30 | [kitchen-remodeling-cost](https://rubygems.org/gems/kitchen-remodeling-cost) | 1.0.1 | Bellevue Kitchen Pros | MIT | Split a kitchen remodel budget across 12 line items (cabinets, labor, appliance… |
-| 2026-11-21 08:57:31 | [concrete_contractors_estimator](https://rubygems.org/gems/concrete_contractors_estimator) | 1.0.1 | Phoenix Concrete Contractors | MIT | Take-off math concrete contractors use before a pour: slab, driveway, patio, fo… |
+| 2026-11-21 13:45:31 | [data_gov_au](https://rubygems.org/gems/data_gov_au) | 0.0.0 | thoran | MIT | Find a dataset through data.gov.au's CKAN catalogue by its name or id, read wha… |
+| 2026-11-21 13:45:33 | [data_gov_au.rb](https://rubygems.org/gems/data_gov_au.rb) | 0.0.0 | thoran | MIT | Find a dataset through data.gov.au's CKAN catalogue by its name or id, read wha… |
+| 2026-11-21 13:48:08 | [regexes](https://rubygems.org/gems/regexes) | 0.0.0 | Sebastian Scholl | MIT | Regexes (work in progress). |
+| 2026-11-21 14:18:31 | [meeng-sdk](https://rubygems.org/gems/meeng-sdk) | 0.1.0 | Meeng.dev | MIT | Meeng.dev's SDK for Ruby: emails, domains, contacts, contact books, campaigns,… |
 
 ## Data source
 

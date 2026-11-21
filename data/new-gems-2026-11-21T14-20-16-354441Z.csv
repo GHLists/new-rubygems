@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-21T13:45:31.289Z,data_gov_au,0.0.0,51,thoran,MIT,"Find a dataset through data.gov.au's CKAN catalogue by its name or id, read what the catalogue says of it and of each of its resources, and download a resource once, checked against the length the catalogue reports."
+2026-11-21T13:45:33.066Z,data_gov_au.rb,0.0.0,54,thoran,MIT,"Find a dataset through data.gov.au's CKAN catalogue by its name or id, read what the catalogue says of it and of each of its resources, and download a resource once, checked against the length the catalogue reports."
+2026-11-21T13:48:08.599Z,regexes,0.0.0,48,Sebastian Scholl,MIT,Regexes (work in progress).
+2026-11-21T14:18:31.9Z,meeng-sdk,0.1.0,0,Meeng.dev,MIT,"Meeng.dev's SDK for Ruby: emails, domains, contacts, contact books, campaigns, analytics and webhooks."
