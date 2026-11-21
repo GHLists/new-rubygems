@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 15:21 UTC
+## Latest list — 2026-11-21 16:21 UTC
 
-New gems created between 2026-11-21 14:20 UTC and 2026-11-21 15:21 UTC.
+New gems created between 2026-11-21 15:21 UTC and 2026-11-21 16:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-21T15-21-27-402676Z.csv)
+[Full CSV](data/new-gems-2026-11-21T16-21-44-461915Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-21 15:12:19 | [cmu-web-style](https://rubygems.org/gems/cmu-web-style) | 0.1.0 | CMU Web | BSD-3-Clause | Rails' own style (rubocop-rails-omakase) plus the files no app lints, and erb_l… |
-| 2026-11-21 15:20:40 | [golf_cart_wrap_models](https://rubygems.org/gems/golf_cart_wrap_models) | 1.0.0 | Golf Cart Wraps Contributors | MIT | Reference catalog of 34 golf cart model and body configurations, four preview p… |
+| 2026-11-21 15:26:51 | [regexes](https://rubygems.org/gems/regexes) | 0.1.0 | Sebastian Scholl | MIT | Regexes is a library of frozen Regexp objects named for what they match (letter… |
+| 2026-11-21 15:26:57 | [query_translator](https://rubygems.org/gems/query_translator) | 0.1.0 | AndriyAndriyovuch | MIT | Takes free text and the list of filters an app supports, asks an LLM through Ru… |
 
 ## Data source
 
