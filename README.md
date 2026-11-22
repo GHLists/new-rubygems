@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 10:20 UTC
+## Latest list — 2026-11-22 12:19 UTC
 
-New gems created between 2026-11-22 09:20 UTC and 2026-11-22 10:20 UTC.
+New gems created between 2026-11-22 11:21 UTC and 2026-11-22 12:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T10-20-56-2018Z.csv)
+[Full CSV](data/new-gems-2026-11-22T12-19-21-04557Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 09:24:25 | [is_even_ai](https://rubygems.org/gems/is_even_ai) | 0.1.1 | Chayut Orapinpatipat | MIT | A deadpan, production-grade parody Ruby gem that answers whether an integer is… |
+| 2026-11-22 12:04:42 | [efdb](https://rubygems.org/gems/efdb) | 0.2.0 | Effectiva studio | MIT | Database helpers (PostgreSQL dump/restore) for Ruby on Rails apps |
+| 2026-11-22 12:08:03 | [mcp-datacircle](https://rubygems.org/gems/mcp-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four MCP tools on Datacircle's open API, with no key, for a server of the offic… |
 
 ## Data source
 

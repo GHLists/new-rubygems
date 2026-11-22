@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-22T12:04:42.905Z,efdb,0.2.0,62,Effectiva studio,MIT,Database helpers (PostgreSQL dump/restore) for Ruby on Rails apps
+2026-11-22T12:08:03.253Z,mcp-datacircle,0.1.0,16,Wayne Hamadi,MIT,"Four MCP tools on Datacircle's open API, with no key, for a server of the official MCP Ruby SDK: list the GTM APIs, the best plans of one API, a search of every plan and one provider's ranks. We benchmark all the GTM APIs and we put the results on our website: https://datacircle.dev"
