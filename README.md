@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 08:20 UTC
+## Latest list — 2026-11-22 09:20 UTC
 
-New gems created between 2026-11-22 07:21 UTC and 2026-11-22 08:20 UTC.
+New gems created between 2026-11-22 08:20 UTC and 2026-11-22 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T08-20-44-834747Z.csv)
+[Full CSV](data/new-gems-2026-11-22T09-20-14-901571Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 07:22:48 | [curtilage](https://rubygems.org/gems/curtilage) | 0.2.0 | Emil M | MIT | Proposes a premises polygon for a location (the building and its customer-facin… |
+| 2026-11-22 08:49:09 | [structuredmerge-core](https://rubygems.org/gems/structuredmerge-core) | 0.2.2 | Peter H. Boling | AGPL-3.0-only | 💎 Typed polyglot StructuredMerge kernel |
+| 2026-11-22 09:16:38 | [rbjq](https://rubygems.org/gems/rbjq) | 1.2.0 | winebarrel | CC0-1.0 | rbjq is a jq-compatible JSON processor written in pure Ruby, usable both as a l… |
+| 2026-11-22 09:16:39 | [is_even_ai](https://rubygems.org/gems/is_even_ai) | 0.1.0 | Chayut Orapinpatipat | MIT | A deadpan, production-grade parody Ruby gem that answers whether an integer is… |
 
 ## Data source
 
