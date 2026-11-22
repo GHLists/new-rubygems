@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 15:21 UTC
+## Latest list — 2026-11-22 16:19 UTC
 
-New gems created between 2026-11-22 14:20 UTC and 2026-11-22 15:21 UTC.
+New gems created between 2026-11-22 15:21 UTC and 2026-11-22 16:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T15-21-04-847104Z.csv)
+[Full CSV](data/new-gems-2026-11-22T16-19-32-277594Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 15:18:02 | [uuid58](https://rubygems.org/gems/uuid58) | 0.1.1 | Nakano as a Service | MIT | Shorten UUIDs to 22-character Base58 strings, and back. URL-safe, order-preserv… |
+| 2026-11-22 15:21:47 | [data_gov_au](https://rubygems.org/gems/data_gov_au) | 0.1.0 | thoran | MIT | Find a dataset through data.gov.au's CKAN catalogue by its name or id, read wha… |
+| 2026-11-22 15:21:49 | [data_gov_au.rb](https://rubygems.org/gems/data_gov_au.rb) | 0.1.0 | thoran | MIT | Find a dataset through data.gov.au's CKAN catalogue by its name or id, read wha… |
+| 2026-11-22 15:44:08 | [curtilage](https://rubygems.org/gems/curtilage) | 0.3.0 | Emil M | MIT | Proposes a premises polygon for a location (the building and its customer-facin… |
 
 ## Data source
 
