@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-21T23:18:40.112Z,phonemizer_ffi,0.1.0,70,anantone,MIT,"A drop-in, API-compatible replacement for the phonemizer gem: same Phonemizer.phonemize API and output, but calling libespeak-ng directly in-process via FFI instead of fork+exec-ing the espeak-ng CLI per word — an order of magnitude faster on large batches, with caching."
+2026-11-21T23:20:48.558Z,elelem-daemon,0.2.0,97,mo khan,MIT,An always-on elelem you talk to over a Unix socket.
+2026-11-22T00:14:49.176Z,regexes,0.1.1,0,Sebastian Scholl,MIT,"Regexes is a library of frozen Regexp objects named for what they match (letters, digits, UUIDs, ISO 8601 times, domain names, email addresses), each chaining the variations every expression allows: anchored, repeated, case-insensitive, and for sets of characters, excluded and extended. No dependen…"
