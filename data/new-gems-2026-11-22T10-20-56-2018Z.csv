@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-22T09:24:25.108Z,is_even_ai,0.1.1,76,Chayut Orapinpatipat,MIT,"A deadpan, production-grade parody Ruby gem that answers whether an integer is even by asking a System One decision model (TypeSafe Jev) or a frontier LLM instead of computing n % 2. Features calibrated confidence gating, System 1 to System 2 escalation, opt-in refinements, and a CLI. Zero runtime…"

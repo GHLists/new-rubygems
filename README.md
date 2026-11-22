@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 09:20 UTC
+## Latest list — 2026-11-22 10:20 UTC
 
-New gems created between 2026-11-22 08:20 UTC and 2026-11-22 09:20 UTC.
+New gems created between 2026-11-22 09:20 UTC and 2026-11-22 10:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T09-20-14-901571Z.csv)
+[Full CSV](data/new-gems-2026-11-22T10-20-56-2018Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 08:49:09 | [structuredmerge-core](https://rubygems.org/gems/structuredmerge-core) | 0.2.2 | Peter H. Boling | AGPL-3.0-only | 💎 Typed polyglot StructuredMerge kernel |
-| 2026-11-22 09:16:38 | [rbjq](https://rubygems.org/gems/rbjq) | 1.2.0 | winebarrel | CC0-1.0 | rbjq is a jq-compatible JSON processor written in pure Ruby, usable both as a l… |
-| 2026-11-22 09:16:39 | [is_even_ai](https://rubygems.org/gems/is_even_ai) | 0.1.0 | Chayut Orapinpatipat | MIT | A deadpan, production-grade parody Ruby gem that answers whether an integer is… |
+| 2026-11-22 09:24:25 | [is_even_ai](https://rubygems.org/gems/is_even_ai) | 0.1.1 | Chayut Orapinpatipat | MIT | A deadpan, production-grade parody Ruby gem that answers whether an integer is… |
 
 ## Data source
 
