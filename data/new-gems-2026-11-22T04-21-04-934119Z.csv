@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-22T03:23:03.433Z,constile_gate,0.7.1,194,CCC2C Inc.,MIT,"Serves the Constile ad to AI agents that fetch a page for a person, forwards the ad's callbacks to the Constile network, and passes everyone else through untouched."
+2026-11-22T03:46:13.351Z,anthropic-datacircle,0.1.0,67,Wayne Hamadi,MIT,"Four Anthropic SDK tools call Datacircle's open API with no key. List the GTM APIs and each API's best plans. Search every plan, or see where one provider ranks in our benchmarks. We benchmark all the GTM APIs and we put the results on our website: https://datacircle.dev"

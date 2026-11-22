@@ -9,19 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 03:19 UTC
+## Latest list — 2026-11-22 04:21 UTC
 
-New gems created between 2026-11-22 02:20 UTC and 2026-11-22 03:19 UTC.
+New gems created between 2026-11-22 03:19 UTC and 2026-11-22 04:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T03-19-02-883324Z.csv)
+[Full CSV](data/new-gems-2026-11-22T04-21-04-934119Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 03:15:42 | [marqius-wkhtmltopdf](https://rubygems.org/gems/marqius-wkhtmltopdf) | 0.12.13 | Simple AI LLC | LicenseRef-marqius-wkhtmltopdf | Add one line to your Gemfile and wicked_pdf or PDFKit keep making PDFs on Herok… |
-| 2026-11-22 03:15:42 | [marqius-wkhtmltopdf](https://rubygems.org/gems/marqius-wkhtmltopdf) | 0.12.13 | Simple AI LLC | LicenseRef-marqius-wkhtmltopdf | Add one line to your Gemfile and wicked_pdf or PDFKit keep making PDFs on Herok… |
-| 2026-11-22 03:15:42 | [marqius-wkhtmltopdf](https://rubygems.org/gems/marqius-wkhtmltopdf) | 0.12.13 | Simple AI LLC | LicenseRef-marqius-wkhtmltopdf | Add one line to your Gemfile and wicked_pdf or PDFKit keep making PDFs on Herok… |
-| 2026-11-22 03:15:42 | [marqius-wkhtmltopdf](https://rubygems.org/gems/marqius-wkhtmltopdf) | 0.12.13 | Simple AI LLC | LicenseRef-marqius-wkhtmltopdf | Add one line to your Gemfile and wicked_pdf or PDFKit keep making PDFs on Herok… |
-| 2026-11-22 03:15:42 | [marqius-wkhtmltopdf](https://rubygems.org/gems/marqius-wkhtmltopdf) | 0.12.13 | Simple AI LLC | LicenseRef-marqius-wkhtmltopdf | Add one line to your Gemfile and wicked_pdf or PDFKit keep making PDFs on Herok… |
+| 2026-11-22 03:23:03 | [constile_gate](https://rubygems.org/gems/constile_gate) | 0.7.1 | CCC2C Inc. | MIT | Serves the Constile ad to AI agents that fetch a page for a person, forwards th… |
+| 2026-11-22 03:46:13 | [anthropic-datacircle](https://rubygems.org/gems/anthropic-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four Anthropic SDK tools call Datacircle's open API with no key. List the GTM A… |
 
 ## Data source
 
