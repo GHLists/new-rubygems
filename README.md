@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 14:20 UTC
+## Latest list — 2026-11-22 15:21 UTC
 
-New gems created between 2026-11-22 13:20 UTC and 2026-11-22 14:20 UTC.
+New gems created between 2026-11-22 14:20 UTC and 2026-11-22 15:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T14-20-32-021955Z.csv)
+[Full CSV](data/new-gems-2026-11-22T15-21-04-847104Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 13:21:55 | [shortn-sdk](https://rubygems.org/gems/shortn-sdk) | 0.1.0 | Jedna Software | MIT | Server-side Ruby client for the Shortn Link public API: links, analytics, works… |
-| 2026-11-22 14:04:56 | [ai-refresh-prompt-builder](https://rubygems.org/gems/ai-refresh-prompt-builder) | 1.0.0 | AI Refresh | MIT | AI Refresh Prompt Builder turns a simple idea into a detailed, ready-to-use pro… |
-| 2026-11-22 14:11:05 | [asianscore_quant](https://rubygems.org/gems/asianscore_quant) | 1.0.0 | AsianScore Quantitative Resea… | MIT | Zero-dependency Ruby quantitative sports analytics toolkit providing multiplica… |
+| 2026-11-22 15:18:02 | [uuid58](https://rubygems.org/gems/uuid58) | 0.1.1 | Nakano as a Service | MIT | Shorten UUIDs to 22-character Base58 strings, and back. URL-safe, order-preserv… |
 
 ## Data source
 
