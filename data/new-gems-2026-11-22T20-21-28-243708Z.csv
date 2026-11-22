@@ -1,0 +1,8 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-22T19:20:57.533Z,envpact,0.1.0,77,Leadfy,MIT,"Parses env.spec files: a declarative contract describing which env vars an app expects, their types, optionality, and ConfigMap-vs-Secret classification. Pure stdlib, zero runtime dependencies."
+2026-11-22T19:28:35.697Z,buttondown,0.1.1,71,Nick Kelly,MIT,A Ruby client for the Buttondown newsletter API.
+2026-11-22T19:44:55.754Z,hostty,1.0.0,31,Bert McCutchen,MIT,Process manager with a CLI that runs the processes of a project and gives each one an optional local domain with SSL through ruby-nginx.
+2026-11-22T19:44:55.754Z,hostty,1.0.0,31,Bert McCutchen,MIT,Process manager with a CLI that runs the processes of a project and gives each one an optional local domain with SSL through ruby-nginx.
+2026-11-22T19:44:55.754Z,hostty,1.0.0,31,Bert McCutchen,MIT,Process manager with a CLI that runs the processes of a project and gives each one an optional local domain with SSL through ruby-nginx.
+2026-11-22T19:44:55.754Z,hostty,1.0.0,31,Bert McCutchen,MIT,Process manager with a CLI that runs the processes of a project and gives each one an optional local domain with SSL through ruby-nginx.
+2026-11-22T19:44:55.754Z,hostty,1.0.0,31,Bert McCutchen,MIT,Process manager with a CLI that runs the processes of a project and gives each one an optional local domain with SSL through ruby-nginx.

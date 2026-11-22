@@ -9,16 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 17:20 UTC
+## Latest list — 2026-11-22 20:21 UTC
 
-New gems created between 2026-11-22 16:19 UTC and 2026-11-22 17:20 UTC.
+New gems created between 2026-11-22 19:19 UTC and 2026-11-22 20:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T17-20-58-852732Z.csv)
+[Full CSV](data/new-gems-2026-11-22T20-21-28-243708Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 16:36:16 | [scansion](https://rubygems.org/gems/scansion) | 0.1.5 | anantone | MIT | Phonétise des vers français avec espeak-ng et restaure le e muet (e caduc) selo… |
-| 2026-11-22 16:52:47 | [ruby-openai-datacircle](https://rubygems.org/gems/ruby-openai-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four ruby-openai tools call Datacircle's open API with no key. List the GTM API… |
+| 2026-11-22 19:20:57 | [envpact](https://rubygems.org/gems/envpact) | 0.1.0 | Leadfy | MIT | Parses env.spec files: a declarative contract describing which env vars an app… |
+| 2026-11-22 19:28:35 | [buttondown](https://rubygems.org/gems/buttondown) | 0.1.1 | Nick Kelly | MIT | A Ruby client for the Buttondown newsletter API. |
+| 2026-11-22 19:44:55 | [hostty](https://rubygems.org/gems/hostty) | 1.0.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
+| 2026-11-22 19:44:55 | [hostty](https://rubygems.org/gems/hostty) | 1.0.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
+| 2026-11-22 19:44:55 | [hostty](https://rubygems.org/gems/hostty) | 1.0.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
+| 2026-11-22 19:44:55 | [hostty](https://rubygems.org/gems/hostty) | 1.0.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
+| 2026-11-22 19:44:55 | [hostty](https://rubygems.org/gems/hostty) | 1.0.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
 
 ## Data source
 
