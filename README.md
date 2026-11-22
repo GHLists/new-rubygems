@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 06:20 UTC
+## Latest list — 2026-11-22 07:21 UTC
 
-New gems created between 2026-11-22 05:19 UTC and 2026-11-22 06:20 UTC.
+New gems created between 2026-11-22 06:20 UTC and 2026-11-22 07:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T06-20-56-538636Z.csv)
+[Full CSV](data/new-gems-2026-11-22T07-21-17-1257Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 05:49:49 | [ai-agents-datacircle](https://rubygems.org/gems/ai-agents-datacircle) | 0.1.0 | Wayne Hamadi | MIT | The gem gives your agents four tools. They call Datacircle's open API with no k… |
-| 2026-11-22 06:04:49 | [curtilage](https://rubygems.org/gems/curtilage) | 0.1.0 | Emil M | MIT | Proposes a premises polygon for a location (the building and its customer-facin… |
+| 2026-11-22 07:15:03 | [rbjq](https://rubygems.org/gems/rbjq) | 1.0.0 | winebarrel | CC0-1.0 | rbjq is a jq-compatible JSON processor written in pure Ruby, usable both as a l… |
 
 ## Data source
 

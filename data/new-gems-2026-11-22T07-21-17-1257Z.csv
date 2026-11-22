@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-22T07:15:03.691Z,rbjq,1.0.0,0,winebarrel,CC0-1.0,"rbjq is a jq-compatible JSON processor written in pure Ruby, usable both as a library and as a command line tool."
