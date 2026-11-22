@@ -9,21 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 20:21 UTC
+## Latest list — 2026-11-22 21:21 UTC
 
-New gems created between 2026-11-22 19:19 UTC and 2026-11-22 20:21 UTC.
+New gems created between 2026-11-22 20:21 UTC and 2026-11-22 21:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T20-21-28-243708Z.csv)
+[Full CSV](data/new-gems-2026-11-22T21-21-06-937558Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 19:20:57 | [envpact](https://rubygems.org/gems/envpact) | 0.1.0 | Leadfy | MIT | Parses env.spec files: a declarative contract describing which env vars an app… |
-| 2026-11-22 19:28:35 | [buttondown](https://rubygems.org/gems/buttondown) | 0.1.1 | Nick Kelly | MIT | A Ruby client for the Buttondown newsletter API. |
-| 2026-11-22 19:44:55 | [hostty](https://rubygems.org/gems/hostty) | 1.0.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
-| 2026-11-22 19:44:55 | [hostty](https://rubygems.org/gems/hostty) | 1.0.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
-| 2026-11-22 19:44:55 | [hostty](https://rubygems.org/gems/hostty) | 1.0.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
-| 2026-11-22 19:44:55 | [hostty](https://rubygems.org/gems/hostty) | 1.0.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
-| 2026-11-22 19:44:55 | [hostty](https://rubygems.org/gems/hostty) | 1.0.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
+| 2026-11-22 20:38:26 | [zharp](https://rubygems.org/gems/zharp) | 0.1.0 | Zharp | MIT | One gem for Zharp Application Monitoring. Rails starts it by itself; Rack apps… |
+| 2026-11-22 20:47:32 | [tlm](https://rubygems.org/gems/tlm) | 0.1.0 | Hullop | MIT | Error reporting for Ruby, Rack, Rails, ActiveJob and Sidekiq apps, sent in the… |
 
 ## Data source
 

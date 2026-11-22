@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-22T20:38:26.156Z,zharp,0.1.0,59,Zharp,MIT,"One gem for Zharp Application Monitoring. Rails starts it by itself; Rack apps add `use Zharp::Rack`; scripts and workers call `Zharp.init`. Built on the official OpenTelemetry SDK: requests, database queries, outgoing HTTP calls and jobs are traced, each error is reported once with the code that r…"
+2026-11-22T20:47:32.741Z,tlm,0.1.0,53,Hullop,MIT,"Error reporting for Ruby, Rack, Rails, ActiveJob and Sidekiq apps, sent in the background to Hullop Telemetry (Tlm)."
