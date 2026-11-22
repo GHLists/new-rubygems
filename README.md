@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 16:19 UTC
+## Latest list — 2026-11-22 17:20 UTC
 
-New gems created between 2026-11-22 15:21 UTC and 2026-11-22 16:19 UTC.
+New gems created between 2026-11-22 16:19 UTC and 2026-11-22 17:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T16-19-32-277594Z.csv)
+[Full CSV](data/new-gems-2026-11-22T17-20-58-852732Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 15:21:47 | [data_gov_au](https://rubygems.org/gems/data_gov_au) | 0.1.0 | thoran | MIT | Find a dataset through data.gov.au's CKAN catalogue by its name or id, read wha… |
-| 2026-11-22 15:21:49 | [data_gov_au.rb](https://rubygems.org/gems/data_gov_au.rb) | 0.1.0 | thoran | MIT | Find a dataset through data.gov.au's CKAN catalogue by its name or id, read wha… |
-| 2026-11-22 15:44:08 | [curtilage](https://rubygems.org/gems/curtilage) | 0.3.0 | Emil M | MIT | Proposes a premises polygon for a location (the building and its customer-facin… |
+| 2026-11-22 16:36:16 | [scansion](https://rubygems.org/gems/scansion) | 0.1.5 | anantone | MIT | Phonétise des vers français avec espeak-ng et restaure le e muet (e caduc) selo… |
+| 2026-11-22 16:52:47 | [ruby-openai-datacircle](https://rubygems.org/gems/ruby-openai-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four ruby-openai tools call Datacircle's open API with no key. List the GTM API… |
 
 ## Data source
 
