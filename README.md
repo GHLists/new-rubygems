@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 01:19 UTC
+## Latest list — 2026-11-22 02:20 UTC
 
-New gems created between 2026-11-22 00:21 UTC and 2026-11-22 01:19 UTC.
+New gems created between 2026-11-22 01:19 UTC and 2026-11-22 02:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T01-19-43-356068Z.csv)
+[Full CSV](data/new-gems-2026-11-22T02-20-51-336536Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 01:16:35 | [scansion](https://rubygems.org/gems/scansion) | 0.1.3 | anantone | MIT | Phonétise des vers français avec espeak-ng et restaure le e muet (e caduc) selo… |
+| 2026-11-22 01:33:34 | [hansho](https://rubygems.org/gems/hansho) | 0.1.0 | Recodive | MIT | A small, dependency-free client (net/http, json, openssl) for the Hansho hub's… |
+| 2026-11-22 02:07:03 | [reference-canvas-padding](https://rubygems.org/gems/reference-canvas-padding) | 0.1.0 | js-upup | MIT | Plan aspect-preserving image padding for a target canvas. |
 
 ## Data source
 

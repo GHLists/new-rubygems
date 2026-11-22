@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-22T01:33:34.693Z,hansho,0.1.0,67,Recodive,MIT,"A small, dependency-free client (net/http, json, openssl) for the Hansho hub's sender API: pairing tickets, channels, templates, sounds, notifications, pages, Live Activities, widget feeds, typed errors, safe retries and signed-webhook verification."
+2026-11-22T02:07:03.518Z,reference-canvas-padding,0.1.0,25,js-upup,MIT,Plan aspect-preserving image padding for a target canvas.
