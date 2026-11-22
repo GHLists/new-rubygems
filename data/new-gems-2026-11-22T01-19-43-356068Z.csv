@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-22T01:16:35.735Z,scansion,0.1.3,0,anantone,MIT,"Phonétise des vers français avec espeak-ng et restaure le e muet (e caduc) selon les règles de la scansion classique, puis marque les frontières de syllabes et compte les syllabes."
