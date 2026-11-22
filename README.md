@@ -9,16 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 02:20 UTC
+## Latest list — 2026-11-22 03:19 UTC
 
-New gems created between 2026-11-22 01:19 UTC and 2026-11-22 02:20 UTC.
+New gems created between 2026-11-22 02:20 UTC and 2026-11-22 03:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T02-20-51-336536Z.csv)
+[Full CSV](data/new-gems-2026-11-22T03-19-02-883324Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 01:33:34 | [hansho](https://rubygems.org/gems/hansho) | 0.1.0 | Recodive | MIT | A small, dependency-free client (net/http, json, openssl) for the Hansho hub's… |
-| 2026-11-22 02:07:03 | [reference-canvas-padding](https://rubygems.org/gems/reference-canvas-padding) | 0.1.0 | js-upup | MIT | Plan aspect-preserving image padding for a target canvas. |
+| 2026-11-22 03:15:42 | [marqius-wkhtmltopdf](https://rubygems.org/gems/marqius-wkhtmltopdf) | 0.12.13 | Simple AI LLC | LicenseRef-marqius-wkhtmltopdf | Add one line to your Gemfile and wicked_pdf or PDFKit keep making PDFs on Herok… |
+| 2026-11-22 03:15:42 | [marqius-wkhtmltopdf](https://rubygems.org/gems/marqius-wkhtmltopdf) | 0.12.13 | Simple AI LLC | LicenseRef-marqius-wkhtmltopdf | Add one line to your Gemfile and wicked_pdf or PDFKit keep making PDFs on Herok… |
+| 2026-11-22 03:15:42 | [marqius-wkhtmltopdf](https://rubygems.org/gems/marqius-wkhtmltopdf) | 0.12.13 | Simple AI LLC | LicenseRef-marqius-wkhtmltopdf | Add one line to your Gemfile and wicked_pdf or PDFKit keep making PDFs on Herok… |
+| 2026-11-22 03:15:42 | [marqius-wkhtmltopdf](https://rubygems.org/gems/marqius-wkhtmltopdf) | 0.12.13 | Simple AI LLC | LicenseRef-marqius-wkhtmltopdf | Add one line to your Gemfile and wicked_pdf or PDFKit keep making PDFs on Herok… |
+| 2026-11-22 03:15:42 | [marqius-wkhtmltopdf](https://rubygems.org/gems/marqius-wkhtmltopdf) | 0.12.13 | Simple AI LLC | LicenseRef-marqius-wkhtmltopdf | Add one line to your Gemfile and wicked_pdf or PDFKit keep making PDFs on Herok… |
 
 ## Data source
 
