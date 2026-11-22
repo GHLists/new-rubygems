@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-22T22:25:21.919Z,standard_flags,0.1.0,81,Rarebit One,MIT,"StandardFlags is a Rails engine with a typed flag registry in code, one strict ENV parser, OpenFeature-shaped evaluation results, a sensor helper for staged rollouts, controller and job guards, a client capability payload, and test helpers."
