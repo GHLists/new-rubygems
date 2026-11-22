@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 07:21 UTC
+## Latest list — 2026-11-22 08:20 UTC
 
-New gems created between 2026-11-22 06:20 UTC and 2026-11-22 07:21 UTC.
+New gems created between 2026-11-22 07:21 UTC and 2026-11-22 08:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-22T07-21-17-1257Z.csv)
+[Full CSV](data/new-gems-2026-11-22T08-20-44-834747Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-22 07:15:03 | [rbjq](https://rubygems.org/gems/rbjq) | 1.0.0 | winebarrel | CC0-1.0 | rbjq is a jq-compatible JSON processor written in pure Ruby, usable both as a l… |
+| 2026-11-22 07:22:48 | [curtilage](https://rubygems.org/gems/curtilage) | 0.2.0 | Emil M | MIT | Proposes a premises polygon for a location (the building and its customer-facin… |
 
 ## Data source
 
