@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 09:20 UTC
+## Latest list — 2026-11-23 10:23 UTC
 
-New gems created between 2026-11-23 08:19 UTC and 2026-11-23 09:20 UTC.
+New gems created between 2026-11-23 09:20 UTC and 2026-11-23 10:23 UTC.
 
-[Full CSV](data/new-gems-2026-11-23T09-20-08-680832Z.csv)
+[Full CSV](data/new-gems-2026-11-23T10-23-12-278332Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 09:18:55 | [agilis-ads](https://rubygems.org/gems/agilis-ads) | 0.1.1 | Agilis Dating Ltd | MIT | Create and manage Agilis Offers, Events and webhook endpoints, and verify webho… |
+| 2026-11-23 09:23:51 | [claude-limit-watch](https://rubygems.org/gems/claude-limit-watch) | 0.1.0 | Keith R. Bennett | MIT | Records Claude subscription usage in the background and shows a terminal panel… |
+| 2026-11-23 09:43:14 | [standard_flags](https://rubygems.org/gems/standard_flags) | 0.2.0 | Rarebit One | MIT | StandardFlags is a Rails engine with a typed flag registry in code, one strict… |
 
 ## Data source
 
