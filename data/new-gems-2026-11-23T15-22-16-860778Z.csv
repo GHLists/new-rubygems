@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T14:41:20.894Z,tlm,0.4.0,71,Hullop,MIT,"Error reporting for Ruby, Rack, Rails, ActiveJob and Sidekiq apps, sent in the background to Hullop Telemetry (Tlm)."
+2026-11-23T14:45:00.411Z,openai-ruby-datacircle,0.1.0,57,Wayne Hamadi,MIT,"Four function tools of the openai gem call Datacircle's open API with no key. List the GTM APIs and each API's best plans. Search every plan, or see where one provider ranks in our benchmarks. We benchmark all the GTM APIs and we put the results on our website: https://datacircle.dev"
+2026-11-23T15:21:36.59Z,cbox_billing,0.1.0,0,Cbox,MIT,"Generated from the Cbox Billing OpenAPI contract, with a hot-path enforcement client (leases, entitlements, features), webhook verification, pagination and typed errors."

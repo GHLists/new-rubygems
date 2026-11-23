@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 13:20 UTC
+## Latest list — 2026-11-23 15:22 UTC
 
-New gems created between 2026-11-23 12:18 UTC and 2026-11-23 13:20 UTC.
+New gems created between 2026-11-23 14:19 UTC and 2026-11-23 15:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-23T13-20-24-38736Z.csv)
+[Full CSV](data/new-gems-2026-11-23T15-22-16-860778Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 12:42:38 | [standard_flags](https://rubygems.org/gems/standard_flags) | 0.2.2 | Rarebit One | MIT | StandardFlags is a Rails engine with a typed flag registry in code, one strict… |
+| 2026-11-23 14:41:20 | [tlm](https://rubygems.org/gems/tlm) | 0.4.0 | Hullop | MIT | Error reporting for Ruby, Rack, Rails, ActiveJob and Sidekiq apps, sent in the… |
+| 2026-11-23 14:45:00 | [openai-ruby-datacircle](https://rubygems.org/gems/openai-ruby-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four function tools of the openai gem call Datacircle's open API with no key. L… |
+| 2026-11-23 15:21:36 | [cbox_billing](https://rubygems.org/gems/cbox_billing) | 0.1.0 | Cbox | MIT | Generated from the Cbox Billing OpenAPI contract, with a hot-path enforcement c… |
 
 ## Data source
 
