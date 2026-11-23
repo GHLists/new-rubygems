@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-22T23:19:56.835Z,standard_id-void_which_binds,0.1.0,77,Rarebit One,MIT,"StandardId provider plugin for an organisation's Void-Which-Binds broker (moneta), per ADR-0023: OIDC authorization code + PKCE with Ed25519 ID tokens verified against pinned keys, a staff login-method policy, and an RFC 8935 Security Event Token receiver that revokes sessions by watermark."
+2026-11-23T00:03:51.196Z,tlm,0.2.0,50,Hullop,MIT,"Error reporting for Ruby, Rack, Rails, ActiveJob and Sidekiq apps, sent in the background to Hullop Telemetry (Tlm)."
