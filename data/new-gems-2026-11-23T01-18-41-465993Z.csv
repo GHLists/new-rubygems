@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T01:03:03.475Z,robin-compat,0.1.2,39,Robin Compat,LGPL-3.0-only,"Sidekiq-compatible: runs apps written for Sidekiq on Robin, unchanged. It provides Sidekiq's job, client, configuration, testing, data, web and command-line interfaces, and the Pro and Enterprise ones, on top of Robin, which works on Sidekiq's Redis data in place, so switching needs no draining. No…"
