@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T17:37:00.806Z,curtilage,0.4.0,79,Emil M,MIT,"Proposes a premises polygon for a location (the building and its customer-facing lot, bounded by roads, railways and neighbours) plus the building's own outline, with review flags, validation and an explanation of each step. Map data is free and needs no hosting: OpenStreetMap data is read in place…"
+2026-11-23T17:48:14.459Z,tcxkit,0.1.1,60,The tcxkit contributors,MIT,"Reads Training Center Database v2 (.tcx) files safely and lazily, keeping every value as written, with an activity view shared with fitkit and gpxkit."
+2026-11-23T17:48:42.51Z,gpxkit,0.1.1,62,The gpxkit contributors,MIT,"Reads GPX 1.1 and 1.0 files safely and lazily, keeping every value as written, with an activity view shared with fitkit and tcxkit."
