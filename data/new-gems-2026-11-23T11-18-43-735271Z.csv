@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T10:42:15.316Z,gpxkit,0.1.0,54,The gpxkit contributors,MIT,"Reads GPX 1.1 and 1.0 files safely and lazily, keeping every value as written, with an activity view shared with fitkit and tcxkit."
+2026-11-23T10:42:31.893Z,tcxkit,0.1.0,57,The tcxkit contributors,MIT,"Reads Training Center Database v2 (.tcx) files safely and lazily, keeping every value as written, with an activity view shared with fitkit and gpxkit."
+2026-11-23T11:06:09.222Z,rails_vite-inline_svg,0.1.0,14,Displayful,MIT,"Inline SVGs from a rails_vite build, parsed once."
+2026-11-23T11:11:12.969Z,vp-login,0.4.0,4,Volopay,MIT,"Relying-party integration for vpLogin (OIDC login, ID token verification, admin API)."
