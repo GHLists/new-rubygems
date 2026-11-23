@@ -9,17 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 18:21 UTC
+## Latest list — 2026-11-23 19:22 UTC
 
-New gems created between 2026-11-23 17:21 UTC and 2026-11-23 18:21 UTC.
+New gems created between 2026-11-23 18:21 UTC and 2026-11-23 19:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-23T18-21-24-303729Z.csv)
+[Full CSV](data/new-gems-2026-11-23T19-22-13-954235Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 17:37:00 | [curtilage](https://rubygems.org/gems/curtilage) | 0.4.0 | Emil M | MIT | Proposes a premises polygon for a location (the building and its customer-facin… |
-| 2026-11-23 17:48:14 | [tcxkit](https://rubygems.org/gems/tcxkit) | 0.1.1 | The tcxkit contributors | MIT | Reads Training Center Database v2 (.tcx) files safely and lazily, keeping every… |
-| 2026-11-23 17:48:42 | [gpxkit](https://rubygems.org/gems/gpxkit) | 0.1.1 | The gpxkit contributors | MIT | Reads GPX 1.1 and 1.0 files safely and lazily, keeping every value as written,… |
+| 2026-11-23 18:24:21 | [cbox_billing](https://rubygems.org/gems/cbox_billing) | 0.2.0 | Cbox | MIT | Generated from the Cbox Billing OpenAPI contract, with a hot-path enforcement c… |
+| 2026-11-23 18:36:38 | [backburn](https://rubygems.org/gems/backburn) | 0.1.0 | Sophie Déziel | MIT | Backburn parses a Ruby codebase with Prism, builds a name-resolved reference gr… |
+| 2026-11-23 18:36:38 | [backburn](https://rubygems.org/gems/backburn) | 0.1.0 | Sophie Déziel | MIT | Backburn parses a Ruby codebase with Prism, builds a name-resolved reference gr… |
+| 2026-11-23 18:36:38 | [backburn](https://rubygems.org/gems/backburn) | 0.1.0 | Sophie Déziel | MIT | Backburn parses a Ruby codebase with Prism, builds a name-resolved reference gr… |
+| 2026-11-23 18:36:38 | [backburn](https://rubygems.org/gems/backburn) | 0.1.0 | Sophie Déziel | MIT | Backburn parses a Ruby codebase with Prism, builds a name-resolved reference gr… |
+| 2026-11-23 18:36:38 | [backburn](https://rubygems.org/gems/backburn) | 0.1.0 | Sophie Déziel | MIT | Backburn parses a Ruby codebase with Prism, builds a name-resolved reference gr… |
+| 2026-11-23 18:36:38 | [backburn](https://rubygems.org/gems/backburn) | 0.1.0 | Sophie Déziel | MIT | Backburn parses a Ruby codebase with Prism, builds a name-resolved reference gr… |
+| 2026-11-23 18:36:38 | [backburn](https://rubygems.org/gems/backburn) | 0.1.0 | Sophie Déziel | MIT | Backburn parses a Ruby codebase with Prism, builds a name-resolved reference gr… |
+| 2026-11-23 19:01:49 | [buttondown](https://rubygems.org/gems/buttondown) | 0.3.0 | Nick Kelly | MIT | A Ruby client for the Buttondown newsletter API. |
+| 2026-11-23 19:02:42 | [mockcard](https://rubygems.org/gems/mockcard) | 2.0.0 | Arixeva Labs | MIT | Run MockCard's payment chaos scenarios (duplicate, late, missing and 3DS-abando… |
+| 2026-11-23 19:03:35 | [mockcard-rails](https://rubygems.org/gems/mockcard-rails) | 2.0.0 | Arixeva Labs | MIT | Rails integration for MockCard: Rack middleware that answers MockCard's product… |
+| 2026-11-23 19:17:08 | [edify-cli](https://rubygems.org/gems/edify-cli) | 0.2.0 | Mark Oveson | MIT | Ask an Edify server about speakers and music from the command line, using a per… |
 
 ## Data source
 
