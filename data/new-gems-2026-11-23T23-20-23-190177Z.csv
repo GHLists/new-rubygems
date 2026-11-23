@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T22:30:11.762Z,ruby-anvil,0.1.0,93,Anvil Foundry Inc.,MIT,"Fill PDFs, generate PDFs from HTML or markdown, send documents for e-signature, and run Workflows with the Anvil API."
+2026-11-23T22:35:05.411Z,elelem-macos,0.1.0,57,mo khan,GPL-3.0-or-later,Adds tools for reading local macOS app data
+2026-11-23T22:39:24.793Z,lightward_liquid_ext,1.0.0,55,Lightward,Unlicense,"Liquid extensions that have run in Mechanic (mechanic.dev) for years: the keyword literals array, hash and newline; assign into hashes and arrays by key or index; split and replace that understand newline; match and scan with regular expressions; push and unshift; json and parse_json."
+2026-11-23T22:55:20.611Z,bancos_brasileiros_data,6.3.123,40,"Guilherme Branco Stracini, Elton Santos",Unlicense,"Brazilian commercial banks list (COMPE, ISPB, CNPJ, PIX and more), updated daily from official sources."
