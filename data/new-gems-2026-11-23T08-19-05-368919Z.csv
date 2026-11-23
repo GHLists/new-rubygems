@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T07:42:57.975Z,agent_primitives,0.1.0,50,Chris Bellairs,MIT,"Checks that every intent clause in an app's docs/primitives/ tree is proven by a tagged RSpec example, reports what a change did to that record, and imports the skills that teach a coding agent to keep it."
+2026-11-23T07:42:57.989Z,envpact,0.2.0,79,Leadfy,MIT,"Parses env.spec files: a declarative contract describing which env vars an app expects, their types, optionality, and ConfigMap-vs-Secret classification, and syncs secrets with OpenBao. Pure stdlib, zero runtime dependencies."

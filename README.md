@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 07:21 UTC
+## Latest list — 2026-11-23 08:19 UTC
 
-New gems created between 2026-11-23 06:20 UTC and 2026-11-23 07:21 UTC.
+New gems created between 2026-11-23 07:21 UTC and 2026-11-23 08:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-23T07-21-16-497868Z.csv)
+[Full CSV](data/new-gems-2026-11-23T08-19-05-368919Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 07:16:39 | [horn_acoustics](https://rubygems.org/gems/horn_acoustics) | 0.1.0 | Horn Guns | MIT | Calculate outdoor sound-pressure-level change with distance from the free-field… |
-| 2026-11-23 07:17:04 | [rustorb](https://rubygems.org/gems/rustorb) | 0.7.0 | rustorb contributors | MIT; Apache-2.0 | The Ruby binding of rustorb, a CORBA ORB written in Rust: CORBA, PortableServer… |
+| 2026-11-23 07:42:57 | [agent_primitives](https://rubygems.org/gems/agent_primitives) | 0.1.0 | Chris Bellairs | MIT | Checks that every intent clause in an app's docs/primitives/ tree is proven by… |
+| 2026-11-23 07:42:57 | [envpact](https://rubygems.org/gems/envpact) | 0.2.0 | Leadfy | MIT | Parses env.spec files: a declarative contract describing which env vars an app… |
 
 ## Data source
 
