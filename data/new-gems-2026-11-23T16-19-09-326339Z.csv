@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T15:55:45.829Z,envpact,0.3.0,54,Leadfy,MIT,"Parses envpact.yml (and legacy env.spec) files: a declarative contract describing which env vars an app expects, their types, optionality, and ConfigMap-vs-Secret classification, and syncs secrets with OpenBao. Pure stdlib, zero runtime dependencies."
