@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 12:18 UTC
+## Latest list — 2026-11-23 13:20 UTC
 
-New gems created between 2026-11-23 11:18 UTC and 2026-11-23 12:18 UTC.
+New gems created between 2026-11-23 12:18 UTC and 2026-11-23 13:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-23T12-18-56-816581Z.csv)
+[Full CSV](data/new-gems-2026-11-23T13-20-24-38736Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 11:37:16 | [vp-login](https://rubygems.org/gems/vp-login) | 0.4.1 | Volopay | MIT | Relying-party integration for vpLogin (OIDC login, ID token verification, admin… |
-| 2026-11-23 11:59:39 | [fast-mcp-datacircle](https://rubygems.org/gems/fast-mcp-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four fast-mcp tools on Datacircle's open API, with no key: list the GTM APIs, t… |
-| 2026-11-23 12:05:39 | [standard_flags](https://rubygems.org/gems/standard_flags) | 0.2.1 | Rarebit One | MIT | StandardFlags is a Rails engine with a typed flag registry in code, one strict… |
+| 2026-11-23 12:42:38 | [standard_flags](https://rubygems.org/gems/standard_flags) | 0.2.2 | Rarebit One | MIT | StandardFlags is a Rails engine with a typed flag registry in code, one strict… |
 
 ## Data source
 
