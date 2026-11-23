@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 08:19 UTC
+## Latest list — 2026-11-23 09:20 UTC
 
-New gems created between 2026-11-23 07:21 UTC and 2026-11-23 08:19 UTC.
+New gems created between 2026-11-23 08:19 UTC and 2026-11-23 09:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-23T08-19-05-368919Z.csv)
+[Full CSV](data/new-gems-2026-11-23T09-20-08-680832Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 07:42:57 | [agent_primitives](https://rubygems.org/gems/agent_primitives) | 0.1.0 | Chris Bellairs | MIT | Checks that every intent clause in an app's docs/primitives/ tree is proven by… |
-| 2026-11-23 07:42:57 | [envpact](https://rubygems.org/gems/envpact) | 0.2.0 | Leadfy | MIT | Parses env.spec files: a declarative contract describing which env vars an app… |
+| 2026-11-23 09:18:55 | [agilis-ads](https://rubygems.org/gems/agilis-ads) | 0.1.1 | Agilis Dating Ltd | MIT | Create and manage Agilis Offers, Events and webhook endpoints, and verify webho… |
 
 ## Data source
 
