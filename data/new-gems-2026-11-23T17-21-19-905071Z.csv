@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T17:11:10.688Z,tlm,0.4.2,8,Hullop,MIT,"Error reporting for Ruby, Rack, Rails, ActiveJob and Sidekiq apps, sent in the background to Hullop Telemetry (Tlm)."

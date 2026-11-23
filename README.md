@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 16:19 UTC
+## Latest list — 2026-11-23 17:21 UTC
 
-New gems created between 2026-11-23 15:22 UTC and 2026-11-23 16:19 UTC.
+New gems created between 2026-11-23 16:19 UTC and 2026-11-23 17:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-23T16-19-09-326339Z.csv)
+[Full CSV](data/new-gems-2026-11-23T17-21-19-905071Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 15:55:45 | [envpact](https://rubygems.org/gems/envpact) | 0.3.0 | Leadfy | MIT | Parses envpact.yml (and legacy env.spec) files: a declarative contract describi… |
+| 2026-11-23 17:11:10 | [tlm](https://rubygems.org/gems/tlm) | 0.4.2 | Hullop | MIT | Error reporting for Ruby, Rack, Rails, ActiveJob and Sidekiq apps, sent in the… |
 
 ## Data source
 
