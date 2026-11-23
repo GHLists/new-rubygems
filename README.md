@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 21:19 UTC
+## Latest list — 2026-11-23 22:19 UTC
 
-New gems created between 2026-11-23 20:20 UTC and 2026-11-23 21:19 UTC.
+New gems created between 2026-11-23 21:19 UTC and 2026-11-23 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-23T21-19-38-053632Z.csv)
+[Full CSV](data/new-gems-2026-11-23T22-19-28-34436Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 20:20:38 | [bord](https://rubygems.org/gems/bord) | 0.5.0 | Rails Designer | MIT | Bord provides a dashboard at /bord with metrics, lists, sections, record pages… |
-| 2026-11-23 20:44:46 | [edify-cli](https://rubygems.org/gems/edify-cli) | 0.4.0 | Mark Oveson | MIT | Ask an Edify server about speakers and music from the command line, using a per… |
+| 2026-11-23 21:28:51 | [buttondown](https://rubygems.org/gems/buttondown) | 0.3.1 | Nick Kelly | MIT | A Ruby client for the Buttondown newsletter API. |
+| 2026-11-23 22:05:26 | [buzzsprout-cli](https://rubygems.org/gems/buzzsprout-cli) | 0.1.1 | Higher Pixels | MIT | A fun, agent-friendly CLI for Buzzsprout. Authenticate with an API token, list… |
 
 ## Data source
 
