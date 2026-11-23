@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T07:16:39.573Z,horn_acoustics,0.1.0,0,Horn Guns,MIT,"Calculate outdoor sound-pressure-level change with distance from the free-field inverse-square law (geometrical divergence in ISO 9613-2:1996) and, optionally, atmospheric absorption after ISO 9613-1:1993. Compute the classical Doppler-shifted frequency for a moving source or observer (speed of sou…"
+2026-11-23T07:17:04.077Z,rustorb,0.7.0,0,rustorb contributors,MIT; Apache-2.0,"The Ruby binding of rustorb, a CORBA ORB written in Rust: CORBA, PortableServer and CosNaming as the OMG Ruby Language Mapping (RCLM) has them, over the rustorb core through its C ABI. Stubs and skeletons are generated with rustorb-idl -bruby."

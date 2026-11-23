@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 06:20 UTC
+## Latest list — 2026-11-23 07:21 UTC
 
-New gems created between 2026-11-23 05:21 UTC and 2026-11-23 06:20 UTC.
+New gems created between 2026-11-23 06:20 UTC and 2026-11-23 07:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-23T06-20-41-67609Z.csv)
+[Full CSV](data/new-gems-2026-11-23T07-21-16-497868Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 05:26:27 | [pptx-visible-slide-text](https://rubygems.org/gems/pptx-visible-slide-text) | 0.1.0 | js-upup | MIT | Enumerate PPTX slides, omit hidden slides, and flag visible slides without text… |
+| 2026-11-23 07:16:39 | [horn_acoustics](https://rubygems.org/gems/horn_acoustics) | 0.1.0 | Horn Guns | MIT | Calculate outdoor sound-pressure-level change with distance from the free-field… |
+| 2026-11-23 07:17:04 | [rustorb](https://rubygems.org/gems/rustorb) | 0.7.0 | rustorb contributors | MIT; Apache-2.0 | The Ruby binding of rustorb, a CORBA ORB written in Rust: CORBA, PortableServer… |
 
 ## Data source
 
