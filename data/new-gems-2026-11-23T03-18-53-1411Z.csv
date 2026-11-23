@@ -1,0 +1,10 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T02:21:32.831Z,data_gov_au,0.2.0,78,thoran,MIT,"Find a dataset through data.gov.au's CKAN catalogue by its name or id, read what the catalogue says of it and of each of its resources, and download a resource once, checked against the length the catalogue reports. Built on it, the Australian Business Register's weekly ABN bulk extract, each relea…"
+2026-11-23T02:21:34.542Z,data_gov_au.rb,0.2.0,102,thoran,MIT,"Find a dataset through data.gov.au's CKAN catalogue by its name or id, read what the catalogue says of it and of each of its resources, and download a resource once, checked against the length the catalogue reports. Built on it, the Australian Business Register's weekly ABN bulk extract, each relea…"
+2026-11-23T02:54:05.78Z,tlm,0.3.0,88,Hullop,MIT,"Error reporting for Ruby, Rack, Rails, ActiveJob and Sidekiq apps, sent in the background to Hullop Telemetry (Tlm)."
+2026-11-23T03:15:27.377Z,hostty,1.1.0,0,Bert McCutchen,MIT,Process manager with a CLI that runs the processes of a project and gives each one an optional local domain with SSL through ruby-nginx.
+2026-11-23T03:15:27.377Z,hostty,1.1.0,0,Bert McCutchen,MIT,Process manager with a CLI that runs the processes of a project and gives each one an optional local domain with SSL through ruby-nginx.
+2026-11-23T03:15:27.377Z,hostty,1.1.0,0,Bert McCutchen,MIT,Process manager with a CLI that runs the processes of a project and gives each one an optional local domain with SSL through ruby-nginx.
+2026-11-23T03:15:27.377Z,hostty,1.1.0,0,Bert McCutchen,MIT,Process manager with a CLI that runs the processes of a project and gives each one an optional local domain with SSL through ruby-nginx.
+2026-11-23T03:15:27.377Z,hostty,1.1.0,0,Bert McCutchen,MIT,Process manager with a CLI that runs the processes of a project and gives each one an optional local domain with SSL through ruby-nginx.
+2026-11-23T03:17:55.491Z,buttondown,0.2.0,0,Nick Kelly,MIT,A Ruby client for the Buttondown newsletter API.

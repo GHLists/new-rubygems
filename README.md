@@ -9,15 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 01:18 UTC
+## Latest list — 2026-11-23 03:18 UTC
 
-New gems created between 2026-11-23 00:21 UTC and 2026-11-23 01:18 UTC.
+New gems created between 2026-11-23 02:19 UTC and 2026-11-23 03:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-23T01-18-41-465993Z.csv)
+[Full CSV](data/new-gems-2026-11-23T03-18-53-1411Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 01:03:03 | [robin-compat](https://rubygems.org/gems/robin-compat) | 0.1.2 | Robin Compat | LGPL-3.0-only | Sidekiq-compatible: runs apps written for Sidekiq on Robin, unchanged. It provi… |
+| 2026-11-23 02:21:32 | [data_gov_au](https://rubygems.org/gems/data_gov_au) | 0.2.0 | thoran | MIT | Find a dataset through data.gov.au's CKAN catalogue by its name or id, read wha… |
+| 2026-11-23 02:21:34 | [data_gov_au.rb](https://rubygems.org/gems/data_gov_au.rb) | 0.2.0 | thoran | MIT | Find a dataset through data.gov.au's CKAN catalogue by its name or id, read wha… |
+| 2026-11-23 02:54:05 | [tlm](https://rubygems.org/gems/tlm) | 0.3.0 | Hullop | MIT | Error reporting for Ruby, Rack, Rails, ActiveJob and Sidekiq apps, sent in the… |
+| 2026-11-23 03:15:27 | [hostty](https://rubygems.org/gems/hostty) | 1.1.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
+| 2026-11-23 03:15:27 | [hostty](https://rubygems.org/gems/hostty) | 1.1.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
+| 2026-11-23 03:15:27 | [hostty](https://rubygems.org/gems/hostty) | 1.1.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
+| 2026-11-23 03:15:27 | [hostty](https://rubygems.org/gems/hostty) | 1.1.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
+| 2026-11-23 03:15:27 | [hostty](https://rubygems.org/gems/hostty) | 1.1.0 | Bert McCutchen | MIT | Process manager with a CLI that runs the processes of a project and gives each… |
+| 2026-11-23 03:17:55 | [buttondown](https://rubygems.org/gems/buttondown) | 0.2.0 | Nick Kelly | MIT | A Ruby client for the Buttondown newsletter API. |
 
 ## Data source
 
