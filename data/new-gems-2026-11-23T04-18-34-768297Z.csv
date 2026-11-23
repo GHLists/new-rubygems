@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T04:12:50.92Z,jekyll-ruby-link-checker,0.1.0,1,Daniel Doubrovkine,MIT,"A Jekyll plugin that checks internal, anchor, and external links during the build with ruby-link-checker, caching successful checks across builds."
+2026-11-23T04:18:20.742Z,buttondown,0.2.1,0,Nick Kelly,MIT,A Ruby client for the Buttondown newsletter API.
