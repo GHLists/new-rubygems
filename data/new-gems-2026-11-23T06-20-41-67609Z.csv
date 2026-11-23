@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-23T05:26:27.921Z,pptx-visible-slide-text,0.1.0,82,js-upup,MIT,"Enumerate PPTX slides, omit hidden slides, and flag visible slides without text. When preparing a deck for https://imagetovideoai.tools/ppt-to-video the report shows which slides supply readable source text."

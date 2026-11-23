@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 04:18 UTC
+## Latest list — 2026-11-23 06:20 UTC
 
-New gems created between 2026-11-23 03:18 UTC and 2026-11-23 04:18 UTC.
+New gems created between 2026-11-23 05:21 UTC and 2026-11-23 06:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-23T04-18-34-768297Z.csv)
+[Full CSV](data/new-gems-2026-11-23T06-20-41-67609Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 04:12:50 | [jekyll-ruby-link-checker](https://rubygems.org/gems/jekyll-ruby-link-checker) | 0.1.0 | Daniel Doubrovkine | MIT | A Jekyll plugin that checks internal, anchor, and external links during the bui… |
-| 2026-11-23 04:18:20 | [buttondown](https://rubygems.org/gems/buttondown) | 0.2.1 | Nick Kelly | MIT | A Ruby client for the Buttondown newsletter API. |
+| 2026-11-23 05:26:27 | [pptx-visible-slide-text](https://rubygems.org/gems/pptx-visible-slide-text) | 0.1.0 | js-upup | MIT | Enumerate PPTX slides, omit hidden slides, and flag visible slides without text… |
 
 ## Data source
 
