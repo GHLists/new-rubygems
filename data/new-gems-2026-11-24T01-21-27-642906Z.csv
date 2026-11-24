@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T00:26:21.399Z,rescue_groups_v5,0.1.1,59,Ben Wanicur,MIT,Wrapper for Rescue Groups V5 API - https://userguide.rescuegroups.org/display/APIDG/v5
+2026-11-24T01:03:01.951Z,rubygems-credential_store-backends-codeartifact,0.1.0,33,Takuma Ishikawa,MIT,Gets AWS CodeArtifact authorization tokens on demand for RubyGems and Bundler.
+2026-11-24T01:20:14.489Z,bedrock-datacircle,0.1.0,0,Wayne Hamadi,MIT,"Four tools for the Converse API of aws-sdk-bedrockruntime call Datacircle's open API with no key. List the GTM APIs and each API's best plans. Search every plan, or see where one provider ranks in our benchmarks. We benchmark all the GTM APIs and we put the results on our website: https://datacircl…"

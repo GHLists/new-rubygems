@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 00:19 UTC
+## Latest list — 2026-11-24 01:21 UTC
 
-New gems created between 2026-11-23 23:20 UTC and 2026-11-24 00:19 UTC.
+New gems created between 2026-11-24 00:19 UTC and 2026-11-24 01:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T00-19-59-798344Z.csv)
+[Full CSV](data/new-gems-2026-11-24T01-21-27-642906Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-23 23:32:36 | [bancos_brasileiros_data](https://rubygems.org/gems/bancos_brasileiros_data) | 6.3.124 | Guilherme Branco Stracini, El… | Unlicense | Brazilian commercial banks list (COMPE, ISPB, CNPJ, PIX and more), updated dail… |
+| 2026-11-24 00:26:21 | [rescue_groups_v5](https://rubygems.org/gems/rescue_groups_v5) | 0.1.1 | Ben Wanicur | MIT | Wrapper for Rescue Groups V5 API - https://userguide.rescuegroups.org/display/A… |
+| 2026-11-24 01:03:01 | [rubygems-credential_store-backends-codeartifact](https://rubygems.org/gems/rubygems-credential_store-backends-codeartifact) | 0.1.0 | Takuma Ishikawa | MIT | Gets AWS CodeArtifact authorization tokens on demand for RubyGems and Bundler. |
+| 2026-11-24 01:20:14 | [bedrock-datacircle](https://rubygems.org/gems/bedrock-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four tools for the Converse API of aws-sdk-bedrockruntime call Datacircle's ope… |
 
 ## Data source
 
