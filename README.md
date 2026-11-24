@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 08:19 UTC
+## Latest list — 2026-11-24 09:18 UTC
 
-New gems created between 2026-11-24 07:21 UTC and 2026-11-24 08:19 UTC.
+New gems created between 2026-11-24 08:19 UTC and 2026-11-24 09:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T08-19-16-353732Z.csv)
+[Full CSV](data/new-gems-2026-11-24T09-18-55-273031Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 07:43:16 | [vp-login](https://rubygems.org/gems/vp-login) | 0.4.2 | Volopay | MIT | Relying-party integration for vpLogin (OIDC login, ID token verification, admin… |
-| 2026-11-24 07:50:06 | [warungkopipurnama](https://rubygems.org/gems/warungkopipurnama) | 1.0.0 | Warung Kopi Purnama — kopi le… | MIT | Helpers for Warung Kopi Purnama. Official: https://warungkopipurnama.com/ |
-| 2026-11-24 07:52:56 | [fast-embeddings](https://rubygems.org/gems/fast-embeddings) | 0.1.0 | Eric Jacobs | MIT | Fast::Embeddings speaks the OpenAI embeddings wire. One wire protocol, one POST… |
-| 2026-11-24 08:01:36 | [db_parity](https://rubygems.org/gems/db_parity) | 3.6.0 | Dan Croak, Geoff Harcourt | MIT | Development/staging/production parity makes it easier for those who write the c… |
+| 2026-11-24 09:03:39 | [fast-embeddings](https://rubygems.org/gems/fast-embeddings) | 0.1.1 | Eric Jacobs | MIT | Fast::Embeddings speaks the OpenAI embeddings wire. One wire protocol, one POST… |
+| 2026-11-24 09:05:43 | [solidus_foudra](https://rubygems.org/gems/solidus_foudra) | 0.1.0 | Kalopa Robotics Limited | Apache-2.0 | Sends each completed Solidus order to Foudra MRP as a sales order on the shop's… |
+| 2026-11-24 09:12:22 | [db_tools](https://rubygems.org/gems/db_tools) | 0.1.2 | Seth Horsley | MIT | Save, list and restore snapshots of a Rails app's development database. Support… |
 
 ## Data source
 

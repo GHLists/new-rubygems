@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T09:03:39.107Z,fast-embeddings,0.1.1,41,Eric Jacobs,MIT,"Fast::Embeddings speaks the OpenAI embeddings wire. One wire protocol, one POST per call, one JSON reply back — no dialects, no extensions. async-http is the only runtime dependency; credentials ride per call and are never stored."
+2026-11-24T09:05:43.598Z,solidus_foudra,0.1.0,17,Kalopa Robotics Limited,Apache-2.0,"Sends each completed Solidus order to Foudra MRP as a sales order on the shop's channel (and cancels it there when it is cancelled here), and keeps the shop's stock, products, prices and shipments in step with Foudra through its webhooks and a nightly full pass."
+2026-11-24T09:12:22.202Z,db_tools,0.1.2,0,Seth Horsley,MIT,"Save, list and restore snapshots of a Rails app's development database. Supports PostgreSQL, MySQL and SQLite."
