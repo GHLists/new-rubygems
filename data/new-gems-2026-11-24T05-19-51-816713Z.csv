@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T04:59:03.785Z,ircinch-basic_ctcp,1.1.2,32,Matt Sias,MIT,"Reply to CLIENTINFO, PING, SOURCE, TIME, and VERSION requests in IRCinch bots"
+2026-11-24T05:00:25.865Z,ircinch-identify,1.7.1,30,Matt Sias,MIT,"Signs IRCinch bots in to IRC services after connecting. Supports NickServ (including DALnet), UserServ, KreyNet's K, and QuakeNet's Q via AUTH or CHALLENGEAUTH."
