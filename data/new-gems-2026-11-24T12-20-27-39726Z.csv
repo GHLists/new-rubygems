@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T11:57:22.064Z,gubbins-rails,0.1.0,39,Jan-Christian Foeh,EUPL-1.2,"A Rails engine which codifies a way of working: builders for table lists, tab and button bars and Ransack search forms, a form builder with accompanying JS libraries, a DSL for JSON serializers, scaffold generators, schemaless properties and CRUD broadcasters for ActiveRecord models, PDF generation…"
