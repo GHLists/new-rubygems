@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 10:20 UTC
+## Latest list — 2026-11-24 11:21 UTC
 
-New gems created between 2026-11-24 09:18 UTC and 2026-11-24 10:20 UTC.
+New gems created between 2026-11-24 10:20 UTC and 2026-11-24 11:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T10-20-02-432336Z.csv)
+[Full CSV](data/new-gems-2026-11-24T11-21-24-363006Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 09:21:55 | [solidus_foudra](https://rubygems.org/gems/solidus_foudra) | 0.2.0 | Kalopa Robotics Limited | Apache-2.0 | Sends each completed Solidus order to Foudra MRP as a sales order on the shop's… |
+| 2026-11-24 10:29:12 | [yard-md](https://rubygems.org/gems/yard-md) | 0.0.1 | Yevhenii Hurin | MIT | Reads a gem's own documentation with YARD — its source comments and the prose f… |
+| 2026-11-24 10:47:09 | [solidus_foudra](https://rubygems.org/gems/solidus_foudra) | 0.3.1 | Kalopa Robotics Limited | Apache-2.0 | Sends each completed Solidus order to Foudra MRP as a sales order on the shop's… |
 
 ## Data source
 

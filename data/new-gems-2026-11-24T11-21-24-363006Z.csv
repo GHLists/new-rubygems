@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T10:29:12.908Z,yard-md,0.0.1,56,Yevhenii Hurin,MIT,"Reads a gem's own documentation with YARD — its source comments and the prose files it ships — and writes it as Markdown pages, one per class or module, made to be read and searched by people and coding agents."
+2026-11-24T10:47:09.063Z,solidus_foudra,0.3.1,55,Kalopa Robotics Limited,Apache-2.0,"Sends each completed Solidus order to Foudra MRP as a sales order on the shop's channel (and cancels it there when it is cancelled here), and keeps the shop's stock, products, prices and shipments in step with Foudra through its webhooks and a nightly full pass."
