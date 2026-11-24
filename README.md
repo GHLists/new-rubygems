@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 20:20 UTC
+## Latest list — 2026-11-24 21:19 UTC
 
-New gems created between 2026-11-24 19:22 UTC and 2026-11-24 20:20 UTC.
+New gems created between 2026-11-24 20:20 UTC and 2026-11-24 21:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T20-20-49-61221Z.csv)
+[Full CSV](data/new-gems-2026-11-24T21-19-26-128839Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 20:11:51 | [activerecord-rls](https://rubygems.org/gems/activerecord-rls) | 0.1.0 | James Fawks | MIT | Manage PostgreSQL row level security from Rails: reversible migrations for role… |
+| 2026-11-24 20:49:55 | [mygeocode](https://rubygems.org/gems/mygeocode) | 1.1.1 | My Geocode | MIT | Forward and reverse geocoding, address autocomplete, IPv4 and IPv6 lookup, time… |
 
 ## Data source
 

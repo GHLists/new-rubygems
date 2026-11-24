@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T20:49:55.304Z,mygeocode,1.1.1,51,My Geocode,MIT,"Forward and reverse geocoding, address autocomplete, IPv4 and IPv6 lookup, timezones, elevation and postal codes from the My Geocode API. Standard library only (Net::HTTP and json), Ruby 2.4 and newer; the API key is optional."
