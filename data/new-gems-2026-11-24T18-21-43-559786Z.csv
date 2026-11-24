@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T17:22:47.059Z,lessormq,0.4.11,84,LessorMQ,Apache-2.0,"Ruby client and worker for LessorMQ, the message queue over HTTP where the server decides and clients only claim, run, ack or fail"
+2026-11-24T17:22:48.04Z,lessormq-rails,0.4.11,83,LessorMQ,Apache-2.0,"ActiveJob adapter and worker for LessorMQ: the queue decides retries, delays and dead-lettering; Rails only enqueues and runs jobs"
+2026-11-24T17:25:07.901Z,gob-lang,1.0.0,139,Nathan Kidd,Apache-2.0,Don't even worry about it... it's not for you.
+2026-11-24T17:25:07.901Z,gob-lang,1.0.0,139,Nathan Kidd,Apache-2.0,Don't even worry about it... it's not for you.
+2026-11-24T17:25:07.901Z,gob-lang,1.0.0,139,Nathan Kidd,Apache-2.0,Don't even worry about it... it's not for you.
+2026-11-24T17:25:07.901Z,gob-lang,1.0.0,139,Nathan Kidd,Apache-2.0,Don't even worry about it... it's not for you.
+2026-11-24T17:25:07.901Z,gob-lang,1.0.0,139,Nathan Kidd,Apache-2.0,Don't even worry about it... it's not for you.
+2026-11-24T17:25:07.901Z,gob-lang,1.0.0,139,Nathan Kidd,Apache-2.0,Don't even worry about it... it's not for you.

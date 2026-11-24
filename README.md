@@ -9,16 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 17:18 UTC
+## Latest list — 2026-11-24 18:21 UTC
 
-New gems created between 2026-11-24 16:18 UTC and 2026-11-24 17:18 UTC.
+New gems created between 2026-11-24 17:18 UTC and 2026-11-24 18:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T17-18-46-165834Z.csv)
+[Full CSV](data/new-gems-2026-11-24T18-21-43-559786Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 16:47:04 | [ai_alt_text](https://rubygems.org/gems/ai_alt_text) | 0.1.0 | Jibran Usman | MIT | Generates short, accessible alt text for images through RubyLLM. Works standalo… |
-| 2026-11-24 17:04:38 | [satee](https://rubygems.org/gems/satee) | 0.0.1 | Satee | MIT | Placeholder release reserving the satee gem name. |
+| 2026-11-24 17:22:47 | [lessormq](https://rubygems.org/gems/lessormq) | 0.4.11 | LessorMQ | Apache-2.0 | Ruby client and worker for LessorMQ, the message queue over HTTP where the serv… |
+| 2026-11-24 17:22:48 | [lessormq-rails](https://rubygems.org/gems/lessormq-rails) | 0.4.11 | LessorMQ | Apache-2.0 | ActiveJob adapter and worker for LessorMQ: the queue decides retries, delays an… |
+| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
+| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
+| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
+| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
+| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
+| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
 
 ## Data source
 
