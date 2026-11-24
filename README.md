@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 12:20 UTC
+## Latest list — 2026-11-24 13:20 UTC
 
-New gems created between 2026-11-24 11:21 UTC and 2026-11-24 12:20 UTC.
+New gems created between 2026-11-24 12:20 UTC and 2026-11-24 13:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T12-20-27-39726Z.csv)
+[Full CSV](data/new-gems-2026-11-24T13-20-25-480119Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 11:57:22 | [gubbins-rails](https://rubygems.org/gems/gubbins-rails) | 0.1.0 | Jan-Christian Foeh | EUPL-1.2 | A Rails engine which codifies a way of working: builders for table lists, tab a… |
+| 2026-11-24 12:23:07 | [solid_queue_board](https://rubygems.org/gems/solid_queue_board) | 0.1.0 | Riccardo Zanotelli | MIT | Mountable Rails engine to inspect and operate Solid Queue: jobs by state, filte… |
+| 2026-11-24 12:47:54 | [coding-tools-mcp-desktop](https://rubygems.org/gems/coding-tools-mcp-desktop) | 1.0.0 | CTM Desk | Apache-2.0 | Local-first desktop app for managing Coding Tools MCP runtimes and workspaces (… |
+| 2026-11-24 12:54:53 | [fatty-curses](https://rubygems.org/gems/fatty-curses) | 1.7.0.1 | Shugo Maeda, Eric Hodel, Dani… | Ruby; BSD-2-Clause | A fork of ruby/curses adding Curses.endwin for temporary terminal suspension wi… |
+| 2026-11-24 13:02:46 | [touchque-device-risk](https://rubygems.org/gems/touchque-device-risk) | 1.0.0 | Touchque | MIT | Server SDK for Touchque Device Risk: a visitor ID for every browser on your sig… |
 
 ## Data source
 
