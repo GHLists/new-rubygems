@@ -9,22 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 18:21 UTC
+## Latest list — 2026-11-24 19:22 UTC
 
-New gems created between 2026-11-24 17:18 UTC and 2026-11-24 18:21 UTC.
+New gems created between 2026-11-24 18:21 UTC and 2026-11-24 19:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T18-21-43-559786Z.csv)
+[Full CSV](data/new-gems-2026-11-24T19-22-02-513886Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 17:22:47 | [lessormq](https://rubygems.org/gems/lessormq) | 0.4.11 | LessorMQ | Apache-2.0 | Ruby client and worker for LessorMQ, the message queue over HTTP where the serv… |
-| 2026-11-24 17:22:48 | [lessormq-rails](https://rubygems.org/gems/lessormq-rails) | 0.4.11 | LessorMQ | Apache-2.0 | ActiveJob adapter and worker for LessorMQ: the queue decides retries, delays an… |
-| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
-| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
-| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
-| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
-| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
-| 2026-11-24 17:25:07 | [gob-lang](https://rubygems.org/gems/gob-lang) | 1.0.0 | Nathan Kidd | Apache-2.0 | Don't even worry about it... it's not for you. |
+| 2026-11-24 19:07:09 | [liquid5-c](https://rubygems.org/gems/liquid5-c) | 5.1.0 | Justin Li, Dylan Thacker-Smit… | MIT | Native parser and rendering VM for Liquid 5.14.0 |
 
 ## Data source
 
