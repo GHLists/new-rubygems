@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 06:19 UTC
+## Latest list — 2026-11-24 08:19 UTC
 
-New gems created between 2026-11-24 05:19 UTC and 2026-11-24 06:19 UTC.
+New gems created between 2026-11-24 07:21 UTC and 2026-11-24 08:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T06-19-41-840438Z.csv)
+[Full CSV](data/new-gems-2026-11-24T08-19-16-353732Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 05:29:23 | [sovgate](https://rubygems.org/gems/sovgate) | 0.0.1 | Sovgate, Inc. |  | Official Sovgate Ruby SDK. Coming soon. |
-| 2026-11-24 06:13:03 | [tacsa](https://rubygems.org/gems/tacsa) | 1.0.0 | TACSA — Compañía de Transport… | MIT | Helpers for TACSA. Official: https://tacsa.com.ec/expresos-escolares/ |
+| 2026-11-24 07:43:16 | [vp-login](https://rubygems.org/gems/vp-login) | 0.4.2 | Volopay | MIT | Relying-party integration for vpLogin (OIDC login, ID token verification, admin… |
+| 2026-11-24 07:50:06 | [warungkopipurnama](https://rubygems.org/gems/warungkopipurnama) | 1.0.0 | Warung Kopi Purnama — kopi le… | MIT | Helpers for Warung Kopi Purnama. Official: https://warungkopipurnama.com/ |
+| 2026-11-24 07:52:56 | [fast-embeddings](https://rubygems.org/gems/fast-embeddings) | 0.1.0 | Eric Jacobs | MIT | Fast::Embeddings speaks the OpenAI embeddings wire. One wire protocol, one POST… |
+| 2026-11-24 08:01:36 | [db_parity](https://rubygems.org/gems/db_parity) | 3.6.0 | Dan Croak, Geoff Harcourt | MIT | Development/staging/production parity makes it easier for those who write the c… |
 
 ## Data source
 

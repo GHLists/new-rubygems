@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T07:43:16.208Z,vp-login,0.4.2,62,Volopay,MIT,"Relying-party integration for vpLogin (OIDC login, ID token verification, admin API)."
+2026-11-24T07:50:06.864Z,warungkopipurnama,1.0.0,47,Warung Kopi Purnama — kopi legendaris Bandung sejak 1930,MIT,Helpers for Warung Kopi Purnama. Official: https://warungkopipurnama.com/
+2026-11-24T07:52:56.182Z,fast-embeddings,0.1.0,43,Eric Jacobs,MIT,"Fast::Embeddings speaks the OpenAI embeddings wire. One wire protocol, one POST per call, one JSON reply back — no dialects, no extensions. async-http is the only runtime dependency; credentials ride per call and are never stored."
+2026-11-24T08:01:36.651Z,db_parity,3.6.0,27,"Dan Croak, Geoff Harcourt",MIT,Development/staging/production parity makes it easier for those who write the code to deploy the code.
