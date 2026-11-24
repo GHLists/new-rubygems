@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T22:28:19.753Z,ampost,0.1.0,74,Ampost,MIT,"Publish, schedule and track social media posts with one API call. Every endpoint of the Ampost REST API, generated from its OpenAPI document, with retries, idempotency keys, typed errors, pagination and media upload. No runtime dependencies."
+2026-11-24T22:29:07.129Z,llm.rb-datacircle,0.1.0,64,Wayne Hamadi,MIT,"Four llm.rb tools on Datacircle's open API, with no key: list the GTM APIs, the best plans of one API, a search of every plan and one provider's ranks. We benchmark all the GTM APIs and we put the results on our website: https://datacircle.dev"
+2026-11-24T22:38:06.268Z,prepost,0.1.0,62,Alex,MIT,Adds design-by-contract runtime checks to Ruby methods.
