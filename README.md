@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 19:22 UTC
+## Latest list — 2026-11-24 20:20 UTC
 
-New gems created between 2026-11-24 18:21 UTC and 2026-11-24 19:22 UTC.
+New gems created between 2026-11-24 19:22 UTC and 2026-11-24 20:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T19-22-02-513886Z.csv)
+[Full CSV](data/new-gems-2026-11-24T20-20-49-61221Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 19:07:09 | [liquid5-c](https://rubygems.org/gems/liquid5-c) | 5.1.0 | Justin Li, Dylan Thacker-Smit… | MIT | Native parser and rendering VM for Liquid 5.14.0 |
+| 2026-11-24 20:11:51 | [activerecord-rls](https://rubygems.org/gems/activerecord-rls) | 0.1.0 | James Fawks | MIT | Manage PostgreSQL row level security from Rails: reversible migrations for role… |
 
 ## Data source
 
