@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T16:47:04.972Z,ai_alt_text,0.1.0,47,Jibran Usman,MIT,"Generates short, accessible alt text for images through RubyLLM. Works standalone or with ActiveStorage, using your own provider and API key."
+2026-11-24T17:04:38.626Z,satee,0.0.1,26,Satee,MIT,Placeholder release reserving the satee gem name.

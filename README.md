@@ -9,26 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 16:18 UTC
+## Latest list — 2026-11-24 17:18 UTC
 
-New gems created between 2026-11-24 15:19 UTC and 2026-11-24 16:18 UTC.
+New gems created between 2026-11-24 16:18 UTC and 2026-11-24 17:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T16-18-57-95328Z.csv)
+[Full CSV](data/new-gems-2026-11-24T17-18-46-165834Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 15:19:59 | [rate_guard](https://rubygems.org/gems/rate_guard) | 0.1.0 | Luka Tchelidze | MIT | Thread-safe rate limiters (token bucket, leaky bucket meter and queue, fixed wi… |
-| 2026-11-24 15:43:19 | [liquid5-c](https://rubygems.org/gems/liquid5-c) | 5.0.0 | Justin Li, Dylan Thacker-Smit… | MIT | Native parser and rendering VM for Liquid 5.14.0 |
-| 2026-11-24 16:03:42 | [connectrpc-hyper](https://rubygems.org/gems/connectrpc-hyper) | 0.3.0 | jimeh | MIT | Connect and native gRPC calls of every shape from any Ruby thread, over one sha… |
-| 2026-11-24 16:03:42 | [connectrpc-hyper](https://rubygems.org/gems/connectrpc-hyper) | 0.3.0 | jimeh | MIT | Connect and native gRPC calls of every shape from any Ruby thread, over one sha… |
-| 2026-11-24 16:03:42 | [connectrpc-hyper](https://rubygems.org/gems/connectrpc-hyper) | 0.3.0 | jimeh | MIT | Connect and native gRPC calls of every shape from any Ruby thread, over one sha… |
-| 2026-11-24 16:03:42 | [connectrpc-hyper](https://rubygems.org/gems/connectrpc-hyper) | 0.3.0 | jimeh | MIT | Connect and native gRPC calls of every shape from any Ruby thread, over one sha… |
-| 2026-11-24 16:03:42 | [connectrpc-hyper](https://rubygems.org/gems/connectrpc-hyper) | 0.3.0 | jimeh | MIT | Connect and native gRPC calls of every shape from any Ruby thread, over one sha… |
-| 2026-11-24 16:03:42 | [connectrpc-hyper](https://rubygems.org/gems/connectrpc-hyper) | 0.3.0 | jimeh | MIT | Connect and native gRPC calls of every shape from any Ruby thread, over one sha… |
-| 2026-11-24 16:03:42 | [connectrpc-hyper](https://rubygems.org/gems/connectrpc-hyper) | 0.3.0 | jimeh | MIT | Connect and native gRPC calls of every shape from any Ruby thread, over one sha… |
-| 2026-11-24 16:03:42 | [connectrpc-hyper](https://rubygems.org/gems/connectrpc-hyper) | 0.3.0 | jimeh | MIT | Connect and native gRPC calls of every shape from any Ruby thread, over one sha… |
-| 2026-11-24 16:03:42 | [connectrpc-hyper](https://rubygems.org/gems/connectrpc-hyper) | 0.3.0 | jimeh | MIT | Connect and native gRPC calls of every shape from any Ruby thread, over one sha… |
-| 2026-11-24 16:16:07 | [rage-pulse](https://rubygems.org/gems/rage-pulse) | 0.1.0 | Roman Samoilov | MIT | Stateful, reactive views for Ruby, built with Phlex and Rage |
+| 2026-11-24 16:47:04 | [ai_alt_text](https://rubygems.org/gems/ai_alt_text) | 0.1.0 | Jibran Usman | MIT | Generates short, accessible alt text for images through RubyLLM. Works standalo… |
+| 2026-11-24 17:04:38 | [satee](https://rubygems.org/gems/satee) | 0.0.1 | Satee | MIT | Placeholder release reserving the satee gem name. |
 
 ## Data source
 
