@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T03:18:46.368Z,coridoc,3.0.1,0,Ribose Inc.,MIT,"Coridoc provides a hub-and-spoke architecture for document transformations. The CoreModel serves as the canonical, format-agnostic representation, enabling transformations between AsciiDoc, HTML, Markdown, and more."
+2026-11-24T03:18:51.175Z,coridoc-adoc,2.0.37,0,Ribose Inc.,MIT,"AsciiDoc Document Model, Parser, and Serializer for the Coridoc document transformation framework. Provides bidirectional transformation between AsciiDoc and CoreModel."
+2026-11-24T03:19:02.547Z,coridoc-markdown,1.0.16,0,Ribose Inc.,MIT,"Provides Markdown parsing and serialization capabilities for Coridoc. Includes the Markdown Document Model, a CommonMark-compliant Parsanol-based parser, and round-trip capable serializer."
+2026-11-24T03:19:06.322Z,coridoc-docx,0.1.7,0,Ribose Inc.,MIT,Provides OOXML (DOCX) to CoreModel transformation for the Coridoc document transformation hub. Uses Uniword to read DOCX files and transforms the OOXML model tree to Coridoc::CoreModel.
+2026-11-24T03:19:11.405Z,coridoc-mirror,0.1.12,0,Ribose Inc.,MIT,"Transforms Coridoc CoreModel documents into ProseMirror-compatible JSON/YAML suitable for rich frontend rendering with Vue.js, React, or any ProseMirror-based editor."
+2026-11-24T03:19:17.599Z,coridoc-html,1.1.24,0,Ribose Inc.,MIT,Provides HTML to AsciiDoc conversion and AsciiDoc to HTML rendering with both classic and modern Vue.js SPA themes
