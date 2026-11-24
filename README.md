@@ -9,18 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 13:20 UTC
+## Latest list — 2026-11-24 14:21 UTC
 
-New gems created between 2026-11-24 12:20 UTC and 2026-11-24 13:20 UTC.
+New gems created between 2026-11-24 13:20 UTC and 2026-11-24 14:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T13-20-25-480119Z.csv)
+[Full CSV](data/new-gems-2026-11-24T14-21-54-657206Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 12:23:07 | [solid_queue_board](https://rubygems.org/gems/solid_queue_board) | 0.1.0 | Riccardo Zanotelli | MIT | Mountable Rails engine to inspect and operate Solid Queue: jobs by state, filte… |
-| 2026-11-24 12:47:54 | [coding-tools-mcp-desktop](https://rubygems.org/gems/coding-tools-mcp-desktop) | 1.0.0 | CTM Desk | Apache-2.0 | Local-first desktop app for managing Coding Tools MCP runtimes and workspaces (… |
-| 2026-11-24 12:54:53 | [fatty-curses](https://rubygems.org/gems/fatty-curses) | 1.7.0.1 | Shugo Maeda, Eric Hodel, Dani… | Ruby; BSD-2-Clause | A fork of ruby/curses adding Curses.endwin for temporary terminal suspension wi… |
-| 2026-11-24 13:02:46 | [touchque-device-risk](https://rubygems.org/gems/touchque-device-risk) | 1.0.0 | Touchque | MIT | Server SDK for Touchque Device Risk: a visitor ID for every browser on your sig… |
+| 2026-11-24 13:34:57 | [cbox_billing](https://rubygems.org/gems/cbox_billing) | 0.2.1 | Cbox | MIT | Generated from the Cbox Billing OpenAPI contract, with a hot-path enforcement c… |
+| 2026-11-24 14:02:46 | [solid_queue_board](https://rubygems.org/gems/solid_queue_board) | 0.1.1 | Riccardo Zanotelli | MIT | Mountable Rails engine to inspect and operate Solid Queue: jobs by state, filte… |
+| 2026-11-24 14:05:41 | [lessormq](https://rubygems.org/gems/lessormq) | 0.4.10 | LessorMQ | Apache-2.0 | Ruby client and worker for LessorMQ, the message queue over HTTP where the serv… |
+| 2026-11-24 14:05:42 | [lessormq-rails](https://rubygems.org/gems/lessormq-rails) | 0.4.10 | LessorMQ | Apache-2.0 | ActiveJob adapter and worker for LessorMQ: the queue decides retries, delays an… |
+| 2026-11-24 14:08:14 | [yard-md](https://rubygems.org/gems/yard-md) | 0.1.0 | Yevhenii Hurin | MIT | Reads a gem's own documentation with YARD — its source comments and the prose f… |
+| 2026-11-24 14:09:24 | [mundosms](https://rubygems.org/gems/mundosms) | 1.2.0 | MundoSMS | MIT | Firma cada petición, pone una Idempotency-Key en cada POST, reintenta solo lo q… |
+| 2026-11-24 14:16:04 | [updateforge](https://rubygems.org/gems/updateforge) | 0.0.0 | BRABEG UG (haftungsbeschränkt) |  | Placeholder that reserves the name. The UpdateForge Ruby client is in developme… |
 
 ## Data source
 
