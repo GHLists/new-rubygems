@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 21:19 UTC
+## Latest list — 2026-11-24 22:19 UTC
 
-New gems created between 2026-11-24 20:20 UTC and 2026-11-24 21:19 UTC.
+New gems created between 2026-11-24 21:19 UTC and 2026-11-24 22:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T21-19-26-128839Z.csv)
+[Full CSV](data/new-gems-2026-11-24T22-19-48-290924Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 20:49:55 | [mygeocode](https://rubygems.org/gems/mygeocode) | 1.1.1 | My Geocode | MIT | Forward and reverse geocoding, address autocomplete, IPv4 and IPv6 lookup, time… |
+| 2026-11-24 22:16:47 | [mundosms](https://rubygems.org/gems/mundosms) | 2.0.0 | MundoSMS | MIT | Firma cada petición, pone una Idempotency-Key en cada POST, reintenta solo lo q… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-24T22:16:47.731Z,mundosms,2.0.0,0,MundoSMS,MIT,"Firma cada petición, pone una Idempotency-Key en cada POST, reintenta solo lo que es seguro repetir, recorre los listados por su cursor y comprueba la firma de los avisos. Un solo fichero, sin dependencias."
