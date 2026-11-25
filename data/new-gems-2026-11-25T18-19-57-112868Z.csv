@@ -1,0 +1,22 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-25T17:19:49.437Z,siangmalamjuanda,1.0.0,73,Siang Malam Juanda — nasi Padang dekat Stasiun Juanda,MIT,Helpers for Siang Malam Juanda. Official: https://siangmalamjuanda.com/
+2026-11-25T17:20:11.9Z,tohangsbarber,1.0.0,64,Tohangs Barber — barbershop 8 cabang Jakarta sejak 2014,MIT,Helpers for Tohangs Barber. Official: https://tohangsbarber.com/
+2026-11-25T17:20:29.042Z,beckandford,1.0.0,64,Beck and Ford — barber & coffee Matraman & Pondok Kelapa,MIT,Helpers for Beck and Ford. Official: https://beckandford.com/
+2026-11-25T17:20:40.551Z,frisorcoffee,1.0.0,65,Frisor Coffee and Barbershop — Pasar Baru Jakarta,MIT,Helpers for Frisor Coffee and Barbershop. Official: https://frisorcoffee.com/
+2026-11-25T17:20:59.476Z,dibaountuang,1.0.0,65,Dibao Untuang — asam padeh tunjang Kebon Kacang sejak 1975,MIT,Helpers for Dibao Untuang. Official: https://dibaountuang.com/
+2026-11-25T17:21:23.943Z,lapaunasijaya,1.0.0,68,Lapau Nasi Jaya — nasi Padang Menteng buka malam,MIT,Helpers for Lapau Nasi Jaya. Official: https://lapaunasijaya.com/
+2026-11-25T17:21:46.945Z,rmsepakat,1.0.0,64,RM Sepakat — nasi Padang Blok M Melawai sejak 1967,MIT,Helpers for RM Sepakat. Official: https://rmsepakat.com/
+2026-11-25T17:22:07.506Z,kokabarber,1.0.0,66,Koka Barber — makan & cukur Menteng Pulo,MIT,Helpers for Koka Barber. Official: https://kokabarber.com/
+2026-11-25T17:22:22.7Z,gothambarber,1.0.0,66,Gotham Barber & Coffee — Cilandak Timur,MIT,Helpers for Gotham Barber & Coffee. Official: https://gothambarber.com/
+2026-11-25T17:22:38.345Z,didybarber,1.0.0,69,Didy Barber — barbershop Pejaten Barat Amil,MIT,Helpers for Didy Barber. Official: https://didybarber.com/
+2026-11-25T17:23:00.756Z,nasiudukposuri,1.0.0,66,Nasi Uduk Po Suri — sarapan Betawi Petukangan,MIT,Helpers for Nasi Uduk Po Suri. Official: https://nasiudukposuri.com/
+2026-11-25T17:23:22.931Z,didycoffee,1.0.0,67,Didy Coffee — coffee bar Pejaten Barat,MIT,Helpers for Didy Coffee. Official: https://didycoffee.com/
+2026-11-25T17:23:45.824Z,indonesianpremierleague,1.0.0,70,Indonesian Premier League — berita bola Eropa & Indonesia,MIT,Helpers for Indonesian Premier League. Official: https://indonesianpremierleague.com/
+2026-11-25T17:24:00.292Z,kamasancafe,1.0.0,66,The Kamasan — pizza & coffee Bandung Wetan,MIT,Helpers for The Kamasan. Official: https://kamasancafe.com/
+2026-11-25T17:24:15.232Z,pensil,1.0.0,70,Pensil.id — informasi edukasi mudah dipahami,MIT,Helpers for Pensil.id. Official: https://pensil.id/
+2026-11-25T17:24:37.702Z,semoetcafe,1.0.0,68,Semoet Cafe — coffee & eatery Cimanggis Depok,MIT,Helpers for Semoet Cafe. Official: https://semoetcafe.id/
+2026-11-25T17:24:51.73Z,sepakatmayestik,1.0.0,67,RM Sepakat Mayestik — gulai gajebo Pasar Mayestik sejak 1967,MIT,Helpers for RM Sepakat Mayestik. Official: https://sepakatmayestik.com/
+2026-11-25T17:25:16.216Z,bakmikota21,1.0.0,63,Bakmi Kota 21 — bakmi bakar Hayam Wuruk Mangga Besar,MIT,Helpers for Bakmi Kota 21. Official: https://bakmikota21.com/
+2026-11-25T17:43:39.501Z,zapz,0.1.4,114,ZapZ,MIT,Official Ruby SDK for the ZapZ WhatsApp API
+2026-11-25T17:48:00.088Z,cetprorosa,1.0.0,43,CETPRO Rosa de América — educación técnico productiva Lima,MIT,Helpers for CETPRO Rosa de América. Official: https://cetprorosa.com.pe/aulavirtual/
+2026-11-25T18:13:05.176Z,jesus_christ,0.1.4,4,Fewer Cards,MIT,"Provides prayers, scripture blessings, and spiritual protection helpers for Ruby and Rails. Usage: JesusChrist.help, JesusChrist.protect!, JesusChrist.pray, JesusChrist.lords_prayer, JesusChrist.apostles_creed, JesusChrist.pray_all."
