@@ -9,18 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 12:21 UTC
+## Latest list — 2026-11-25 13:19 UTC
 
-New gems created between 2026-11-25 11:19 UTC and 2026-11-25 12:21 UTC.
+New gems created between 2026-11-25 12:21 UTC and 2026-11-25 13:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-25T12-21-27-093961Z.csv)
+[Full CSV](data/new-gems-2026-11-25T13-19-07-411738Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-25 11:26:13 | [restep](https://rubygems.org/gems/restep) | 0.3.0 | wubytes | MIT | Query parsing, filters, cursors, ETags and conditional requests, idempotency, d… |
-| 2026-11-25 11:30:53 | [fuchikoma](https://rubygems.org/gems/fuchikoma) | 0.0.2 | Kevin Saison | MIT | Fuchikoma is a Ruby framework for one-process web applications: every request,… |
-| 2026-11-25 12:04:24 | [logsafe](https://rubygems.org/gems/logsafe) | 0.2.0 | tin.trung.duong | MIT | Keep your Docker containers' logs in S3, Google Cloud Storage or a folder, with… |
-| 2026-11-25 12:20:30 | [decidim-skin](https://rubygems.org/gems/decidim-skin) | 0.0.1 | hadrien@octree.ch | AGPL-3.0 | System settings tab (via decidim-toggle) to set the tenant homepage and to hide… |
+| 2026-11-25 12:28:08 | [decidim-culturoscope](https://rubygems.org/gems/decidim-culturoscope) | 0.1.0 | Hadrien Froger | AGPL-3.0 | Public JSON flux Culturoscope pulls from bound Meetings components. |
+| 2026-11-25 12:31:49 | [decidim-zitadel](https://rubygems.org/gems/decidim-zitadel) | 0.1.0 | Hadrien Froger | AGPL-3.0 | Binds each Decidim organization to Zitadel via Toggle (issuer + OIDC client). U… |
+| 2026-11-25 12:46:42 | [decidim-telemetry](https://rubygems.org/gems/decidim-telemetry) | 0.1.0 | Hadrien Froger | AGPL-3.0 | Prometheus metrics, health probes, and OpenTelemetry (traces, logs, exceptions)… |
+| 2026-11-25 12:47:41 | [decidim-extra_blocks](https://rubygems.org/gems/decidim-extra_blocks) | 0.1.0 | Hadrien Froger | AGPL-3.0 | Extra Blocks adds a gallery of frozen layouts (CTA, Hero, Fast Proposal, …) for… |
+| 2026-11-25 13:14:47 | [pave_ai](https://rubygems.org/gems/pave_ai) | 0.1.0 | Nauman Tariq | MIT | PaveAI is a mountable Rails engine that provides AI chat orchestration, multi-p… |
+| 2026-11-25 13:17:43 | [ceradoc-adoc](https://rubygems.org/gems/ceradoc-adoc) | 2.0.38 | Ribose Inc. | MIT | AsciiDoc Document Model, Parser, and Serializer for the Ceradoc document transf… |
 
 ## Data source
 

@@ -1,0 +1,7 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-25T12:28:08.891Z,decidim-culturoscope,0.1.0,53,Hadrien Froger,AGPL-3.0,Public JSON flux Culturoscope pulls from bound Meetings components.
+2026-11-25T12:31:49.724Z,decidim-zitadel,0.1.0,54,Hadrien Froger,AGPL-3.0,Binds each Decidim organization to Zitadel via Toggle (issuer + OIDC client). Uses ActiveRecord sessions and omniauth_openid_connect.
+2026-11-25T12:46:42.587Z,decidim-telemetry,0.1.0,46,Hadrien Froger,AGPL-3.0,"Prometheus metrics, health probes, and OpenTelemetry (traces, logs, exceptions) for Decidim"
+2026-11-25T12:47:41.259Z,decidim-extra_blocks,0.1.0,50,Hadrien Froger,AGPL-3.0,"Extra Blocks adds a gallery of frozen layouts (CTA, Hero, Fast Proposal, …) for organization, participatory process, and assembly homepages."
+2026-11-25T13:14:47.087Z,pave_ai,0.1.0,0,Nauman Tariq,MIT,"PaveAI is a mountable Rails engine that provides AI chat orchestration, multi-provider LLM client, three-gate governance, credit management, persona system, and vector search."
+2026-11-25T13:17:43.122Z,ceradoc-adoc,2.0.38,0,Ribose Inc.,MIT,"AsciiDoc Document Model, Parser, and Serializer for the Ceradoc document transformation framework. Provides bidirectional transformation between AsciiDoc and CoreModel."
