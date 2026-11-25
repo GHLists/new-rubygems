@@ -1,0 +1,13 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-25T09:25:25.015Z,decidim-restfull,0.3.11,63,Hadrien Froger,AGPL-3.0,Requires decidim-restfull-core and official decidim-restfull-* feature gems.
+2026-11-25T09:25:27.535Z,decidim-restfull-core,0.3.11,106,Hadrien Froger,AGPL-3.0,"Decidim RestFull API — core (OAuth, registries, system routes)"
+2026-11-25T09:25:29.39Z,decidim-restfull-accountabilities,0.3.11,56,Hadrien Froger,AGPL-3.0,Decidim RestFull API — accountability results
+2026-11-25T09:25:31.704Z,decidim-restfull-blogs,0.3.11,66,Hadrien Froger,AGPL-3.0,Decidim RestFull API — blogs
+2026-11-25T09:25:34.188Z,decidim-restfull-budgets,0.3.11,60,Hadrien Froger,AGPL-3.0,Decidim RestFull API — budgets
+2026-11-25T09:25:36.301Z,decidim-restfull-debates,0.3.11,67,Hadrien Froger,AGPL-3.0,Decidim RestFull API — debates
+2026-11-25T09:25:38.212Z,decidim-restfull-meetings,0.3.11,63,Hadrien Froger,AGPL-3.0,Decidim RestFull API — meetings (+ upcoming reminder webhooks)
+2026-11-25T09:25:40.14Z,decidim-restfull-proposals,0.3.11,67,Hadrien Froger,AGPL-3.0,"Decidim RestFull API — proposals, drafts, votes"
+2026-11-25T09:25:41.917Z,decidim-restfull-surveys,0.3.11,71,Hadrien Froger,AGPL-3.0,Decidim RestFull API — surveys
+2026-11-25T09:25:43.918Z,decidim-restfull-forms,0.3.11,61,Hadrien Froger,AGPL-3.0,"Decidim RestFull API — questionnaires, JSON Forms, answers"
+2026-11-25T09:28:35.706Z,restep,0.2.0,70,wubytes,MIT,"Query parsing, filters, cursors, ETags and conditional requests, idempotency, discovery (generated or hand-written and validated), subcollections, relations and language maps of Restep 1, with a Rack application and a Rails concern. Data comes from sources: Active Record (optional) or lambdas for r…"
+2026-11-25T10:15:28.512Z,logsafe,0.1.0,0,tin.trung.duong,MIT,"Keep your Docker containers' logs in S3, Google Cloud Storage or a folder, without paying for hosted logging. Vector ships the lines, a background job on any Active Job backend merges each day into one sorted, compressed file, and a page you mount in your app searches them. Lines can be encrypted b…"

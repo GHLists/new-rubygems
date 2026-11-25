@@ -9,31 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 08:21 UTC
+## Latest list — 2026-11-25 10:21 UTC
 
-New gems created between 2026-11-25 07:19 UTC and 2026-11-25 08:21 UTC.
+New gems created between 2026-11-25 09:20 UTC and 2026-11-25 10:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-25T08-21-27-499168Z.csv)
+[Full CSV](data/new-gems-2026-11-25T10-21-06-818178Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-25 07:42:24 | [ceradoc](https://rubygems.org/gems/ceradoc) | 3.0.1 | Ribose Inc. | MIT | Ceradoc provides a hub-and-spoke architecture for document transformations. The… |
-| 2026-11-25 07:42:38 | [ceradoc-adoc](https://rubygems.org/gems/ceradoc-adoc) | 2.0.37 | Ribose Inc. | MIT | AsciiDoc Document Model, Parser, and Serializer for the Ceradoc document transf… |
-| 2026-11-25 07:43:01 | [ceradoc-markdown](https://rubygems.org/gems/ceradoc-markdown) | 1.0.17 | Ribose Inc. | MIT | Provides Markdown parsing and serialization capabilities for Ceradoc. Includes… |
-| 2026-11-25 07:43:12 | [ceradoc-docx](https://rubygems.org/gems/ceradoc-docx) | 0.1.7 | Ribose Inc. | MIT | Provides OOXML (DOCX) to CoreModel transformation for the Ceradoc document tran… |
-| 2026-11-25 07:43:21 | [ceradoc-mirror](https://rubygems.org/gems/ceradoc-mirror) | 0.1.12 | Ribose Inc. | MIT | Transforms Ceradoc CoreModel documents into ProseMirror-compatible JSON/YAML su… |
-| 2026-11-25 07:43:29 | [ceradoc-html](https://rubygems.org/gems/ceradoc-html) | 1.1.24 | Ribose Inc. | MIT | Provides HTML to AsciiDoc conversion and AsciiDoc to HTML rendering with both c… |
-| 2026-11-25 07:44:12 | [restep](https://rubygems.org/gems/restep) | 0.1.0 | wubytes | MIT | Query parsing, filters and SQL, cursors, ETags and conditional requests, idempo… |
-| 2026-11-25 07:46:33 | [artex-ci-probe](https://rubygems.org/gems/artex-ci-probe) | 0.0.3 | Artex CI | MIT | Tiny package used to verify the publishing pipeline; no runtime code beyond a c… |
-| 2026-11-25 08:03:30 | [rustorb-dds](https://rubygems.org/gems/rustorb-dds) | 0.3.0 | rustorb contributors | MIT; Apache-2.0 | The Ruby binding of rustorb-dds, a DDS implementation written in Rust: particip… |
-| 2026-11-25 08:11:01 | [jsi_util_linux](https://rubygems.org/gems/jsi_util_linux) | 0.0.1 | Ethan | MIT | util-linux utilities represented with JSI |
-| 2026-11-25 08:18:06 | [litebackup](https://rubygems.org/gems/litebackup) | 1.4.0 | Litebackup | MIT | A client of the litebackup daemon on this machine: continuous backups, restores… |
-| 2026-11-25 08:18:06 | [litebackup](https://rubygems.org/gems/litebackup) | 1.4.0 | Litebackup | MIT | A client of the litebackup daemon on this machine: continuous backups, restores… |
-| 2026-11-25 08:18:06 | [litebackup](https://rubygems.org/gems/litebackup) | 1.4.0 | Litebackup | MIT | A client of the litebackup daemon on this machine: continuous backups, restores… |
-| 2026-11-25 08:18:06 | [litebackup](https://rubygems.org/gems/litebackup) | 1.4.0 | Litebackup | MIT | A client of the litebackup daemon on this machine: continuous backups, restores… |
-| 2026-11-25 08:18:06 | [litebackup](https://rubygems.org/gems/litebackup) | 1.4.0 | Litebackup | MIT | A client of the litebackup daemon on this machine: continuous backups, restores… |
-| 2026-11-25 08:18:06 | [litebackup](https://rubygems.org/gems/litebackup) | 1.4.0 | Litebackup | MIT | A client of the litebackup daemon on this machine: continuous backups, restores… |
-| 2026-11-25 08:18:06 | [litebackup](https://rubygems.org/gems/litebackup) | 1.4.0 | Litebackup | MIT | A client of the litebackup daemon on this machine: continuous backups, restores… |
+| 2026-11-25 09:25:25 | [decidim-restfull](https://rubygems.org/gems/decidim-restfull) | 0.3.11 | Hadrien Froger | AGPL-3.0 | Requires decidim-restfull-core and official decidim-restfull-* feature gems. |
+| 2026-11-25 09:25:27 | [decidim-restfull-core](https://rubygems.org/gems/decidim-restfull-core) | 0.3.11 | Hadrien Froger | AGPL-3.0 | Decidim RestFull API — core (OAuth, registries, system routes) |
+| 2026-11-25 09:25:29 | [decidim-restfull-accountabilities](https://rubygems.org/gems/decidim-restfull-accountabilities) | 0.3.11 | Hadrien Froger | AGPL-3.0 | Decidim RestFull API — accountability results |
+| 2026-11-25 09:25:31 | [decidim-restfull-blogs](https://rubygems.org/gems/decidim-restfull-blogs) | 0.3.11 | Hadrien Froger | AGPL-3.0 | Decidim RestFull API — blogs |
+| 2026-11-25 09:25:34 | [decidim-restfull-budgets](https://rubygems.org/gems/decidim-restfull-budgets) | 0.3.11 | Hadrien Froger | AGPL-3.0 | Decidim RestFull API — budgets |
+| 2026-11-25 09:25:36 | [decidim-restfull-debates](https://rubygems.org/gems/decidim-restfull-debates) | 0.3.11 | Hadrien Froger | AGPL-3.0 | Decidim RestFull API — debates |
+| 2026-11-25 09:25:38 | [decidim-restfull-meetings](https://rubygems.org/gems/decidim-restfull-meetings) | 0.3.11 | Hadrien Froger | AGPL-3.0 | Decidim RestFull API — meetings (+ upcoming reminder webhooks) |
+| 2026-11-25 09:25:40 | [decidim-restfull-proposals](https://rubygems.org/gems/decidim-restfull-proposals) | 0.3.11 | Hadrien Froger | AGPL-3.0 | Decidim RestFull API — proposals, drafts, votes |
+| 2026-11-25 09:25:41 | [decidim-restfull-surveys](https://rubygems.org/gems/decidim-restfull-surveys) | 0.3.11 | Hadrien Froger | AGPL-3.0 | Decidim RestFull API — surveys |
+| 2026-11-25 09:25:43 | [decidim-restfull-forms](https://rubygems.org/gems/decidim-restfull-forms) | 0.3.11 | Hadrien Froger | AGPL-3.0 | Decidim RestFull API — questionnaires, JSON Forms, answers |
+| 2026-11-25 09:28:35 | [restep](https://rubygems.org/gems/restep) | 0.2.0 | wubytes | MIT | Query parsing, filters, cursors, ETags and conditional requests, idempotency, d… |
+| 2026-11-25 10:15:28 | [logsafe](https://rubygems.org/gems/logsafe) | 0.1.0 | tin.trung.duong | MIT | Keep your Docker containers' logs in S3, Google Cloud Storage or a folder, with… |
 
 ## Data source
 
