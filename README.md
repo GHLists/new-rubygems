@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 19:22 UTC
+## Latest list — 2026-11-25 20:20 UTC
 
-New gems created between 2026-11-25 18:19 UTC and 2026-11-25 19:22 UTC.
+New gems created between 2026-11-25 19:22 UTC and 2026-11-25 20:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-25T19-22-04-615973Z.csv)
+[Full CSV](data/new-gems-2026-11-25T20-20-08-524394Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-25 19:01:31 | [zapz](https://rubygems.org/gems/zapz) | 0.1.5 | ZapZ | MIT | Official Ruby SDK for the ZapZ WhatsApp API |
+| 2026-11-25 20:16:55 | [aws-sdk-elbproxy](https://rubygems.org/gems/aws-sdk-elbproxy) | 1.0.0 | Amazon Web Services | Apache-2.0 | Official AWS Ruby gem for Elastic Load Balancing for Envoy. This gem is part of… |
 
 ## Data source
 
