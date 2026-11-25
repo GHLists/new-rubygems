@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-25T22:25:21.619Z,musicalism,0.1.0,75,Yann Marquet,MIT,"Notes, scales, chords, keys, modulations and the key graph, for live coding and MIDI"
+2026-11-25T22:25:29.094Z,rcoremidi,0.1.0,75,Yann Marquet,MIT,"A C extension wrapping macOS CoreMIDI: list MIDI devices, entities, sources and destinations, follow an external MIDI clock (Start, Clock, Stop, Continue, Song Position) through hooks on a Client subclass, and schedule timestamped notes with CoreMIDI's host-time scheduler. macOS only."
+2026-11-25T22:25:36.418Z,archaeopteryx,0.1.0,63,StupidCodeFactory <ymarquet@gmail.com>,MIT,"Archaeopteryx is a live coding environment for MIDI: write clips and instruments in Ruby, start a session with `arcx start`, and edit the files while it plays in time with an external MIDI clock. It drives macOS CoreMIDI through the rcoremidi gem."

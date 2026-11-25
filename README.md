@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 22:19 UTC
+## Latest list — 2026-11-25 23:20 UTC
 
-New gems created between 2026-11-25 21:21 UTC and 2026-11-25 22:19 UTC.
+New gems created between 2026-11-25 22:19 UTC and 2026-11-25 23:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-25T22-19-10-455388Z.csv)
+[Full CSV](data/new-gems-2026-11-25T23-20-14-739772Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-25 22:14:32 | [ruby_event_store-outbox_relay](https://rubygems.org/gems/ruby_event_store-outbox_relay) | 0.1.0 | Arkency | MIT | Transactional outbox for Ruby Event Store: per-subscriber outbox tables, and a… |
+| 2026-11-25 22:25:21 | [musicalism](https://rubygems.org/gems/musicalism) | 0.1.0 | Yann Marquet | MIT | Notes, scales, chords, keys, modulations and the key graph, for live coding and… |
+| 2026-11-25 22:25:29 | [rcoremidi](https://rubygems.org/gems/rcoremidi) | 0.1.0 | Yann Marquet | MIT | A C extension wrapping macOS CoreMIDI: list MIDI devices, entities, sources and… |
+| 2026-11-25 22:25:36 | [archaeopteryx](https://rubygems.org/gems/archaeopteryx) | 0.1.0 | StupidCodeFactory <ymarquet@g… | MIT | Archaeopteryx is a live coding environment for MIDI: write clips and instrument… |
 
 ## Data source
 
