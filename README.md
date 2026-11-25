@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 11:19 UTC
+## Latest list — 2026-11-25 12:21 UTC
 
-New gems created between 2026-11-25 10:21 UTC and 2026-11-25 11:19 UTC.
+New gems created between 2026-11-25 11:19 UTC and 2026-11-25 12:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-25T11-19-47-222183Z.csv)
+[Full CSV](data/new-gems-2026-11-25T12-21-27-093961Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-25 11:01:29 | [rspec-puppetlabs-facts](https://rubygems.org/gems/rspec-puppetlabs-facts) | 7.0.0 | Puppet Labs, Vox Pupuli | Apache-2.0 | Contains facts from many Facter 4.x versions on many operating systems for rspe… |
-| 2026-11-25 11:03:48 | [fhir_stub_server](https://rubygems.org/gems/fhir_stub_server) | 0.1.0 | Pavel Rozhkov | Apache-2.0 | Answers only the requests a Scenario declares, serves Demo Data from FHIR packa… |
+| 2026-11-25 11:26:13 | [restep](https://rubygems.org/gems/restep) | 0.3.0 | wubytes | MIT | Query parsing, filters, cursors, ETags and conditional requests, idempotency, d… |
+| 2026-11-25 11:30:53 | [fuchikoma](https://rubygems.org/gems/fuchikoma) | 0.0.2 | Kevin Saison | MIT | Fuchikoma is a Ruby framework for one-process web applications: every request,… |
+| 2026-11-25 12:04:24 | [logsafe](https://rubygems.org/gems/logsafe) | 0.2.0 | tin.trung.duong | MIT | Keep your Docker containers' logs in S3, Google Cloud Storage or a folder, with… |
+| 2026-11-25 12:20:30 | [decidim-skin](https://rubygems.org/gems/decidim-skin) | 0.0.1 | hadrien@octree.ch | AGPL-3.0 | System settings tab (via decidim-toggle) to set the tenant homepage and to hide… |
 
 ## Data source
 
