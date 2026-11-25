@@ -1,0 +1,12 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-25T20:23:21.557Z,utila,0.0.1,68,Utila Security Research,MIT,Namespace placeholder. This gem name is reserved for Utila Inc (utila.io). No functionality. Contact via https://utila.io/.well-known/security.txt
+2026-11-25T20:23:25.851Z,utila-api,0.0.1,62,Utila Security Research,MIT,Namespace placeholder. This gem name is reserved for Utila Inc (utila.io). No functionality. Contact via https://utila.io/.well-known/security.txt
+2026-11-25T20:45:11.736Z,utila-sdk,0.0.1,58,Utila Security Research,MIT,Namespace placeholder. This gem name is reserved for Utila Inc (utila.io). No functionality. Contact via https://utila.io/.well-known/security.txt
+2026-11-25T20:45:16.899Z,utila-cli,0.0.1,56,Utila Security Research,MIT,Namespace placeholder. This gem name is reserved for Utila Inc (utila.io). No functionality. Contact via https://utila.io/.well-known/security.txt
+2026-11-25T20:45:22.146Z,utila-io,0.0.1,59,Utila Security Research,MIT,Namespace placeholder. This gem name is reserved for Utila Inc (utila.io). No functionality. Contact via https://utila.io/.well-known/security.txt
+2026-11-25T20:45:36.31Z,getutila,0.0.1,56,Utila Security Research,MIT,Namespace placeholder. This gem name is reserved for Utila Inc (utila.io). No functionality. Contact via https://utila.io/.well-known/security.txt
+2026-11-25T20:45:41.208Z,utila-wallet,0.0.1,55,Utila Security Research,MIT,Namespace placeholder. This gem name is reserved for Utila Inc (utila.io). No functionality. Contact via https://utila.io/.well-known/security.txt
+2026-11-25T21:10:00.797Z,utila-keychain,0.0.1,12,Utila Security Research,MIT,This gem name is reserved for Utila Inc (https://utila.io). No functionality. Contact: https://utila.io/.well-known/security.txt
+2026-11-25T21:12:57.237Z,utila-mpc,0.0.1,8,Utila Security Research,MIT,This gem name is reserved for Utila Inc (https://utila.io). No functionality. Contact: https://utila.io/.well-known/security.txt
+2026-11-25T21:12:58.597Z,utila-signer,0.0.1,4,Utila Security Research,MIT,This gem name is reserved for Utila Inc (https://utila.io). No functionality. Contact: https://utila.io/.well-known/security.txt
+2026-11-25T21:13:00.563Z,utila-vault,0.0.1,10,Utila Security Research,MIT,This gem name is reserved for Utila Inc (https://utila.io). No functionality. Contact: https://utila.io/.well-known/security.txt
