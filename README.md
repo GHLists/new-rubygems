@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 23:20 UTC
+## Latest list — 2026-11-25 03:21 UTC
 
-New gems created between 2026-11-24 22:19 UTC and 2026-11-24 23:20 UTC.
+New gems created between 2026-11-25 02:20 UTC and 2026-11-25 03:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-24T23-20-22-820223Z.csv)
+[Full CSV](data/new-gems-2026-11-25T03-21-09-964929Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-24 22:28:19 | [ampost](https://rubygems.org/gems/ampost) | 0.1.0 | Ampost | MIT | Publish, schedule and track social media posts with one API call. Every endpoin… |
-| 2026-11-24 22:29:07 | [llm.rb-datacircle](https://rubygems.org/gems/llm.rb-datacircle) | 0.1.0 | Wayne Hamadi | MIT | Four llm.rb tools on Datacircle's open API, with no key: list the GTM APIs, the… |
-| 2026-11-24 22:38:06 | [prepost](https://rubygems.org/gems/prepost) | 0.1.0 | Alex | MIT | Adds design-by-contract runtime checks to Ruby methods. |
+| 2026-11-25 02:48:22 | [retcon](https://rubygems.org/gems/retcon) | 0.0.1 | Love Wins Media, Inc. | MIT | Field-level version history for Active Record models, kept in per-table history… |
+| 2026-11-25 03:02:58 | [unikraft-cloud](https://rubygems.org/gems/unikraft-cloud) | 0.1.0 | Unikraft GmbH | BSD-3-Clause | Client for the Unikraft Cloud platform and control-plane APIs. |
+| 2026-11-25 03:06:33 | [mundosms](https://rubygems.org/gems/mundosms) | 2.1.0 | MundoSMS | MIT | Firma cada petición, pone una Idempotency-Key en cada POST, reintenta solo lo q… |
 
 ## Data source
 

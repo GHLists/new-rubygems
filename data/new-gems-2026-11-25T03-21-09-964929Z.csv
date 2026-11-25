@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-25T02:48:22.062Z,retcon,0.0.1,51,"Love Wins Media, Inc.",MIT,"Field-level version history for Active Record models, kept in per-table history tables with live tables as a fast projection: changesets with full attribution, proposals reviewed before they apply, field-level conflicts, tombstones instead of deletes, reverts of one actor's changes that keep later…"
+2026-11-25T03:02:58.22Z,unikraft-cloud,0.1.0,31,Unikraft GmbH,BSD-3-Clause,Client for the Unikraft Cloud platform and control-plane APIs.
+2026-11-25T03:06:33.267Z,mundosms,2.1.0,25,MundoSMS,MIT,"Firma cada petición, pone una Idempotency-Key en cada POST, reintenta solo lo que es seguro repetir, recorre los listados por su cursor y comprueba la firma de los avisos. Un solo fichero, sin dependencias."
