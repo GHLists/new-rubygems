@@ -9,24 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 14:22 UTC
+## Latest list — 2026-11-25 15:21 UTC
 
-New gems created between 2026-11-25 13:19 UTC and 2026-11-25 14:22 UTC.
+New gems created between 2026-11-25 14:22 UTC and 2026-11-25 15:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-25T14-22-20-552745Z.csv)
+[Full CSV](data/new-gems-2026-11-25T15-21-59-942913Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-25 13:26:28 | [decidim-chatbot](https://rubygems.org/gems/decidim-chatbot) | 0.0.1 | hadrien@octree.ch | AGPL-3.0 | Decidim module: Configuration > Settings > Chatbot admin surface and RestFull E… |
-| 2026-11-25 13:31:46 | [decidim-decidim_better_accountability](https://rubygems.org/gems/decidim-decidim_better_accountability) | 0.2.0 | Hadrien Froger, Renato Silva | AGPL-3.0 | Improvements on the Decidim-Accountabilities module. |
-| 2026-11-25 13:35:03 | [decidim-extra_blocks](https://rubygems.org/gems/decidim-extra_blocks) | 0.1.1 | Hadrien Froger | AGPL-3.0 | Extra Blocks adds a gallery of frozen layouts (CTA, Hero, Fast Proposal, …) for… |
-| 2026-11-25 13:39:17 | [decidim-apartment](https://rubygems.org/gems/decidim-apartment) | 0.2.0 | Hadrien Froger, Renato Silva | AGPL-3.0 | Scale Decidim with Rails on Service Apartment. |
-| 2026-11-25 13:51:44 | [ceradoc-markdown](https://rubygems.org/gems/ceradoc-markdown) | 1.0.18 | Ribose Inc. | MIT | Provides Markdown parsing and serialization capabilities for Ceradoc. Includes… |
-| 2026-11-25 13:54:56 | [minitest-fix](https://rubygems.org/gems/minitest-fix) | 1.0.0 | Cyril Kato | MIT | Minitest::Fix adds two assertions to the tests of minitest: assert_fix :Name, v… |
-| 2026-11-25 13:55:28 | [rspec-fix](https://rubygems.org/gems/rspec-fix) | 1.0.0 | Cyril Kato | MIT | RSpec::Fix adds the word fix to the examples of RSpec: expect(value).to fix(:Na… |
-| 2026-11-25 14:07:53 | [logsafe](https://rubygems.org/gems/logsafe) | 0.3.0 | tin.trung.duong | MIT | Keep your Docker containers' logs in S3, Google Cloud Storage or a folder, with… |
-| 2026-11-25 14:10:32 | [zapz](https://rubygems.org/gems/zapz) | 0.1.0 | ZapZ | MIT | Official Ruby SDK for the ZapZ WhatsApp API |
-| 2026-11-25 14:18:42 | [onaynet](https://rubygems.org/gems/onaynet) | 1.0.0 | OnayNet Telecom Engineering | MIT | Official Ruby SDK for OnayNet REST API v1. Autonomous physical SIM phone number… |
+| 2026-11-25 14:26:13 | [ahasend-rails](https://rubygems.org/gems/ahasend-rails) | 0.1.0 | AhaSend, Aamir Yaqoob | MIT | Send Rails ActionMailer and Ruby Mail messages through the AhaSend HTTP API ins… |
+| 2026-11-25 14:42:36 | [decidim-apartment](https://rubygems.org/gems/decidim-apartment) | 0.2.1 | Hadrien Froger, Renato Silva | AGPL-3.0 | Scale Decidim with Rails on Service Apartment. |
+| 2026-11-25 15:08:09 | [decidim-decidim_better_accountability](https://rubygems.org/gems/decidim-decidim_better_accountability) | 0.2.1 | Hadrien Froger, Renato Silva | AGPL-3.0 | Improvements on the Decidim-Accountabilities module. |
+| 2026-11-25 15:14:20 | [gtm-tool-finder](https://rubygems.org/gems/gtm-tool-finder) | 1.0.0 | OneGTMLab | MIT | Offline search over the OneGTMLab GTM tool directory: API reviews for 66 sales… |
 
 ## Data source
 

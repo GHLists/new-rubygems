@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-25T14:26:13.307Z,ahasend-rails,0.1.0,61,"AhaSend, Aamir Yaqoob",MIT,"Send Rails ActionMailer and Ruby Mail messages through the AhaSend HTTP API instead of SMTP, with support for attachments, tags, tracking, scheduling, sandbox mode and idempotent retries."
+2026-11-25T14:42:36.515Z,decidim-apartment,0.2.1,97,"Hadrien Froger, Renato Silva",AGPL-3.0,Scale Decidim with Rails on Service Apartment.
+2026-11-25T15:08:09.611Z,decidim-decidim_better_accountability,0.2.1,20,"Hadrien Froger, Renato Silva",AGPL-3.0,Improvements on the Decidim-Accountabilities module.
+2026-11-25T15:14:20.449Z,gtm-tool-finder,1.0.0,6,OneGTMLab,MIT,"Offline search over the OneGTMLab GTM tool directory: API reviews for 66 sales and marketing tools, 99 head-to-head comparisons and 110 GTM glossary terms. Ruby API and command line."
