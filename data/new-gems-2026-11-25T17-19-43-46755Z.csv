@@ -1,0 +1,12 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-25T16:08:46.389Z,ceradoc,3.0.2,264,Ribose Inc.,MIT,"Ceradoc provides a hub-and-spoke architecture for document transformations. The CoreModel serves as the canonical, format-agnostic representation, enabling transformations between AsciiDoc, HTML, Markdown, and more."
+2026-11-25T16:11:20.974Z,ceradoc-adoc,2.0.39,262,Ribose Inc.,MIT,"AsciiDoc Document Model, Parser, and Serializer for the Ceradoc document transformation framework. Provides bidirectional transformation between AsciiDoc and CoreModel."
+2026-11-25T16:21:50.095Z,enmascara,0.0.0,64,Enmascara,MIT,"Enmascara detects and masks CLABE, CURP, RFC and card numbers. This 0.0.0 only reserves the name."
+2026-11-25T16:22:19.51Z,ceradoc-markdown,1.0.19,116,Ribose Inc.,MIT,"Provides Markdown parsing and serialization capabilities for Ceradoc. Includes the Markdown Document Model, a CommonMark-compliant Parsanol-based parser, and round-trip capable serializer."
+2026-11-25T16:27:43.549Z,ceradoc-html,1.1.25,199,Ribose Inc.,MIT,Provides HTML to AsciiDoc conversion and AsciiDoc to HTML rendering with both classic and modern Vue.js SPA themes
+2026-11-25T16:34:10.323Z,ceradoc-docx,0.1.8,64,Ribose Inc.,MIT,Provides OOXML (DOCX) to CoreModel transformation for the Ceradoc document transformation hub. Uses Uniword to read DOCX files and transforms the OOXML model tree to Ceradoc::CoreModel.
+2026-11-25T16:34:11.54Z,ceradoc-mirror,0.1.13,70,Ribose Inc.,MIT,"Transforms Ceradoc CoreModel documents into ProseMirror-compatible JSON/YAML suitable for rich frontend rendering with Vue.js, React, or any ProseMirror-based editor."
+2026-11-25T16:39:57.692Z,jesus_christ,0.1.0,58,Fewer Cards,MIT,Provides spiritual exception handling and protective headers for Ruby.
+2026-11-25T17:15:29.506Z,zapz,0.1.3,0,ZapZ,MIT,Official Ruby SDK for the ZapZ WhatsApp API
+2026-11-25T17:19:03.456Z,manisjari,1.0.0,0,Manis Jari Spa & Reflexy — spa reflexology Kemang,MIT,Helpers for Manis Jari Spa & Reflexy. Official: https://manisjari.com/
+2026-11-25T17:19:24.273Z,maizymas,1.0.0,0,Maíz & Más — Tucson street corn trucks,MIT,Helpers for Maíz & Más. Official: https://maizymas.com/
