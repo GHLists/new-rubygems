@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 14:20 UTC
+## Latest list — 2026-11-26 15:19 UTC
 
-New gems created between 2026-11-26 13:20 UTC and 2026-11-26 14:20 UTC.
+New gems created between 2026-11-26 14:20 UTC and 2026-11-26 15:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-26T14-20-05-248729Z.csv)
+[Full CSV](data/new-gems-2026-11-26T15-19-46-095751Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-26 14:12:48 | [rails-br](https://rubygems.org/gems/rails-br) | 0.2.1 | Augusto Souza | MIT | Sucessora moderna da Brazilian Rails. Núcleo em Ruby puro, sem monkey patching,… |
-| 2026-11-26 14:15:28 | [knife-noderings](https://rubygems.org/gems/knife-noderings) | 0.1.0 | NodeRings | Apache-2.0 | A knife plugin that orders NodeRings virtual machines from the marketplace and… |
-| 2026-11-26 14:15:30 | [kitchen-noderings](https://rubygems.org/gems/kitchen-noderings) | 0.1.0 | NodeRings | Apache-2.0 | Runs Test Kitchen instances on NodeRings marketplace virtual machines: orders t… |
+| 2026-11-26 14:36:08 | [bmailu](https://rubygems.org/gems/bmailu) | 0.1.0 | Bmailu | MIT | Send email, manage contacts, broadcasts, templates and webhooks with the Bmailu… |
 
 ## Data source
 

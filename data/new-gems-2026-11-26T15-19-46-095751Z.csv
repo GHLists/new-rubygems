@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-26T14:36:08.585Z,bmailu,0.1.0,62,Bmailu,MIT,"Send email, manage contacts, broadcasts, templates and webhooks with the Bmailu API. Standard library only."
