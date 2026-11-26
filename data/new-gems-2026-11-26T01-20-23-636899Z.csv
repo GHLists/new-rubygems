@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-26T00:20:09.861Z,togetajob,1.0.0,75,DH,MIT,"Read the togetajob.com public API and open data feeds: the civil service exam calendar, step-by-step job guides, and every open New York City government job posting. No account, no key, no signup; a free API key raises the rate limit from 100 to 600 requests a minute."
+2026-11-26T00:47:33.183Z,predicate-rb,1.2.0,55,Nauman Tariq,MIT,"A lightweight library for defining and evaluating boolean predicates with automatic caching, combinators, and optional Rails model integration. Features: - Pure boolean predicates with meta-programming DSL - Automatic memoization and caching with SHA256-based keys - Logical combinators (AND, OR, NO…"
