@@ -1,0 +1,10 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-26T18:38:05.74Z,knife-noderings,0.2.0,76,NodeRings,Apache-2.0,"A knife plugin that orders NodeRings virtual machines from the marketplace and bootstraps Chef Infra or Cinc on them, and lists, shows, powers and deletes them."
+2026-11-26T18:38:14.857Z,kitchen-noderings,0.2.0,76,NodeRings,Apache-2.0,"Runs Test Kitchen instances on NodeRings marketplace virtual machines: orders the cheapest matching offer, waits for SSH, and deletes the server and its temporary key afterwards."
+2026-11-26T18:38:23.706Z,vagrant-noderings,0.2.0,81,NodeRings,Apache-2.0,"A Vagrant provider that orders NodeRings marketplace virtual machines, syncs folders with rsync, provisions them, and deletes them with their temporary SSH key on vagrant destroy."
+2026-11-26T18:38:38.071Z,fast-client-cert,0.1.0,60,Eric Jacobs,MIT,"Fast::ClientCert implements RFC 9440 — the two request fields a TLS-terminating reverse proxy sends to convey the client certificate of a mutually authenticated TLS connection, as frozen value objects over fast-sfv: Cert (the Client-Cert field, a singleton Byte Sequence Item carrying the end-entity…"
+2026-11-26T19:15:32.678Z,boto-rb,0.7.2,0,Evo Tech Builder,MIT,Ruby framework for APIs and microservices organized as solutions.
+2026-11-26T19:15:33.824Z,boto-rb-security,0.7.2,0,Evo Tech Builder,MIT,"Security plugins for the Boto framework: auth, CORS, hosts and rate limiting."
+2026-11-26T19:15:34.937Z,boto-rb-redis,0.7.2,0,Evo Tech Builder,MIT,"Redis-backed stores for Boto plugins (rate limiting today, sessions and cache later)."
+2026-11-26T19:15:36.105Z,boto-rb-cli,0.7.2,0,Evo Tech Builder,MIT,Command line interface for the Boto framework.
+2026-11-26T19:19:12.843Z,blenderui,0.6.0,0,BUI contributors,GPL-2.0-or-later,"BUI is Blender's own interface toolkit, decoupled from Blender. This gem is a C extension over BUI's C kit (no FFI): Blender's widgets, layouts, menus, trees and file browser in native windows (Win32, X11, Wayland, Cocoa) or rendered without a window, with a block builder for Ruby. It builds the ki…"
