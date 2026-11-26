@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 11:22 UTC
+## Latest list — 2026-11-26 13:20 UTC
 
-New gems created between 2026-11-26 10:22 UTC and 2026-11-26 11:22 UTC.
+New gems created between 2026-11-26 12:22 UTC and 2026-11-26 13:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-26T11-22-03-805366Z.csv)
+[Full CSV](data/new-gems-2026-11-26T13-20-12-572174Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-26 10:31:53 | [claudel](https://rubygems.org/gems/claudel) | 0.1.0 | anantone | MIT | claudel consomme les caractéristiques mesurables du gem scansion (syllabes IPA,… |
-| 2026-11-26 11:03:58 | [fast-digest](https://rubygems.org/gems/fast-digest) | 0.1.0 | Eric Jacobs | MIT | Fast::Digest implements RFC 9530 Digest Fields — the four integrity fields as f… |
+| 2026-11-26 12:25:35 | [formfeed](https://rubygems.org/gems/formfeed) | 0.3.32 | Formfeed | MIT | Renders PDFs and images from templates, HTML, URLs or Markdown through the Form… |
+| 2026-11-26 13:14:13 | [url_extract](https://rubygems.org/gems/url_extract) | 0.1.1 | Andrey | MIT | A URL extractor / detector for plain text: finds each URL in a string, with its… |
 
 ## Data source
 

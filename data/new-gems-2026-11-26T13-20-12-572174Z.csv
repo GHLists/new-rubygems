@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-26T12:25:35.484Z,formfeed,0.3.32,65,Formfeed,MIT,"Renders PDFs and images from templates, HTML, URLs or Markdown through the Formfeed API, and runs its tools on existing PDFs (merge, protect, watermark, split, compress, redact, fill, convert), with retries, idempotency keys and webhook verification. Ruby's standard library only."
+2026-11-26T13:14:13.29Z,url_extract,0.1.1,0,Andrey,MIT,"A URL extractor / detector for plain text: finds each URL in a string, with its position. Trims the punctuation, unpaired brackets and HTML entities around a URL. Reads non-ASCII, localhost and IP URLs, www. links as an option, and a text in another encoding. Linear time, no runtime dependencies."
