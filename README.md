@@ -9,19 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 09:18 UTC
+## Latest list — 2026-11-26 10:22 UTC
 
-New gems created between 2026-11-26 08:20 UTC and 2026-11-26 09:18 UTC.
+New gems created between 2026-11-26 09:18 UTC and 2026-11-26 10:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-26T09-18-56-311451Z.csv)
+[Full CSV](data/new-gems-2026-11-26T10-22-23-399315Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-26 08:25:16 | [rails_why](https://rubygems.org/gems/rails_why) | 0.1.0 | Nabeel Akram | MIT | RailsWhy helps developers understand why business logic succeeds or fails by tr… |
-| 2026-11-26 08:31:13 | [spree_avalara](https://rubygems.org/gems/spree_avalara) | 6.0.6 | Spark Solutions Sp. z o.o., V… | MIT | The officially supported Avalara AvaTax extension for Spree Commerce using Aval… |
-| 2026-11-26 08:41:37 | [fast-priority](https://rubygems.org/gems/fast-priority) | 0.1.0 | Eric Jacobs | MIT | Fast::Priority implements RFC 9218 Extensible Priorities — the Priority HTTP he… |
-| 2026-11-26 08:59:18 | [whose-components](https://rubygems.org/gems/whose-components) | 0.3.0 | WeiHsi Hu | MIT | A Rails engine with ViewComponents, a Tailwind theme with dark mode, Stimulus c… |
-| 2026-11-26 09:07:30 | [examen_civique_france](https://rubygems.org/gems/examen_civique_france) | 1.0.0 | Nesra Vomigarbi | MIT; CC-BY-4.0 | Bundles 523 distinct official knowledge questions from the three mentions of Fr… |
+| 2026-11-26 09:39:48 | [ladl](https://rubygems.org/gems/ladl) | 0.1.1 | Ronald Tse | MIT | Declarative auto-numbering and labeling engine implementing MN 112 (Label Auto-… |
 
 ## Data source
 
