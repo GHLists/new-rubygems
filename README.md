@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 15:19 UTC
+## Latest list — 2026-11-26 16:19 UTC
 
-New gems created between 2026-11-26 14:20 UTC and 2026-11-26 15:19 UTC.
+New gems created between 2026-11-26 15:19 UTC and 2026-11-26 16:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-26T15-19-46-095751Z.csv)
+[Full CSV](data/new-gems-2026-11-26T16-19-58-530929Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-26 14:36:08 | [bmailu](https://rubygems.org/gems/bmailu) | 0.1.0 | Bmailu | MIT | Send email, manage contacts, broadcasts, templates and webhooks with the Bmailu… |
+| 2026-11-26 15:36:58 | [fast-proxy-status](https://rubygems.org/gems/fast-proxy-status) | 0.1.0 | Eric Jacobs | MIT | The diagnostics gem of the family, three frozen value-object classes over fast-… |
+| 2026-11-26 16:05:01 | [vagrant-noderings](https://rubygems.org/gems/vagrant-noderings) | 0.1.0 | NodeRings | Apache-2.0 | A Vagrant provider that orders NodeRings marketplace virtual machines, syncs fo… |
 
 ## Data source
 

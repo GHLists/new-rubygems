@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-26T15:36:58.554Z,fast-proxy-status,0.1.0,65,Eric Jacobs,MIT,"The diagnostics gem of the family, three frozen value-object classes over fast-sfv. Fast::ProxyStatus implements RFC 9209 Proxy-Status — the HTTP response field as a List of parameterized members, one per intermediary that handled the response, the first closest to the origin server, with the five…"
+2026-11-26T16:05:01.624Z,vagrant-noderings,0.1.0,22,NodeRings,Apache-2.0,"A Vagrant provider that orders NodeRings marketplace virtual machines, syncs folders with rsync, provisions them, and deletes them with their temporary SSH key on vagrant destroy."
