@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-26T14:12:48.64Z,rails-br,0.2.1,0,Augusto Souza,MIT,"Sucessora moderna da Brazilian Rails. Núcleo em Ruby puro, sem monkey patching, com integração opcional ao Rails (ActiveModel, I18n) a partir do Rails 6.0."
+2026-11-26T14:15:28.448Z,knife-noderings,0.1.0,0,NodeRings,Apache-2.0,"A knife plugin that orders NodeRings virtual machines from the marketplace and bootstraps Chef Infra or Cinc on them, and lists, shows, powers and deletes them."
+2026-11-26T14:15:30.619Z,kitchen-noderings,0.1.0,0,NodeRings,Apache-2.0,"Runs Test Kitchen instances on NodeRings marketplace virtual machines: orders the cheapest matching offer, waits for SSH, and deletes the server and its temporary key afterwards."
