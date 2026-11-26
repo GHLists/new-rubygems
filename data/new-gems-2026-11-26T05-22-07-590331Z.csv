@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-26T04:20:20.908Z,fiscalisto,0.1.226,102,Fiscalisto,MIT,"Timbre facturas, pagos, notas de crédito, nómina, retenciones y lotes (CFDI 4.0) con la API de Fiscalisto: Idempotency-Key automática, reintentos seguros, listas que se recorren solas y webhooks verificados. Sin dependencias."
+2026-11-26T04:50:14.94Z,fast-sfv,0.1.1,53,Eric Jacobs,MIT,"Fast::SFV implements RFC 9651 Structured Field Values — Items, Lists, and Dictionaries with parameters — the syntax layer every other fast-http-fields gem builds on. Strict parse, canonical emit, frozen value objects, byte-index scanning, zero runtime dependencies."
