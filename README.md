@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 05:22 UTC
+## Latest list — 2026-11-26 06:21 UTC
 
-New gems created between 2026-11-26 04:18 UTC and 2026-11-26 05:22 UTC.
+New gems created between 2026-11-26 05:22 UTC and 2026-11-26 06:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-26T05-22-07-590331Z.csv)
+[Full CSV](data/new-gems-2026-11-26T06-21-54-406022Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-26 04:20:20 | [fiscalisto](https://rubygems.org/gems/fiscalisto) | 0.1.226 | Fiscalisto | MIT | Timbre facturas, pagos, notas de crédito, nómina, retenciones y lotes (CFDI 4.0… |
-| 2026-11-26 04:50:14 | [fast-sfv](https://rubygems.org/gems/fast-sfv) | 0.1.1 | Eric Jacobs | MIT | Fast::SFV implements RFC 9651 Structured Field Values — Items, Lists, and Dicti… |
+| 2026-11-26 06:14:57 | [jesus_christ](https://rubygems.org/gems/jesus_christ) | 0.1.6 | Fewer Cards | MIT | Provides prayers, scripture blessings, and spiritual protection helpers for Rub… |
 
 ## Data source
 

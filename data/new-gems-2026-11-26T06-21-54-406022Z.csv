@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-26T06:14:57.164Z,jesus_christ,0.1.6,8,Fewer Cards,MIT,"Provides prayers, scripture blessings, and spiritual protection helpers for Ruby and Rails. Usage: JesusChrist.help, JesusChrist.protect!, JesusChrist.pray, JesusChrist.lords_prayer, JesusChrist.apostles_creed, JesusChrist.pray_all."
