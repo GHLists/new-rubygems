@@ -1,0 +1,8 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-26T03:06:15.027Z,fast-freeze,0.1.0,47,Josh Lauer,MIT,"Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), Sets, and the members of a Data or a Struct. One method, no monkey patches, no allocation."
+2026-11-26T03:06:15.027Z,fast-freeze,0.1.0,47,Josh Lauer,MIT,"Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), Sets, and the members of a Data or a Struct. One method, no monkey patches, no allocation."
+2026-11-26T03:06:15.027Z,fast-freeze,0.1.0,47,Josh Lauer,MIT,"Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), Sets, and the members of a Data or a Struct. One method, no monkey patches, no allocation."
+2026-11-26T03:06:15.027Z,fast-freeze,0.1.0,47,Josh Lauer,MIT,"Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), Sets, and the members of a Data or a Struct. One method, no monkey patches, no allocation."
+2026-11-26T03:06:15.027Z,fast-freeze,0.1.0,47,Josh Lauer,MIT,"Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), Sets, and the members of a Data or a Struct. One method, no monkey patches, no allocation."
+2026-11-26T03:06:15.027Z,fast-freeze,0.1.0,47,Josh Lauer,MIT,"Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), Sets, and the members of a Data or a Struct. One method, no monkey patches, no allocation."
+2026-11-26T03:18:11.778Z,fiscalisto,0.1.225,0,Fiscalisto,MIT,"Timbre facturas, pagos, notas de crédito, nómina, retenciones y lotes (CFDI 4.0) con la API de Fiscalisto: Idempotency-Key automática, reintentos seguros, listas que se recorren solas y webhooks verificados. Sin dependencias."
