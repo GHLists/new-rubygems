@@ -9,21 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 03:19 UTC
+## Latest list — 2026-11-26 04:18 UTC
 
-New gems created between 2026-11-26 02:18 UTC and 2026-11-26 03:19 UTC.
+New gems created between 2026-11-26 03:19 UTC and 2026-11-26 04:18 UTC.
 
-[Full CSV](data/new-gems-2026-11-26T03-19-46-325056Z.csv)
+[Full CSV](data/new-gems-2026-11-26T04-18-47-822338Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-26 03:06:15 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.1.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
-| 2026-11-26 03:06:15 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.1.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
-| 2026-11-26 03:06:15 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.1.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
-| 2026-11-26 03:06:15 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.1.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
-| 2026-11-26 03:06:15 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.1.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
-| 2026-11-26 03:06:15 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.1.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
-| 2026-11-26 03:18:11 | [fiscalisto](https://rubygems.org/gems/fiscalisto) | 0.1.225 | Fiscalisto | MIT | Timbre facturas, pagos, notas de crédito, nómina, retenciones y lotes (CFDI 4.0… |
+| 2026-11-26 03:45:19 | [ladl](https://rubygems.org/gems/ladl) | 0.1.0 | Ronald Tse | MIT | Declarative auto-numbering and labeling engine implementing MN 112 (Label Auto-… |
+| 2026-11-26 03:47:30 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.2.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
+| 2026-11-26 03:47:30 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.2.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
+| 2026-11-26 03:47:30 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.2.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
+| 2026-11-26 03:47:30 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.2.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
+| 2026-11-26 03:47:30 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.2.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
+| 2026-11-26 03:47:30 | [fast-freeze](https://rubygems.org/gems/fast-freeze) | 0.2.0 | Josh Lauer | MIT | Freezes a value and what it holds: Strings, Arrays, Hashes (keys and values), S… |
+| 2026-11-26 04:16:53 | [jesus_christ](https://rubygems.org/gems/jesus_christ) | 0.1.5 | Fewer Cards | MIT | Provides prayers, scripture blessings, and spiritual protection helpers for Rub… |
 
 ## Data source
 
