@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T13:59:09.706Z,sparqlite,0.1.0,40,Shoji Tokunaga,MIT,"sparqlite opens a Turtle file and drops you into a SPARQL prompt with no server and no configuration. Queries are syntax-highlighted as you type, and keywords, variables, and the terms in your data are completed."
