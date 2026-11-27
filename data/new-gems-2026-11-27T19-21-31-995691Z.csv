@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T18:43:49.017Z,mizanpage,1.0.0,57,Laudelout Studio,MIT,"Générer des PDF depuis vos modèles Mizanpage, en direct ou en file d'attente, et vérifier les webhooks. Sans dépendance."
+2026-11-27T19:05:21.067Z,fastlane-plugin-convert_xcodeproj,0.1.0,22,caselett,MIT,Converts xcodeproj from xcproj to pbxproj and from pbxproj to xcproj formats
