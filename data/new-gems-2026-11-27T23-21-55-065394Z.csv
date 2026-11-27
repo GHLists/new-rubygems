@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T22:36:28.077Z,fast-client-cert,0.1.2,140,Eric Jacobs,MIT,"Fast::ClientCert implements RFC 9440 — the two request fields a TLS-terminating reverse proxy sends to convey the client certificate of a mutually authenticated TLS connection, as frozen value objects over fast-sfv: Cert (the Client-Cert field, a singleton Byte Sequence Item carrying the end-entity…"
+2026-11-27T22:47:40.833Z,append_transitions,0.1.0,57,Thiago A. Silva,MIT,Append-only state transitions for ActiveRecord with safe concurrency and simple validation.

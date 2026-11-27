@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 22:21 UTC
+## Latest list — 2026-11-27 23:21 UTC
 
-New gems created between 2026-11-27 21:21 UTC and 2026-11-27 22:21 UTC.
+New gems created between 2026-11-27 22:21 UTC and 2026-11-27 23:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-27T22-21-20-458455Z.csv)
+[Full CSV](data/new-gems-2026-11-27T23-21-55-065394Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-27 21:49:54 | [b4n1-telemetry](https://rubygems.org/gems/b4n1-telemetry) | 0.1.1 | B4N1 | BUSL-1.1 | Uncaught exceptions, explicit captures, batching and correlation for a self-hos… |
+| 2026-11-27 22:36:28 | [fast-client-cert](https://rubygems.org/gems/fast-client-cert) | 0.1.2 | Eric Jacobs | MIT | Fast::ClientCert implements RFC 9440 — the two request fields a TLS-terminating… |
+| 2026-11-27 22:47:40 | [append_transitions](https://rubygems.org/gems/append_transitions) | 0.1.0 | Thiago A. Silva | MIT | Append-only state transitions for ActiveRecord with safe concurrency and simple… |
 
 ## Data source
 
