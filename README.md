@@ -9,21 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 05:21 UTC
+## Latest list — 2026-11-27 06:21 UTC
 
-New gems created between 2026-11-27 04:19 UTC and 2026-11-27 05:21 UTC.
+New gems created between 2026-11-27 05:21 UTC and 2026-11-27 06:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-27T05-21-12-854586Z.csv)
+[Full CSV](data/new-gems-2026-11-27T06-21-30-697646Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-27 04:38:41 | [boto-rb](https://rubygems.org/gems/boto-rb) | 0.15.0 | Evo Tech Builder | MIT | Ruby framework for APIs and microservices organized as solutions. |
-| 2026-11-27 04:38:42 | [boto-rb-security](https://rubygems.org/gems/boto-rb-security) | 0.15.0 | Evo Tech Builder | MIT | Security plugins for the Boto framework: auth, CORS, hosts and rate limiting. |
-| 2026-11-27 04:38:44 | [boto-rb-redis](https://rubygems.org/gems/boto-rb-redis) | 0.15.0 | Evo Tech Builder | MIT | Redis-backed stores for Boto plugins (rate limiting today, sessions and cache l… |
-| 2026-11-27 04:38:45 | [boto-rb-swaggerui](https://rubygems.org/gems/boto-rb-swaggerui) | 0.15.0 | Evo Tech Builder | MIT; Apache-2.0 | Swagger UI for Boto apps, served by the :swagger_ui plugin. |
-| 2026-11-27 04:38:47 | [boto-rb-cli](https://rubygems.org/gems/boto-rb-cli) | 0.15.0 | Evo Tech Builder | MIT | Command line interface for the Boto framework. |
-| 2026-11-27 04:52:15 | [ladl](https://rubygems.org/gems/ladl) | 0.1.2 | Ronald Tse | MIT | Declarative auto-numbering and labeling engine implementing MN 112 (Label Auto-… |
-| 2026-11-27 04:53:19 | [request-rescue](https://rubygems.org/gems/request-rescue) | 0.1.6 | FeedMob | MIT | Handle malformed requests and render error responses in Rails applications. |
+| 2026-11-27 05:32:58 | [fast-client-cert](https://rubygems.org/gems/fast-client-cert) | 0.1.1 | Eric Jacobs | MIT | Fast::ClientCert implements RFC 9440 — the two request fields a TLS-terminating… |
+| 2026-11-27 05:32:58 | [fast-priority](https://rubygems.org/gems/fast-priority) | 0.1.1 | Eric Jacobs | MIT | Fast::Priority implements RFC 9218 Extensible Priorities — the Priority HTTP he… |
+| 2026-11-27 05:33:02 | [fast-digest](https://rubygems.org/gems/fast-digest) | 0.1.1 | Eric Jacobs | MIT | Fast::Digest implements RFC 9530 Digest Fields — the four integrity fields as f… |
+| 2026-11-27 05:33:06 | [fast-proxy-status](https://rubygems.org/gems/fast-proxy-status) | 0.1.1 | Eric Jacobs | MIT | The diagnostics gem of the family, three frozen value-object classes over fast-… |
 
 ## Data source
 
