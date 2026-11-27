@@ -1,0 +1,6 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T00:09:31.13Z,boto-rb,0.9.1,27,Evo Tech Builder,MIT,Ruby framework for APIs and microservices organized as solutions.
+2026-11-27T00:09:32.216Z,boto-rb-security,0.9.1,22,Evo Tech Builder,MIT,"Security plugins for the Boto framework: auth, CORS, hosts and rate limiting."
+2026-11-27T00:09:33.499Z,boto-rb-redis,0.9.1,19,Evo Tech Builder,MIT,"Redis-backed stores for Boto plugins (rate limiting today, sessions and cache later)."
+2026-11-27T00:09:35.028Z,boto-rb-cli,0.9.1,23,Evo Tech Builder,MIT,Command line interface for the Boto framework.
+2026-11-27T00:12:01.644Z,byte_batcher,0.1.0,9,Small Primitives,MIT,Lazy batching with exact serialized byte limits
