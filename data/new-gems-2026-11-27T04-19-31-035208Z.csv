@@ -1,0 +1,8 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T04:03:04.738Z,documenso_rails,1.1.1,45,Jeremy Weiland,MIT,Production Rails Engine & API v2 client for Documenso Cloud
+2026-11-27T04:08:19.757Z,boto-rb,0.14.0,26,Evo Tech Builder,MIT,Ruby framework for APIs and microservices organized as solutions.
+2026-11-27T04:08:21.397Z,boto-rb-security,0.14.0,20,Evo Tech Builder,MIT,"Security plugins for the Boto framework: auth, CORS, hosts and rate limiting."
+2026-11-27T04:08:23.004Z,boto-rb-redis,0.14.0,26,Evo Tech Builder,MIT,"Redis-backed stores for Boto plugins (rate limiting today, sessions and cache later)."
+2026-11-27T04:08:24.711Z,boto-rb-swaggerui,0.14.0,22,Evo Tech Builder,MIT; Apache-2.0,"Swagger UI for Boto apps, served by the :swagger_ui plugin."
+2026-11-27T04:08:25.968Z,boto-rb-cli,0.14.0,31,Evo Tech Builder,MIT,Command line interface for the Boto framework.
+2026-11-27T04:17:17.506Z,request-rescue,0.1.4,0,FeedMob,MIT,Handle malformed requests and render error responses in Rails applications.
