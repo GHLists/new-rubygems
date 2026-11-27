@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T02:45:03.721Z,documenso_rails,1.0.0,56,Jeremy Weiland,,Production Rails Engine & API v2 client for Documenso Cloud
+2026-11-27T03:14:47.814Z,request-rescue,0.1.2,0,FeedMob,MIT,Handle malformed requests and render error responses in Rails applications.
+2026-11-27T03:16:37.439Z,realuptime,0.0.1,0,RealUptime LLC,Nonstandard,Reserved by RealUptime. This gem has no code. Use realuptime-errors: https://rubygems.org/gems/realuptime-errors
+2026-11-27T03:18:17.394Z,boto-rb,0.12.0,0,Evo Tech Builder,MIT,Ruby framework for APIs and microservices organized as solutions.
+2026-11-27T03:18:18.816Z,boto-rb-security,0.12.0,0,Evo Tech Builder,MIT,"Security plugins for the Boto framework: auth, CORS, hosts and rate limiting."
+2026-11-27T03:18:19.968Z,boto-rb-redis,0.12.0,0,Evo Tech Builder,MIT,"Redis-backed stores for Boto plugins (rate limiting today, sessions and cache later)."
+2026-11-27T03:18:21.268Z,boto-rb-swaggerui,0.12.0,0,Evo Tech Builder,MIT; Apache-2.0,"Swagger UI for Boto apps, served by the :swagger_ui plugin."
+2026-11-27T03:18:22.655Z,boto-rb-cli,0.12.0,0,Evo Tech Builder,MIT,Command line interface for the Boto framework.
