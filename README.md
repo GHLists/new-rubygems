@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 11:22 UTC
+## Latest list — 2026-11-27 12:19 UTC
 
-New gems created between 2026-11-27 10:22 UTC and 2026-11-27 11:22 UTC.
+New gems created between 2026-11-27 11:22 UTC and 2026-11-27 12:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-27T11-22-09-330732Z.csv)
+[Full CSV](data/new-gems-2026-11-27T12-19-11-820167Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-27 10:28:19 | [quicsilver-rails](https://rubygems.org/gems/quicsilver-rails) | 0.1.0 | Haroon Ahmed | MIT | Rails helpers, runners, and API experiments for using Quicsilver WebTransport f… |
+| 2026-11-27 12:18:59 | [predicate-rb](https://rubygems.org/gems/predicate-rb) | 1.3.0 | Nauman Tariq | MIT | A lightweight library for defining and evaluating boolean predicates with autom… |
 
 ## Data source
 
