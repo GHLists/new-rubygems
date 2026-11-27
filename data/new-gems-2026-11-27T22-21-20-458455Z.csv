@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T21:49:54.19Z,b4n1-telemetry,0.1.1,66,B4N1,BUSL-1.1,"Uncaught exceptions, explicit captures, batching and correlation for a self-hosted b4n1-telemetry collector. Standard library only."

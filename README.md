@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 20:21 UTC
+## Latest list — 2026-11-27 22:21 UTC
 
-New gems created between 2026-11-27 19:21 UTC and 2026-11-27 20:21 UTC.
+New gems created between 2026-11-27 21:21 UTC and 2026-11-27 22:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-27T20-21-47-968387Z.csv)
+[Full CSV](data/new-gems-2026-11-27T22-21-20-458455Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-27 19:37:54 | [elelem-hub](https://rubygems.org/gems/elelem-hub) | 0.1.0 | mo khan | MIT | An elelem plugin that signs in to an elelem hub and sends prompts through it to… |
-| 2026-11-27 20:06:38 | [b4n1-notary](https://rubygems.org/gems/b4n1-notary) | 0.2.1 | Bani Montoya | BUSL-1.1 | Thin Ruby wrapper around the b4n1-notary engine, with precompiled binaries bund… |
+| 2026-11-27 21:49:54 | [b4n1-telemetry](https://rubygems.org/gems/b4n1-telemetry) | 0.1.1 | B4N1 | BUSL-1.1 | Uncaught exceptions, explicit captures, batching and correlation for a self-hos… |
 
 ## Data source
 
