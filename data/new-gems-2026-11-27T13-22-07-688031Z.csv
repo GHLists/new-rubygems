@@ -1,0 +1,9 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T12:50:08.384Z,westwood_lib,0.1.0,52,Cyberarm,MIT,A library for working with Westwood's file formats used in Command & Conquer: Renegade.
+2026-11-27T13:07:16.248Z,bpm_cue_grid,0.1.0,18,Rocky Yang,MIT,"Converts musical tempo (BPM), bar/beat positions, and video frame rates into millisecond cue timestamps and aligned frame counts."
+2026-11-27T13:07:17.474Z,gif89a_header_inspector,0.1.0,16,Rocky Yang,MIT,"Inspects GIF87a/GIF89a logical screen descriptors, global color tables, and Graphic Control Extension frame disposal modes and delays."
+2026-11-27T13:07:18.59Z,linnaean_taxon_diff,0.1.0,18,Rocky Yang,MIT,"Compares two species records across Kingdom, Phylum, Class, Order, Family, Genus, and Species to determine shared taxonomic depth."
+2026-11-27T13:07:19.84Z,log_scale_projector,0.1.0,19,Rocky Yang,MIT,Projects multi-order-of-magnitude physical dimensions (millimeters to astronomical diameters) onto normalized viewport pixel ratios.
+2026-11-27T13:07:21.007Z,nonogram_line_solver,0.1.0,24,Rocky Yang,MIT,Deduces guaranteed filled and empty cells along a single Nonogram row or column given clue runs and partial cell states.
+2026-11-27T13:07:22.386Z,wav_fft_bins,0.1.0,24,Rocky Yang,MIT,Parses PCM WAV RIFF headers and computes radix-2 Cooley-Tukey FFT magnitude bins for client-side and CLI audio visualization pipelines.
+2026-11-27T13:07:23.622Z,word_ladder_bfs,0.1.0,16,Rocky Yang,MIT,Computes shortest single-letter-change word ladders between equal-length words using bidirectional breadth-first search over any dictionary.
