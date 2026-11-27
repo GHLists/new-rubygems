@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 08:20 UTC
+## Latest list — 2026-11-27 09:22 UTC
 
-New gems created between 2026-11-27 07:21 UTC and 2026-11-27 08:20 UTC.
+New gems created between 2026-11-27 08:20 UTC and 2026-11-27 09:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-27T08-20-33-900766Z.csv)
+[Full CSV](data/new-gems-2026-11-27T09-22-18-66034Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-27 07:50:44 | [slug-wordcount-e548a0](https://rubygems.org/gems/slug-wordcount-e548a0) | 0.3291.15937 | Textkit maintainers | MIT | Small dependency-free text helpers: slugify, word count and reading time. |
-| 2026-11-27 07:52:19 | [request-rescue](https://rubygems.org/gems/request-rescue) | 0.1.7 | FeedMob | MIT | Handle malformed requests and render error responses in Rails applications. |
-| 2026-11-27 08:01:57 | [test-pro](https://rubygems.org/gems/test-pro) | 0.0.1 | Evil Martians Inc. | LicenseRef-LICENSE.txt | The test-pro placeholder on rubygems.org. It has no code. TestPro installs from… |
+| 2026-11-27 09:06:16 | [ladl](https://rubygems.org/gems/ladl) | 0.1.3 | Ronald Tse | MIT | Declarative auto-numbering and labeling engine implementing MN 112 (Label Auto-… |
 
 ## Data source
 

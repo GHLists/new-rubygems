@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T09:06:16.08Z,ladl,0.1.3,38,Ronald Tse,MIT,"Declarative auto-numbering and labeling engine implementing MN 112 (Label Auto-assignment Definition Language, LADL). Parses labeling style profiles written in the LutaML instance syntax and evaluates labels, numbers and sequences against a content tree over the three LADL model trees: the content…"
