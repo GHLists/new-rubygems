@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T19:37:54.113Z,elelem-hub,0.1.0,77,mo khan,MIT,An elelem plugin that signs in to an elelem hub and sends prompts through it to your own nodes.
+2026-11-27T20:06:38.975Z,b4n1-notary,0.2.1,29,Bani Montoya,BUSL-1.1,"Thin Ruby wrapper around the b4n1-notary engine, with precompiled binaries bundled per platform. No compiler needed."
