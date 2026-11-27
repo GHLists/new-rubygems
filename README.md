@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 14:21 UTC
+## Latest list — 2026-11-27 15:22 UTC
 
-New gems created between 2026-11-27 13:22 UTC and 2026-11-27 14:21 UTC.
+New gems created between 2026-11-27 14:21 UTC and 2026-11-27 15:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-27T14-21-05-732854Z.csv)
+[Full CSV](data/new-gems-2026-11-27T15-22-18-444176Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-27 13:59:09 | [sparqlite](https://rubygems.org/gems/sparqlite) | 0.1.0 | Shoji Tokunaga | MIT | sparqlite opens a Turtle file and drops you into a SPARQL prompt with no server… |
+| 2026-11-27 15:02:54 | [idempotentable](https://rubygems.org/gems/idempotentable) | 0.1.0 | Ethan Nguyen | MIT | Replays the stored response when a client retries a mutating request with the s… |
+| 2026-11-27 15:18:43 | [ruby-lsp-proxy](https://rubygems.org/gems/ruby-lsp-proxy) | 0.1.0 | yasuhiroki | MIT | Auto-detects ruby-lsp in Docker Compose, Docker, or local environments, rewrite… |
 
 ## Data source
 

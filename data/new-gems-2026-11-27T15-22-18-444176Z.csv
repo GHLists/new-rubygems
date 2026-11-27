@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T15:02:54.615Z,idempotentable,0.1.0,52,Ethan Nguyen,MIT,"Replays the stored response when a client retries a mutating request with the same Idempotency-Key, rejects in-flight duplicates and payload mismatches, and works with any Rails cache store."
+2026-11-27T15:18:43.627Z,ruby-lsp-proxy,0.1.0,0,yasuhiroki,MIT,"Auto-detects ruby-lsp in Docker Compose, Docker, or local environments, rewrites multi-mount file URIs bidirectionally, and caches container gem/stdlib files on demand for editor navigation."
