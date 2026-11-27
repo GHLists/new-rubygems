@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 06:21 UTC
+## Latest list — 2026-11-27 08:20 UTC
 
-New gems created between 2026-11-27 05:21 UTC and 2026-11-27 06:21 UTC.
+New gems created between 2026-11-27 07:21 UTC and 2026-11-27 08:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-27T06-21-30-697646Z.csv)
+[Full CSV](data/new-gems-2026-11-27T08-20-33-900766Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-27 05:32:58 | [fast-client-cert](https://rubygems.org/gems/fast-client-cert) | 0.1.1 | Eric Jacobs | MIT | Fast::ClientCert implements RFC 9440 — the two request fields a TLS-terminating… |
-| 2026-11-27 05:32:58 | [fast-priority](https://rubygems.org/gems/fast-priority) | 0.1.1 | Eric Jacobs | MIT | Fast::Priority implements RFC 9218 Extensible Priorities — the Priority HTTP he… |
-| 2026-11-27 05:33:02 | [fast-digest](https://rubygems.org/gems/fast-digest) | 0.1.1 | Eric Jacobs | MIT | Fast::Digest implements RFC 9530 Digest Fields — the four integrity fields as f… |
-| 2026-11-27 05:33:06 | [fast-proxy-status](https://rubygems.org/gems/fast-proxy-status) | 0.1.1 | Eric Jacobs | MIT | The diagnostics gem of the family, three frozen value-object classes over fast-… |
+| 2026-11-27 07:50:44 | [slug-wordcount-e548a0](https://rubygems.org/gems/slug-wordcount-e548a0) | 0.3291.15937 | Textkit maintainers | MIT | Small dependency-free text helpers: slugify, word count and reading time. |
+| 2026-11-27 07:52:19 | [request-rescue](https://rubygems.org/gems/request-rescue) | 0.1.7 | FeedMob | MIT | Handle malformed requests and render error responses in Rails applications. |
+| 2026-11-27 08:01:57 | [test-pro](https://rubygems.org/gems/test-pro) | 0.0.1 | Evil Martians Inc. | LicenseRef-LICENSE.txt | The test-pro placeholder on rubygems.org. It has no code. TestPro installs from… |
 
 ## Data source
 

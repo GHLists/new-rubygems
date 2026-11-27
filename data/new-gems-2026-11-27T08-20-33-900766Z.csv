@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T07:50:44.524Z,slug-wordcount-e548a0,0.3291.15937,58,Textkit maintainers,MIT,"Small dependency-free text helpers: slugify, word count and reading time."
+2026-11-27T07:52:19.573Z,request-rescue,0.1.7,65,FeedMob,MIT,Handle malformed requests and render error responses in Rails applications.
+2026-11-27T08:01:57.739Z,test-pro,0.0.1,31,Evil Martians Inc.,LicenseRef-LICENSE.txt,The test-pro placeholder on rubygems.org. It has no code. TestPro installs from GitHub Packages: https://test-prof.evilmartians.io/pro
