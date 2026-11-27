@@ -1,0 +1,8 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-27T04:38:41.704Z,boto-rb,0.15.0,84,Evo Tech Builder,MIT,Ruby framework for APIs and microservices organized as solutions.
+2026-11-27T04:38:42.98Z,boto-rb-security,0.15.0,72,Evo Tech Builder,MIT,"Security plugins for the Boto framework: auth, CORS, hosts and rate limiting."
+2026-11-27T04:38:44.029Z,boto-rb-redis,0.15.0,67,Evo Tech Builder,MIT,"Redis-backed stores for Boto plugins (rate limiting today, sessions and cache later)."
+2026-11-27T04:38:45.603Z,boto-rb-swaggerui,0.15.0,72,Evo Tech Builder,MIT; Apache-2.0,"Swagger UI for Boto apps, served by the :swagger_ui plugin."
+2026-11-27T04:38:47.117Z,boto-rb-cli,0.15.0,65,Evo Tech Builder,MIT,Command line interface for the Boto framework.
+2026-11-27T04:52:15.933Z,ladl,0.1.2,64,Ronald Tse,MIT,"Declarative auto-numbering and labeling engine implementing MN 112 (Label Auto-assignment Definition Language, LADL). Parses labeling style profiles written in the LutaML instance syntax and evaluates labels, numbers and sequences against a content tree over the three LADL model trees: the content…"
+2026-11-27T04:53:19.478Z,request-rescue,0.1.6,63,FeedMob,MIT,Handle malformed requests and render error responses in Rails applications.

@@ -9,21 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 04:19 UTC
+## Latest list — 2026-11-27 05:21 UTC
 
-New gems created between 2026-11-27 03:19 UTC and 2026-11-27 04:19 UTC.
+New gems created between 2026-11-27 04:19 UTC and 2026-11-27 05:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-27T04-19-31-035208Z.csv)
+[Full CSV](data/new-gems-2026-11-27T05-21-12-854586Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-27 04:03:04 | [documenso_rails](https://rubygems.org/gems/documenso_rails) | 1.1.1 | Jeremy Weiland | MIT | Production Rails Engine & API v2 client for Documenso Cloud |
-| 2026-11-27 04:08:19 | [boto-rb](https://rubygems.org/gems/boto-rb) | 0.14.0 | Evo Tech Builder | MIT | Ruby framework for APIs and microservices organized as solutions. |
-| 2026-11-27 04:08:21 | [boto-rb-security](https://rubygems.org/gems/boto-rb-security) | 0.14.0 | Evo Tech Builder | MIT | Security plugins for the Boto framework: auth, CORS, hosts and rate limiting. |
-| 2026-11-27 04:08:23 | [boto-rb-redis](https://rubygems.org/gems/boto-rb-redis) | 0.14.0 | Evo Tech Builder | MIT | Redis-backed stores for Boto plugins (rate limiting today, sessions and cache l… |
-| 2026-11-27 04:08:24 | [boto-rb-swaggerui](https://rubygems.org/gems/boto-rb-swaggerui) | 0.14.0 | Evo Tech Builder | MIT; Apache-2.0 | Swagger UI for Boto apps, served by the :swagger_ui plugin. |
-| 2026-11-27 04:08:25 | [boto-rb-cli](https://rubygems.org/gems/boto-rb-cli) | 0.14.0 | Evo Tech Builder | MIT | Command line interface for the Boto framework. |
-| 2026-11-27 04:17:17 | [request-rescue](https://rubygems.org/gems/request-rescue) | 0.1.4 | FeedMob | MIT | Handle malformed requests and render error responses in Rails applications. |
+| 2026-11-27 04:38:41 | [boto-rb](https://rubygems.org/gems/boto-rb) | 0.15.0 | Evo Tech Builder | MIT | Ruby framework for APIs and microservices organized as solutions. |
+| 2026-11-27 04:38:42 | [boto-rb-security](https://rubygems.org/gems/boto-rb-security) | 0.15.0 | Evo Tech Builder | MIT | Security plugins for the Boto framework: auth, CORS, hosts and rate limiting. |
+| 2026-11-27 04:38:44 | [boto-rb-redis](https://rubygems.org/gems/boto-rb-redis) | 0.15.0 | Evo Tech Builder | MIT | Redis-backed stores for Boto plugins (rate limiting today, sessions and cache l… |
+| 2026-11-27 04:38:45 | [boto-rb-swaggerui](https://rubygems.org/gems/boto-rb-swaggerui) | 0.15.0 | Evo Tech Builder | MIT; Apache-2.0 | Swagger UI for Boto apps, served by the :swagger_ui plugin. |
+| 2026-11-27 04:38:47 | [boto-rb-cli](https://rubygems.org/gems/boto-rb-cli) | 0.15.0 | Evo Tech Builder | MIT | Command line interface for the Boto framework. |
+| 2026-11-27 04:52:15 | [ladl](https://rubygems.org/gems/ladl) | 0.1.2 | Ronald Tse | MIT | Declarative auto-numbering and labeling engine implementing MN 112 (Label Auto-… |
+| 2026-11-27 04:53:19 | [request-rescue](https://rubygems.org/gems/request-rescue) | 0.1.6 | FeedMob | MIT | Handle malformed requests and render error responses in Rails applications. |
 
 ## Data source
 
