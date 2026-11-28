@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-28T13:38:37.568Z,icp-firmographic-filter,1.0.0,62,OneGTMLab,MIT,"Ruby CLI and library: write your ideal customer profile as headcount range, countries, industries and minimum revenue, run a companies CSV through it, and get PASS or FAIL with the reason for every failed row. Offline."
+2026-11-28T13:38:40.631Z,stalled-deal-finder,1.0.0,63,OneGTMLab,MIT,"Ruby CLI and library: from a deals CSV with the date each deal entered its stage, list the deals older than your per-stage day limits, biggest first, with the amount sitting in stalled deals. Offline."
