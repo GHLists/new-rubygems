@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-28T10:24:15.466Z,sparqlite,0.2.0,106,Shoji Tokunaga,MIT,"sparqlite opens a Turtle file and drops you into a SPARQL prompt with no server and no configuration. Queries are syntax-highlighted as you type, and keywords, variables, and the terms in your data are completed."
+2026-11-28T10:52:12.104Z,subscriptions_pulse,0.1.0,49,Mário Marroquim,MIT,"Calculates monthly statistics for Stripe and PayPal subscriptions: new, expanded, reactivated, churned, and contracted revenue and customers, by payment processor for the current and previous months."
