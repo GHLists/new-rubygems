@@ -1,0 +1,4 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-28T15:08:38.105Z,openc3-cosmos-tool-dashboards,7.6.0,22,"Ryan Melton, Jason Thomas",OpenC3,This plugin adds the OpenC3 COSMOS Dashboards tool
+2026-11-28T15:11:26.348Z,saascity,0.1.0,15,SaaSCity,MIT,Generate AI-crawler-aware robots.txt directives and integrate with the SaaSCity launch directory and MCP server (https://saascity.io).
+2026-11-28T15:15:04.138Z,libo11y,0.1.0,4,James Ainslie,Apache-2.0,"One-call OpenTelemetry setup with unified configuration, W3C context propagation, sensitivity redaction, application attribute registries, and three-way log/trace/metric correlation."
