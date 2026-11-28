@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-28T00:29:11.864Z,b4n1-audit,0.1.6,104,Bani Montoya,BUSL-1.1,Ruby wrapper of the precompiled b4n1-audit binary (one-binary-N-wrappers).
