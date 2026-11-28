@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 06:19 UTC
+## Latest list — 2026-11-28 07:20 UTC
 
-New gems created between 2026-11-28 05:21 UTC and 2026-11-28 06:19 UTC.
+New gems created between 2026-11-28 06:19 UTC and 2026-11-28 07:20 UTC.
 
-[Full CSV](data/new-gems-2026-11-28T06-19-19-570192Z.csv)
+[Full CSV](data/new-gems-2026-11-28T07-20-14-020833Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-28 05:33:02 | [lutaml-diagram](https://rubygems.org/gems/lutaml-diagram) | 0.1.0 | Ribose Inc. | BSD-2-Clause | Graphviz, ELK and SVG/PDF render backends, layout engines and the lutaml-lml CL… |
+| 2026-11-28 07:00:07 | [ll-rb](https://rubygems.org/gems/ll-rb) | 0.1.0 | ll-tg | MIT | Standard-library Telegram bot framework for webhook and long-polling deployment… |
 
 ## Data source
 
