@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 04:20 UTC
+## Latest list — 2026-11-28 05:21 UTC
 
-New gems created between 2026-11-28 03:20 UTC and 2026-11-28 04:20 UTC.
+New gems created between 2026-11-28 04:20 UTC and 2026-11-28 05:21 UTC.
 
-[Full CSV](data/new-gems-2026-11-28T04-20-45-465596Z.csv)
+[Full CSV](data/new-gems-2026-11-28T05-21-43-342717Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-28 03:23:10 | [parket](https://rubygems.org/gems/parket) | 0.0.0 | Lawrence Lin | MIT | Parket reads and writes Apache Parquet files from Ruby, built on the Apache arr… |
-| 2026-11-28 03:29:13 | [lemlist-smartlead-plan-fit](https://rubygems.org/gems/lemlist-smartlead-plan-fit) | 1.0.0 | Jainendra Ojha | MIT | Give it your monthly sends, stored contacts and whether you need the API, webho… |
+| 2026-11-28 05:11:59 | [stalsend-sdk](https://rubygems.org/gems/stalsend-sdk) | 0.1.0 | StalSend | MIT | Official Ruby client for the StalSend email API |
 
 ## Data source
 
