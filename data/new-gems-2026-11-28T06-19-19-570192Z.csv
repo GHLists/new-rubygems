@@ -1,0 +1,2 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-28T05:33:02.75Z,lutaml-diagram,0.1.0,74,Ribose Inc.,BSD-2-Clause,"Graphviz, ELK and SVG/PDF render backends, layout engines and the lutaml-lml CLI for the LutaML Model Language. The language core lives in lutaml-model."

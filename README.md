@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 05:21 UTC
+## Latest list — 2026-11-28 06:19 UTC
 
-New gems created between 2026-11-28 04:20 UTC and 2026-11-28 05:21 UTC.
+New gems created between 2026-11-28 05:21 UTC and 2026-11-28 06:19 UTC.
 
-[Full CSV](data/new-gems-2026-11-28T05-21-43-342717Z.csv)
+[Full CSV](data/new-gems-2026-11-28T06-19-19-570192Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-28 05:11:59 | [stalsend-sdk](https://rubygems.org/gems/stalsend-sdk) | 0.1.0 | StalSend | MIT | Official Ruby client for the StalSend email API |
+| 2026-11-28 05:33:02 | [lutaml-diagram](https://rubygems.org/gems/lutaml-diagram) | 0.1.0 | Ribose Inc. | BSD-2-Clause | Graphviz, ELK and SVG/PDF render backends, layout engines and the lutaml-lml CL… |
 
 ## Data source
 
