@@ -9,18 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 12:20 UTC
+## Latest list — 2026-11-28 13:22 UTC
 
-New gems created between 2026-11-28 11:21 UTC and 2026-11-28 12:20 UTC.
+New gems created between 2026-11-28 12:20 UTC and 2026-11-28 13:22 UTC.
 
-[Full CSV](data/new-gems-2026-11-28T12-20-47-759974Z.csv)
+[Full CSV](data/new-gems-2026-11-28T13-22-06-979952Z.csv)
 
 | Created (UTC) | Gem | Version | Author | Licenses | Description |
 | :------------ | :-- | :------ | :----- | :------- | :---------- |
-| 2026-11-28 12:17:59 | [arks](https://rubygems.org/gems/arks) | 0.2.0 | Choi Won | Apache-2.0; MIT | Single native Rust Git-compatible CLI, daemon, independent forge client, and se… |
-| 2026-11-28 12:17:59 | [arks](https://rubygems.org/gems/arks) | 0.2.0 | Choi Won | Apache-2.0; MIT | Single native Rust Git-compatible CLI, daemon, independent forge client, and se… |
-| 2026-11-28 12:17:59 | [arks](https://rubygems.org/gems/arks) | 0.2.0 | Choi Won | Apache-2.0; MIT | Single native Rust Git-compatible CLI, daemon, independent forge client, and se… |
-| 2026-11-28 12:20:03 | [cabby-rails](https://rubygems.org/gems/cabby-rails) | 0.1.0 | Daniele Pestilli | MIT | Runs a Rails app's Action Cable connections and channels for Cabby over HTTP RP… |
+| 2026-11-28 12:55:30 | [deal-win-rate-report](https://rubygems.org/gems/deal-win-rate-report) | 1.0.0 | OneGTMLab | MIT | Ruby CLI and library: win rate (won / won + lost) overall and by segment from a… |
+| 2026-11-28 12:55:32 | [weighted-pipeline-forecast](https://rubygems.org/gems/weighted-pipeline-forecast) | 1.0.0 | OneGTMLab | MIT | Ruby CLI and library: each open deal counts at the probability of its stage; re… |
 
 ## Data source
 

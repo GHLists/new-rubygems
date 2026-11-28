@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-28T12:55:30.947Z,deal-win-rate-report,1.0.0,56,OneGTMLab,MIT,"Ruby CLI and library: win rate (won / won + lost) overall and by segment from a deals CSV, with a 95 percent Wilson interval so small samples are not read as trends."
+2026-11-28T12:55:32.636Z,weighted-pipeline-forecast,1.0.0,54,OneGTMLab,MIT,"Ruby CLI and library: each open deal counts at the probability of its stage; reports weighted forecast, pipeline coverage against a quota and the gap. Stage probabilities are yours to set."
