@@ -1,0 +1,3 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-28T03:23:10.237Z,parket,0.0.0,77,Lawrence Lin,MIT,"Parket reads and writes Apache Parquet files from Ruby, built on the Apache arrow-rs parquet crate. Version 0.0.0 is a placeholder that reserves the name and contains no functionality."
+2026-11-28T03:29:13.199Z,lemlist-smartlead-plan-fit,1.0.0,78,Jainendra Ojha,MIT,"Give it your monthly sends, stored contacts and whether you need the API, webhooks, LinkedIn steps, agency client workspaces or the vendors' own lead data. It prints the cheapest lemlist plan (Email tier or Multichannel per user, API on every plan) beside the cheapest Smartlead plan (API and webhoo…"
