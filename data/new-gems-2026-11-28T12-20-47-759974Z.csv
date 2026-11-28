@@ -1,0 +1,5 @@
+created_at,gem,version,downloads,author,licenses,description
+2026-11-28T12:17:59.132Z,arks,0.2.0,0,Choi Won,Apache-2.0; MIT,"Single native Rust Git-compatible CLI, daemon, independent forge client, and self-hosted server built for multi-session revision contention."
+2026-11-28T12:17:59.132Z,arks,0.2.0,0,Choi Won,Apache-2.0; MIT,"Single native Rust Git-compatible CLI, daemon, independent forge client, and self-hosted server built for multi-session revision contention."
+2026-11-28T12:17:59.132Z,arks,0.2.0,0,Choi Won,Apache-2.0; MIT,"Single native Rust Git-compatible CLI, daemon, independent forge client, and self-hosted server built for multi-session revision contention."
+2026-11-28T12:20:03.21Z,cabby-rails,0.1.0,0,Daniele Pestilli,MIT,"Runs a Rails app's Action Cable connections and channels for Cabby over HTTP RPC, in pure Ruby."
